@@ -5,63 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Aufsatzsammlung/PDF/PDF-Sammlung.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Aufsatzsammlung/PDF/wpss-02-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/cai-2016-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/cjol-a2020nespp5-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/doner2013-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/e03-1001-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/fel-2018-00-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/j13-3001-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/j75-2004-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/j76-1002-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/ldd01-12-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/ldd02-01-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/ldd02-07-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/ldd18-00-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/mathieu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/travis2012-0-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/wp-baetscher-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/cai-2016-pdf-sequence-2-isallowed-y.xml.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/cjol-a2020nespp5-pdf.xml.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/doner2013-pdf.xml.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/e03-1001-pdf.xml.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/fel-2018-00-pdf.xml.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/j13-3001-pdf.xml.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/j75-2004-pdf.xml.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/j76-1002-pdf.xml.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/ldd01-12-pdf.xml.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/ldd02-01-pdf.xml.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/ldd02-07-pdf.xml.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/ldd18-00-pdf.xml.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/mathieu.xml.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/travis2012-0-pdf.xml.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/wp-baetscher-pdf.xml.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/-for-working-papers-in-scandinavian-syntax-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/1132256xv1-jpg.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/1132256xv1p65-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/cjol-a2011v10p3-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/hemsida-wpss-88-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/j78-2001-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/j83-3010-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/sls1972v2-2-dudas-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/v27-1-09hartkemeyer-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/v28-1-13hartkemeyer-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/wpss-88-tidigare-nummer-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/wpss-fo-rord-88-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/wpss87-forord-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/wpss87-framsida-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/wpss87-style-sheet-pdf.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Categorizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SIA-Data-Categorizer.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,13 +34,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Poppler-Module" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestData/Unbrauchbar/XML" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Unbrauchbar\XML" />
-      <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Unbrauchbar\PDF" />
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Aufsatzsammlung\XML" />
+      <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Unbrauchbar\PDF" />
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Aufsatzsammlung\PDF" />
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Einzelaufsaetze\XML" />
     </key>
