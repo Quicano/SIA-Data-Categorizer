@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="54" family="ZRJLRL+Times" color="#000000"/>
+	<fontspec id="1" size="20" family="TSCGIF+TimesNewRomanPS" color="#000000"/>
+	<fontspec id="2" size="27" family="TSCGIF+TimesNewRomanPS" color="#000000"/>
+	<fontspec id="3" size="27" family="NDTHWG+TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="4" size="27" family="PMERGN+TimesNewRomanPS" color="#000000"/>
+	<fontspec id="5" size="23" family="XAKUOK+Times" color="#000000"/>
+	<fontspec id="6" size="20" family="XAKUOK+Times" color="#000000"/>
+	<fontspec id="7" size="20" family="NHJPAR+Times" color="#000000"/>
+<text top="115" left="194" width="516" height="54" font="0"><b>WORKING PAPERS </b></text>
+<text top="177" left="415" width="73" height="54" font="0"><b>IN </b></text>
+<text top="240" left="117" width="671" height="54" font="0"><b>SCANDINAVIAN SYNTAX </b></text>
+<text top="320" left="418" width="68" height="54" font="0"><b>87 </b></text>
+<text top="377" left="445" width="5" height="23" font="1"><b> </b></text>
+<text top="401" left="386" width="126" height="30" font="2"><b>Jim Wood </b></text>
+<text top="431" left="266" width="106" height="30" font="3">Icelandic </text>
+<text top="431" left="372" width="27" height="30" font="4"><i>let</i></text>
+<text top="431" left="399" width="231" height="30" font="3">-causatives and Case </text>
+<text top="461" left="420" width="56" height="30" font="3">1-52 </text>
+<text top="500" left="366" width="166" height="30" font="2"><b>Eva Klingvall </b></text>
+<text top="530" left="186" width="524" height="30" font="3">On past participles and their external arguments </text>
+<text top="560" left="414" width="70" height="30" font="3">53-80 </text>
+<text top="599" left="342" width="213" height="30" font="2"><b>Ulla Stroh-Wollin </b></text>
+<text top="629" left="171" width="556" height="30" font="3">Embedded declaratives, assertion and swear words </text>
+<text top="659" left="407" width="83" height="30" font="3">81-102 </text>
+<text top="698" left="347" width="203" height="30" font="2"><b>Verner Egerland </b></text>
+<text top="728" left="153" width="592" height="30" font="3">Fronting, Background, Focus. A comparative study of </text>
+<text top="758" left="327" width="262" height="30" font="3">Sardinian and Icelandic </text>
+<text top="788" left="400" width="97" height="30" font="3">103-135 </text>
+<text top="827" left="141" width="616" height="30" font="2"><b>Caroline Heycock, Antonella Soracse, Zakaris Svabo </b></text>
+<text top="857" left="216" width="483" height="30" font="2"><b>Hansen, Sten Vikner and Frances Wilson </b></text>
+<text top="887" left="125" width="648" height="30" font="3">Residual V-to-I in Faroese and its lack in Danish: detecting </text>
+<text top="917" left="247" width="403" height="30" font="3">the final stages of a syntactic change </text>
+<text top="947" left="400" width="97" height="30" font="3">137-165 </text>
+<text top="980" left="445" width="6" height="24" font="5"> </text>
+<text top="1008" left="445" width="6" height="24" font="5"> </text>
+<text top="1036" left="402" width="91" height="21" font="6">June 2011 </text>
+<text top="1060" left="276" width="344" height="21" font="6">Working Papers in Scandinavian Syntax </text>
+<text top="1084" left="275" width="42" height="21" font="7"><i>ISSN</i></text>
+<text top="1084" left="317" width="303" height="21" font="6">: 1100-097x    Christer Platzack ed. </text>
+<text top="1108" left="300" width="295" height="21" font="6">Center of Language and Literature </text>
+<text top="1133" left="297" width="301" height="21" font="6">Box 201    S-223 62 Lund, Sweden </text>
+</page>
+</pdf2xml>
