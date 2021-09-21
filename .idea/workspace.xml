@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Categorizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/Categorizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/XMLCrawler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Aufsatzsammlung/XML/PDF-Sammlung.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/Aufsatzsammlung/XML/PDF-Sammlung.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/j13-3001-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/j13-3001-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Categorizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +52,20 @@
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Aufsatzsammlung\PDF" />
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Einzelaufsaetze\XML" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SIA-Data-Categorizer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
