@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/AttributeIdentifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestData/Aufsatzsammlung/XML/PDF-Sammlung.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/Aufsatzsammlung/XML/PDF-Sammlung.xml.tmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/Categorizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Categorizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UnitTest/AttributeIdentifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UnitTest/ClassifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/AufsatzsammlungExample.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/EinzelaufsatzExample1.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/ImageExample1.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/ImageExample2.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/ListExample.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/SinglePageExample1.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/SinglePageExample2.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/1132256xv1-jpg.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/Categorizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Classifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/util/XMLCrawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/XMLCrawler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/Categorizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/XMLCrawler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/XMLCrawler.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,31 +48,77 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestData/Unbrauchbar/XML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\src\test\resources" />
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Unbrauchbar\XML" />
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Aufsatzsammlung\XML" />
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Unbrauchbar\PDF" />
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Aufsatzsammlung\PDF" />
-      <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Einzelaufsaetze\XML" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="JUnit.ClassifierTest">
+    <configuration name="AttributeIdentifierTest.testSinglePageAttribute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SIA-Data-Categorizer" />
+      <option name="PACKAGE_NAME" value="UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest.AttributeIdentifierTest" />
+      <option name="METHOD_NAME" value="testSinglePageAttribute" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassifierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SIA-Data-Categorizer" />
+      <option name="PACKAGE_NAME" value="UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest.ClassifierTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassifierTest.testAufsatzsammlung" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SIA-Data-Categorizer" />
+      <option name="PACKAGE_NAME" value="UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest.ClassifierTest" />
+      <option name="METHOD_NAME" value="testAufsatzsammlung" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassifierTest.testEinzelaufsaetze" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SIA-Data-Categorizer" />
+      <option name="PACKAGE_NAME" value="UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest.ClassifierTest" />
+      <option name="METHOD_NAME" value="testEinzelaufsaetze" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassifierTest.testUnbrauchbarSinglePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SIA-Data-Categorizer" />
+      <option name="PACKAGE_NAME" value="UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest.ClassifierTest" />
+      <option name="METHOD_NAME" value="testUnbrauchbarSinglePage" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ClassifierTest" />
+        <item itemvalue="JUnit.ClassifierTest.testUnbrauchbarSinglePage" />
+        <item itemvalue="JUnit.ClassifierTest.testAufsatzsammlung" />
+        <item itemvalue="JUnit.ClassifierTest.testEinzelaufsaetze" />
+        <item itemvalue="JUnit.AttributeIdentifierTest.testSinglePageAttribute" />
       </list>
     </recent_temporary>
   </component>

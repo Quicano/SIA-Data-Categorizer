@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1582" width="1107">
+	<fontspec id="0" size="38" family="Times" color="#000000"/>
+	<fontspec id="1" size="39" family="Times" color="#000000"/>
+	<fontspec id="2" size="37" family="Times" color="#000000"/>
+	<fontspec id="3" size="33" family="Helvetica" color="#000000"/>
+	<fontspec id="4" size="27" family="Times" color="#000000"/>
+	<fontspec id="5" size="34" family="Helvetica" color="#000000"/>
+	<fontspec id="6" size="54" family="Helvetica" color="#000000"/>
+	<fontspec id="7" size="84" family="Helvetica" color="#000000"/>
+	<fontspec id="8" size="18" family="Helvetica" color="#000000"/>
+	<fontspec id="9" size="84" family="Helvetica" color="#000000"/>
+	<fontspec id="10" size="87" family="Helvetica" color="#000000"/>
+	<fontspec id="11" size="44" family="Helvetica" color="#000000"/>
+	<fontspec id="12" size="85" family="Helvetica" color="#000000"/>
+	<fontspec id="13" size="26" family="Helvetica" color="#000000"/>
+	<fontspec id="14" size="25" family="Helvetica" color="#000000"/>
+	<fontspec id="15" size="29" family="Courier" color="#000000"/>
+	<fontspec id="16" size="32" family="Helvetica" color="#000000"/>
+	<fontspec id="17" size="30" family="Courier" color="#000000"/>
+	<fontspec id="18" size="37" family="Helvetica" color="#000000"/>
+	<fontspec id="19" size="34" family="Helvetica" color="#000000"/>
+	<fontspec id="20" size="51" family="Helvetica" color="#000000"/>
+	<fontspec id="21" size="35" family="Helvetica" color="#000000"/>
+	<fontspec id="22" size="35" family="Helvetica" color="#000000"/>
+	<fontspec id="23" size="24" family="Courier" color="#000000"/>
+	<fontspec id="24" size="26" family="Times" color="#000000"/>
+	<fontspec id="25" size="27" family="Courier" color="#000000"/>
+	<fontspec id="26" size="27" family="Times" color="#000000"/>
+	<fontspec id="27" size="28" family="Courier" color="#000000"/>
+	<fontspec id="28" size="28" family="Times" color="#000000"/>
+	<fontspec id="29" size="25" family="Helvetica" color="#000000"/>
+	<fontspec id="30" size="24" family="Helvetica" color="#000000"/>
+	<fontspec id="31" size="28" family="Courier" color="#000000"/>
+	<fontspec id="32" size="24" family="Helvetica" color="#000000"/>
+	<fontspec id="33" size="25" family="Times" color="#000000"/>
+	<fontspec id="34" size="26" family="Times" color="#000000"/>
+	<fontspec id="35" size="22" family="Times" color="#000000"/>
+	<fontspec id="36" size="18" family="Helvetica" color="#000000"/>
+	<fontspec id="37" size="20" family="Helvetica" color="#000000"/>
+	<fontspec id="38" size="63" family="Courier" color="#000000"/>
+	<fontspec id="39" size="19" family="Helvetica" color="#000000"/>
+	<fontspec id="40" size="22" family="Courier" color="#000000"/>
+	<fontspec id="41" size="24" family="Courier" color="#000000"/>
+	<fontspec id="42" size="23" family="Times" color="#000000"/>
+	<fontspec id="43" size="23" family="Courier" color="#000000"/>
+	<fontspec id="44" size="21" family="Times" color="#000000"/>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1582" width="1107">
+	<fontspec id="45" size="36" family="Times" color="#000000"/>
+	<fontspec id="46" size="19" family="Helvetica" color="#000000"/>
+	<fontspec id="47" size="23" family="Helvetica" color="#000000"/>
+	<fontspec id="48" size="22" family="Helvetica" color="#000000"/>
+	<fontspec id="49" size="18" family="Helvetica" color="#000000"/>
+	<fontspec id="50" size="17" family="Helvetica" color="#000000"/>
+	<fontspec id="51" size="21" family="Helvetica" color="#000000"/>
+	<fontspec id="52" size="23" family="Courier" color="#000000"/>
+	<fontspec id="53" size="25" family="Times" color="#000000"/>
+	<fontspec id="54" size="24" family="Times" color="#000000"/>
+	<fontspec id="55" size="22" family="Helvetica" color="#000000"/>
+	<fontspec id="56" size="21" family="Helvetica" color="#000000"/>
+	<fontspec id="57" size="24" family="Helvetica" color="#000000"/>
+	<fontspec id="58" size="20" family="Helvetica" color="#000000"/>
+	<fontspec id="59" size="23" family="Helvetica" color="#000000"/>
+	<fontspec id="60" size="27" family="Helvetica" color="#000000"/>
+	<fontspec id="61" size="19" family="Helvetica" color="#000000"/>
+	<fontspec id="62" size="26" family="Courier" color="#000000"/>
+	<fontspec id="63" size="22" family="Courier" color="#000000"/>
+</page>
+</pdf2xml>

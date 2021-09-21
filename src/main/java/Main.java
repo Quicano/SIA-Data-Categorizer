@@ -1,4 +1,4 @@
-import util.Categorizer;
+import util.Classifier;
 import util.Category;
 
 import java.io.File;
@@ -22,7 +22,7 @@ public class Main {
     public static void main(String[] args) {
         List<File> fileNames = readXMLFiles();
         for (File f : fileNames){
-            Category category = Categorizer.asignToCategory(f);
+            Category category = Classifier.asignToCategory(f);
             System.out.println("Die Datei " + f.getName() + " ist von der Kategorie: " + category);
         }
 

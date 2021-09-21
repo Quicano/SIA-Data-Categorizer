@@ -2,7 +2,7 @@ package util;
 
 import java.io.File;
 
-public class Categorizer {
+public class Classifier {
 
 
     public static Category asignToCategory(File tempFile){
