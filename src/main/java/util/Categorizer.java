@@ -6,7 +6,7 @@ public class Categorizer {
 
 
     public static Category asignToCategory(File tempFile){
-        if(XMLCrawler.lookForSinglePage(tempFile)){
+        if(AttributeIdentifier.lookForSinglePage(tempFile)){
             return Category.Unbrauchbar;
         }
         return Category.Einzelaufsatz;
