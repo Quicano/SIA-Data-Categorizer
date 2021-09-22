@@ -5,24 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/UnitTest/AttributeIdentifierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UnitTest/ClassifierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/AufsatzsammlungExample.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/EinzelaufsatzExample1.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/ImageExample1.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/ImageExample2.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/ListExample.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/SinglePageExample1.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/SinglePageExample2.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/Identifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/1132256xv1-jpg.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/Categorizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Classifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/XMLCrawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/XMLCrawler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/Categorizer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/XMLCrawler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/XMLCrawler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Aufsatzsammlung/XML/PDF-Sammlung.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/Aufsatzsammlung/XML/PDF-Sammlung.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/AttributeIdentifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/Classifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Classifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UnitTest/AttributeIdentifierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UnitTest/IdentifierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/AufsatzsammlungExample.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/AufsatzsammlungExample.tmp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,17 +51,7 @@
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Aufsatzsammlung\PDF" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ClassifierTest">
-    <configuration name="AttributeIdentifierTest.testSinglePageAttribute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SIA-Data-Categorizer" />
-      <option name="PACKAGE_NAME" value="UnitTest" />
-      <option name="MAIN_CLASS_NAME" value="UnitTest.AttributeIdentifierTest" />
-      <option name="METHOD_NAME" value="testSinglePageAttribute" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.IdentifierTest">
     <configuration name="ClassifierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SIA-Data-Categorizer" />
       <option name="PACKAGE_NAME" value="UnitTest" />
@@ -112,13 +91,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IdentifierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SIA-Data-Categorizer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest.IdentifierTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IdentifierTest" />
         <item itemvalue="JUnit.ClassifierTest" />
         <item itemvalue="JUnit.ClassifierTest.testUnbrauchbarSinglePage" />
         <item itemvalue="JUnit.ClassifierTest.testAufsatzsammlung" />
         <item itemvalue="JUnit.ClassifierTest.testEinzelaufsaetze" />
-        <item itemvalue="JUnit.AttributeIdentifierTest.testSinglePageAttribute" />
       </list>
     </recent_temporary>
   </component>

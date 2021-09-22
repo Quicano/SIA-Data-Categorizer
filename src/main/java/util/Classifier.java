@@ -6,7 +6,7 @@ public class Classifier {
 
 
     public static Category asignToCategory(File tempFile){
-        if(AttributeIdentifier.lookForSinglePage(tempFile)){
+        if(Identifier.lookForSinglePage(tempFile)){
             return Category.Unbrauchbar;
         }
         return Category.Einzelaufsatz;
