@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/Identifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/XPathUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UnitTest/XPathUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/XPathTestFile.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestData/Aufsatzsammlung/XML/PDF-Sammlung.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/Aufsatzsammlung/XML/PDF-Sammlung.xml.tmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/AttributeIdentifier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/Classifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Classifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UnitTest/AttributeIdentifierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UnitTest/IdentifierTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/AufsatzsammlungExample.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/AufsatzsammlungExample.tmp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +48,7 @@
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Aufsatzsammlung\PDF" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.IdentifierTest">
+  <component name="RunManager" selected="JUnit.XPathUnitTest.testExamine">
     <configuration name="ClassifierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SIA-Data-Categorizer" />
       <option name="PACKAGE_NAME" value="UnitTest" />
@@ -66,16 +63,6 @@
       <option name="PACKAGE_NAME" value="UnitTest" />
       <option name="MAIN_CLASS_NAME" value="UnitTest.ClassifierTest" />
       <option name="METHOD_NAME" value="testAufsatzsammlung" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClassifierTest.testEinzelaufsaetze" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SIA-Data-Categorizer" />
-      <option name="PACKAGE_NAME" value="UnitTest" />
-      <option name="MAIN_CLASS_NAME" value="UnitTest.ClassifierTest" />
-      <option name="METHOD_NAME" value="testEinzelaufsaetze" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,13 +93,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="XPathUnitTest.testExamine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SIA-Data-Categorizer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest.XPathUnitTest" />
+      <option name="METHOD_NAME" value="testExamine" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.XPathUnitTest.testExamine" />
         <item itemvalue="JUnit.IdentifierTest" />
         <item itemvalue="JUnit.ClassifierTest" />
         <item itemvalue="JUnit.ClassifierTest.testUnbrauchbarSinglePage" />
         <item itemvalue="JUnit.ClassifierTest.testAufsatzsammlung" />
-        <item itemvalue="JUnit.ClassifierTest.testEinzelaufsaetze" />
       </list>
     </recent_temporary>
   </component>
