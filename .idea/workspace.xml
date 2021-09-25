@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/XPathUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UnitTest/XPathUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/XPathTestFile.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/XPathUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/XPathUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UnitTest/XPathUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UnitTest/XPathUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/XPathUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/XPathUnit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UnitTest/XPathUnitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UnitTest/XPathUnitTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,22 +49,12 @@
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Aufsatzsammlung\PDF" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.XPathUnitTest.testExamine">
+  <component name="RunManager" selected="JUnit.XPathUnitTest.testStandardFile">
     <configuration name="ClassifierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SIA-Data-Categorizer" />
       <option name="PACKAGE_NAME" value="UnitTest" />
       <option name="MAIN_CLASS_NAME" value="UnitTest.ClassifierTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClassifierTest.testAufsatzsammlung" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SIA-Data-Categorizer" />
-      <option name="PACKAGE_NAME" value="UnitTest" />
-      <option name="MAIN_CLASS_NAME" value="UnitTest.ClassifierTest" />
-      <option name="METHOD_NAME" value="testAufsatzsammlung" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,13 +100,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="XPathUnitTest.testStandardFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SIA-Data-Categorizer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest.XPathUnitTest" />
+      <option name="METHOD_NAME" value="testStandardFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.XPathUnitTest.testStandardFile" />
         <item itemvalue="JUnit.XPathUnitTest.testExamine" />
         <item itemvalue="JUnit.IdentifierTest" />
         <item itemvalue="JUnit.ClassifierTest" />
         <item itemvalue="JUnit.ClassifierTest.testUnbrauchbarSinglePage" />
-        <item itemvalue="JUnit.ClassifierTest.testAufsatzsammlung" />
       </list>
     </recent_temporary>
   </component>

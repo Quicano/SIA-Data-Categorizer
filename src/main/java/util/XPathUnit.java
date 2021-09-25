@@ -22,18 +22,21 @@ public class XPathUnit {
         this.XmlFile = xmlFile;
     }
 
-    public NodeList examine() throws Exception {
+    public NodeList examine(String expression) throws Exception {
         FileInputStream fileIS = new FileInputStream(this.getXmlFile());
         DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder builder = builderFactory.newDocumentBuilder();
         Document xmlDocument = builder.parse(fileIS);
         XPath xPath = XPathFactory.newInstance().newXPath();
-        String expression = "/Tutorials/Tutorial";
         NodeList nodeList = (NodeList) xPath.compile(expression).evaluate(xmlDocument, XPathConstants.NODESET);
         return nodeList;
     }
 
     public File getXmlFile() {
         return XmlFile;
+    }
+
+    public void setXmlFile(File xmlFile){
+        this.XmlFile = xmlFile;
     }
 }
