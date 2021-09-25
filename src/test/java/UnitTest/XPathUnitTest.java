@@ -27,8 +27,8 @@ public class XPathUnitTest {
 
     @Test
     public void testStandardFile() throws Exception {
-        xPathUnit.setXmlFile(new File("src/test/resources/EinzelaufsatzExample1.tmp"));
-        NodeList nodeList = xPathUnit.examine("//page");
+        xPathUnit.setXmlFile(new File("src/test/resources/ListExample.tmp"));
+        NodeList nodeList = xPathUnit.examine("//text");
         System.out.println(nodeList.getLength());
     }
 }
