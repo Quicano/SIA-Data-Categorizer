@@ -1,4 +1,4 @@
-package util;
+package classifier;
 
 public enum Category {
     Einzelaufsatz,

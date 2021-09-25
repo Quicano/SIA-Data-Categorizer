@@ -16,14 +16,9 @@ import java.io.FileInputStream;
 import java.io.IOException;
 
 public class XPathUnit {
-    private File XmlFile;
 
-    public XPathUnit(File xmlFile){
-        this.XmlFile = xmlFile;
-    }
-
-    public NodeList examine(String expression) throws Exception {
-        FileInputStream fileIS = new FileInputStream(this.getXmlFile());
+    public NodeList examine(File xmlFile, String expression) throws Exception {
+        FileInputStream fileIS = new FileInputStream(xmlFile);
         DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder builder = builderFactory.newDocumentBuilder();
         Document xmlDocument = builder.parse(fileIS);
@@ -32,11 +27,4 @@ public class XPathUnit {
         return nodeList;
     }
 
-    public File getXmlFile() {
-        return XmlFile;
-    }
-
-    public void setXmlFile(File xmlFile){
-        this.XmlFile = xmlFile;
-    }
 }

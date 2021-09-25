@@ -763,7 +763,7 @@
 <text top="473" left="74" width="44" height="13" font="14"><b>Table 1</b></text>
 <text top="488" left="74" width="562" height="14" font="9">Distribution and Precision of paraphrases. Distribution may not sum to 100% due to rounding.</text>
 <text top="515" left="74" width="7" height="14" font="9">#</text>
-<text top="515" left="177" width="55" height="14" font="9">util.Category</text>
+<text top="515" left="177" width="55" height="14" font="9">classifier.Category</text>
 <text top="515" left="317" width="334" height="14" font="9">% Distribution MTC % Distribution MSR % Precision</text>
 <text top="542" left="81" width="7" height="14" font="9">1</text>
 <text top="543" left="88" width="4" height="13" font="15">.</text>

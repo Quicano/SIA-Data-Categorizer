@@ -2,19 +2,19 @@ package UnitTest;
 
 import org.junit.Assert;
 import org.junit.Test;
-import util.Identifier;
+import util.ConditionUnit;
 
 import java.io.File;
 
 public class IdentifierTest {
 
     @Test
-    public void testSinglePageAttribute(){
+    public void testSinglePageAttribute() throws Exception {
         File example1 = new File("src/test/resources/SinglePageExample1.tmp");
-        File example2 = new File("src/test/resources/SinglePageExample2.tmp");
-        boolean bool1 = Identifier.lookForSinglePage(example1);
-        boolean bool2 = Identifier.lookForSinglePage(example2);
+        File example2 = new File("src/test/resources/AufsatzsammlungExample.tmp");
+        boolean bool1 = ConditionUnit.hasSinglePage(example1);
+        boolean bool2 = ConditionUnit.hasSinglePage(example2);
         Assert.assertTrue(bool1);
-        Assert.assertTrue(bool2);
+        Assert.assertFalse(bool2);
     }
 }

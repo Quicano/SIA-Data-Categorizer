@@ -1,5 +1,5 @@
-import util.Classifier;
-import util.Category;
+import classifier.Classifier;
+import classifier.Category;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -19,7 +19,7 @@ public class Main {
         return xmlList;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         List<File> fileNames = readXMLFiles();
         for (File f : fileNames){
             Category category = Classifier.asignToCategory(f);
