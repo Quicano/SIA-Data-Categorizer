@@ -28,7 +28,8 @@ public class ConditionUnit {
         return false;
     }
 
-    public static boolean hasAuthor(File tempfile, XPathUnit xPathUnit) {
+    public static boolean hasAuthor(File tempfile, XPathUnit xPathUnit) throws Exception {
+        xPathUnit.examine(tempfile, "//text");
         return true;
     }
 

@@ -8,11 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/classifier/Classifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classifier/Classifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/util/ConditionUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/ConditionUnit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UnitTest/IdentifierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UnitTest/IdentifierTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UnitTest/XPathUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UnitTest/XPathUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classifier/Classifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classifier/Classifier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/ConditionUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/ConditionUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/UnitTest/XPathUnitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UnitTest/XPathUnitTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

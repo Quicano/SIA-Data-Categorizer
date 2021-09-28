@@ -19,7 +19,7 @@ public class Classifier {
         return Category.Unbrauchbar;
     }
 
-    public static boolean isEinzelaufsatz(File tempfile, XPathUnit xPathUnit){
+    public static boolean isEinzelaufsatz(File tempfile, XPathUnit xPathUnit) throws Exception {
         if(ConditionUnit.hasAuthor(tempfile, xPathUnit)){
 
         }
