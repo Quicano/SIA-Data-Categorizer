@@ -4,6 +4,7 @@ import com.sun.source.tree.AssertTree;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import util.XPathUnit;
 
@@ -37,8 +38,15 @@ public class XPathUnitTest {
         File xmlFile1 = new File("src/test/resources/SinglePageExample1.tmp");
         File xmlFile2 = new File("src/test/resources/EinzelaufsatzExample1.tmp");
         NodeList nodeList1 = xPathUnit.examine(xmlFile1, "//page");
-        NodeList nodeList2 =xPathUnit.examine(xmlFile2, "//page");
+        NodeList nodeList2 = xPathUnit.examine(xmlFile2, "//page");
         Assert.assertEquals(1 , nodeList1.getLength());
         Assert.assertEquals(15, nodeList2.getLength());
+    }
+
+    @Test
+    public void testNoTextInFile() throws Exception {
+        File xmlFile1 = new File("src/test/resources/ImageExample1.tmp");
+        NodeList nodeList1 = xPathUnit.examine(xmlFile1, "//text");
+        Assert.assertEquals(0, nodeList1.getLength());
     }
 }
