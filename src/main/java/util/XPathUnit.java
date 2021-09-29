@@ -14,6 +14,7 @@ import org.xml.sax.SAXException;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.util.Locale;
 
 public class XPathUnit {
 
@@ -25,6 +26,19 @@ public class XPathUnit {
         XPath xPath = XPathFactory.newInstance().newXPath();
         NodeList nodeList = (NodeList) xPath.compile(expression).evaluate(xmlDocument, XPathConstants.NODESET);
         return nodeList;
+    }
+
+    public boolean containsWord(File xmlFile, String word) throws Exception {
+        NodeList textNodes = this.examine(xmlFile, "//text");
+        for(int i = 0; i < textNodes.getLength(); i ++){
+            String content = textNodes.item(i).getTextContent();
+            System.out.println(textNodes.item(i).getTextContent());
+            if(content.toLowerCase().contains(word) || content.contains(word)){
+                System.out.println("Found "+ word + " in TextNode "+ i);
+                return true;
+            }
+        }
+        return false;
     }
 
 }

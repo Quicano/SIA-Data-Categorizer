@@ -6,9 +6,19 @@ import java.io.File;
 
 public class ConditionUnit {
 
+
     public static boolean hasSinglePage(File tempFile, XPathUnit xPathUnit) throws Exception {
-        NodeList nodeList = xPathUnit.examine(tempFile, "//page");
-        if(nodeList.getLength() <= 1){
+        NodeList pageNodes = xPathUnit.examine(tempFile, "//page");
+        if(pageNodes.getLength() <= 1){
+            return true;
+        }else{
+            return false;
+        }
+    }
+
+    public static boolean hasMorePages(File tempfile, XPathUnit xPathUnit) throws Exception{
+        NodeList pageNodes = xPathUnit.examine(tempfile, "//page");
+        if (pageNodes.getLength() >= 2 && pageNodes.getLength() <= 25){
             return true;
         }else{
             return false;
@@ -16,8 +26,8 @@ public class ConditionUnit {
     }
 
     public static boolean isImage(File tempFile, XPathUnit xPathUnit) throws Exception {
-        NodeList nodeList = xPathUnit.examine(tempFile, "//text");
-        if(nodeList.getLength() == 0){
+        NodeList textNodes = xPathUnit.examine(tempFile, "//text");
+        if(textNodes.getLength() == 0){
             return true;
         }else{
             return false;
@@ -29,8 +39,12 @@ public class ConditionUnit {
     }
 
     public static boolean hasAuthor(File tempfile, XPathUnit xPathUnit) throws Exception {
-        xPathUnit.examine(tempfile, "//text");
-        return true;
+        return xPathUnit.containsWord(tempfile, "author");
     }
+
+    public static boolean hasReferences(File tempfile, XPathUnit xPathUnit) throws Exception {
+        return xPathUnit.containsWord(tempfile, "references");
+    }
+
 
 }
