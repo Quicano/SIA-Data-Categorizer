@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/UnitTest/ConditionUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Einzelaufsatz2.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/EinzelaufsatzExample2.tmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/cai-2016-pdf-sequence-2-isallowed-y.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/EinzelaufsatzExample1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/cjol-a2020nespp5-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/EinzelaufsatzExample2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/fel-2018-00-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/ListExample2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/cai-2016-pdf-sequence-2-isallowed-y.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/EinzelaufsatzExample1.tmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/cjol-a2020nespp5-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/Unbrauchbar/XML/Einzelaufsatz2.tmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/fel-2018-00-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/ListExample2.tmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/ConditionUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/ConditionUnit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/XPathUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/XPathUnit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UnitTest/XPathUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UnitTest/XPathUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classifier/Classifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classifier/Classifier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/ConditionUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/ConditionUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/XPathUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/XPathUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/UnitTest/IdentifierTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UnitTest/IdentifierTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/UnitTest/XPathUnitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UnitTest/XPathUnitTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/XPathTestFile" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
