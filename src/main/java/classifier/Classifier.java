@@ -19,15 +19,48 @@ public class Classifier {
         return Category.Unbrauchbar;
     }
 
-    public static boolean isEinzelaufsatz(File tempfile, XPathUnit xPathUnit) throws Exception {
-        if(ConditionUnit.hasAuthor(tempfile, xPathUnit)){
-
+    public static boolean isEinzelaufsatz(File tempFile, XPathUnit xPathUnit) throws Exception {
+        int indicators = 0;
+        if (ConditionUnit.hasMorePages(tempFile, xPathUnit)){
+            indicators++;
+        }if(ConditionUnit.hasKeyword(tempFile, xPathUnit, "author") > 0) {
+            indicators++;
+        }if (ConditionUnit.hasKeyword(tempFile, xPathUnit, "reference")> 0){
+            indicators++;
+        }if (ConditionUnit.hasKeyword(tempFile, xPathUnit, "introduction")> 0){
+            indicators++;
+        }if (ConditionUnit.hasKeyword(tempFile, xPathUnit, "abstract") > 0){
+            indicators++;
+        }if (ConditionUnit.hasKeyword(tempFile, xPathUnit, "conclusion") > 0){
+            indicators++;
         }
-        return true;
+        if(indicators < 1){
+            return false;
+        }else{
+            return true;
+        }
     }
 
-    public static boolean isAufsatzsammlung(File tempFile, XPathUnit xPathUnit){
-        return true;
+    public static boolean isAufsatzsammlung(File tempFile, XPathUnit xPathUnit) throws Exception {
+        int indicators = 0;
+        if (ConditionUnit.hasManyPages(tempFile, xPathUnit)){
+            indicators++;
+        }if(ConditionUnit.hasKeyword(tempFile, xPathUnit, "author") >= 2) {
+            indicators++;
+        }if (ConditionUnit.hasKeyword(tempFile, xPathUnit, "reference") >= 2){
+            indicators++;
+        }if (ConditionUnit.hasKeyword(tempFile, xPathUnit, "introduction")>= 2){
+            indicators++;
+        }if (ConditionUnit.hasKeyword(tempFile, xPathUnit, "abstract") >= 2){
+            indicators++;
+        }if (ConditionUnit.hasKeyword(tempFile, xPathUnit, "conclusion") >= 2){
+            indicators++;
+        }
+        if(indicators < 4){
+            return false;
+        }else{
+            return true;
+        }
     }
 
     public static boolean isUnbrauchbar(File tempFile, XPathUnit xPathUnit) throws Exception {

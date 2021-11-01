@@ -28,17 +28,19 @@ public class XPathUnit {
         return nodeList;
     }
 
-    public boolean containsWord(File xmlFile, String word) throws Exception {
+    public int containsWord(File xmlFile, String word) throws Exception {
+        int numberOfFinds = 0;
+
         NodeList textNodes = this.examine(xmlFile, "//text");
         for(int i = 0; i < textNodes.getLength(); i ++){
             String content = textNodes.item(i).getTextContent();
             System.out.println(textNodes.item(i).getTextContent());
             if(content.toLowerCase().contains(word) || content.contains(word)){
                 System.out.println("Found "+ word + " in TextNode "+ i);
-                return true;
+                numberOfFinds++;
             }
         }
-        return false;
+        return numberOfFinds;
     }
 
 }

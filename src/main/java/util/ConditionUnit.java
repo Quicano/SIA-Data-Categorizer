@@ -25,6 +25,15 @@ public class ConditionUnit {
         }
     }
 
+    public static boolean hasManyPages(File tempfile, XPathUnit xPathUnit) throws Exception{
+        NodeList pageNodes = xPathUnit.examine(tempfile, "//page");
+        if (pageNodes.getLength() >= 26){
+            return true;
+        }else{
+            return false;
+        }
+    }
+
     public static boolean isImage(File tempFile, XPathUnit xPathUnit) throws Exception {
         NodeList textNodes = xPathUnit.examine(tempFile, "//text");
         if(textNodes.getLength() == 0){
@@ -38,13 +47,8 @@ public class ConditionUnit {
         return false;
     }
 
-    public static boolean hasAuthor(File tempfile, XPathUnit xPathUnit) throws Exception {
-        return xPathUnit.containsWord(tempfile, "author");
+    public static int hasKeyword(File tempfile, XPathUnit xPathUnit, String keyword) throws Exception {
+        return xPathUnit.containsWord(tempfile, keyword);
     }
-
-    public static boolean hasReferences(File tempfile, XPathUnit xPathUnit) throws Exception {
-        return xPathUnit.containsWord(tempfile, "references");
-    }
-
 
 }

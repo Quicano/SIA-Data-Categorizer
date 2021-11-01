@@ -26,15 +26,15 @@ public class ConditionUnitTest {
     @Test
     public void testHasAuthor() throws Exception {
         File testFile1 = new File("src/test/resources/EinzelaufsatzExample1.tmp");
-        boolean bool1 = ConditionUnit.hasAuthor(testFile1, xPathUnit);
-        Assert.assertFalse(bool1);
+        int i = ConditionUnit.hasKeyword(testFile1, xPathUnit, "author");
+        Assert.assertFalse(i > 1);
     }
 
     @Test
     public void testHasReferences() throws Exception {
         File testFile1 = new File("src/test/resources/EinzelaufsatzExample2.tmp");
-        boolean bool1 = ConditionUnit.hasReferences(testFile1, xPathUnit);
-        Assert.assertTrue(bool1);
+        int i = ConditionUnit.hasKeyword(testFile1, xPathUnit, "reference");
+        Assert.assertTrue(i > 1);
     }
 
 }
