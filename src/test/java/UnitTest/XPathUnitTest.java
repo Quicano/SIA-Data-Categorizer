@@ -53,9 +53,9 @@ public class XPathUnitTest {
     @Test
     public void testContainsWord() throws Exception {
         File xmlFile1 = new File("src/test/resources/EinzelaufsatzExample1.tmp");
-        boolean bool1 = xPathUnit.containsWord(xmlFile1, "Haitao");
-        boolean bool2 = xPathUnit.containsWord(xmlFile1, "haitao");
-        Assert.assertTrue(bool1);
-        Assert.assertTrue(bool2);
+        int i = xPathUnit.containsWord(xmlFile1, "Haitao");
+        int j  = xPathUnit.containsWord(xmlFile1, "haitao");
+        Assert.assertTrue(i > 0);
+        Assert.assertTrue(j > 0);
     }
 }

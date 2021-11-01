@@ -11,11 +11,7 @@ public class Main {
     public static List<File> readXMLFiles(){
         File DataDir = new File("Data");
         ArrayList<File> xmlList = new ArrayList<>(Arrays.asList(DataDir.listFiles()));
-        for (File f : xmlList) {
-            if (!f.getName().endsWith(".tmp") || !f.getName().endsWith(".xml")) {
-                xmlList.remove(f);
-            }
-        }
+        System.out.println(xmlList);
         return xmlList;
     }
 
