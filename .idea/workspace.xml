@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data/AufsatzsammlungExample.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/Einzelaufsatz2.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/EinzelaufsatzExample1.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/EinzelaufsatzExample2.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/ImageExample1.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/ImageExample2.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/ListExample.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/SinglePageExample1.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/SinglePageExample2.tmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/XPathUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/XPathUnit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UnitTest/XPathUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UnitTest/XPathUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classifier/Classifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classifier/Classifier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/ConditionUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/ConditionUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/XPathUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/XPathUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/UnitTest/ConditionUnitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UnitTest/ConditionUnitTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/UnitTest/XPathUnitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UnitTest/XPathUnitTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
