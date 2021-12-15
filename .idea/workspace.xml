@@ -5,15 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/InputData/ldd02-07-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InputData/ldd18-00-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InputData/mathieu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InputData/travis2012-0-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InputData/wp-baetscher-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/CSVCreator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/PDFToXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/PDFToXML.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.ClassifierTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.ClassifierTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.ConditionUnitTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.ConditionUnitTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.IdentifierTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.IdentifierTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.XPathUnitTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.XPathUnitTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UnitTest.ClassifierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UnitTest.ClassifierTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UnitTest.ConditionUnitTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UnitTest.ConditionUnitTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UnitTest.IdentifierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UnitTest.IdentifierTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UnitTest.XPathUnitTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UnitTest.XPathUnitTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +65,32 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
+    <configuration name="CSVCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="util.CSVCreator" />
+      <module name="SIA-Data-Categorizer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CSVWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="util.CSVWriter" />
+      <module name="SIA-Data-Categorizer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="SIA-Data-Categorizer" />
@@ -65,26 +98,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in SIA-Data-Categorizer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in SIA-Data-Categorizer (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SIA-Data-Categorizer" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConditionUnitTest.testHasReferences" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SIA-Data-Categorizer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UnitTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="UnitTest" />
-      <option name="MAIN_CLASS_NAME" value="UnitTest.ConditionUnitTest" />
-      <option name="METHOD_NAME" value="testHasReferences" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,29 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XPathUnitTest.testContainsWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SIA-Data-Categorizer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UnitTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="UnitTest" />
-      <option name="MAIN_CLASS_NAME" value="UnitTest.XPathUnitTest" />
-      <option name="METHOD_NAME" value="testContainsWord" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CSVCreator" />
+        <item itemvalue="JUnit.All in SIA-Data-Categorizer (1)" />
+        <item itemvalue="Application.CSVWriter" />
         <item itemvalue="JUnit.UnitTest in SIA-Data-Categorizer" />
-        <item itemvalue="JUnit.All in SIA-Data-Categorizer" />
-        <item itemvalue="JUnit.XPathUnitTest.testContainsWord" />
-        <item itemvalue="JUnit.ConditionUnitTest.testHasReferences" />
       </list>
     </recent_temporary>
   </component>

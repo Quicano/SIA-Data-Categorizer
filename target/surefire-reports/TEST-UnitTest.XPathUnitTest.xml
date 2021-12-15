@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="5" failures="0" name="UnitTest.XPathUnitTest" time="0.052" errors="0" skipped="0">
+<testsuite tests="5" failures="0" name="UnitTest.XPathUnitTest" time="0.042" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="15.0.1+9-18"/>
@@ -60,9 +60,9 @@
     <property name="sun.stdout.encoding" value="cp850"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="UnitTest.XPathUnitTest" name="testExamine" time="0.01"/>
-  <testcase classname="UnitTest.XPathUnitTest" name="testContainsWord" time="0.024"/>
-  <testcase classname="UnitTest.XPathUnitTest" name="testStandardFile" time="0.006"/>
+  <testcase classname="UnitTest.XPathUnitTest" name="testExamine" time="0.003"/>
+  <testcase classname="UnitTest.XPathUnitTest" name="testContainsWord" time="0.023"/>
+  <testcase classname="UnitTest.XPathUnitTest" name="testStandardFile" time="0.005"/>
   <testcase classname="UnitTest.XPathUnitTest" name="testNoTextInFile" time="0.002"/>
-  <testcase classname="UnitTest.XPathUnitTest" name="testSinglePageFile" time="0.01"/>
+  <testcase classname="UnitTest.XPathUnitTest" name="testSinglePageFile" time="0.009"/>
 </testsuite>

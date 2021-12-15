@@ -1,9 +1,11 @@
 import classifier.Classifier;
 import classifier.Category;
+import com.opencsv.CSVWriter;
+import util.CSVCreator;
 import util.PDFToXML;
 
 import java.io.File;
-import java.lang.reflect.Array;
+import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -32,10 +34,14 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
         List<File> fileNames = convertPDFFiles();
-        System.out.println(fileNames.get(0).getAbsolutePath());
+
+        List<String[]> csvData = CSVCreator.initializeCsvList();
+
         for (File f : fileNames){
             Category category = Classifier.asignToCategory(f);
-            System.out.println("Die Datei " + f.getName() + " ist von der Kategorie: " + category);
+            CSVCreator.appendDataSet(csvData, f.getName(), category, "keywords");
         }
+
+        CSVCreator.writeFile(csvData);
     }
 }
