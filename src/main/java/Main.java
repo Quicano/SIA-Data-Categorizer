@@ -12,6 +12,8 @@ public class Main {
         File DataDir = new File("Data");
         ArrayList<File> xmlList = new ArrayList<>(Arrays.asList(DataDir.listFiles()));
         System.out.println(xmlList);
+
+
         return xmlList;
     }
 
