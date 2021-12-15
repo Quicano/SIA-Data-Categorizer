@@ -43,10 +43,4 @@ public class ClassifierTest {
         Assert.assertEquals(Category.Unbrauchbar , category2);
     }
 
-    @Test
-    public void testUnbrauchbarList() throws Exception {
-        File example = new File("src/test/resources/ListExample.tmp");
-        Category category = Classifier.asignToCategory(example);
-        Assert.assertEquals(Category.Unbrauchbar , category);
-    }
 }

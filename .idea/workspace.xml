@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/PDFToXML.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/AufsatzsammlungExample.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Einzelaufsatz2.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/EinzelaufsatzExample1.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/EinzelaufsatzExample2.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/ImageExample1.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/ImageExample2.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/ListExample.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/SinglePageExample1.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/SinglePageExample2.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/PDFToXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/PDFToXML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UnitTest/ClassifierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UnitTest/ClassifierTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +51,7 @@
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Unbrauchbar\PDF" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.UnitTest in SIA-Data-Categorizer">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="SIA-Data-Categorizer" />
@@ -74,22 +63,6 @@
       <module name="SIA-Data-Categorizer" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConditionUnitTest.testHasAuthor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SIA-Data-Categorizer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UnitTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="UnitTest" />
-      <option name="MAIN_CLASS_NAME" value="UnitTest.ConditionUnitTest" />
-      <option name="METHOD_NAME" value="testHasAuthor" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,6 +79,20 @@
       <option name="MAIN_CLASS_NAME" value="UnitTest.ConditionUnitTest" />
       <option name="METHOD_NAME" value="testHasReferences" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest in SIA-Data-Categorizer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SIA-Data-Categorizer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnitTest" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UnitTest in SIA-Data-Categorizer" />
+        <item itemvalue="JUnit.All in SIA-Data-Categorizer" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.XPathUnitTest.testContainsWord" />
-        <item itemvalue="JUnit.All in SIA-Data-Categorizer" />
         <item itemvalue="JUnit.ConditionUnitTest.testHasReferences" />
-        <item itemvalue="JUnit.ConditionUnitTest.testHasAuthor" />
       </list>
     </recent_temporary>
   </component>
