@@ -1,7 +1,6 @@
 package util;
 
 import org.w3c.dom.NodeList;
-
 import java.io.File;
 
 public class ConditionUnit {
@@ -43,10 +42,6 @@ public class ConditionUnit {
         }
     }
 
-    public static boolean lookForList(File tempFile, XPathUnit xPathUnit){
-
-        return false;
-    }
 
     public static int hasKeyword(File tempfile, XPathUnit xPathUnit, String keyword) throws Exception {
         return xPathUnit.containsWord(tempfile, keyword);

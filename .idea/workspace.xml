@@ -5,22 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/CSVCreator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classifier/Classifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classifier/Classifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/ConditionUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/ConditionUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/PDFToXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/PDFToXML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/XMLCrawler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/XPathUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/XPathUnit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.ClassifierTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.ClassifierTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.ConditionUnitTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.ConditionUnitTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.IdentifierTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.IdentifierTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.XPathUnitTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.XPathUnitTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UnitTest.ClassifierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UnitTest.ClassifierTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UnitTest.ConditionUnitTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UnitTest.ConditionUnitTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UnitTest.IdentifierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UnitTest.IdentifierTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UnitTest.XPathUnitTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UnitTest.XPathUnitTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/XMLCrawler.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

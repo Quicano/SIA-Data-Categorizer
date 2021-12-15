@@ -2,7 +2,6 @@ package classifier;
 
 import util.ConditionUnit;
 import util.XPathUnit;
-
 import java.io.File;
 
 public class Classifier {
@@ -33,8 +32,7 @@ public class Classifier {
             indicators++;
         }if (ConditionUnit.hasKeyword(tempFile, xPathUnit, "conclusion") > 0){
             indicators++;
-        }
-        if(indicators < 1){
+        }if (indicators < 1){
             return false;
         }else{
             return true;
@@ -55,8 +53,7 @@ public class Classifier {
             indicators++;
         }if (ConditionUnit.hasKeyword(tempFile, xPathUnit, "conclusion") >= 2){
             indicators++;
-        }
-        if(indicators < 4){
+        }if (indicators < 4){
             return false;
         }else{
             return true;
@@ -67,8 +64,6 @@ public class Classifier {
         if(ConditionUnit.hasSinglePage(tempFile, xPathUnit)){
             return true;
         }else if(ConditionUnit.isImage(tempFile, xPathUnit)) {
-            return true;
-        }else if(ConditionUnit.lookForList(tempFile, xPathUnit)){
             return true;
         }else{
             return false;

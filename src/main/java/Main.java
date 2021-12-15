@@ -1,17 +1,13 @@
 import classifier.Classifier;
 import classifier.Category;
-import com.opencsv.CSVWriter;
 import util.CSVCreator;
 import util.PDFToXML;
-
 import java.io.File;
-import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 public class Main {
-
 
     public static ArrayList<File> convertPDFFiles() throws Exception {
         File DataDir = new File("InputData");
@@ -20,7 +16,6 @@ public class Main {
 
         PDFToXML converter = new PDFToXML();
         for (File f : fileList){
-            String fileName = f.getName();
             if(f.getName().endsWith(".tmp") || f.getName().endsWith(".xml")){
                 outputList.add(f);
             }
