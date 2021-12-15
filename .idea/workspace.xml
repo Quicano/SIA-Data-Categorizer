@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/PDFToXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/PDFToXML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UnitTest/ClassifierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UnitTest/ClassifierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Unbrauchbar\PDF" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UnitTest in SIA-Data-Categorizer">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="SIA-Data-Categorizer" />
@@ -115,9 +115,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.UnitTest in SIA-Data-Categorizer" />
         <item itemvalue="JUnit.All in SIA-Data-Categorizer" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.XPathUnitTest.testContainsWord" />
         <item itemvalue="JUnit.ConditionUnitTest.testHasReferences" />
       </list>
