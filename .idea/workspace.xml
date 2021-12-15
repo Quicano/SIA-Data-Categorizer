@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/InputData/ldd02-07-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InputData/ldd18-00-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InputData/mathieu.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InputData/travis2012-0-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InputData/wp-baetscher-pdf.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/PDFToXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/PDFToXML.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,18 +39,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/InputData" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\InputData" />
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\Data" />
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\src\test\resources" />
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Unbrauchbar\XML" />
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Aufsatzsammlung\XML" />
-      <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Unbrauchbar\PDF" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Unbrauchbar\XML" />

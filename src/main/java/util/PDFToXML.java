@@ -42,8 +42,8 @@ public class PDFToXML {
             System.exit(1); // TODO: Check how to handle this properly
         }
         File xmlFile = new File(xmlFilePath);
-        this.formatXmlFile(xmlFile);
-        return xmlFilePath;
+        String tempFilePath = this.formatXmlFile(xmlFile);
+        return tempFilePath;
     }
 
     public String formatXmlFile(File xmlFile) throws IOException {

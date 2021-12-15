@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="867" width="637">
+	<fontspec id="0" size="18" family="EPHQUA+TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="1" size="9" family="QUEFGC+Verdana" color="#000000"/>
+	<fontspec id="2" size="23" family="QUEFGC+Verdana" color="#000000"/>
+	<fontspec id="3" size="12" family="QUEFGC+Verdana" color="#000000"/>
+	<fontspec id="4" size="16" family="QUEFGC+Verdana" color="#000000"/>
+	<fontspec id="5" size="5" family="QUEFGC+Verdana" color="#000000"/>
+	<fontspec id="6" size="13" family="QUEFGC+Verdana" color="#000000"/>
+	<fontspec id="7" size="13" family="LSPBOM+Verdana" color="#000000"/>
+	<fontspec id="8" size="20" family="XXRVAO+Verdana" color="#000000"/>
+	<fontspec id="9" size="18" family="QUEFGC+Verdana" color="#000000"/>
+	<fontspec id="10" size="14" family="QUEFGC+Verdana" color="#000000"/>
+	<fontspec id="11" size="18" family="XXRVAO+Verdana" color="#000000"/>
+<text top="58" left="440" width="5" height="24" font="0"> </text>
+<text top="76" left="94" width="3" height="12" font="1"> </text>
+<text top="86" left="184" width="325" height="32" font="2">Language Documentation  </text>
+<text top="116" left="244" width="197" height="32" font="2">and Description </text>
+<text top="145" left="94" width="4" height="16" font="3"> </text>
+<text top="159" left="269" width="145" height="22" font="4">ISSN 1740-6234 </text>
+<text top="180" left="94" width="457" height="22" font="4">___________________________________________ </text>
+<text top="200" left="94" width="2" height="8" font="5"> </text>
+<text top="207" left="94" width="156" height="18" font="6">This article appears in:</text>
+<text top="207" left="249" width="303" height="18" font="7"><i> Language Documentation and Description,  </i></text>
+<text top="224" left="94" width="42" height="18" font="7"><i>vol 18</i></text>
+<text top="224" left="136" width="438" height="18" font="6">. Editors: Candide Simard, Sarah M. Dopierala &amp; E. Marie Thaut </text>
+<text top="261" left="94" width="152" height="28" font="8"><b>Front matter </b></text>
+<text top="306" left="94" width="13" height="24" font="9">C</text>
+<text top="310" left="106" width="62" height="19" font="10">ANDIDE </text>
+<text top="306" left="169" width="12" height="24" font="9">S</text>
+<text top="310" left="181" width="49" height="19" font="10">IMARD</text>
+<text top="306" left="230" width="7" height="24" font="9">,</text>
+<text top="310" left="236" width="5" height="19" font="10"> </text>
+<text top="306" left="241" width="12" height="24" font="9">S</text>
+<text top="310" left="253" width="45" height="19" font="10">ARAH </text>
+<text top="306" left="298" width="22" height="24" font="9">M.</text>
+<text top="310" left="320" width="5" height="19" font="10"> </text>
+<text top="306" left="325" width="14" height="24" font="9">D</text>
+<text top="310" left="339" width="77" height="19" font="10">OPIERALA </text>
+<text top="306" left="416" width="13" height="24" font="9">&amp;</text>
+<text top="310" left="429" width="5" height="19" font="10"> </text>
+<text top="306" left="434" width="18" height="24" font="9">E.</text>
+<text top="310" left="452" width="5" height="19" font="10"> </text>
+<text top="306" left="457" width="15" height="24" font="9">M</text>
+<text top="310" left="473" width="40" height="19" font="10">ARIE </text>
+<text top="306" left="512" width="11" height="24" font="9">T</text>
+<text top="310" left="523" width="40" height="19" font="10">HAUT</text>
+<text top="306" left="563" width="6" height="24" font="9"> </text>
+<text top="347" left="94" width="493" height="18" font="6">Cite this article: Simard, Candide, Sarah M. Dopierala &amp; E. Marie Thaut. </text>
+<text top="363" left="94" width="485" height="18" font="6">2020. Front matter. In Candide Simard, Sarah M. Dopierala &amp; E. Marie </text>
+<text top="379" left="94" width="443" height="18" font="6">Thaut (eds.) Language Documentation and Description 18, i-viii. </text>
+<text top="396" left="94" width="160" height="18" font="6">London: EL Publishing. </text>
+<text top="421" left="94" width="392" height="18" font="6">Link to this article: http://www.elpublishing.org/PID/195 </text>
+<text top="447" left="94" width="354" height="18" font="6">This electronic version first published: August 2020 </text>
+<text top="463" left="94" width="434" height="18" font="6">__________________________________________________ </text>
+<text top="480" left="94" width="2" height="8" font="5"> </text>
+<text top="487" left="206" width="354" height="18" font="6">This article is published under a Creative Commons </text>
+<text top="503" left="206" width="364" height="18" font="6">License CC-BY-NC (Attribution-NonCommercial). The </text>
+<text top="520" left="206" width="363" height="18" font="6">licence permits users to use, reproduce, disseminate </text>
+<text top="536" left="94" width="449" height="18" font="6">or display the article provided that the author is attributed as the </text>
+<text top="552" left="94" width="456" height="18" font="6">original creator and that the reuse is restricted to non-commercial </text>
+<text top="569" left="94" width="320" height="18" font="6">purposes i.e. research or educational use. See </text>
+<text top="585" left="94" width="335" height="18" font="6">http://creativecommons.org/licenses/by-nc/4.0/ </text>
+<text top="602" left="94" width="468" height="18" font="6">______________________________________________________ </text>
+<text top="627" left="94" width="142" height="24" font="11"><b>EL Publishing </b></text>
+<text top="658" left="94" width="310" height="18" font="6">For more EL Publishing articles and services: </text>
+<text top="674" left="94" width="5" height="18" font="6"> </text>
+<text top="691" left="134" width="65" height="18" font="6">Website: </text>
+<text top="691" left="269" width="201" height="18" font="6">http://www.elpublishing.org  </text>
+<text top="707" left="134" width="95" height="18" font="6">Submissions: </text>
+<text top="707" left="269" width="281" height="18" font="6">http://www.elpublishing.org/submissions</text>
+<text top="703" left="550" width="5" height="24" font="0"> </text>
+<text top="724" left="94" width="3" height="12" font="1"> </text>
+<text top="735" left="94" width="3" height="12" font="1"> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="893">
+	<fontspec id="12" size="18" family="ABCDEE+Arial" color="#000000"/>
+	<fontspec id="13" size="6" family="ABCDEE+Times New Roman" color="#000000"/>
+	<fontspec id="14" size="38" family="ABCDEE+NewsGoth BT" color="#000000"/>
+	<fontspec id="15" size="15" family="ABCDEE+Times New Roman" color="#000000"/>
+<text top="256" left="501" width="5" height="20" font="12"> </text>
+<text top="288" left="238" width="2" height="10" font="13">  </text>
+<text top="294" left="238" width="2" height="10" font="13">  </text>
+<text top="300" left="238" width="2" height="10" font="13">  </text>
+<text top="306" left="238" width="2" height="10" font="13">  </text>
+<text top="312" left="238" width="2" height="7" font="13"> </text>
+<text top="327" left="238" width="170" height="47" font="14">Language </text>
+<text top="392" left="238" width="263" height="47" font="14">Documentation </text>
+<text top="457" left="238" width="271" height="47" font="14">and Description </text>
+<text top="521" left="238" width="195" height="47" font="14">Volume 18 </text>
+<text top="565" left="238" width="2" height="10" font="13">  </text>
+<text top="571" left="238" width="2" height="10" font="13">  </text>
+<text top="577" left="238" width="2" height="10" font="13">  </text>
+<text top="583" left="238" width="2" height="10" font="13">  </text>
+<text top="589" left="238" width="2" height="10" font="13">  </text>
+<text top="595" left="238" width="2" height="10" font="13">  </text>
+<text top="601" left="238" width="2" height="10" font="13">  </text>
+<text top="607" left="238" width="2" height="7" font="13"> </text>
+<text top="613" left="238" width="378" height="47" font="14">Special Issue on the    </text>
+<text top="660" left="238" width="293" height="47" font="14">Sylheti Language </text>
+<text top="703" left="238" width="2" height="10" font="13">  </text>
+<text top="709" left="238" width="2" height="10" font="13">  </text>
+<text top="715" left="238" width="2" height="10" font="13">  </text>
+<text top="721" left="238" width="2" height="10" font="13">  </text>
+<text top="727" left="238" width="2" height="10" font="13">  </text>
+<text top="733" left="238" width="2" height="10" font="13">  </text>
+<text top="739" left="238" width="2" height="10" font="13">  </text>
+<text top="745" left="238" width="2" height="10" font="13">  </text>
+<text top="754" left="238" width="454" height="47" font="14">Edited by Candide Simard, </text>
+<text top="801" left="238" width="344" height="47" font="14">Sarah M. Dopierala  </text>
+<text top="847" left="238" width="306" height="47" font="14">&amp;  E. Marie Thaut </text>
+<text top="891" left="238" width="2" height="10" font="13">  </text>
+<text top="897" left="238" width="2" height="10" font="13">  </text>
+<text top="903" left="238" width="2" height="10" font="13">  </text>
+<text top="909" left="238" width="2" height="10" font="13">  </text>
+<text top="918" left="238" width="4" height="17" font="15"> </text>
+<text top="994" left="513" width="4" height="17" font="15"> </text>
+<text top="994" left="729" width="4" height="17" font="15"> </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1262" width="893">
+	<fontspec id="16" size="11" family="ABCDEE+Times New Roman,Italic" color="#000000"/>
+	<fontspec id="17" size="11" family="ABCDEE+Times New Roman" color="#000000"/>
+<text top="213" left="419" width="3" height="13" font="16"><i> </i></text>
+<text top="213" left="183" width="10" height="13" font="17">ii </text>
+<text top="247" left="183" width="4" height="17" font="15"> </text>
+<text top="264" left="183" width="4" height="17" font="15"> </text>
+<text top="282" left="183" width="144" height="17" font="15">EL Publishing, London </text>
+<text top="299" left="183" width="138" height="17" font="15">www.elpublishing.org </text>
+<text top="316" left="183" width="4" height="17" font="15"> </text>
+<text top="333" left="183" width="4" height="17" font="15"> </text>
+<text top="351" left="183" width="4" height="17" font="15"> </text>
+<text top="368" left="183" width="4" height="17" font="15"> </text>
+<text top="397" left="183" width="408" height="17" font="15">Language  Documentation  and  Description  is  published  annually </text>
+<text top="414" left="183" width="408" height="17" font="15">by EL Publishing. For information, see the website above, or send </text>
+<text top="432" left="183" width="242" height="17" font="15">email to elpublishing2017@gmail.com. </text>
+<text top="453" left="183" width="4" height="17" font="15"> </text>
+<text top="471" left="183" width="4" height="17" font="15"> </text>
+<text top="488" left="183" width="4" height="17" font="15"> </text>
+<text top="505" left="183" width="128" height="17" font="15">© 2020 The Authors </text>
+<text top="522" left="183" width="4" height="17" font="15"> </text>
+<text top="540" left="183" width="4" height="17" font="15"> </text>
+<text top="557" left="183" width="4" height="17" font="15"> </text>
+<text top="583" left="183" width="408" height="17" font="15">All rights reserved. No part of this publication may be reproduced, </text>
+<text top="600" left="183" width="407" height="17" font="15">stored in a retrieval system, or transmitted, on any form or by any </text>
+<text top="618" left="183" width="408" height="17" font="15">means,  electronic,  mechanical,  photocopying,  recording  or </text>
+<text top="635" left="183" width="330" height="17" font="15">otherwise, without the prior permission of the authors. </text>
+<text top="661" left="183" width="4" height="17" font="15"> </text>
+<text top="678" left="183" width="4" height="17" font="15"> </text>
+<text top="696" left="183" width="4" height="17" font="15"> </text>
+<text top="713" left="183" width="4" height="17" font="15"> </text>
+<text top="730" left="183" width="4" height="17" font="15"> </text>
+<text top="747" left="183" width="4" height="17" font="15"> </text>
+<text top="765" left="183" width="4" height="17" font="15"> </text>
+<text top="782" left="183" width="105" height="17" font="15">ISSN 1740-6234 </text>
+<text top="799" left="183" width="4" height="17" font="15"> </text>
+<text top="816" left="183" width="4" height="17" font="15"> </text>
+<text top="834" left="183" width="190" height="17" font="15">Printed in the United Kingdom </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1262" width="893">
+	<fontspec id="18" size="15" family="ABCDEE+Arial,Bold" color="#000000"/>
+	<fontspec id="19" size="15" family="ABCDEE+Times New Roman,Italic" color="#000000"/>
+<text top="213" left="474" width="3" height="13" font="16"><i> </i></text>
+<text top="213" left="700" width="13" height="13" font="17">iii </text>
+<text top="247" left="238" width="182" height="17" font="18"><b>LDD18 Table of Contents </b></text>
+<text top="264" left="238" width="4" height="17" font="15"> </text>
+<text top="284" left="238" width="133" height="17" font="15">Editorial introduction </text>
+<text top="284" left="699" width="15" height="17" font="15">iv </text>
+<text top="301" left="238" width="337" height="17" font="15">Candide Simard, Sarah M. Dopierala &amp; E. Marie Thaut </text>
+<text top="301" left="710" width="4" height="17" font="15"> </text>
+<text top="319" left="238" width="429" height="17" font="19"><i>University  of  South  Pacific,  Goethe  University  Frankfurt,  SOAS </i></text>
+<text top="336" left="238" width="131" height="17" font="19"><i>University of London </i></text>
+<text top="319" left="710" width="4" height="17" font="15"> </text>
+<text top="353" left="238" width="4" height="17" font="15"> </text>
+<text top="353" left="710" width="4" height="17" font="15"> </text>
+<text top="370" left="238" width="429" height="17" font="15">Introducing  the  Sylheti  language  and  its  speakers,  and  the  SOAS </text>
+<text top="388" left="238" width="92" height="17" font="15">Sylheti project </text>
+<text top="370" left="703" width="11" height="17" font="15">1 </text>
+<text top="405" left="238" width="337" height="17" font="15">Candide Simard, Sarah M. Dopierala &amp; E. Marie Thaut </text>
+<text top="405" left="710" width="4" height="17" font="15"> </text>
+<text top="422" left="238" width="429" height="17" font="19"><i>University  of  South  Pacific,  Goethe  University  Frankfurt,  SOAS </i></text>
+<text top="439" left="238" width="131" height="17" font="19"><i>University of London </i></text>
+<text top="422" left="710" width="4" height="17" font="15"> </text>
+<text top="457" left="238" width="4" height="17" font="15"> </text>
+<text top="457" left="710" width="4" height="17" font="15"> </text>
+<text top="474" left="238" width="291" height="17" font="15">Does Camden Sylheti have consonant clusters?  </text>
+<text top="474" left="695" width="19" height="17" font="15">23 </text>
+<text top="491" left="238" width="111" height="17" font="15">S. Elizabeth Eden </text>
+<text top="491" left="710" width="4" height="17" font="15"> </text>
+<text top="508" left="238" width="127" height="17" font="19"><i>Independent scholar </i></text>
+<text top="508" left="710" width="4" height="17" font="15"> </text>
+<text top="526" left="238" width="4" height="17" font="15"> </text>
+<text top="526" left="710" width="4" height="17" font="15"> </text>
+<text top="543" left="238" width="429" height="17" font="15">Mapping of spirantization and de-aspiration in Sylheti: An Optimality </text>
+<text top="560" left="238" width="99" height="17" font="15">Theory analysis </text>
+<text top="543" left="695" width="19" height="17" font="15">42 </text>
+<text top="577" left="238" width="83" height="17" font="15">Satarupa Sen </text>
+<text top="577" left="710" width="4" height="17" font="15"> </text>
+<text top="595" left="238" width="122" height="17" font="19"><i>Nalanda University </i></text>
+<text top="595" left="710" width="4" height="17" font="15"> </text>
+<text top="612" left="238" width="4" height="17" font="15"> </text>
+<text top="612" left="710" width="4" height="17" font="15"> </text>
+<text top="629" left="238" width="346" height="17" font="15">Irrealis? Issues concerning the inflected t-form in Sylheti </text>
+<text top="629" left="695" width="19" height="17" font="15">56 </text>
+<text top="646" left="238" width="64" height="17" font="15">Jonas Lau </text>
+<text top="646" left="710" width="4" height="17" font="15"> </text>
+<text top="664" left="238" width="136" height="17" font="19"><i>University of Cologne </i></text>
+<text top="664" left="710" width="4" height="17" font="15"> </text>
+<text top="681" left="238" width="4" height="17" font="15"> </text>
+<text top="681" left="710" width="4" height="17" font="15"> </text>
+<text top="698" left="238" width="425" height="17" font="15">Additive  focus  in  Sylheti:  Description  and  analysis  in  a  Lexical-</text>
+<text top="715" left="238" width="199" height="17" font="15">Functional Grammar framework </text>
+<text top="698" left="695" width="19" height="17" font="15">69 </text>
+<text top="733" left="238" width="96" height="17" font="15">Heather Brown </text>
+<text top="733" left="710" width="4" height="17" font="15"> </text>
+<text top="750" left="238" width="127" height="17" font="19"><i>Independent scholar </i></text>
+<text top="750" left="710" width="4" height="17" font="15"> </text>
+<text top="767" left="238" width="4" height="17" font="15"> </text>
+<text top="767" left="710" width="4" height="17" font="15"> </text>
+<text top="784" left="238" width="398" height="17" font="15">A cross-linguistic perspective on converb constructions in Sylheti </text>
+<text top="784" left="695" width="19" height="17" font="15">92 </text>
+<text top="802" left="238" width="122" height="17" font="15">Sarah M. Dopierala </text>
+<text top="802" left="710" width="4" height="17" font="15"> </text>
+<text top="819" left="238" width="175" height="17" font="19"><i>Goethe University Frankfurt </i></text>
+<text top="819" left="710" width="4" height="17" font="15"> </text>
+<text top="836" left="238" width="4" height="17" font="15"> </text>
+<text top="836" left="710" width="4" height="17" font="15"> </text>
+<text top="853" left="238" width="429" height="17" font="15">A  descriptive  account  of  agentless  constructions  in  Sylheti:  Passive, </text>
+<text top="871" left="238" width="182" height="17" font="15">impersonal, and anticausative </text>
+<text top="853" left="688" width="26" height="17" font="15">112 </text>
+<text top="888" left="238" width="372" height="17" font="15">E. Marie Thaut &amp; Andriana Koumbarou, Zurab Baratashvili,  </text>
+<text top="888" left="710" width="4" height="17" font="15"> </text>
+<text top="905" left="238" width="363" height="17" font="19"><i>SOAS University of London, Australian National University </i></text>
+<text top="905" left="710" width="4" height="17" font="15"> </text>
+<text top="922" left="238" width="4" height="17" font="19"><i> </i></text>
+<text top="922" left="710" width="4" height="17" font="15"> </text>
+<text top="940" left="238" width="4" height="17" font="15"> </text>
+<text top="959" left="238" width="4" height="17" font="15"> </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1262" width="893">
+	<fontspec id="20" size="15" family="ABCDEE+Symbol" color="#000000"/>
+	<fontspec id="21" size="15" family="ABCDEE+Arial" color="#000000"/>
+	<fontspec id="22" size="16" family="ABCDEE+Calibri" color="#000000"/>
+<text top="213" left="419" width="3" height="13" font="16"><i> </i></text>
+<text top="213" left="183" width="12" height="13" font="17">iv </text>
+<text top="250" left="183" width="156" height="17" font="18"><b>Editorial introduction </b></text>
+<text top="277" left="183" width="476" height="17" font="15">Sylheti  is  an  Eastern  Indo-Aryan  language  with  approximately  11  million </text>
+<text top="294" left="183" width="476" height="17" font="15">speakers. It has a large concentration of speakers in the Surma and Barak river </text>
+<text top="312" left="183" width="476" height="17" font="15">basins  in  north-eastern  Bangladesh,  and  in  south  Assam,  India.  There  are </text>
+<text top="329" left="183" width="476" height="17" font="15">several  diasporic  communities  around  the  world,  including  around  400,000 </text>
+<text top="346" left="183" width="476" height="17" font="15">speakers  in  the  UK.  Everywhere  it  is  minoritised,  politically  unrecognised, </text>
+<text top="363" left="183" width="110" height="17" font="15">and understudied. </text>
+<text top="381" left="204" width="454" height="17" font="15">In terms of vocabulary and structure, Sylheti is on a linguistic continuum </text>
+<text top="398" left="183" width="475" height="17" font="15">between Assamese and Bengali, arguably more similar to the former than to </text>
+<text top="415" left="183" width="476" height="17" font="15">Kolkata-based standard Bengali (or Bangla), yet it is often viewed politically </text>
+<text top="432" left="183" width="476" height="17" font="15">as  a  dialect  of  Bengali.  This  volume  presents  six  papers  covering  the </text>
+<text top="450" left="183" width="476" height="17" font="15">phonology, morphology, and syntax of the Sylheti language as it is spoken in </text>
+<text top="467" left="183" width="476" height="17" font="15">Camden,  London,  and  in  north-east  India,  describing  many  features  that </text>
+<text top="484" left="183" width="371" height="17" font="15">distinguish it from its better-known neighbouring languages.  </text>
+<text top="501" left="204" width="454" height="17" font="15">This collection of papers on the Sylheti language is a direct outcome of the </text>
+<text top="519" left="183" width="28" height="17" font="15">first </text>
+<text top="519" left="214" width="158" height="17" font="19"><i>SOAS  Sylheti  Conference</i></text>
+<text top="519" left="372" width="287" height="17" font="15">,  held  on  12th  May  2016.  It  was  opened  by </text>
+<text top="536" left="183" width="476" height="17" font="15">guest plenary speaker Mark Sebba (Lancaster University) who addressed the </text>
+<text top="553" left="183" width="476" height="17" font="15">participants on ‘Spelling Sylheti: Phonology and Practice’, followed by nine </text>
+<text top="570" left="183" width="114" height="17" font="15">oral presentations: </text>
+<text top="584" left="183" width="2" height="10" font="13">  </text>
+<text top="596" left="221" width="7" height="18" font="20"></text>
+<text top="597" left="228" width="4" height="17" font="21"> </text>
+<text top="598" left="238" width="403" height="17" font="15">Candide Simard, E. Marie Thaut, Robert Laub (SOAS, University </text>
+<text top="614" left="238" width="240" height="17" font="15">of London) ‘The SOAS Sylheti Project’</text>
+<text top="615" left="478" width="4" height="16" font="22"> </text>
+<text top="633" left="221" width="7" height="18" font="20"></text>
+<text top="635" left="228" width="4" height="17" font="21"> </text>
+<text top="635" left="238" width="404" height="17" font="15">Satarupa  Sen  (The  English  and  Foreign  Languages  University, </text>
+<text top="652" left="238" width="404" height="17" font="15">Hyderabad,  India)  ‘Mapping  of  Spirantization  and  De-aspiration </text>
+<text top="668" left="238" width="67" height="17" font="15">in Sylheti’ </text>
+<text top="687" left="221" width="7" height="18" font="20"></text>
+<text top="689" left="228" width="4" height="17" font="21"> </text>
+<text top="689" left="238" width="403" height="17" font="15">Elizabeth  Eden  (University  College  London)  ‘Does  Sylheti  have </text>
+<text top="706" left="238" width="132" height="17" font="15">Consonant Clusters?’ </text>
+<text top="725" left="221" width="7" height="18" font="20"></text>
+<text top="726" left="228" width="4" height="17" font="21"> </text>
+<text top="727" left="238" width="403" height="17" font="15">Zander Zambas (alumnus, SOAS, University of London) ‘Scoping </text>
+<text top="743" left="238" width="403" height="17" font="15">out  Negation:  a  Lexical  Functional  Account  of  Negation  in </text>
+<text top="760" left="238" width="51" height="17" font="15">Sylheti’ </text>
+<text top="779" left="221" width="7" height="18" font="20"></text>
+<text top="780" left="228" width="4" height="17" font="21"> </text>
+<text top="781" left="238" width="403" height="17" font="15">Robert  Laub  (SOAS,  University  of  London)  ‘Differential  Object </text>
+<text top="797" left="238" width="122" height="17" font="15">Marking in Sylheti’ </text>
+<text top="816" left="221" width="7" height="18" font="20"></text>
+<text top="818" left="228" width="4" height="17" font="21"> </text>
+<text top="818" left="238" width="403" height="17" font="15">Caoife Garvey  (alumna,  SOAS,  University  of  London) ‘Relative </text>
+<text top="835" left="238" width="117" height="17" font="15">Clauses in Sylheti’ </text>
+<text top="854" left="221" width="7" height="18" font="20"></text>
+<text top="855" left="228" width="4" height="17" font="21"> </text>
+<text top="856" left="238" width="400" height="17" font="15">Sarah  Dopierala  (SOAS,  University  of  London)  ‘A  Cross-</text>
+<text top="872" left="238" width="365" height="17" font="15">Linguistic Perspective on Converb Constructions in Sylheti’ </text>
+<text top="891" left="221" width="7" height="18" font="20"></text>
+<text top="893" left="228" width="4" height="17" font="21"> </text>
+<text top="893" left="238" width="403" height="17" font="15">Heather Brown (alumna, SOAS, University of London) ‘Additive </text>
+<text top="910" left="238" width="106" height="17" font="15">Focus in Sylheti’ </text>
+<text top="929" left="221" width="7" height="18" font="20"></text>
+<text top="930" left="228" width="4" height="17" font="21"> </text>
+<text top="931" left="238" width="403" height="17" font="15">Chris Tang (King’s College London) ‘The Role of Sylheti in the </text>
+<text top="947" left="238" width="404" height="17" font="15">Investigation of the Linguistic and Cultural Mediation of Disaster </text>
+<text top="964" left="238" width="404" height="17" font="15">and Health Messages about Heatwaves and Cold Spells within the </text>
+<text top="980" left="238" width="270" height="17" font="15">Bangladeshi Community in Tower Hamlets’.</text>
+<text top="981" left="509" width="4" height="16" font="22"> </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1262" width="893">
+	<fontspec id="23" size="15" family="ABCDEE+Times New Roman" color="#404040"/>
+	<fontspec id="24" size="9" family="ABCDEE+Times New Roman" color="#000000"/>
+	<fontspec id="25" size="13" family="ABCDEE+Times New Roman" color="#000000"/>
+<text top="213" left="474" width="3" height="13" font="16"><i> </i></text>
+<text top="213" left="704" width="9" height="13" font="17">v </text>
+<text top="247" left="238" width="226" height="17" font="15">There were five poster presentations: </text>
+<text top="261" left="238" width="2" height="7" font="13"> </text>
+<text top="270" left="276" width="7" height="18" font="20"></text>
+<text top="271" left="283" width="4" height="17" font="21"> </text>
+<text top="271" left="293" width="403" height="17" font="15">Emily  Gref  (SOAS,  University  of  London)  ‘The  Sylheti </text>
+<text top="288" left="293" width="195" height="17" font="15">Storybook: a Work in Progress’ </text>
+<text top="307" left="276" width="7" height="18" font="20"></text>
+<text top="309" left="283" width="4" height="17" font="21"> </text>
+<text top="309" left="293" width="403" height="17" font="15">Jean Rohleder (SOAS, University of London) ‘Relative Pronouns </text>
+<text top="325" left="293" width="132" height="17" font="15">and Question Words’ </text>
+<text top="345" left="276" width="7" height="18" font="20"></text>
+<text top="346" left="283" width="4" height="17" font="21"> </text>
+<text top="346" left="293" width="403" height="17" font="15">Zurab  Baratashvili  &amp;  E.  Marie  Thaut  (SOAS,  University  of </text>
+<text top="363" left="293" width="247" height="17" font="15">London) ‘Sylheti Passive Constructions’ </text>
+<text top="382" left="276" width="7" height="18" font="20"></text>
+<text top="384" left="283" width="4" height="17" font="21"> </text>
+<text top="384" left="293" width="403" height="17" font="15">Jonas  Lau  (SOAS,  University  of  London)  ‘Irrealis?  Issues </text>
+<text top="400" left="293" width="265" height="17" font="15">Concerning the Inflected t-Form in Sylheti’ </text>
+<text top="420" left="276" width="7" height="18" font="20"></text>
+<text top="421" left="283" width="4" height="17" font="21"> </text>
+<text top="421" left="293" width="403" height="17" font="15">Kathleen  M  McCarthy,  Merle  Mahon,  &amp;  Bronwen  G.  Evans </text>
+<text top="438" left="293" width="403" height="17" font="15">(University  College  London)  ‘The  Production  of  Sylheti  Stops </text>
+<text top="454" left="293" width="392" height="17" font="15">and Vowels by Speakers from the London Bengali Community’. </text>
+<text top="480" left="238" width="476" height="17" font="15">The high quality of the presentations was commented on by many attendees at </text>
+<text top="498" left="238" width="476" height="17" font="15">the conference, as the students demonstrated not only their abilities to produce </text>
+<text top="515" left="238" width="476" height="17" font="15">knowledge  but  also  to  engage  critically  with  it.  They  discussed  theoretical </text>
+<text top="532" left="238" width="476" height="17" font="15">issues, while remaining aware of the possibilities for utility and impact. Mark </text>
+<text top="549" left="238" width="241" height="17" font="15">Sebba commented after the conference: </text>
+<text top="563" left="238" width="2" height="10" font="13">  </text>
+<text top="573" left="283" width="409" height="17" font="15">I  would  like  to  say  how  nice  it  was  to  see  how  enthusiastic  the </text>
+<text top="590" left="283" width="409" height="17" font="15">students  were  about  their  topics.  Not  only  that,  but  the </text>
+<text top="607" left="283" width="409" height="17" font="15">presentations  were  of  a  very  high  standard.  I  have  sat  through </text>
+<text top="624" left="283" width="409" height="17" font="15">many student presentations over the last 35 years and I found these </text>
+<text top="642" left="283" width="409" height="17" font="15">were  particularly  impressive  –  well  prepared,  clearly  articulated, </text>
+<text top="659" left="283" width="409" height="17" font="15">well presented for an audience with mixed levels of knowledge in </text>
+<text top="676" left="283" width="375" height="17" font="15">the topic. Congratulations to the organisers and the presenters!</text>
+<text top="676" left="659" width="4" height="17" font="23"> </text>
+<text top="702" left="238" width="476" height="17" font="15">Six of the conference presentations were selected for publication. Most of the </text>
+<text top="720" left="238" width="476" height="17" font="15">papers  are  based  on  data  collected  in  Linguistics  Field  Methods  courses  at </text>
+<text top="737" left="238" width="476" height="17" font="15">SOAS, University of London (UK), and during documentation undertaken by </text>
+<text top="754" left="238" width="22" height="17" font="15">the </text>
+<text top="754" left="261" width="128" height="17" font="19"><i>SOAS Sylheti Project</i></text>
+<text top="754" left="389" width="100" height="17" font="15"> (SSP hereafter),</text>
+<text top="752" left="489" width="5" height="11" font="24">1</text>
+<text top="754" left="494" width="220" height="17" font="15"> discussed in more detail in Chapter </text>
+<text top="771" left="238" width="475" height="17" font="15">1 by Simard et al. This collection has two major aims. One is to contribute to </text>
+<text top="789" left="238" width="476" height="17" font="15">a  descriptive  grammar  of  Sylheti,  which  remains  little-studied  (see  Tunga </text>
+<text top="806" left="238" width="476" height="17" font="15">1995;  Chalmers  1996;  Plettner  2004;  Nabila  2012;  Mishra  &amp;  Bhattacharjee </text>
+<text top="823" left="238" width="476" height="17" font="15">2013; Das 2017). The second is to provide an opportunity for the high quality </text>
+<text top="840" left="238" width="476" height="17" font="15">and  original  work  produced  by  MA  and  PhD  students  to  be  published, </text>
+<text top="858" left="238" width="475" height="17" font="15">enriching the field at large and benefitting them in an academic context that </text>
+<text top="875" left="238" width="229" height="17" font="15">has become increasingly competitive. </text>
+<text top="876" left="468" width="4" height="16" font="22"> </text>
+<text top="892" left="260" width="454" height="17" font="15">This  volume  continues  the  SSP’s  aim  of  widening  and  enriching  the </text>
+<text top="909" left="238" width="474" height="17" font="15">students’ experience, in this case by creating an opportunity to learn about </text>
+<text top="934" left="238" width="220" height="17" font="15">                                                           </text>
+<text top="951" left="238" width="4" height="17" font="15"> </text>
+<text top="969" left="238" width="4" height="17" font="15"> </text>
+<text top="982" left="238" width="5" height="10" font="24">1</text>
+<text top="984" left="243" width="356" height="15" font="25"> See https://sylhetiproject.wordpress.com/ (accessed 2019-05-21) </text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1262" width="893">
+	<fontspec id="26" size="15" family="ABCDEE+Times New Roman" color="#373737"/>
+<text top="213" left="419" width="3" height="13" font="16"><i> </i></text>
+<text top="213" left="183" width="12" height="13" font="17">vi </text>
+<text top="247" left="183" width="474" height="17" font="15">and participate in the publication process. They have been involved not only </text>
+<text top="264" left="183" width="476" height="17" font="15">in  writing,  but  also  in  reviewing  and  editing  these  academic  papers.  Their </text>
+<text top="282" left="183" width="475" height="17" font="15">patience  and  dedication  deserve  praise.  We  present  these  studies  to  the </text>
+<text top="299" left="183" width="474" height="17" font="15">wider linguistics community as illustrations of a viable postgraduate training </text>
+<text top="316" left="183" width="475" height="17" font="15">model  in  language  documentation  and  revitalisation  that  bridges  academia </text>
+<text top="333" left="183" width="475" height="17" font="15">and  community  involvement.  These  papers  constitute  the  first </text>
+<text top="351" left="183" width="475" height="17" font="15">comprehensive  linguistic  description  of  Sylheti  in  English,  and  will  be  of </text>
+<text top="368" left="183" width="474" height="17" font="15">interest to linguists in the fields of South Asian linguistics, diaspora studies, </text>
+<text top="385" left="183" width="190" height="17" font="15">and cross-linguistic typology.  </text>
+<text top="402" left="204" width="454" height="17" font="15">In  this  volume,  readers  will  find  Elizabeth  Eden’s  paper  ‘Does  Camden </text>
+<text top="420" left="183" width="476" height="17" font="15">Sylheti have consonant clusters?’ which provides an analysis of the phonemic </text>
+<text top="437" left="183" width="476" height="17" font="15">inventory  and  syllable  structure  of  Camden  Sylheti,  assisted  by  the  online </text>
+<text top="454" left="183" width="215" height="17" font="15">database  and  lexical  analysis  tool </text>
+<text top="454" left="400" width="44" height="17" font="19"><i>Nidaba</i></text>
+<text top="454" left="445" width="214" height="17" font="15">,  developed  by  Eden.  The  tool  is </text>
+<text top="471" left="183" width="475" height="17" font="15">used to provide evidence for the predictability of a phoneme’s distribution and </text>
+<text top="489" left="183" width="476" height="17" font="15">its  overall  phonological  behaviour.  A  discussion  of  how  Camden  Sylheti </text>
+<text top="506" left="183" width="476" height="17" font="15">deviates  from  a  canonical  CV  syllable  structure  is  supported  by  an </text>
+<text top="523" left="183" width="476" height="17" font="15">examination  of  the  phonological  behaviour  of  clusters  in  loanwords  and  in </text>
+<text top="540" left="183" width="476" height="17" font="15">historically  significant  languages  such  as  Bengali  and  Sanskrit.  Eden  then </text>
+<text top="558" left="183" width="476" height="17" font="15">discusses  issues  of  language  contact  and  repair  strategies  to  explain  the </text>
+<text top="575" left="183" width="476" height="17" font="15">observed patterns. Her work is a convincing illustration of how computational </text>
+<text top="592" left="183" width="476" height="17" font="15">tools  can  facilitate  the  search  and  analysis  of  phonological  data,  and  the </text>
+<text top="609" left="183" width="437" height="17" font="15">description of the phonological patterns in under-documented languages.</text>
+<text top="609" left="620" width="4" height="17" font="26"> </text>
+<text top="610" left="624" width="4" height="16" font="22"> </text>
+<text top="627" left="204" width="454" height="17" font="15">Satarupa  Sen’s  paper  ‘Mapping  of  spirantization  and  de-aspiration  in </text>
+<text top="644" left="183" width="476" height="17" font="15">Sylheti:  An  Optimality  Theory  analysis’  studies  these  lenition  processes  in </text>
+<text top="661" left="183" width="476" height="17" font="15">Sylheti  with  reference  to  two  neighbouring  languages  with  which  it  is  in </text>
+<text top="678" left="183" width="476" height="17" font="15">contact:  Standard  Colloquial  Bangla  (SCB)  and  Standard  Colloquial </text>
+<text top="696" left="183" width="476" height="17" font="15">Assamese (SCA). Spirantisation refers to the transformation of a plosive into </text>
+<text top="713" left="183" width="476" height="17" font="15">its  corresponding  fricative;  it  can  affect  both  voiceless  and  voiced  plosives </text>
+<text top="730" left="183" width="476" height="17" font="15">and  instances  of  both  are  well  attested  across  languages.  The </text>
+<text top="747" left="183" width="476" height="17" font="15">theoretical challenges  posed  by  these  phonological processes  in  Sylheti  are </text>
+<text top="765" left="183" width="475" height="17" font="15">tackled by Sen using the framework of Optimality Theory, showing that the </text>
+<text top="782" left="183" width="476" height="17" font="15">phenomena  can  be  accounted  for  in  a  natural  way  in  terms  of  some  ranked </text>
+<text top="799" left="183" width="121" height="17" font="15">violable constraints.</text>
+<text top="800" left="304" width="4" height="16" font="22"> </text>
+<text top="816" left="204" width="455" height="17" font="15">In ‘Irrealis? Issues concerning the inflected t-form in Sylheti’, Jonas Lau </text>
+<text top="834" left="183" width="359" height="17" font="15">discusses a particular inflected verb form, referred to as the</text>
+<text top="834" left="542" width="4" height="17" font="19"><i> </i></text>
+<text top="834" left="546" width="112" height="17" font="15">‘inflected t-form’, </text>
+<text top="851" left="183" width="121" height="17" font="15">involving  an  affix </text>
+<text top="851" left="308" width="9" height="17" font="19"><i>-t</i></text>
+<text top="851" left="317" width="341" height="17" font="15">  after  the  verbal  stem  with  subject  agreement.  Lau </text>
+<text top="868" left="183" width="476" height="17" font="15">proposes  it  can  be  interpreted  as  an  expression  of  irrealis  mood,  a  category </text>
+<text top="885" left="183" width="476" height="17" font="15">that  is  controversial  in  typology,  whether  it  is  described  in  semantic  or </text>
+<text top="903" left="183" width="476" height="17" font="15">functional  terms.  In  Sylheti,  the  inflected  t-form  occurs  in  constructions </text>
+<text top="920" left="183" width="476" height="17" font="15">expressing  counterfactual  conditionals,  negations  of  the  future  tense,  and </text>
+<text top="937" left="183" width="476" height="17" font="15">before  modal  verbs. It  is  also  used  to  mark  verbs  in  the  past  habitual  tense. </text>
+<text top="954" left="183" width="476" height="17" font="15">Lau describes and analyses the various functions of the inflected t-form and </text>
+<text top="972" left="183" width="476" height="17" font="15">argues that they all share sufficient semantic features to be viewed as a single </text>
+<text top="989" left="183" width="434" height="17" font="15">grammatical category which he analyses as an instance of irrealis mood.</text>
+<text top="990" left="617" width="4" height="16" font="22"> </text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1262" width="893">
+<text top="213" left="474" width="3" height="13" font="16"><i> </i></text>
+<text top="213" left="698" width="16" height="13" font="17">vii </text>
+<text top="247" left="260" width="454" height="17" font="15">Heather  Brown’s  paper  ‘Additive  focus  in  Sylheti:  Description  and </text>
+<text top="264" left="238" width="476" height="17" font="15">analysis  within  the  Lexical-Functional  Grammar  framework’  offers  a </text>
+<text top="282" left="238" width="475" height="17" font="15">description  of  an  enclitic  particle  that  serves  to  mark  a  kind  of  focus  in </text>
+<text top="299" left="238" width="476" height="17" font="15">Sylheti. She first examines the literature concerning focus-sensitive particles, </text>
+<text top="316" left="238" width="381" height="17" font="15">and then provides a descriptive account of the Sylheti particle </text>
+<text top="316" left="620" width="24" height="17" font="19"><i>=ɔ, </i></text>
+<text top="316" left="645" width="69" height="17" font="15">which, she </text>
+<text top="333" left="238" width="476" height="17" font="15">argues, marks additive focus. The data analysed comes from a combination of </text>
+<text top="351" left="238" width="476" height="17" font="15">narratives,  structured  elicitation  tasks,  and  translations  by  native  speakers, </text>
+<text top="368" left="238" width="476" height="17" font="15">with  most  weight  placed  on  the  first  two  as  sources  of  evidence.  Finally,  a </text>
+<text top="385" left="238" width="476" height="17" font="15">theoretical  account  of  the  particle  is  proposed  within  the  Lexical-Functional </text>
+<text top="402" left="238" width="177" height="17" font="15">Grammar (LFG) framework. </text>
+<text top="420" left="260" width="451" height="17" font="15">Sarah  Dopierala  describes  the  category  ‘converb’  in  Sylheti  in  ‘A  cross-</text>
+<text top="437" left="238" width="476" height="17" font="15">linguistic  perspective  on  converb  constructions  in  Sylheti’.  Based  on  the </text>
+<text top="454" left="238" width="476" height="17" font="15">definition  of  converb  by  Haspelmath  (1995:  3)  as  ‘a  non-finite  verb  form </text>
+<text top="471" left="238" width="475" height="17" font="15">whose  main  function  is  to  mark  adverbial  subordination’,  she  focuses  on </text>
+<text top="489" left="238" width="476" height="17" font="15">several  types  of  adverbial  clauses:  conditional,  manner,  temporal  and </text>
+<text top="506" left="238" width="476" height="17" font="15">simultaneous.  The  paper  then  discusses  the  theoretical  implications  of  the </text>
+<text top="523" left="238" width="476" height="17" font="15">converb  description  using  the  framework  of  Role  and  Reference  Grammar </text>
+<text top="540" left="238" width="476" height="17" font="15">(RRG),  ultimately  giving  evidence  for  a  cosubordinate  analysis  of  Sylheti </text>
+<text top="558" left="238" width="117" height="17" font="15">converbal clauses.  </text>
+<text top="575" left="260" width="454" height="17" font="15">In  their  contribution  ‘A  descriptive  account  of  agentless  constructions  in </text>
+<text top="592" left="238" width="476" height="17" font="15">Sylheti:  Passive,  impersonal,  and  anticausative’,  E.  Marie  Thaut,  Andriana </text>
+<text top="609" left="238" width="476" height="17" font="15">Koumbarou  and  Zurab  Baratashvili  investigate  case-marking  and  passive </text>
+<text top="627" left="238" width="476" height="17" font="15">constructions  in  Sylheti,  pointing  to  similarities  and  differences  with  other </text>
+<text top="644" left="238" width="467" height="17" font="15">Indo-Aryan languages. They focus on the optional use of the nominal marker </text>
+<text top="644" left="705" width="5" height="17" font="19"><i>-</i></text>
+<text top="661" left="238" width="7" height="17" font="19"><i>e</i></text>
+<text top="661" left="245" width="469" height="17" font="15">, which occurs in constructions with some verbs and in some contexts, being </text>
+<text top="678" left="238" width="476" height="17" font="15">subject to a number of semantic factors in the contexts in which it is optional. </text>
+<text top="696" left="238" width="476" height="17" font="15">Their  work  highlights  the  existence  of  differential  marking  of  the  single </text>
+<text top="713" left="238" width="476" height="17" font="15">argument of intransitive clauses, a striking feature of the Sylheti case system, </text>
+<text top="730" left="238" width="147" height="17" font="15">not shared with Bengali.</text>
+<text top="731" left="385" width="4" height="16" font="22"> </text>
+<text top="747" left="260" width="454" height="17" font="15">As  editors,  we  are  deeply  thankful  to  all  our  SOAS  colleagues  and </text>
+<text top="765" left="238" width="476" height="17" font="15">students  for  their  encouragement  and  support.  All  the  papers  have  been </text>
+<text top="782" left="238" width="476" height="17" font="15">double-blind  reviewed  by  external  referees  and  we  wish  to  thank  them  for </text>
+<text top="799" left="238" width="476" height="17" font="15">their participation in the evaluation process. We are extremely indebted to our </text>
+<text top="816" left="238" width="121" height="17" font="15">collaborators at the </text>
+<text top="816" left="360" width="159" height="17" font="19"><i>Surma Community Centre</i></text>
+<text top="816" left="519" width="195" height="17" font="15">, most particularly Faruk Miah, </text>
+<text top="834" left="238" width="475" height="17" font="15">Farhana  Ferdous,  and  Nadia  Akthar,  who  have  been  our  teachers  of  Sylheti </text>
+<text top="851" left="238" width="475" height="17" font="15">for  many  years.  This  volume  would  have  not  been  possible  without  the </text>
+<text top="868" left="238" width="476" height="17" font="15">assistance  of  EL  Publishing,  who  have  provided  advice  and  support </text>
+<text top="885" left="238" width="476" height="17" font="15">throughout, particularly Peter Austin, who helped in the final editing of these </text>
+<text top="903" left="238" width="476" height="17" font="15">papers,  and  Tom  Castle,  who  designed,  formatted  and  typeset  them.  Many </text>
+<text top="920" left="238" width="123" height="17" font="15">thanks to all of you. </text>
+<text top="937" left="238" width="4" height="17" font="15"> </text>
+<text top="937" left="454" width="4" height="17" font="18"><b> </b></text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1262" width="893">
+	<fontspec id="27" size="15" family="ABCDEE+Calibri" color="#000000"/>
+<text top="213" left="419" width="3" height="13" font="16"><i> </i></text>
+<text top="213" left="183" width="19" height="13" font="17">viii </text>
+<text top="250" left="183" width="85" height="17" font="18"><b>References </b></text>
+<text top="274" left="183" width="144" height="17" font="15">Chalmers,  Rod.  1996. </text>
+<text top="274" left="332" width="104" height="17" font="19"><i>Learning  Sylheti</i></text>
+<text top="274" left="436" width="223" height="17" font="15">.  London:  Centre  for  Bangladeshi </text>
+<text top="288" left="225" width="52" height="17" font="15">Studies. </text>
+<text top="310" left="183" width="168" height="17" font="15">Das,  Amrita  Rani.  2017. </text>
+<text top="310" left="357" width="301" height="17" font="19"><i>A  Comparative  Study  of  Bangla  and  Sylheti </i></text>
+<text top="324" left="225" width="102" height="17" font="19"><i>Grammar. Ph.D.</i></text>
+<text top="324" left="327" width="315" height="17" font="15"> thesis, Università degli Studi di Napoli Federico II. </text>
+<text top="346" left="183" width="476" height="17" font="15">Haspelmath,  Martin.  1995.  The  converb  as  a  cross-linguistically  valid </text>
+<text top="360" left="225" width="355" height="17" font="15">category. In Martin Haspelmath &amp; Ekkehard König (eds.) </text>
+<text top="360" left="581" width="77" height="17" font="19"><i>Converbs in </i></text>
+<text top="373" left="225" width="165" height="17" font="19"><i>cross-linguistic perspective</i></text>
+<text top="373" left="390" width="211" height="17" font="15">, 1-55. Berlin: Mouton de Gruyter. </text>
+<text top="396" left="183" width="476" height="17" font="15">Mishra,  Awadesh  K.  &amp;  Sudipta  Bhattacharjee.  2013.  Some  aspects  of  the </text>
+<text top="409" left="225" width="433" height="17" font="15">structure of Sylheti. In Awadesh K. Mishra, Melissa G. Wallang &amp; Ch. </text>
+<text top="423" left="225" width="146" height="17" font="15">Sarajubala  Devi  (eds.) </text>
+<text top="423" left="376" width="282" height="17" font="19"><i>Studies  in  Linguistics  of  the  North-Eastern </i></text>
+<text top="436" left="225" width="66" height="17" font="19"><i>Languages</i></text>
+<text top="436" left="291" width="307" height="17" font="15">, 70-96. Delhi: Lakshi Publishers and Distributors. </text>
+<text top="459" left="183" width="133" height="17" font="15">Nabila,  Sailo.  2012. </text>
+<text top="459" left="321" width="338" height="17" font="19"><i>Dialects  of  Brahmanbaria  and  Sylhet:  A  Linguistic </i></text>
+<text top="472" left="225" width="51" height="17" font="19"><i>Analysis</i></text>
+<text top="472" left="276" width="207" height="17" font="15">. MA thesis, University of Dhaka. </text>
+<text top="495" left="183" width="157" height="17" font="15">Plettner, Steven B. 2004. </text>
+<text top="495" left="341" width="317" height="17" font="19"><i>Syloti Grammar: A Description of the Grammar of </i></text>
+<text top="508" left="225" width="335" height="17" font="19"><i>the  Syloti  Language  Spoken  in  Northeast  Bangladesh</i></text>
+<text top="508" left="561" width="98" height="17" font="15">.  Dhaka:  AMC </text>
+<text top="522" left="225" width="74" height="17" font="15">Publishers.  </text>
+<text top="544" left="183" width="118" height="17" font="15">Tunga, S. S. 1995. </text>
+<text top="544" left="301" width="317" height="17" font="19"><i>Bengali and Other Related Dialects of South Assam</i></text>
+<text top="544" left="618" width="40" height="17" font="15">. New </text>
+<text top="558" left="225" width="160" height="17" font="15">Delhi: Mittal Publications.</text>
+<text top="560" left="385" width="3" height="15" font="27"> </text>
+<text top="583" left="183" width="4" height="17" font="15"> </text>
+</page>
+<outline>
+<item>00.pdf</item>
+<outline>
+<item page="1">Front matter</item>
+</outline>
+</outline>
+</pdf2xml>

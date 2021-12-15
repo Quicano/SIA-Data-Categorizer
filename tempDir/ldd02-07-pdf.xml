@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="892" width="629">
+	<fontspec id="0" size="18" family="Times New Roman" color="#000000"/>
+	<fontspec id="1" size="9" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="2" size="23" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="3" size="12" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="4" size="16" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="5" size="5" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="6" size="13" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="7" size="13" family="ABCDEE+Verdana,Italic" color="#000000"/>
+	<fontspec id="8" size="20" family="ABCDEE+Verdana,Bold" color="#000000"/>
+	<fontspec id="9" size="18" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="10" size="14" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="11" size="18" family="ABCDEE+Verdana,Bold" color="#000000"/>
+<text top="64" left="436" width="5" height="16" font="0"> </text>
+<text top="76" left="94" width="3" height="11" font="1"> </text>
+<text top="88" left="180" width="325" height="29" font="2">Language Documentation  </text>
+<text top="117" left="240" width="197" height="29" font="2">and Description </text>
+<text top="146" left="94" width="4" height="15" font="3"> </text>
+<text top="160" left="264" width="145" height="20" font="4">ISSN 1740-6234 </text>
+<text top="180" left="94" width="457" height="20" font="4">___________________________________________ </text>
+<text top="200" left="94" width="2" height="7" font="5"> </text>
+<text top="208" left="94" width="156" height="16" font="6">This article appears in:</text>
+<text top="208" left="250" width="323" height="16" font="7"><i> Language Documentation and Description, vol </i></text>
+<text top="224" left="94" width="9" height="16" font="7"><i>2</i></text>
+<text top="224" left="102" width="167" height="16" font="6">. Editor: Peter K. Austin </text>
+<text top="258" left="94" width="447" height="25" font="8"><b>Capacity building in an African context </b></text>
+<text top="292" left="94" width="14" height="22" font="9">G</text>
+<text top="296" left="108" width="49" height="17" font="10">ERRIT </text>
+<text top="292" left="156" width="14" height="22" font="9">D</text>
+<text top="296" left="170" width="88" height="17" font="10">IMMENDAAL</text>
+<text top="292" left="258" width="6" height="22" font="9"> </text>
+<text top="332" left="94" width="463" height="16" font="6">Cite this article: Gerrit Dimmendaal (2004). Capacity building in an </text>
+<text top="349" left="94" width="276" height="16" font="6">African context. In Peter K. Austin (ed.) </text>
+<text top="349" left="369" width="208" height="16" font="7"><i>Language Documentation and </i></text>
+<text top="365" left="94" width="119" height="16" font="7"><i>Description, vol 2</i></text>
+<text top="365" left="213" width="190" height="16" font="6">. London: SOAS. pp. 71-89 </text>
+<text top="390" left="94" width="392" height="16" font="6">Link to this article: http://www.elpublishing.org/PID/022 </text>
+<text top="416" left="94" width="334" height="16" font="6">This electronic version first published: July 2014 </text>
+<text top="432" left="94" width="434" height="16" font="6">__________________________________________________ </text>
+<text top="448" left="94" width="2" height="7" font="5"> </text>
+<text top="456" left="206" width="354" height="16" font="6">This article is published under a Creative Commons </text>
+<text top="472" left="206" width="364" height="16" font="6">License CC-BY-NC (Attribution-NonCommercial). The </text>
+<text top="489" left="206" width="363" height="16" font="6">licence permits users to use, reproduce, disseminate </text>
+<text top="505" left="94" width="449" height="16" font="6">or display the article provided that the author is attributed as the </text>
+<text top="522" left="94" width="456" height="16" font="6">original creator and that the reuse is restricted to non-commercial </text>
+<text top="538" left="94" width="320" height="16" font="6">purposes i.e. research or educational use. See </text>
+<text top="554" left="94" width="335" height="16" font="6">http://creativecommons.org/licenses/by-nc/4.0/ </text>
+<text top="571" left="94" width="468" height="16" font="6">______________________________________________________ </text>
+<text top="596" left="94" width="142" height="22" font="11"><b>EL Publishing </b></text>
+<text top="627" left="94" width="310" height="16" font="6">For more EL Publishing articles and services: </text>
+<text top="644" left="94" width="5" height="16" font="6"> </text>
+<text top="660" left="134" width="65" height="16" font="6">Website: </text>
+<text top="660" left="269" width="202" height="16" font="6">http://www.elpublishing.org  </text>
+<text top="676" left="134" width="99" height="16" font="6">Terms of use: </text>
+<text top="676" left="269" width="242" height="16" font="6">http://www.elpublishing.org/terms </text>
+<text top="693" left="134" width="96" height="16" font="6">Submissions: </text>
+<text top="693" left="269" width="285" height="16" font="6">http://www.elpublishing.org/submissions </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="892" width="630">
+	<fontspec id="12" size="10" family="LOJPCL+Times" color="#000000"/>
+	<fontspec id="13" size="10" family="LOJPDM+Times" color="#000000"/>
+	<fontspec id="14" size="14" family="LOJPEN+Helvetica" color="#000000"/>
+	<fontspec id="15" size="12" family="LOJPCL+Times" color="#000000"/>
+	<fontspec id="16" size="8" family="LOJPEN+Helvetica" color="#000000"/>
+	<fontspec id="17" size="8" family="LOJPCL+Times" color="#000000"/>
+	<fontspec id="18" size="6" family="LOJPCL+Times" color="#000000"/>
+<text top="829" left="105" width="406" height="10" font="12">Gerrit J. Dimmendaal (2004) Capacity building in an African context. In Peter K. Austin (ed.) </text>
+<text top="829" left="511" width="42" height="10" font="13"><i>Language</i></text>
+<text top="841" left="105" width="164" height="10" font="13"><i>Documentation and Description, Vol 2</i></text>
+<text top="841" left="269" width="103" height="10" font="12">, 71-89. London: SOAS.</text>
+<text top="81" left="105" width="274" height="14" font="14"><b>Capacity building in an African context</b></text>
+<text top="118" left="105" width="110" height="12" font="15">Gerrit J. Dimmendaal</text>
+<text top="160" left="133" width="411" height="12" font="15"> “An important aspect of doing justice to linguistic minorities… is that it is less a</text>
+<text top="177" left="133" width="421" height="12" font="15">question of money, and more a question of tolerance and a change of</text>
+<text top="194" left="133" width="177" height="12" font="15">consciousness. (Coulmas 1984:16)</text>
+<text top="237" left="105" width="12" height="14" font="14"><b>1.</b></text>
+<text top="237" left="134" width="86" height="14" font="14"><b>Introduction</b></text>
+<text top="235" left="221" width="5" height="8" font="16"><b>1</b></text>
+<text top="268" left="105" width="451" height="12" font="15">Many African countries are characterized by large numbers of languages, however they</text>
+<text top="285" left="105" width="449" height="12" font="15">differ with respect to the roles played by these languages in the educational system or</text>
+<text top="302" left="105" width="450" height="12" font="15">administration. As shown below through a comparison of the situation in Sudan (section</text>
+<text top="319" left="105" width="449" height="12" font="15">2) and Ethiopia (section 3), these differences also affect the state the fields of</text>
+<text top="336" left="105" width="449" height="12" font="15">descriptive and documentary linguistics find themselves in in these countries. And, not</text>
+<text top="353" left="105" width="449" height="12" font="15">unexpectedly, this situation also determines the relative need for capacity building. An</text>
+<text top="369" left="105" width="449" height="12" font="15">overview of language policies and capacity building in former British, French and</text>
+<text top="386" left="105" width="449" height="12" font="15">Portuguese colonies in Africa, as presented in section 4, should make clear that colonial</text>
+<text top="403" left="105" width="449" height="12" font="15">heritage is but one factor determining the current state of description and</text>
+<text top="420" left="105" width="449" height="12" font="15">documentation. Language policies in the post-colonial period have fluctuated in many</text>
+<text top="437" left="105" width="451" height="12" font="15">African countries; moreover, one frequently observes a discrepancy between the official</text>
+<text top="454" left="105" width="450" height="12" font="15">language policy and the actual policy as practised in a number of countries. The</text>
+<text top="471" left="105" width="449" height="12" font="15">presence of non-governmental organisations dealing with literacy projects, and</text>
+<text top="488" left="105" width="450" height="12" font="15">consequently, with the study of indigenous languages, appears to have had a positive</text>
+<text top="505" left="105" width="450" height="12" font="15">effect on the situation. For various historical reasons partly outlined below, the degree</text>
+<text top="522" left="105" width="449" height="12" font="15">of capacity building needed clearly differs between countries on the African continent.</text>
+<text top="539" left="105" width="449" height="12" font="15">Moreover, as argued in section 5, not all attempts to improve capacity building at the</text>
+<text top="556" left="105" width="450" height="12" font="15">national or regional level have been successful. As further argued in the same section,</text>
+<text top="573" left="105" width="449" height="12" font="15">one way out of this sometimes dramatic situation may be through intensive co-operation</text>
+<text top="589" left="105" width="354" height="12" font="15">between African universities and universities in Europe and America.</text>
+<text top="632" left="105" width="362" height="14" font="14"><b>2. Language policy and capacity building in Sudan</b></text>
+<text top="663" left="105" width="449" height="12" font="15">With some 180 distinct languages, many of which are poorly known, the linguistic</text>
+<text top="680" left="105" width="450" height="12" font="15">picture for the Federal Republic of Sudan is rather typical of a variety of African</text>
+<text top="697" left="105" width="449" height="12" font="15">countries. Today, Arabic is the most important language at the national level, in the</text>
+<text top="714" left="105" width="386" height="12" font="15">administration and the educational system. Ever since independence on 1</text>
+<text top="711" left="490" width="6" height="8" font="17">st</text>
+<text top="714" left="495" width="60" height="12" font="15"> of January</text>
+<text top="731" left="105" width="448" height="12" font="15">1956, the official role of Arabic has increased. Before independence, Sudan was under</text>
+<text top="748" left="105" width="449" height="12" font="15">the jurisdiction of Britain as well as of Egypt — in nominal recognition to the historical</text>
+<text top="765" left="105" width="450" height="12" font="15">claims of the khedive of Egypt. In line with a more general policy in their colonies, the</text>
+<text top="799" left="105" width="3" height="6" font="18">1</text>
+<text top="801" left="108" width="447" height="10" font="12"> I would like to express my thanks to the editor and an anonymous referee for their critical comments on</text>
+<text top="813" left="105" width="65" height="10" font="12">an earlier draft.</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="892" width="630">
+	<fontspec id="19" size="10" family="LOJPIM+Helvetica" color="#000000"/>
+<text top="41" left="75" width="12" height="10" font="19"><i>72</i></text>
+<text top="41" left="255" width="96" height="10" font="19"><i>Gerrit J. Dimmendall</i></text>
+<text top="81" left="75" width="449" height="12" font="15">British colonial government encouraged the use of Sudanese languages in the</text>
+<text top="98" left="75" width="449" height="12" font="15">educational system. At the important Rejaf Conference (1928), for example, six</text>
+<text top="115" left="75" width="450" height="12" font="15">vernacular languages from southern Sudan were selected as being suitable for</text>
+<text top="132" left="75" width="449" height="12" font="15">development and for use in schools: Dinka, Nuer, Ndogo, Zande, Shilluk, and Bari. In</text>
+<text top="148" left="75" width="450" height="12" font="15">the south, English also played an important role in the educational system, as well as at</text>
+<text top="165" left="75" width="344" height="12" font="15">the administrative level, during this so-called Condominium period.</text>
+<text top="195" left="105" width="420" height="12" font="15">Schools in southern Sudan used to be run by missionaries from Britain and other</text>
+<text top="212" left="75" width="449" height="12" font="15">European countries such as Italy. Only in 1957, after independence, were non-</text>
+<text top="229" left="75" width="450" height="12" font="15">governmental schools in the north and missionary schools in the south taken over by the</text>
+<text top="246" left="75" width="449" height="12" font="15">government. In the late 1960’s, Arabic became the official language of instruction in</text>
+<text top="263" left="75" width="449" height="12" font="15">schools throughout the country, although at the National Conference for Education in</text>
+<text top="280" left="75" width="449" height="12" font="15">Khartoum it was agreed that southern vernaculars written in the Arabic script could be</text>
+<text top="296" left="75" width="449" height="12" font="15">used as the media of instruction in the first two years of education in the rural areas of</text>
+<text top="313" left="75" width="450" height="12" font="15">the southern provinces; starting from the third year, Arabic should be the medium. From</text>
+<text top="330" left="75" width="449" height="12" font="15">1972 onwards, the final examinations in Grade 6 have been taken in Arabic throughout</text>
+<text top="347" left="75" width="61" height="12" font="15">the country.</text>
+<text top="377" left="105" width="419" height="12" font="15">Because of the conflict between the north and the south ever since independence,</text>
+<text top="394" left="75" width="449" height="12" font="15">Sudan has been in an almost permanent state of civil war, with a short period of relative</text>
+<text top="411" left="75" width="449" height="12" font="15">peace (following the Addis Ababa Agreement) between 1972 and 1983. The role of</text>
+<text top="428" left="75" width="449" height="12" font="15">Arabic in the educational system has increased over the past four decades, whilst the</text>
+<text top="445" left="75" width="449" height="12" font="15">role of other Sudanese languages, or English, has clearly decreased, although the</text>
+<text top="461" left="75" width="449" height="12" font="15">southern regions not controlled by the government in Khartoum have been less affected</text>
+<text top="478" left="75" width="176" height="12" font="15">by the changes in language policy.</text>
+<text top="508" left="105" width="420" height="12" font="15">In regions such as Darfur, Arabic was an important lingua franca in pre-colonial</text>
+<text top="525" left="75" width="449" height="12" font="15">times as well as during the Condominium period. Among several groups in the region</text>
+<text top="542" left="75" width="449" height="12" font="15">such as the ethnic Fur or Daju, this situation has resulted in a gradual shift towards</text>
+<text top="559" left="75" width="449" height="12" font="15">Arabic as the primary language of communication, often accompanied by a loss of the</text>
+<text top="576" left="75" width="448" height="12" font="15">heritage language. The Sudanese language policy after independence, in which the</text>
+<text top="593" left="75" width="450" height="12" font="15">crucial role of Arabic was emphasized, presumably had a catalyzing effect on negative</text>
+<text top="610" left="75" width="235" height="12" font="15">attitudes towards languages other than Arabic.</text>
+<text top="639" left="105" width="420" height="12" font="15">As in other parts of the world, an additional catalyzing factor affecting language</text>
+<text top="656" left="75" width="449" height="12" font="15">attitudes was, of course, urbanisation. The study by Miller and Abu-Manga (1989)</text>
+<text top="673" left="75" width="449" height="12" font="15">clearly shows that second-generation migrants in the larger Khartoum area, for example,</text>
+<text top="690" left="75" width="450" height="12" font="15">hardly ever acquire the first language of their parents. Although there are differences in</text>
+<text top="707" left="75" width="450" height="12" font="15">language solidarity between the various ethnic groups, there is a clear tendency among</text>
+<text top="724" left="75" width="449" height="12" font="15">second-generation speakers to use Arabic as their first language. In this respect, the</text>
+<text top="741" left="75" width="449" height="12" font="15">situation in Khartoum is comparable to many other major urbanized areas in Africa; in</text>
+<text top="758" left="75" width="449" height="12" font="15">such multilingual areas there is a strong tendency to switch either to the national</text>
+<text top="775" left="75" width="450" height="12" font="15">language of the country or to an important regional lingua franca for daily</text>
+<text top="791" left="75" width="130" height="12" font="15">communication purposes.</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="272" width="122" height="10" font="19"><i>Capacity building in Africa</i></text>
+<text top="41" left="540" width="12" height="10" font="19"><i>73</i></text>
+<text top="81" left="134" width="421" height="12" font="15">Because of the rather dramatic linguistic situation in the Darfur region in</text>
+<text top="98" left="105" width="449" height="12" font="15">particular, I decided in 2001 to try and help document a number of poorly-studied Nilo-</text>
+<text top="115" left="105" width="450" height="12" font="15">Saharan languages, more specifically members of the Tama group. With this aim in</text>
+<text top="132" left="105" width="449" height="12" font="15">mind, I headed for Khartoum in September 2002, in order to make contact with the</text>
+<text top="148" left="105" width="306" height="12" font="15">University of Khartoum and to apply for research clearance.</text>
+<text top="178" left="134" width="420" height="12" font="15">Travelling towards the Darfur region had become increasingly difficult as a result</text>
+<text top="195" left="105" width="449" height="12" font="15">of local conflicts, so I decided to start my research with consultants residing in the</text>
+<text top="212" left="105" width="448" height="12" font="15">greater Khartoum area. One evening, I was called by the reception desk of the hotel in</text>
+<text top="229" left="105" width="450" height="12" font="15">Khartoum where I stayed to tell me that I had visitors waiting for me. As it turned out,</text>
+<text top="246" left="105" width="449" height="12" font="15">some 10 speakers of Tima, a Kordofanian (Niger-Congo) language spoken in the Nuba</text>
+<text top="263" left="105" width="449" height="12" font="15">Mountains, wanted to talk to me. After we had exchanged greetings, their spokesman</text>
+<text top="280" left="105" width="450" height="12" font="15">told me there was a community of about 600 Tima speakers in the greater Khartoum</text>
+<text top="296" left="105" width="449" height="12" font="15">area, in particular in Bahri, who had decided they wanted to write their language. This,</text>
+<text top="313" left="105" width="449" height="12" font="15">they hoped, would enable them to teach their language to the younger generations living</text>
+<text top="330" left="105" width="449" height="12" font="15">in urbanized areas like Khartoum and growing up with Arabic as a first language. Also</text>
+<text top="347" left="105" width="449" height="12" font="15">their kin, back in the Nuba Mountains area, had expressed a strong interest in writing</text>
+<text top="364" left="105" width="307" height="12" font="15">their language so they could use it next to Arabic in schools.</text>
+<text top="394" left="134" width="420" height="12" font="15">The Tima in Khartoum wanted their children to learn their parents’ language, so</text>
+<text top="411" left="105" width="449" height="12" font="15">that they did not forget their origins, and could communicate with relatives (especially</text>
+<text top="428" left="105" width="450" height="12" font="15">their grandparents) when they visited their homelands in the Nuba Mountains. Although</text>
+<text top="445" left="105" width="449" height="12" font="15">most Tima are devout Muslims, they also felt the need to pass on some of their</text>
+<text top="461" left="105" width="450" height="12" font="15">traditional cultural values, preferably through the language intimately related with this</text>
+<text top="478" left="105" width="450" height="12" font="15">domain, namely Tima. I was told the Tima community did not deny the importance of</text>
+<text top="495" left="105" width="450" height="12" font="15">Arabic as the national language or its crucial role in the educational system. The</text>
+<text top="512" left="105" width="449" height="12" font="15">instrumental and integrative role of Arabic in Sudan was self-evident to them, or as they</text>
+<text top="529" left="105" width="449" height="12" font="15">put it, a good knowledge of the national language was essential for making one’s way in</text>
+<text top="546" left="105" width="94" height="12" font="15">the town or in life.</text>
+<text top="576" left="134" width="420" height="12" font="15">From conversations with the Tima representatives in Khartoum I also learned that</text>
+<text top="593" left="105" width="450" height="12" font="15">their community was deeply convinced that a good knowledge of the English language</text>
+<text top="610" left="105" width="449" height="12" font="15">was important because of its role as an international language of communication. To</text>
+<text top="626" left="105" width="449" height="12" font="15">this end, Tima people had sent representatives to Kenya in the early 1990s to find a</text>
+<text top="643" left="105" width="449" height="12" font="15">teacher of English who might be willing to teach this language in schools in their home</text>
+<text top="660" left="105" width="450" height="12" font="15">area. Apparently their mission was successful, and a Kenyan teacher worked as an</text>
+<text top="677" left="105" width="284" height="12" font="15">instructor in the Nuba Mountains for a number of years.</text>
+<text top="707" left="134" width="420" height="12" font="15">I have often wondered how my Tima visitors at the hotel in Khartoum came to</text>
+<text top="724" left="105" width="449" height="12" font="15">know of my presence and of my interest in Sudanese languages, but this has remained</text>
+<text top="741" left="105" width="449" height="12" font="15">an open question until today. I became so fascinated with this community showing pride</text>
+<text top="758" left="105" width="449" height="12" font="15">in their culture and language that I decided to try and help them to develop a writing</text>
+<text top="775" left="105" width="450" height="12" font="15">system for their mother tongue. Consequently, I started fieldwork not only on a number</text>
+<text top="791" left="105" width="449" height="12" font="15">of Nilo-Saharan languages as planned, but also on this Kordofanian language spoken by</text>
+<text top="808" left="105" width="450" height="12" font="15">a self-aware group of people from the Nuba Mountains. My primary aim was to</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="75" width="12" height="10" font="19"><i>74</i></text>
+<text top="41" left="255" width="96" height="10" font="19"><i>Gerrit J. Dimmendall</i></text>
+<text top="81" left="75" width="449" height="12" font="15">investigate the basic phonological and morphological structure of this language, in order</text>
+<text top="98" left="75" width="189" height="12" font="15">to be able to develop an orthography.</text>
+<text top="127" left="105" width="420" height="12" font="15">During the first few fieldwork sessions, the entire group of about ten people who</text>
+<text top="144" left="75" width="449" height="12" font="15">had visited me earlier on in the hotel was present. This turned out not to be a</text>
+<text top="161" left="75" width="450" height="12" font="15">particularly efficient way of investigating the language, although it became clear from</text>
+<text top="178" left="75" width="449" height="12" font="15">these group sessions which of the speakers would be the most talented consultants. I</text>
+<text top="195" left="75" width="450" height="12" font="15">subsequently suggested that we work in a smaller group first, and that the data and</text>
+<text top="212" left="75" width="450" height="12" font="15">analyses could be discussed with the whole group at a later stage. Although the Tima</text>
+<text top="229" left="75" width="449" height="12" font="15">group did not like this idea – they all wanted to be involved in the development of the</text>
+<text top="246" left="75" width="450" height="12" font="15">orthography – they did agree that my proposal would speed up this process (see Mosel,</text>
+<text top="263" left="75" width="449" height="12" font="15">this volume, who suggests working with at most three main consultants in dictionary</text>
+<text top="280" left="75" width="45" height="12" font="15">making).</text>
+<text top="309" left="105" width="420" height="12" font="15">After a series of fieldwork sessions in September 2002, and subsequent short</text>
+<text top="326" left="75" width="450" height="12" font="15">visits in the next two years, I gradually began to understand the sound structure of the</text>
+<text top="343" left="75" width="449" height="12" font="15">language as well as its morphosyntactic and pragmatic structure. Almost two years later,</text>
+<text top="360" left="75" width="450" height="12" font="15">the Tima community and I managed to develop a practical orthography using Latin</text>
+<text top="377" left="75" width="449" height="12" font="15">symbols which was in line with more general orthographic principles used for other</text>
+<text top="394" left="75" width="449" height="12" font="15">languages in Sudan. NGOs in the country involved in the development of orthographies</text>
+<text top="411" left="75" width="450" height="12" font="15">have established a convention whereby, for example, [+advanced] and [-advanced]</text>
+<text top="428" left="75" width="450" height="12" font="15">tongue root vowels are distinguished from each other by using the symbols i, e, a, o, u</text>
+<text top="445" left="75" width="449" height="12" font="15">for the latter set, and by adding a symbol “x” to each of these five vowels in order to</text>
+<text top="461" left="75" width="449" height="12" font="15">express [+advanced] tongue root vowels (ix, ex, ax, ox, ux). A number of Tima speakers</text>
+<text top="478" left="75" width="449" height="12" font="15">had excellent intuitions about distinctive sound units in their language. They discovered</text>
+<text top="495" left="75" width="450" height="12" font="15">additional phonological contrasts such as between a retroflex and a lateral trill; or</text>
+<text top="512" left="75" width="449" height="12" font="15">between a laminal and a retroflex lateral. Also, as a result of the important contributions</text>
+<text top="529" left="75" width="451" height="12" font="15">from an already overburdened NGO representative from America, we succeeded in</text>
+<text top="546" left="75" width="450" height="12" font="15">producing a first primer for Tima in which the orthographic conventions were explained</text>
+<text top="563" left="75" width="449" height="12" font="15">and illustrated. Moreover, a number of Tima with good knowledge of computers have</text>
+<text top="580" left="75" width="449" height="12" font="15">meanwhile started work on a Tima-Arabic-English wordlist as the initial step towards</text>
+<text top="597" left="75" width="449" height="12" font="15">making a dictionary. For the non-linguist – and the Tima speakers are no exception to</text>
+<text top="614" left="75" width="449" height="12" font="15">this – documenting a language means compiling a dictionary, writing a grammar is a</text>
+<text top="631" left="75" width="337" height="12" font="15">more abstract and less accessible activity (cf. Mosel, this volume).</text>
+<text top="660" left="105" width="420" height="12" font="15">The ‘Tima case’ would seem to provide a perfect example of what can be done by</text>
+<text top="677" left="75" width="449" height="12" font="15">dedicated non-professionals interested in the development of orthographies and teaching</text>
+<text top="694" left="75" width="449" height="12" font="15">materials in their mother tongue with the support and feedback of one or more</text>
+<text top="711" left="75" width="449" height="12" font="15">professional linguists; see also Foley and Mosel (this volume) for a discussion of such</text>
+<text top="728" left="75" width="450" height="12" font="15">initiatives in Papua New Guinea. But the same case also makes blatantly clear what is</text>
+<text top="745" left="75" width="449" height="12" font="15">currently lacking in a country like Sudan, namely sufficient expertise among their</text>
+<text top="762" left="75" width="449" height="12" font="15">fellow countrymen to help groups like the Tima with the development of their language.</text>
+<text top="779" left="75" width="449" height="12" font="15">There are a number of highly dedicated and competent scholars in the country, but it is</text>
+<text top="796" left="75" width="450" height="12" font="15">impossible for them, given their numerous other obligations, to actively support literacy</text>
+<text top="813" left="75" width="449" height="12" font="15">projects of this type. Consequently, in Sudan, expatriates working for NGOs play an</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="272" width="122" height="10" font="19"><i>Capacity building in Africa</i></text>
+<text top="41" left="540" width="12" height="10" font="19"><i>75</i></text>
+<text top="81" left="105" width="450" height="12" font="15">important role in orthography development projects. Whereas it is the official policy of</text>
+<text top="98" left="105" width="449" height="12" font="15">the current government of Sudan to reaffirm the central role of Arabic in all public</text>
+<text top="115" left="105" width="450" height="12" font="15">domains, the same government in fact does allow non-governmental organizations to</text>
+<text top="132" left="105" width="449" height="12" font="15">develop orthographies for other Sudanese languages. One can only be grateful to the</text>
+<text top="148" left="105" width="151" height="12" font="15">government for this tolerance</text>
+<text top="145" left="256" width="4" height="8" font="17">2</text>
+<text top="148" left="260" width="294" height="12" font="15">. At present there are over sixty different literacy projects</text>
+<text top="165" left="105" width="450" height="12" font="15">for languages from southern Sudan in particular, involving the production of primers for</text>
+<text top="182" left="105" width="450" height="12" font="15">schools to teach children reading and writing (in Latin script) in their mother tongue</text>
+<text top="199" left="105" width="450" height="12" font="15">(see also the study by Lüpke, this volume, on the use of Latin scripts in an Arabic-based</text>
+<text top="216" left="105" width="149" height="12" font="15">environment in West Africa).</text>
+<text top="246" left="134" width="420" height="12" font="15">In 2004, the Naivasha Peace Protocol was signed by the government of Sudan and</text>
+<text top="263" left="105" width="449" height="12" font="15">the Sudan People’s Liberation Movement after many years of military conflict mostly in</text>
+<text top="280" left="105" width="450" height="12" font="15">the south. This document states that Arabic is the most widely spoken national language</text>
+<text top="296" left="105" width="450" height="12" font="15">in Sudan, but also that all indigenous languages are national languages which shall be</text>
+<text top="313" left="105" width="449" height="12" font="15">respected, developed and promoted. Also, in addition to Arabic and English, the</text>
+<text top="330" left="105" width="449" height="12" font="15">legislature of any sub-national level of government may adopt any national language(s)</text>
+<text top="347" left="105" width="449" height="12" font="15">as additional official working language(s) at its level, whereas the use of either language</text>
+<text top="364" left="105" width="449" height="12" font="15">at any level of government or education shall not be discriminated against (Mugaddam</text>
+<text top="381" left="105" width="449" height="12" font="15">and Dimmendaal, to appear). Patterns of language use in modern Sudan nevertheless</text>
+<text top="398" left="105" width="449" height="12" font="15">suggest that many local languages are facing imminent disappearance if nothing is done</text>
+<text top="415" left="105" width="449" height="12" font="15">to implement the new language policy and to sustain linguistic and cultural diversity in</text>
+<text top="432" left="105" width="449" height="12" font="15">the country. Sudan, then, is a country where there is a particularly strong need for</text>
+<text top="449" left="105" width="449" height="12" font="15">capacity building and the training of academic staff capable of supervising and advising</text>
+<text top="466" left="105" width="450" height="12" font="15">their fellow countrymen in literacy projects. In this respect, the situation in the country</text>
+<text top="483" left="105" width="450" height="12" font="15">is comparable to that in the neighbouring country Ethiopia about a decade ago. But here</text>
+<text top="500" left="105" width="286" height="12" font="15">some dramatic changes have occurred, as is shown next.</text>
+<text top="542" left="105" width="187" height="14" font="14"><b>3. Ethiopia ten years after</b></text>
+<text top="574" left="105" width="450" height="12" font="15">With more than 80 different languages, Ethiopia is another country where</text>
+<text top="591" left="105" width="450" height="12" font="15">multilingualism is the norm, but where at the same time an African language</text>
+<text top="607" left="105" width="449" height="12" font="15">predominates at the national level. Until 1974, when the Derg regime took over from</text>
+<text top="624" left="105" width="451" height="12" font="15">the emperor Haile Selassie after a coup d’état, Amharic had been the sole language used</text>
+<text top="641" left="105" width="449" height="12" font="15">in education and the administration of the country. Though widespread as a lingua</text>
+<text top="658" left="105" width="449" height="12" font="15">franca, Amharic was not and is not known as a second language by all children</text>
+<text top="675" left="105" width="449" height="12" font="15">attending primary schools. Experiments in the 1960’s with languages like Yoruba in</text>
+<text top="692" left="105" width="449" height="12" font="15">Nigeria have shown that there are tremendous advantages to education in the mother</text>
+<text top="709" left="105" width="450" height="12" font="15">tongue. These experiments in Nigeria and other countries have led several African</text>
+<text top="743" left="105" width="3" height="6" font="18">2</text>
+<text top="745" left="108" width="446" height="10" font="12"> Bamgbose (1991: 115-17) has pointed out that traditional concepts of language policy and language</text>
+<text top="758" left="105" width="449" height="10" font="12">planning are rather Eurocentric. In the African context one may observe a discrepancy between the</text>
+<text top="770" left="105" width="450" height="10" font="12">official policy of a country and the actual practice. Sudan therefore is not unique in this respect. In</text>
+<text top="782" left="105" width="449" height="10" font="12">neighbouring Kenya, for example, there has been a declaration of intent to instate regional or local</text>
+<text top="794" left="105" width="449" height="10" font="12">languages in the educational system, but there does not seem to have been a programme of action.</text>
+<text top="807" left="105" width="450" height="10" font="12">Moreover, language policies also tend to fluctuate, changing with each new government or regime, as</text>
+<text top="818" left="105" width="121" height="10" font="12">shown in the Ethiopian case.</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="75" width="12" height="10" font="19"><i>76</i></text>
+<text top="41" left="255" width="96" height="10" font="19"><i>Gerrit J. Dimmendall</i></text>
+<text top="81" left="75" width="449" height="12" font="15">governments to a change in attitude towards the use of African languages over the past</text>
+<text top="98" left="75" width="43" height="12" font="15">decades.</text>
+<text top="127" left="105" width="420" height="12" font="15">The Ethiopian government under Mangistu Haile Mariam, installed in 1974,</text>
+<text top="144" left="75" width="449" height="12" font="15">developed a programme whereby the various “nationalities” (as the ethnic groups were</text>
+<text top="161" left="75" width="449" height="12" font="15">called) acquired the right to determine their political, economic and social life, and to</text>
+<text top="178" left="75" width="449" height="12" font="15">use their own language. This initiative of the Derg regime to stimulate the use of</text>
+<text top="195" left="75" width="450" height="12" font="15">regional or local languages in the educational system was thus in line with more</text>
+<text top="212" left="75" width="449" height="12" font="15">widespread changes in language policy initiated by several other African countries in</text>
+<text top="229" left="75" width="449" height="12" font="15">the 1960’s, as further illustrated in section 4 below. Unlike Sudan or most other African</text>
+<text top="246" left="75" width="449" height="12" font="15">countries, Ethiopia had never been colonized (except for a short period of occupation by</text>
+<text top="263" left="75" width="449" height="12" font="15">the Italians between 1935 and 1936), so European languages hardly played any role in</text>
+<text top="280" left="75" width="241" height="12" font="15">the educational system or other public services.</text>
+<text top="309" left="105" width="419" height="12" font="15">The government under Meles Zenawi that succeeded the Derg regime in 1991</text>
+<text top="326" left="75" width="449" height="12" font="15">continued the language policy of the former government. Moreover, contacts with</text>
+<text top="343" left="75" width="449" height="12" font="15">Eastern European countries became less tight, and the country became more open to the</text>
+<text top="360" left="75" width="449" height="12" font="15">West, as a result of which it also became easier for scholars from this part of the world</text>
+<text top="377" left="75" width="134" height="12" font="15">to do research in Ethiopia.</text>
+<text top="406" left="105" width="420" height="12" font="15">I first visited the country in 1992, because I wanted to improve the documentation</text>
+<text top="423" left="75" width="449" height="12" font="15">of poorly-known Surmic languages, a group of Nilo-Saharan languages spoken in the</text>
+<text top="440" left="75" width="449" height="12" font="15">south-western corner of the country as well as in southern Sudan. In order to apply for</text>
+<text top="457" left="75" width="449" height="12" font="15">research clearance and to establish contacts with Ethiopian colleagues interested in the</text>
+<text top="474" left="75" width="449" height="12" font="15">study of language, I visited the Institute of Ethiopian Studies and the Department of</text>
+<text top="491" left="75" width="449" height="12" font="15">Linguistics of Addis Ababa University. I met with a number of highly dedicated</text>
+<text top="508" left="75" width="450" height="12" font="15">colleagues, including a few younger teaching assistants, all of whom had to work with</text>
+<text top="525" left="75" width="450" height="12" font="15">very little means and poor logistical support. Obviously, there was a tremendous</text>
+<text top="542" left="75" width="289" height="12" font="15">potential there, but the infrastructure was rather desolate.</text>
+<text top="571" left="105" width="420" height="12" font="15">Under the new government installed in 1991, academics in Ethiopia were allowed</text>
+<text top="588" left="75" width="450" height="12" font="15">to establish contacts with universities in Western Europe and the United States. It also</text>
+<text top="605" left="75" width="449" height="12" font="15">became possible for them to travel to these countries, and scholars from outside were</text>
+<text top="622" left="75" width="450" height="12" font="15">allowed to do research in Ethiopia. With the existing language policy of the country, the</text>
+<text top="639" left="75" width="450" height="12" font="15">conditions for the expansion of linguistic studies in Ethiopia were therefore set. Over</text>
+<text top="656" left="75" width="449" height="12" font="15">the past ten years, several younger Ethiopian colleagues were able to study linguistics</text>
+<text top="673" left="75" width="449" height="12" font="15">abroad, and to obtain their PhD’s either abroad, or, with international support, in</text>
+<text top="690" left="75" width="75" height="12" font="15">Ethiopia itself.</text>
+<text top="720" left="105" width="419" height="12" font="15">Today, there are highly qualified specialists at Addis Ababa University in</text>
+<text top="736" left="75" width="449" height="12" font="15">virtually every sub-discipline within general linguistics as well as in the different</text>
+<text top="753" left="75" width="449" height="12" font="15">language families represented in the country. The linguists in question are actively</text>
+<text top="770" left="75" width="449" height="12" font="15">involved in various literacy projects, including standardisation projects for a number of</text>
+<text top="787" left="75" width="449" height="12" font="15">languages. The Department of Linguistics is still expanding in terms of the number of</text>
+<text top="804" left="75" width="450" height="12" font="15">staff members and students. The training of additional students will, of course, have a</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="272" width="122" height="10" font="19"><i>Capacity building in Africa</i></text>
+<text top="41" left="540" width="12" height="10" font="19"><i>77</i></text>
+<text top="81" left="105" width="449" height="12" font="15">tremendous spin-off effect, as several of them are supposed to become regional</text>
+<text top="98" left="105" width="248" height="12" font="15">specialists for different languages in the country.</text>
+<text top="127" left="134" width="420" height="12" font="15">Through active co-operation with a number of European universities, our</text>
+<text top="144" left="105" width="449" height="12" font="15">Ethiopian colleagues were able not only to stimulate capacity building in their country,</text>
+<text top="161" left="105" width="449" height="12" font="15">but also to build an excellent infrastructure, involving the improvement of library</text>
+<text top="178" left="105" width="449" height="12" font="15">facilities and the creation of a computer park with internet connections. Of course, this</text>
+<text top="195" left="105" width="449" height="12" font="15">does not mean that there are no problems or drawbacks. As further discussed in the</text>
+<text top="212" left="105" width="449" height="12" font="15">following section, mother tongue education, for example, does not necessarily meet</text>
+<text top="229" left="105" width="449" height="12" font="15">with enthusiasm amongst all of those involved. Nevertheless, this is an example of what</text>
+<text top="246" left="105" width="449" height="12" font="15">could be done – and should be done – in countries like Sudan, in order to stimulate</text>
+<text top="263" left="105" width="449" height="12" font="15">capacity building at an official level. The most important difference, of course, is that</text>
+<text top="280" left="105" width="449" height="12" font="15">the Sudanese government does not actively support the study of Sudanese languages</text>
+<text top="296" left="105" width="449" height="12" font="15">other than Arabic. But the same government at least does tolerate this kind of work as</text>
+<text top="313" left="105" width="450" height="12" font="15">carried out by Sudanese linguists as well as by NGO members interested in literacy</text>
+<text top="330" left="105" width="29" height="12" font="15">work.</text>
+<text top="373" left="105" width="12" height="14" font="14"><b>4.</b></text>
+<text top="373" left="134" width="406" height="14" font="14"><b>Language policies and capacity building in a comparative</b></text>
+<text top="392" left="134" width="82" height="14" font="14"><b>perspective</b></text>
+<text top="423" left="105" width="449" height="12" font="15">From the fifteenth century onwards, most regions on the African continent gradually</text>
+<text top="440" left="105" width="449" height="12" font="15">became politically dominated by European countries, resulting in the colonialisation of</text>
+<text top="457" left="105" width="449" height="12" font="15">most of Africa during the nineteenth century. In most African colonies, missionaries</text>
+<text top="474" left="105" width="450" height="12" font="15">were instrumental in the propagation of African languages in the educational system. As</text>
+<text top="491" left="105" width="450" height="12" font="15">early as 1816, the Church Missionary Society drew the attention of its West African</text>
+<text top="508" left="105" width="449" height="12" font="15">missions to the necessity and advantages of teaching local children to read in their own</text>
+<text top="525" left="105" width="450" height="12" font="15">language, a major motivation being “the desire to communicate a message”, as</text>
+<text top="542" left="105" width="450" height="12" font="15">Robinson (2000) put it. The first Yoruba newspaper in the former British colony of</text>
+<text top="559" left="105" width="449" height="12" font="15">Nigeria, for example, dates back to the 1830’s. In the report of the Phelps-Stokes</text>
+<text top="576" left="105" width="450" height="12" font="15">Commission (1922) the use of “the tribal language” was recommended in the lower</text>
+<text top="593" left="105" width="450" height="12" font="15">primary classes and the language of the European nation in control in the upper classes.</text>
+<text top="610" left="105" width="449" height="12" font="15">Moreover, the British colonial government also encouraged its officers to be conversant</text>
+<text top="626" left="105" width="449" height="12" font="15">with one or more local languages. Famous institutions like the International African</text>
+<text top="643" left="105" width="450" height="12" font="15">Institute or the School of Oriental and African Languages primarily owed their</text>
+<text top="660" left="105" width="449" height="12" font="15">existence to the political need to develop expertise in languages and cultures of the</text>
+<text top="677" left="105" width="82" height="12" font="15">colonized areas.</text>
+<text top="707" left="134" width="419" height="12" font="15">Although virtually all former British colonies continued to use African languages</text>
+<text top="724" left="105" width="449" height="12" font="15">in the educational system, there were clear differences in the role played by English as</text>
+<text top="741" left="105" width="449" height="12" font="15">against African languages. During the British colonial period, Swahili as well as</text>
+<text top="758" left="105" width="450" height="12" font="15">Luganda were recognized as languages of instruction in Uganda, for example. Swahili</text>
+<text top="775" left="105" width="449" height="12" font="15">was not as widespread as a lingua franca as in neighbouring Tanzania; however, opting</text>
+<text top="791" left="105" width="450" height="12" font="15">for Luganda as the national language in all likelihood would have caused political</text>
+<text top="808" left="105" width="449" height="12" font="15">tensions, because other ethnic groups would not have accepted this choice.</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="75" width="12" height="10" font="19"><i>78</i></text>
+<text top="41" left="255" width="96" height="10" font="19"><i>Gerrit J. Dimmendall</i></text>
+<text top="81" left="75" width="449" height="12" font="15">Consequently, the first president of the independent state of Uganda, Obote, declared:</text>
+<text top="98" left="75" width="449" height="12" font="15">“We find no alternative to English” as the national language. At the same time, a</text>
+<text top="115" left="75" width="449" height="12" font="15">continued effort was made after independence to assign major languages like Luganda</text>
+<text top="132" left="75" width="449" height="12" font="15">(and other languages) an important role in primary as well as secondary education in the</text>
+<text top="148" left="75" width="42" height="12" font="15">country.</text>
+<text top="178" left="105" width="419" height="12" font="15">The Ford Foundation financed a major survey of the linguistic situation in eastern</text>
+<text top="195" left="75" width="449" height="12" font="15">Africa in the 1960’s, as a result of which detailed monographs became available on the</text>
+<text top="212" left="75" width="450" height="12" font="15">sociolinguistic situation in countries like Uganda (see Ladefoged, Glick and Criper</text>
+<text top="229" left="75" width="450" height="12" font="15">1968, in general and Walusimbi 1968, in particular) as well as in Ethiopia, Kenya and</text>
+<text top="246" left="75" width="449" height="12" font="15">Tanzania. Today, there is quite an extensive body of literature (including novels, books</text>
+<text top="263" left="75" width="449" height="12" font="15">of proverbs, poetry, oral histories etc.) in a variety of languages spoken in Uganda,</text>
+<text top="280" left="75" width="442" height="12" font="15">although not all languages have received an equal amount of attention in this respect</text>
+<text top="276" left="517" width="4" height="8" font="17">3</text>
+<text top="280" left="521" width="3" height="12" font="15">.</text>
+<text top="296" left="75" width="450" height="12" font="15">Uganda would seem to be a country then, where a lot has been accomplished in terms of</text>
+<text top="313" left="75" width="428" height="12" font="15">corpus planning as well as capacity building at the national and at the regional level.</text>
+<text top="343" left="105" width="420" height="12" font="15">After independence, the newly established government of Tanzania under Nyerere</text>
+<text top="360" left="75" width="449" height="12" font="15">decided to use an African language (Swahili) at the national level as part of an ideology</text>
+<text top="377" left="75" width="450" height="12" font="15">in which self-reliance (“kujitegemea”) played a central role. Knowledge of Swahili as a</text>
+<text top="394" left="75" width="450" height="12" font="15">lingua franca was widespread in Tanzania at the time the country became independent;</text>
+<text top="411" left="75" width="450" height="12" font="15">moreover, the language was not associated with a specific ethnic group. Rather, as the</text>
+<text top="428" left="75" width="451" height="12" font="15">name Swahili (from the Arabic word for ‘coasts’) suggests, it was the contact language</text>
+<text top="445" left="75" width="449" height="12" font="15">used by coastal people. Its association with Islam did not constitute a barrier, as Islam</text>
+<text top="461" left="75" width="449" height="12" font="15">had already spread among groups living inland. Consequently, the choice of this</text>
+<text top="478" left="75" width="449" height="12" font="15">language as the national language was widely accepted by the Tanzanians. As a result of</text>
+<text top="495" left="75" width="449" height="12" font="15">this choice, however, African languages other than Swahili were banned from the</text>
+<text top="512" left="75" width="450" height="12" font="15">educational system. Today, there are a considerable number of highly qualified and</text>
+<text top="529" left="75" width="450" height="12" font="15">dedicated Swahili specialists in the country involved in corpus planning. Clearly,</text>
+<text top="546" left="75" width="432" height="12" font="15">capacity building in the area of Swahili scholarship has been quite successful indeed.</text>
+<text top="576" left="105" width="420" height="12" font="15">In Tanzania, one finds representatives from all four major African language phyla.</text>
+<text top="593" left="75" width="449" height="12" font="15">But for several decades in post-colonial Tanzania, it was not possible for foreign</text>
+<text top="610" left="75" width="449" height="12" font="15">scholars to study the approximately 80 other languages spoken in the country, because</text>
+<text top="626" left="75" width="449" height="12" font="15">officials were not willing to provide research permits. Because today Swahili is well-</text>
+<text top="643" left="75" width="449" height="12" font="15">established as the national language, the investigation of other languages in the country</text>
+<text top="660" left="75" width="450" height="12" font="15">is no longer perceived as a potential threat by the government. There is indeed a</text>
+<text top="677" left="75" width="450" height="12" font="15">renewed interest among Tanzanian scholars in studying and documentating the poorly-</text>
+<text top="694" left="75" width="449" height="12" font="15">known languages of the country, several of which are also endangered. It would seem,</text>
+<text top="711" left="75" width="449" height="12" font="15">however, that their documentation primarily serves academic interests, as there is no</text>
+<text top="728" left="75" width="449" height="12" font="15">sign that languages other than Swahili will be used in the educational system in the</text>
+<text top="745" left="75" width="94" height="12" font="15">foreseeable future.</text>
+<text top="780" left="75" width="3" height="6" font="18">3</text>
+<text top="782" left="78" width="446" height="10" font="12"> In a recent joint project on multilingualism between Makerere University and the University of</text>
+<text top="794" left="75" width="449" height="10" font="12">Hamburg, the role of African languages in Uganda (more specifically, of Nilotic languages like Acholi,</text>
+<text top="807" left="75" width="449" height="10" font="12">Kumam and Lango) as against English in written communication has been investigated. The results of</text>
+<text top="818" left="75" width="151" height="10" font="12">this project are still to be published.</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="272" width="122" height="10" font="19"><i>Capacity building in Africa</i></text>
+<text top="41" left="540" width="12" height="10" font="19"><i>79</i></text>
+<text top="81" left="134" width="419" height="12" font="15">With more than 400 distinct languages, Nigeria probably has the highest level of</text>
+<text top="98" left="105" width="449" height="12" font="15">linguistic complexity in Africa. As mentioned above, experiments with the introduction</text>
+<text top="115" left="105" width="449" height="12" font="15">of African languages in primary school education in the 1960’s set an important trend,</text>
+<text top="132" left="105" width="450" height="12" font="15">not only in the country itself, but also in a range of other countries on the continent.</text>
+<text top="148" left="105" width="449" height="12" font="15">Experiments such as the Six-Year Primary Project in the Western State in Nigeria, using</text>
+<text top="165" left="105" width="449" height="12" font="15">Yoruba for the full six years, with English being taught as a subject by specialists,</text>
+<text top="182" left="105" width="449" height="12" font="15">showed that the initial use of the mother tongue gives a child a solid cognitive and</text>
+<text top="199" left="105" width="449" height="12" font="15">conceptual base, also facilitating the acquisition of additional languages such as English</text>
+<text top="216" left="105" width="221" height="12" font="15">at a later point in primary school education.</text>
+<text top="246" left="134" width="420" height="12" font="15">At the Nigerian National Curriculum Conference in 1969, it was decided that the</text>
+<text top="263" left="105" width="449" height="12" font="15">Nigerian primary school child should be well-grounded in his mother tongue. During</text>
+<text top="280" left="105" width="450" height="12" font="15">the next decades, three major languages (Hausa, Yoruba and Igbo) were strongly</text>
+<text top="296" left="105" width="449" height="12" font="15">emphasized at the national level, and several medium size languages at the state level,</text>
+<text top="313" left="105" width="447" height="12" font="15">with hundreds of smaller languages being introduced at the local and community levels.</text>
+<text top="343" left="134" width="420" height="12" font="15">Nigeria has many well-trained linguists today, several of whom are also involved</text>
+<text top="360" left="105" width="449" height="12" font="15">in applied linguistics projects, more specifically in corpus planning for a variety of</text>
+<text top="377" left="105" width="450" height="12" font="15">languages. At the same time, the sheer scale of the linguistic complexity of this</text>
+<text top="394" left="105" width="449" height="12" font="15">‘fragmentation belt’ and the dramatic degree of language shift as a result of the</text>
+<text top="411" left="105" width="448" height="12" font="15">dominance of lingua francas such as Hausa, Yoruba or Igbo, also make clear that active</text>
+<text top="428" left="105" width="348" height="12" font="15">support of linguistic research of Nigerian languages is badly needed.</text>
+<text top="457" left="134" width="420" height="12" font="15">In parallel with countries like Tanzania, the former British protectorate Botswana</text>
+<text top="474" left="105" width="449" height="12" font="15">followed the one nation one language principle after independence (although English</text>
+<text top="491" left="105" width="450" height="12" font="15">continued to play a much more important role there probably due to the presence of</text>
+<text top="508" left="105" width="450" height="12" font="15">neighbouring countries like South Africa), in other words, Botswana did not pursue an</text>
+<text top="525" left="105" width="130" height="12" font="15">active endoglossic policy</text>
+<text top="522" left="234" width="4" height="8" font="17">4</text>
+<text top="525" left="238" width="316" height="12" font="15">, even though Setswana became the national language. In the</text>
+<text top="542" left="105" width="450" height="12" font="15">1970’s, the Setswana Language Panel developed a standard orthography for the</text>
+<text top="559" left="105" width="449" height="12" font="15">language and started producing the first books in Setswana for primary schools.</text>
+<text top="576" left="105" width="449" height="12" font="15">Botswana is a country where there are still quite a few Khoisan languages spoken. For a</text>
+<text top="593" left="105" width="450" height="12" font="15">number of years, it was problematic to acquire clearance for research on these</text>
+<text top="610" left="105" width="450" height="12" font="15">typologically extremely interesting minority languages, as a result of which many of</text>
+<text top="626" left="105" width="450" height="12" font="15">them are still poorly known. Nevertheless, NGOs were allowed to continue working on</text>
+<text top="643" left="105" width="449" height="12" font="15">a number of Khoisan languages, and although orthographies have been developed for</text>
+<text top="660" left="105" width="449" height="12" font="15">only a few of them, some progress has been made in this respect. Nevertheless, the</text>
+<text top="677" left="105" width="449" height="12" font="15">number of scholars, whether from Botswana or abroad, interested in working on</text>
+<text top="694" left="105" width="247" height="12" font="15">Khoisan languages still appears to be rather low.</text>
+<text top="724" left="134" width="421" height="12" font="15">In neighbouring Namibia, who became independent in 1990, English was chosen</text>
+<text top="741" left="105" width="450" height="12" font="15">as the official language. The major aim of primary education (a cycle of seven years) is</text>
+<text top="758" left="105" width="450" height="12" font="15">to develop enough competence in English for the pupils to be able to continue their</text>
+<text top="775" left="105" width="450" height="12" font="15">education in the secondary cycle, where English is the sole language of education. Just</text>
+<text top="804" left="105" width="3" height="6" font="18">4</text>
+<text top="807" left="108" width="447" height="10" font="12"> Heine (1992) has called the use of one or more indigenous languages as opposed to the use of foreign</text>
+<text top="818" left="105" width="345" height="10" font="12">languages as primary media of communication “endoglossy” versus “exoglossy”.</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="75" width="12" height="10" font="19"><i>80</i></text>
+<text top="41" left="255" width="96" height="10" font="19"><i>Gerrit J. Dimmendall</i></text>
+<text top="81" left="75" width="449" height="12" font="15">as in numerous other African countries, whether former British, French, or Portuguese</text>
+<text top="98" left="75" width="450" height="12" font="15">colonies, education in the home language or mother tongue, at least during the first</text>
+<text top="115" left="75" width="450" height="12" font="15">three years (where available), is encouraged as well. Apart from Bantu languages, there</text>
+<text top="132" left="75" width="449" height="12" font="15">are several Khoisan languages spoken in Namibia. For the Khoisan language Nama</text>
+<text top="148" left="75" width="450" height="12" font="15">there is a body of literature available. A number of other Khoisan languages are now</text>
+<text top="165" left="75" width="450" height="12" font="15">being investigated with the support of the DoBeS Endangered Languages Programme of</text>
+<text top="182" left="75" width="449" height="12" font="15">the Volkswagen Foundation. An active involvement through capacity building among</text>
+<text top="199" left="75" width="375" height="12" font="15">native speakers of Khoisan languages is a desideratum for the near future.</text>
+<text top="229" left="105" width="420" height="12" font="15">In French and Portuguese colonies the interest of the colonial governments in</text>
+<text top="246" left="75" width="450" height="12" font="15">African languages was less clear-cut. Language policies in the post-colonial period</text>
+<text top="263" left="75" width="449" height="12" font="15">nevertheless resemble those of former British colonies, because most governments of</text>
+<text top="280" left="75" width="449" height="12" font="15">newly-created independent states decided to pursue the same language policy as</text>
+<text top="296" left="75" width="221" height="12" font="15">governments in the former British colonies.</text>
+<text top="326" left="105" width="421" height="12" font="15">As pointed out in various studies, ‘assimilation’ was a major ideological</text>
+<text top="343" left="75" width="450" height="12" font="15">component of the French colonial policy. The ‘mission civilisatrice’ involved acquiring</text>
+<text top="360" left="75" width="449" height="12" font="15">a good knowledge of the French language as its chief instrument. Interestingly,</text>
+<text top="377" left="75" width="449" height="12" font="15">education in the first school established in the former French colony of Senegal, opened</text>
+<text top="394" left="75" width="450" height="12" font="15">in 1817, took place in French and in Wolof, the most important lingua franca of the</text>
+<text top="411" left="75" width="451" height="12" font="15">area. Some twelve years later, however, the Governor-General of the region decreed</text>
+<text top="428" left="75" width="449" height="12" font="15">that the focus should be on French in education. Although mother tongue education was</text>
+<text top="445" left="75" width="450" height="12" font="15">not encouraged, at least officially, missionaries, who were also responsible for</text>
+<text top="461" left="75" width="450" height="12" font="15">education, were more practical and sometimes did use African languages even in areas</text>
+<text top="478" left="75" width="450" height="12" font="15">colonized by France. Their contributions provided an important impetus to the</text>
+<text top="495" left="75" width="449" height="12" font="15">development of African languages outside the domain of oral communication even</text>
+<text top="512" left="75" width="111" height="12" font="15">during colonial times.</text>
+<text top="542" left="105" width="420" height="12" font="15">Although French is still the official language in former French colonies like</text>
+<text top="559" left="75" width="449" height="12" font="15">Burkina Faso, Mali or the Ivory Coast, regional languages do play an important role,</text>
+<text top="576" left="75" width="449" height="12" font="15">particularly in primary education. Corpus planning occurred, not only for dominant</text>
+<text top="593" left="75" width="449" height="12" font="15">lingua francas like Bambara or Moore in countries like Mali or Burkina Faso, but also</text>
+<text top="610" left="75" width="449" height="12" font="15">for a variety of other languages, several of which are not used as languages of wider</text>
+<text top="626" left="75" width="449" height="12" font="15">communication. Nevertheless, generally speaking, “the greater the extent of use of the</text>
+<text top="643" left="75" width="449" height="12" font="15">lingua francas the more they are integrated into explicit policies and the greater</text>
+<text top="660" left="75" width="450" height="12" font="15">prominence they have alongside the colonial languages”, as Robinson (2000: 399) put</text>
+<text top="677" left="75" width="449" height="12" font="15">it. Capacity building in these countries as well as additional training abroad, mainly in</text>
+<text top="694" left="75" width="449" height="12" font="15">France, has resulted in the establishment of an academic community actively involved</text>
+<text top="711" left="75" width="450" height="12" font="15">in language planning and corpus planning. At the same time, several languages have</text>
+<text top="728" left="75" width="449" height="12" font="15">hardly been investigated by linguists; moreover, as pointed out by Jeffrey Heath (pers.</text>
+<text top="745" left="75" width="450" height="12" font="15">comm.), based on his extensive field experience in Mali, there may still be several more</text>
+<text top="762" left="75" width="241" height="12" font="15">languages in the area than are officially known.</text>
+<text top="791" left="105" width="420" height="12" font="15">In terms of linguistic complexity, Cameroon is somewhat comparable to</text>
+<text top="808" left="75" width="450" height="12" font="15">neighbouring Nigeria. Cameroon emerged as an independent state through the</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="272" width="122" height="10" font="19"><i>Capacity building in Africa</i></text>
+<text top="41" left="540" width="12" height="10" font="19"><i>81</i></text>
+<text top="81" left="105" width="449" height="12" font="15">unification of the former French mandate of East Cameroon (which became</text>
+<text top="98" left="105" width="449" height="12" font="15">independent in 1961) with the former British part. As pointed out in Echu (1999),</text>
+<text top="115" left="105" width="449" height="12" font="15">French and English became the official languages of the country so as to acquire easier</text>
+<text top="132" left="105" width="449" height="12" font="15">international access. Also, none of the 260+ Cameroonian languages was standardized</text>
+<text top="148" left="105" width="449" height="12" font="15">at the time the country emerged as an independent state. Moreover, educational</text>
+<text top="165" left="105" width="449" height="12" font="15">materials were insufficient for any of these languages to be introduced as a national</text>
+<text top="182" left="105" width="449" height="12" font="15">language. What is more, none of these languages had the (neutral) status of languages</text>
+<text top="199" left="105" width="449" height="12" font="15">like Swahili in Tanzania. Opting for one of them at the national level presumably would</text>
+<text top="216" left="105" width="449" height="12" font="15">have triggered interethnic conflicts. Just as other African countries, however, Cameroon</text>
+<text top="233" left="105" width="450" height="12" font="15">started mother tongue education in the 1980’s. The first two primary schools introduced</text>
+<text top="250" left="105" width="449" height="12" font="15">education in the mother tongue in 1981. Five years later, eleven primary schools</text>
+<text top="267" left="105" width="449" height="12" font="15">followed, using languages like Ewondo, Fe’Fe’, and Duala as a medium of instruction.</text>
+<text top="284" left="105" width="449" height="12" font="15">Through the constitution of 1996, Cameroonian vernaculars were protected and their</text>
+<text top="301" left="105" width="450" height="12" font="15">use encouraged. Meanwhile 38 Cameroonian languages apparently are being used in</text>
+<text top="318" left="105" width="449" height="12" font="15">primary education (Pius Tamanji, pers. comm.). Mirroring the strategy in numerous</text>
+<text top="335" left="105" width="449" height="12" font="15">other African countries, a gradual switch towards the official languages, French or</text>
+<text top="351" left="105" width="327" height="12" font="15">English, occurs in the upper grades of primary school education.</text>
+<text top="381" left="134" width="419" height="12" font="15">As in many other African countries, NGOs continue to play an important role in</text>
+<text top="398" left="105" width="449" height="12" font="15">the development of sociolinguistic surveys as well as in the creation of orthographies in</text>
+<text top="415" left="105" width="449" height="12" font="15">former French colonies like Burkina Faso or Cameroon. Capacity building at</text>
+<text top="432" left="105" width="449" height="12" font="15">universities in these countries through study abroad has resulted over the past decades in</text>
+<text top="449" left="105" width="426" height="12" font="15">the creation of a group of highly qualified scholars in the area of applied linguistics.</text>
+<text top="478" left="134" width="419" height="12" font="15">Similar accounts of the colonial heritage can be made with respect to former</text>
+<text top="495" left="105" width="449" height="12" font="15">Portuguese colonies like Mozambique and Angola. There was very little interest indeed</text>
+<text top="512" left="105" width="449" height="12" font="15">in colonial government circles in using African languages in education. Mother tongue</text>
+<text top="529" left="105" width="450" height="12" font="15">use clearly was discouraged in former Portuguese colonies. Moreover, there was a legal</text>
+<text top="546" left="105" width="449" height="12" font="15">requirement that nothing should appear in an African language without a concurrent</text>
+<text top="563" left="105" width="450" height="12" font="15">translation in Portuguese. The severe drawbacks for literacy campaigns in these</text>
+<text top="580" left="105" width="449" height="12" font="15">countries both during colonial times and in the post-colonial era were obvious. As Prah</text>
+<text top="597" left="105" width="449" height="12" font="15">(1995: 41) pointed out, only 1.2% of the population in Mozambique actually speaks</text>
+<text top="614" left="105" width="449" height="12" font="15">Portuguese as a first language. Around 23.2% of the population is bilingual in</text>
+<text top="631" left="105" width="449" height="12" font="15">Portuguese and an African language. Obviously, in a situation like this, mother tongue</text>
+<text top="648" left="105" width="449" height="12" font="15">education is a crucial step in all orthography campaigns. Dramatic drops in illiteracy</text>
+<text top="665" left="105" width="449" height="12" font="15">rates have been achieved through such campaigns in other African countries, though the</text>
+<text top="681" left="105" width="449" height="12" font="15">actual number of illiterates is still relatively high compared to many other parts of the</text>
+<text top="698" left="105" width="449" height="12" font="15">world for other reasons as well, e.g. the socio-economic situation which forces children</text>
+<text top="715" left="105" width="339" height="12" font="15">to drop out of school at an early age (see also Lüpke, this volume).</text>
+<text top="745" left="134" width="419" height="12" font="15">Today, there is active interest in the study of indigenous languages for practical</text>
+<text top="762" left="105" width="449" height="12" font="15">purposes in Mozambique. Moreover, the government supports the training of scholars in</text>
+<text top="779" left="105" width="450" height="12" font="15">linguistics at different universities abroad. In this respect, the colonial legacy in former</text>
+<text top="796" left="105" width="365" height="12" font="15">Portuguese, as well as French colonies, appears to have been overcome.</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="75" width="12" height="10" font="19"><i>82</i></text>
+<text top="41" left="255" width="96" height="10" font="19"><i>Gerrit J. Dimmendall</i></text>
+<text top="81" left="105" width="420" height="12" font="15">A number of African scholars (e.g. Bamgbose 2000) have criticized the canonical</text>
+<text top="98" left="75" width="450" height="12" font="15">model of language policy formulation, claiming that focussing on corpus planning and</text>
+<text top="115" left="75" width="449" height="12" font="15">government-oriented implementation is idealistic and Eurocentric. Legislation is useful</text>
+<text top="132" left="75" width="449" height="12" font="15">only when accompanied by a detailed plan for implementation with a time frame,</text>
+<text top="148" left="75" width="449" height="12" font="15">sanctions etc., a characteristic which is not necessarily present yet in modern African</text>
+<text top="165" left="75" width="31" height="12" font="15">states.</text>
+<text top="195" left="105" width="420" height="12" font="15">As observed by the same author, language policies in African countries also tend</text>
+<text top="212" left="75" width="450" height="12" font="15">to fluctuate. In Congo (former Zaire), a country with over 200 languages, French has</text>
+<text top="229" left="75" width="449" height="12" font="15">been the official language ever since Independence. In 1962 a decree stated that in the</text>
+<text top="246" left="75" width="450" height="12" font="15">interest of national unity French alone should be used, however the important role of the</text>
+<text top="263" left="75" width="449" height="12" font="15">four major regional languages, or of the languages of the child’s environment, was re-</text>
+<text top="280" left="75" width="450" height="12" font="15">emphasized in education. Thus, the four regional languages, Ciluba, Kikongo, Lingala</text>
+<text top="296" left="75" width="449" height="12" font="15">and Swahili continue to play an important role in education. But the role of the state in</text>
+<text top="313" left="75" width="450" height="12" font="15">this respect is rather minimal in Congo. NGOs like the Summer Institute of Linguistics</text>
+<text top="330" left="75" width="449" height="12" font="15">(SIL) not only actively support Bible translations, but also the implementation of</text>
+<text top="347" left="75" width="450" height="12" font="15">regional languages other than the four mentioned above in the educational system.</text>
+<text top="364" left="75" width="449" height="12" font="15">Indeed, SIL is running the programme in various parts of the Congo. As Robinson</text>
+<text top="381" left="75" width="450" height="12" font="15">(2000: 405), himself a member of this organisation, formulates it: “the grassroots can</text>
+<text top="398" left="75" width="449" height="12" font="15">bring the multilingual realities of Africa life back into policies that were for too long</text>
+<text top="415" left="75" width="152" height="12" font="15">based on extraneous models.”</text>
+<text top="445" left="105" width="419" height="12" font="15">The crucial role of NGOs in the study of lesser-known languages and the</text>
+<text top="461" left="75" width="450" height="12" font="15">stimulation of capacity building in a retreating state like Congo are obvious. Where</text>
+<text top="478" left="75" width="449" height="12" font="15">possible, co-ordination between NGOs, the central government, and with the various</text>
+<text top="495" left="75" width="450" height="12" font="15">official boards or organisations in the country should be aimed for in order to be</text>
+<text top="512" left="75" width="449" height="12" font="15">maximally effective. In the former French colony of Guinea, it has to be concluded,</text>
+<text top="529" left="75" width="449" height="12" font="15">unfortunately – as pointed out by Erhard Voeltz (pers. comm.), a linguist who has lived</text>
+<text top="546" left="75" width="450" height="12" font="15">and worked in the country for several years – that there is very little co-operation</text>
+<text top="563" left="75" width="449" height="12" font="15">between NGOs and school boards, or official organisations such as the Service</text>
+<text top="580" left="75" width="450" height="12" font="15">d’Alphabétisation or Centre d’Etudes des Langues Guinéennes (CELG). One</text>
+<text top="597" left="75" width="449" height="12" font="15">unfortunate outcome of this situation in Guinea is the involuntary continuation of the</text>
+<text top="614" left="75" width="449" height="12" font="15">Jakobinian language policy involving the dominant role of French, further aggravated</text>
+<text top="631" left="75" width="255" height="12" font="15">by political and economical pressure from France.</text>
+<text top="660" left="105" width="419" height="12" font="15">Although international lingua francas like English or French should continue to be</text>
+<text top="677" left="75" width="450" height="12" font="15">taught as subjects in African countries, the disadvantages of using a European language</text>
+<text top="694" left="75" width="449" height="12" font="15">in primary education are obvious. There is a (generally) positive evaluation of European</text>
+<text top="711" left="75" width="450" height="12" font="15">languages, especially in official domains, because of their instrumental role and the</text>
+<text top="728" left="75" width="449" height="12" font="15">socio-economic gains associated with their command, as the Tima community referred</text>
+<text top="745" left="75" width="449" height="12" font="15">to earlier pointed to me. Rightly or wrongly, European languages, as opposed to local</text>
+<text top="762" left="75" width="449" height="12" font="15">African languages, tend to be associated with modernity versus traditionalism;</text>
+<text top="779" left="75" width="450" height="12" font="15">moreover, there is a widespread feeling among different communities that their</text>
+<text top="796" left="75" width="205" height="12" font="15">languages are not suitable for education.</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="272" width="122" height="10" font="19"><i>Capacity building in Africa</i></text>
+<text top="41" left="540" width="12" height="10" font="19"><i>83</i></text>
+<text top="81" left="134" width="419" height="12" font="15">Exclusion, arising from lack of a shared medium, may be observed in the political</text>
+<text top="98" left="105" width="449" height="12" font="15">history of various African countries. A strategy by which people in power maintain their</text>
+<text top="115" left="105" width="449" height="12" font="15">privileges via language choices, i.e. elite closure, as Myers-Scotton (1990:25) has called</text>
+<text top="132" left="105" width="449" height="12" font="15">it, no doubt played a role amongst those in power during the apartheid period in South-</text>
+<text top="148" left="105" width="449" height="12" font="15">Africa, where black South Africans were denied access to English. But similar</text>
+<text top="165" left="105" width="450" height="12" font="15">ideologies presumably have played and continue to play a role as part of a hidden</text>
+<text top="182" left="105" width="449" height="12" font="15">agenda of the new elites in other African countries where English or French is the</text>
+<text top="199" left="105" width="89" height="12" font="15">official language.</text>
+<text top="229" left="134" width="420" height="12" font="15">In South Africa, English was the official language during the British colonial</text>
+<text top="246" left="105" width="449" height="12" font="15">period, and in 1925 Afrikaans acquired the same status. It was only during the post-</text>
+<text top="263" left="105" width="449" height="12" font="15">apartheid period, more specifically with the establishment of the new constitution in</text>
+<text top="280" left="105" width="450" height="12" font="15">1996, that nine additional languages gained the same official status, subject to</text>
+<text top="296" left="105" width="450" height="12" font="15">concomitant provisions. But English still is the most important language in the</text>
+<text top="313" left="105" width="450" height="12" font="15">administrative and educational system. Moreover, local authorities are not required to</text>
+<text top="330" left="105" width="449" height="12" font="15">use a specific language in administration. Although the constitution does not exclude</text>
+<text top="347" left="105" width="449" height="12" font="15">this option, Khoisan languages like Nama do not have official status in South Africa.</text>
+<text top="364" left="105" width="449" height="12" font="15">Radio and television nevertheless are multilingual these days; for example, Khoisan</text>
+<text top="381" left="105" width="327" height="12" font="15">languages like !Xu or Khwe are now used in radio broadcasting.</text>
+<text top="411" left="134" width="420" height="12" font="15">The perceived socio-economic mobility associated with a language can determine</text>
+<text top="428" left="105" width="449" height="12" font="15">the success of that language as a medium of instruction. If English continues to play a</text>
+<text top="445" left="105" width="450" height="12" font="15">crucial role in socio-economic mobility, pupils and their parents will want this language</text>
+<text top="461" left="105" width="450" height="12" font="15">to hold centre stage in education. Obviously, in countries where many different</text>
+<text top="478" left="105" width="449" height="12" font="15">languages are spoken, there is also a need for a language of wider communication, be it</text>
+<text top="495" left="105" width="449" height="12" font="15">Amharic, Hausa, or even European languages like English, French or Portuguese, when</text>
+<text top="512" left="105" width="449" height="12" font="15">there is no regional lingua franca available. This prerequisite will necessarily restrict the</text>
+<text top="529" left="105" width="449" height="12" font="15">scope of education in the mother tongue. Moreover, there is always a latent danger of</text>
+<text top="546" left="105" width="450" height="12" font="15">encouraging insularity among ethnic groups and of undermining ‘nationism’ (not to be</text>
+<text top="563" left="105" width="450" height="12" font="15">confused with nationalism), as Bamgbose (1991) has called the ideology aiming at the</text>
+<text top="580" left="105" width="161" height="12" font="15">creation of a collective identity.</text>
+<text top="610" left="134" width="419" height="12" font="15">As pointed out by Baker (1992: 5), changing attitudes is often a major part of the</text>
+<text top="626" left="105" width="450" height="12" font="15">formal or hidden agenda of language planning. But attitudes change only when there is</text>
+<text top="643" left="105" width="449" height="12" font="15">some reward. In Ethiopia, there is resistance against the dominant role of regional</text>
+<text top="660" left="105" width="450" height="12" font="15">languages in primary education. Parents feel that a good command of the national</text>
+<text top="677" left="105" width="449" height="12" font="15">language Amharic is important for social mobility. The use of regional or local</text>
+<text top="694" left="105" width="449" height="12" font="15">languages in the educational system, whether in South Africa or in Ethiopia (and</text>
+<text top="711" left="105" width="449" height="12" font="15">elsewhere), can only be successful if it is combined with curriculum development.</text>
+<text top="728" left="105" width="449" height="12" font="15">Developing an orthography and teaching it during the first years of primary education is</text>
+<text top="745" left="105" width="449" height="12" font="15">clearly not enough to keep a language going. Moreover, the scope of language planning</text>
+<text top="762" left="105" width="449" height="12" font="15">should not be confined to educational language policy alone. The significance of a</text>
+<text top="779" left="105" width="449" height="12" font="15">language will be increased through its use in a wider range of domains, e.g. making</text>
+<text top="796" left="105" width="448" height="12" font="15">active knowledge of a language a compulsory requirement for certain governmental</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="75" width="12" height="10" font="19"><i>84</i></text>
+<text top="41" left="255" width="96" height="10" font="19"><i>Gerrit J. Dimmendall</i></text>
+<text top="81" left="75" width="449" height="12" font="15">positions. Accepting that one national language is crucial in forging an identity while</text>
+<text top="98" left="75" width="438" height="12" font="15">leaving space for cultural pluralism and multilingualism is another crucial component.</text>
+<text top="127" left="75" width="449" height="12" font="15">The introduction of the mother tongue into primary education presumably will be</text>
+<text top="144" left="75" width="449" height="12" font="15">further stimulated in the coming decades in most African countries. This fact will</text>
+<text top="161" left="75" width="450" height="12" font="15">provide a solid basis for the study of additional languages, whether endangered or not,</text>
+<text top="178" left="75" width="450" height="12" font="15">and for capacity building in the field of descriptive and applied linguistics. It is obvious,</text>
+<text top="195" left="75" width="450" height="12" font="15">however, that such endeavours will only be successful when the social, economic and</text>
+<text top="212" left="75" width="397" height="12" font="15">cultural environment is supportive of minority languages and multilingualism.</text>
+<text top="255" left="75" width="292" height="14" font="14"><b>5. Some drawbacks and some prospects</b></text>
+<text top="279" left="75" width="450" height="12" font="15">There are still numerous languages on the African continent that have not yet been</text>
+<text top="294" left="75" width="449" height="12" font="15">documented. It is also quite likely that many of them will disappear before they have</text>
+<text top="310" left="75" width="450" height="12" font="15">been documented. For countries like Sudan or Nigeria the situation is particularly</text>
+<text top="326" left="75" width="450" height="12" font="15">dramatic in this respect. From my perspective the main focus should be on the</text>
+<text top="342" left="75" width="450" height="12" font="15">documentation, rather than revitalisation, of these endangered languages. Where the</text>
+<text top="358" left="75" width="450" height="12" font="15">community expresses an interest in inclusion of the language in the educational system,</text>
+<text top="374" left="75" width="449" height="12" font="15">as with the Tima community in Sudan (see section 2), this initiative should be</text>
+<text top="390" left="75" width="449" height="12" font="15">encouraged and actively supported by the government or by non-governmental</text>
+<text top="405" left="75" width="449" height="12" font="15">organisations. Revitalisation, in my view, should not be given high priority. When</text>
+<text top="421" left="75" width="450" height="12" font="15">individuals decide to give up their mother tongue, they usually have good reasons for</text>
+<text top="437" left="75" width="450" height="12" font="15">doing so. As argued in the preceding section, a successful implementation in official</text>
+<text top="453" left="75" width="376" height="12" font="15">domains, even for languages that are not endangered, is a complex matter.</text>
+<text top="476" left="105" width="420" height="12" font="15">As a result of the language policies of most modern African states, various</text>
+<text top="493" left="75" width="449" height="12" font="15">academics have been trained in linguistics. One effect of the Nigerian language policy,</text>
+<text top="510" left="75" width="450" height="12" font="15">for example, was that quite a few scholars were trained in language studies both in</text>
+<text top="527" left="75" width="449" height="12" font="15">Nigeria and abroad, mainly in the United States and in several European countries. But</text>
+<text top="544" left="75" width="450" height="12" font="15">there were and still are a number of drawbacks. Descriptive linguistics as such held very</text>
+<text top="561" left="75" width="449" height="12" font="15">little prestige indeed during the 1960’s and 1970’s at European or American</text>
+<text top="578" left="75" width="449" height="12" font="15">universities. Consequently, many scholars from Africa learned a lot about linguistic</text>
+<text top="595" left="75" width="449" height="12" font="15">theories, in particular about the Generative Enterprise. But few of those who studied</text>
+<text top="612" left="75" width="450" height="12" font="15">abroad were given the opportunity to acquire the techniques for describing and</text>
+<text top="629" left="75" width="449" height="12" font="15">documenting unstudied or poorly studied languages. There is little use in decrying this</text>
+<text top="646" left="75" width="449" height="12" font="15">now, but the negative effects of this academic ideology on descriptive linguistics should</text>
+<text top="662" left="75" width="59" height="12" font="15">be obvious.</text>
+<text top="692" left="105" width="420" height="12" font="15">A second drawback, from an academic point of view, is the fact that highly</text>
+<text top="709" left="75" width="450" height="12" font="15">qualified scholars in a number of African countries sooner or later are invited to move</text>
+<text top="726" left="75" width="449" height="12" font="15">into government-related positions, ranging from ambassadorial posts to that of minister.</text>
+<text top="743" left="75" width="449" height="12" font="15">Although one can, of course, understand such moves, again the negative effects on the</text>
+<text top="760" left="75" width="144" height="12" font="15">academic scene are obvious.</text>
+<text top="789" left="105" width="419" height="12" font="15">A third and more recent drawback concerns the ‘brain drain’ issue. Because</text>
+<text top="806" left="75" width="450" height="12" font="15">academics in many African countries are poorly paid and often lack logistical support</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="272" width="122" height="10" font="19"><i>Capacity building in Africa</i></text>
+<text top="41" left="540" width="12" height="10" font="19"><i>85</i></text>
+<text top="81" left="105" width="449" height="12" font="15">for their work, the incentive to return to their home base after studies abroad sometimes</text>
+<text top="98" left="105" width="451" height="12" font="15">is rather low. The dramatic effect of this situation for medical care in African countries</text>
+<text top="115" left="105" width="449" height="12" font="15">is immediately obvious. But the fact that freshly trained linguists do not return to their</text>
+<text top="132" left="105" width="449" height="12" font="15">country of origin will also have negative effects, e.g. in terms of possibilities for active</text>
+<text top="148" left="105" width="450" height="12" font="15">language and corpus planning. Of course, one can understand the motives of scholars</text>
+<text top="165" left="105" width="449" height="12" font="15">who are not willing to return to their home universities. And it will indeed be hard to</text>
+<text top="182" left="105" width="449" height="12" font="15">counter this loss of talent, unless the logistic situation improves dramatically. Important</text>
+<text top="199" left="105" width="449" height="12" font="15">initiatives such as the project “Diesseits von Afrika”, initiated by the Volkswagen</text>
+<text top="216" left="105" width="450" height="12" font="15">Foundation and aiming at an active co-operation between universities in Germany and</text>
+<text top="233" left="105" width="450" height="12" font="15">in African countries are to be applauded. Such co-operation projects should help to</text>
+<text top="250" left="105" width="449" height="12" font="15">improve the sometimes deplorable financial conditions under which African colleagues</text>
+<text top="267" left="105" width="69" height="12" font="15">have to work.</text>
+<text top="296" left="134" width="419" height="12" font="15">The need for (additional) capacity building in the area of descriptive and applied</text>
+<text top="313" left="105" width="449" height="12" font="15">linguistics obviously varies between different African countries, as the comparison of</text>
+<text top="330" left="105" width="449" height="12" font="15">the situations in Sudan, Ethiopia and the other countries discussed above should have</text>
+<text top="347" left="105" width="449" height="12" font="15">made clear. There is tremendous academic potential in Sudan for example, but without</text>
+<text top="364" left="105" width="449" height="12" font="15">additional training of some younger colleagues in the documentation of poorly studied</text>
+<text top="381" left="105" width="449" height="12" font="15">or undescribed languages, very little can be done about the dramatic situation in this</text>
+<text top="398" left="105" width="449" height="12" font="15">country. As the Ethiopian success story should illustrate, one promising way out of this</text>
+<text top="415" left="105" width="449" height="12" font="15">desperate situation would be active partnership with European and American</text>
+<text top="432" left="105" width="449" height="12" font="15">universities. Such co-operation, whether initiated by the African university or a</text>
+<text top="449" left="105" width="449" height="12" font="15">university from the so-called first world, should also lead to joint research projects, and</text>
+<text top="466" left="105" width="346" height="12" font="15">thereby to the education of younger colleagues within such projects.</text>
+<text top="495" left="134" width="419" height="12" font="15">Failure to gain access to international research funds is a frequently encountered</text>
+<text top="512" left="105" width="450" height="12" font="15">complaint among African colleagues. One reason is their lack of experience in writing</text>
+<text top="529" left="105" width="448" height="12" font="15">research proposals of the type many western research organisations require. Active co-</text>
+<text top="546" left="105" width="449" height="12" font="15">operation between partners from the west and from Africa or other parts of the world</text>
+<text top="563" left="105" width="183" height="12" font="15">could help to improve this situation.</text>
+<text top="593" left="134" width="420" height="12" font="15">Another frequently heard complaint from African colleagues, but also from</text>
+<text top="610" left="105" width="449" height="12" font="15">colleagues from Asia or South-America, relates to the required conditions, e.g. in terms</text>
+<text top="626" left="105" width="449" height="12" font="15">of logistics (video and audio documentation), that cannot be met, simply because</text>
+<text top="643" left="105" width="449" height="12" font="15">experience and money to develop this expertise is lacking. Although modern technology</text>
+<text top="660" left="105" width="449" height="12" font="15">allows us to document languages with in highly sophisticated ways in addition to the</text>
+<text top="677" left="105" width="450" height="12" font="15">more traditional techniques used by linguists, less technically advanced documentation</text>
+<text top="694" left="105" width="449" height="12" font="15">projects should also be encouraged by organisations supporting this kind of research, as</text>
+<text top="711" left="105" width="449" height="12" font="15">these are still highly useful for future studies. Moreover, this would allow less fortunate</text>
+<text top="728" left="105" width="449" height="12" font="15">scholars in the countries where so many highly endangered languages are spoken to</text>
+<text top="745" left="105" width="450" height="12" font="15">make an important contribution to the field. This way, it may still be possible to</text>
+<text top="762" left="105" width="449" height="12" font="15">document a considerable number of poorly known languages for academic purposes,</text>
+<text top="779" left="105" width="449" height="12" font="15">and, where there is an interest among the particular speech community, to implement</text>
+<text top="796" left="105" width="450" height="12" font="15">knowledge about the structure of these languages for practical purposes, eg. in primary</text>
+<text top="813" left="105" width="94" height="12" font="15">education, as well.</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="892" width="630">
+	<fontspec id="20" size="12" family="LOKDDH+Symbol" color="#000000"/>
+<text top="41" left="75" width="12" height="10" font="19"><i>86</i></text>
+<text top="41" left="255" width="96" height="10" font="19"><i>Gerrit J. Dimmendall</i></text>
+<text top="81" left="105" width="420" height="12" font="15">Because of the poor state the documentation of several language groups on the</text>
+<text top="98" left="75" width="450" height="12" font="15">African continent, the same stereotypical views on the kinds of grammatical structures</text>
+<text top="115" left="75" width="449" height="12" font="15">one finds or does not find in Africa tend to be reproduced again and again in the general</text>
+<text top="132" left="75" width="449" height="12" font="15">linguistics literature. It seems hard to get beyond this, unless Africanists can be given an</text>
+<text top="148" left="75" width="450" height="12" font="15">opportunity to gather more data and to present these to a wider linguistically-interested</text>
+<text top="165" left="75" width="35" height="12" font="15">public.</text>
+<text top="195" left="105" width="420" height="12" font="15">The current view of several Africanists is that there is more genetic and</text>
+<text top="212" left="75" width="449" height="12" font="15">typological diversity on the continent than scholars were led to believe about three or</text>
+<text top="229" left="75" width="449" height="12" font="15">four decades ago. Following in the footsteps of earlier investigators interested in genetic</text>
+<text top="246" left="75" width="449" height="12" font="15">classification, Joseph Greenberg’s proposals of the 1950’s and 1960’s were indeed</text>
+<text top="263" left="75" width="449" height="12" font="15">brilliant, and accordingly have received wide acceptance. But new data have since</text>
+<text top="280" left="75" width="449" height="12" font="15">become available. For example, in the West African area there are a number of</text>
+<text top="296" left="75" width="450" height="12" font="15">languages which seem to constitute early split-offs from Niger-Congo. This appears to</text>
+<text top="313" left="75" width="449" height="12" font="15">apply to isolated languages such as Mbre (Pre) in the Ivory Coast, and Mpre, a language</text>
+<text top="330" left="75" width="449" height="12" font="15">once spoken in Ghana which appears to be extinct. More problematic in terms of</text>
+<text top="347" left="75" width="449" height="12" font="15">genetic classification is a language in Chad known as Laal. Williamson and Blench</text>
+<text top="364" left="75" width="450" height="12" font="15">(2000: 36) have argued that it contains “substantial Chadic (i.e. Afro-asiatic) and</text>
+<text top="381" left="75" width="449" height="12" font="15">Adamawa (i.e. Niger-Congo) elements as well as a core vocabulary of unknown</text>
+<text top="398" left="75" width="449" height="12" font="15">provenance”. In addition, the former language of the Jalabe in north-eastern Nigeria</text>
+<text top="415" left="75" width="449" height="12" font="15">may constitute a linguistic isolate. There are other highly endangered languages whose</text>
+<text top="432" left="75" width="449" height="12" font="15">genetic sub-grouping is unclear such as Biraile (Ongota) and Shabo (Mekeyir) of south-</text>
+<text top="449" left="75" width="449" height="12" font="15">western Ethiopia. Possibly, these languages are the last members of otherwise extinct</text>
+<text top="466" left="75" width="135" height="12" font="15">African language families.</text>
+<text top="495" left="105" width="420" height="12" font="15">As pointed out above, most Khoisan specialists appear to treat this proposed</text>
+<text top="512" left="75" width="450" height="12" font="15">phylum as an areal, rather than a genetic, grouping. The dominant view today is that</text>
+<text top="529" left="75" width="449" height="12" font="15">there are at least three Khoisan families, Northern, Central and Southern Khoisan. The</text>
+<text top="546" left="75" width="449" height="12" font="15">Tanzanian language Sandawe may be genetically related to Central Khoisan; languages</text>
+<text top="563" left="75" width="450" height="12" font="15">such as Hadza (also in Tanzania) possibly constitute additional linguistic isolates. The</text>
+<text top="580" left="75" width="449" height="12" font="15">genetic classification of these African languages cannot be clarified until in-depth</text>
+<text top="597" left="75" width="450" height="12" font="15">studies become available of their grammatical structure, and of their morphological</text>
+<text top="614" left="75" width="449" height="12" font="15">features in particular. The latter tend to be more resilient to change; consequently, these</text>
+<text top="631" left="75" width="449" height="12" font="15">morphological properties potentially constitute important diagnostic properties for</text>
+<text top="648" left="75" width="108" height="12" font="15">genetic relationships.</text>
+<text top="677" left="105" width="404" height="12" font="15">There are thus a number of problematic issues for classification with respect to:</text>
+<text top="700" left="75" width="6" height="16" font="20">•</text>
+<text top="704" left="105" width="143" height="12" font="15"> Biraila, Jalabe, Laal, Shabo</text>
+<text top="724" left="75" width="6" height="16" font="20">•</text>
+<text top="727" left="105" width="286" height="12" font="15">the Kadu language group in the Nuba Mountains, Sudan</text>
+<text top="747" left="75" width="6" height="16" font="20">•</text>
+<text top="750" left="105" width="350" height="12" font="15">the Koman languages in the border area between Ethiopia and Sudan</text>
+<text top="770" left="75" width="6" height="16" font="20">•</text>
+<text top="773" left="105" width="204" height="12" font="15">the Songai cluster along the Niger River</text>
+<text top="794" left="75" width="6" height="16" font="20">•</text>
+<text top="797" left="105" width="245" height="12" font="15">the Ubanguian language group in Central Africa</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="272" width="122" height="10" font="19"><i>Capacity building in Africa</i></text>
+<text top="41" left="540" width="12" height="10" font="19"><i>87</i></text>
+<text top="78" left="105" width="6" height="16" font="20">•</text>
+<text top="81" left="134" width="231" height="12" font="15">possibly the Mande languages in West Africa</text>
+<text top="107" left="105" width="449" height="12" font="15">These all seem to tell us is that there is more genetic variation on the African continent</text>
+<text top="124" left="105" width="325" height="12" font="15">than we may have been lead to believe by earlier investigations.</text>
+<text top="154" left="134" width="420" height="12" font="15">Similar observations can be made with respect to typological variation. As</text>
+<text top="171" left="105" width="449" height="12" font="15">Güldemann (1998), for example, has shown, there are tremendous typological</text>
+<text top="188" left="105" width="449" height="12" font="15">differences in the Khoisan region (which, as noted above, probably consists of at least</text>
+<text top="204" left="105" width="449" height="12" font="15">three families), e.g. in terms of head marking versus dependent marking in the sense of</text>
+<text top="221" left="105" width="449" height="12" font="15">Nichols (1986). But similar observations can be made for other regions. Not only do we</text>
+<text top="238" left="105" width="450" height="12" font="15">know now that there are languages with ergative properties spoken in the  border area</text>
+<text top="255" left="105" width="449" height="12" font="15">between Sudan and Ethiopia, or languages with numeral classifiers, eg. in southern</text>
+<text top="272" left="105" width="450" height="12" font="15">Nigeria – features assumed to be absent from Africa until recently – there is still a lot</text>
+<text top="289" left="105" width="449" height="12" font="15">more to be discovered. To give one more example here, an interesting typological</text>
+<text top="306" left="105" width="449" height="12" font="15">property of the Jukunoid (Niger-Congo) language Hone, an endangered language</text>
+<text top="323" left="105" width="450" height="12" font="15">spoken in north-central Nigeria, may be mentioned. Traditionally, it has been assumed –</text>
+<text top="340" left="105" width="450" height="12" font="15">also by Africanists – that categorical distinctions between nouns and verbs are clear in</text>
+<text top="357" left="105" width="450" height="12" font="15">African languages, in other words that problems of syntactic categorisation as attested</text>
+<text top="374" left="105" width="450" height="12" font="15">in Amerindian or Austronesian languages, do not arise in the analyses of African</text>
+<text top="391" left="105" width="449" height="12" font="15">languages. However, as shown by Storch (to appear) in Hone, the distinction between</text>
+<text top="408" left="105" width="411" height="12" font="15">nouns and verbs is indeed partly blurred or non-distinct in terms of conjugation </text>
+<text top="404" left="516" width="4" height="8" font="17">5</text>
+<text top="408" left="520" width="34" height="12" font="15">. In all</text>
+<text top="424" left="105" width="449" height="12" font="15">likelihood, there are several more languages in the area where Hone is spoken with</text>
+<text top="441" left="105" width="450" height="12" font="15">typologically similar phenomena. However, many languages in the area have not been</text>
+<text top="458" left="105" width="379" height="12" font="15">documented; moreover, several of them are in danger of becoming extinct.</text>
+<text top="488" left="134" width="420" height="12" font="15">A similarly dramatic situation is found in Sudan, where, for example, several</text>
+<text top="505" left="105" width="450" height="12" font="15">Nilo-Saharan groups are highly endangered, e.g. the Daju group or the Jebel group; as</text>
+<text top="522" left="105" width="449" height="12" font="15">are languages belonging to the Kordofanian group within Niger-Congo. There is not a</text>
+<text top="539" left="105" width="449" height="12" font="15">single monograph on any of these languages, each representing genetic branches</text>
+<text top="556" left="105" width="449" height="12" font="15">parallel to Germanic, Slavic or Albanian within the Indo-European family. In fact, the</text>
+<text top="573" left="105" width="449" height="12" font="15">annual number of publications on my first language, Dutch, is higher than on the entire</text>
+<text top="589" left="105" width="449" height="12" font="15">Nilo-Saharan family, a group of over 140 distinct languages, as shown by the Linguistic</text>
+<text top="606" left="105" width="450" height="12" font="15">Bibliography. This demonstrates where the linguistic community at large puts its</text>
+<text top="623" left="105" width="450" height="12" font="15">academic priorities. Breaking through this barrier will be hard, if not impossible.</text>
+<text top="640" left="105" width="449" height="12" font="15">Although there is indeed a general awareness among the linguistic community that it is</text>
+<text top="657" left="105" width="449" height="12" font="15">important to document endangered languages, one also has to conclude that there is</text>
+<text top="674" left="105" width="449" height="12" font="15">quite a bit of rhetoric involved, because the actual number of scholars, especially in</text>
+<text top="691" left="105" width="449" height="12" font="15">Western countries, actually interested in doing fieldwork on these languages is rather</text>
+<text top="708" left="105" width="449" height="12" font="15">limited. It would seem that the greatest academic potential is indeed to be found in those</text>
+<text top="725" left="105" width="450" height="12" font="15">parts of the world where most of the poorly documented languages, whether endangered</text>
+<text top="742" left="105" width="450" height="12" font="15">or not, are spoken, namely in Africa, Asia and South-America. Active academic support</text>
+<text top="759" left="105" width="449" height="12" font="15">of and co-operation with these scholars to improve capacity building in their home</text>
+<text top="776" left="105" width="379" height="12" font="15">countries should thus be given the highest priority in the immediate future.</text>
+<text top="804" left="105" width="3" height="6" font="18">5</text>
+<text top="807" left="108" width="447" height="10" font="12"> The study by Storch appears in a volume (Dimmendaal, to appear) whose main aim is to present new</text>
+<text top="818" left="105" width="355" height="10" font="12">data on poorly-known African languages with typologically interesting phenomena.</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="892" width="630">
+	<fontspec id="21" size="12" family="LOJPDM+Times" color="#000000"/>
+<text top="41" left="75" width="12" height="10" font="19"><i>88</i></text>
+<text top="41" left="255" width="96" height="10" font="19"><i>Gerrit J. Dimmendall</i></text>
+<text top="81" left="75" width="103" height="14" font="14"><b>6. References</b></text>
+<text top="112" left="75" width="131" height="12" font="15">Bamgbose, Ayo (1991). </text>
+<text top="112" left="206" width="318" height="11" font="21"><i>Language and the Nation: The Language Question in Subs-</i></text>
+<text top="129" left="105" width="78" height="11" font="21"><i>Saharan Africa</i></text>
+<text top="129" left="183" width="210" height="12" font="15">. Edinburgh: Edinburgh University Press.</text>
+<text top="159" left="75" width="135" height="12" font="15">Bamgbose, Ayo (2000). </text>
+<text top="159" left="209" width="315" height="11" font="21"><i>Language and Exclusion: The Consequences of Language</i></text>
+<text top="176" left="105" width="92" height="11" font="21"><i>Policies in Africa.</i></text>
+<text top="176" left="197" width="75" height="12" font="15"> Münster: LIT.</text>
+<text top="206" left="75" width="133" height="12" font="15">Coulmas, Florian (1984). </text>
+<text top="206" left="207" width="318" height="11" font="21"><i>Linguistic Minorities and Literacy: Language Policy Issues in</i></text>
+<text top="222" left="105" width="115" height="11" font="21"><i>Developing Countries </i></text>
+<text top="222" left="220" width="166" height="12" font="15">. Berlin and New York: Mouton.</text>
+<text top="252" left="75" width="449" height="12" font="15">Echu, George (2003). Coping with multilingualism: Trends in the evolution of language</text>
+<text top="269" left="105" width="107" height="12" font="15">policy in Cameroon. </text>
+<text top="269" left="212" width="94" height="11" font="21"><i>Philologie im Netz</i></text>
+<text top="269" left="306" width="55" height="12" font="15"> 25: 31-46.</text>
+<text top="299" left="75" width="450" height="12" font="15">Güldemann, Tom (1998). The Kalahari basin as an object of areal typology – a first</text>
+<text top="316" left="105" width="194" height="12" font="15">approach. In Mathias Schladt (ed.), </text>
+<text top="316" left="299" width="225" height="11" font="21"><i>Language, Identity, and Conceptualization</i></text>
+<text top="332" left="105" width="99" height="11" font="21"><i>among the Khoisan</i></text>
+<text top="332" left="203" width="186" height="12" font="15">, 137-169. Cologne: Rüdiger Köppe.</text>
+<text top="362" left="75" width="113" height="12" font="15">Heine, Bernd (1992). </text>
+<text top="362" left="188" width="268" height="11" font="21"><i>Sprache, Gesellschaft und Kommunikation in Afrika</i></text>
+<text top="362" left="456" width="68" height="12" font="15">. Munich and</text>
+<text top="379" left="105" width="143" height="12" font="15">London: Weltforum Verlag.</text>
+<text top="409" left="75" width="334" height="12" font="15">Ladefoged, Peter, Ruth Glick, and Clive Criper (eds.) (1968). </text>
+<text top="409" left="409" width="112" height="11" font="21"><i>Language in Uganda</i></text>
+<text top="409" left="521" width="3" height="12" font="15">.</text>
+<text top="426" left="105" width="170" height="12" font="15">Oxford: Oxford University Press.</text>
+<text top="455" left="75" width="280" height="12" font="15">Miller, Catherine and Al-Amin Abu-Manga (1989). </text>
+<text top="455" left="354" width="170" height="11" font="21"><i>Language Change and National</i></text>
+<text top="472" left="105" width="217" height="11" font="21"><i>Integration: Rural Migrants in Khartoum. </i></text>
+<text top="472" left="322" width="200" height="12" font="15">Khartoum: Khartoum University Press.</text>
+<text top="502" left="75" width="450" height="12" font="15">Mugaddam, Abdel Rahim and Gerrit J. Dimmendaal. (To appear). Sudan language</text>
+<text top="519" left="105" width="183" height="12" font="15">situation. In Keith Brown (ed.), </text>
+<text top="519" left="288" width="234" height="11" font="21"><i>Encyclopedia of Language and Linguistics</i></text>
+<text top="519" left="521" width="3" height="12" font="15">.</text>
+<text top="536" left="105" width="170" height="12" font="15">Second edition. Oxford: Elsevier.</text>
+<text top="565" left="75" width="449" height="12" font="15">Myers-Scotton. Carol (1990). Elite closure as boundary maintenance: The evidence</text>
+<text top="582" left="105" width="187" height="12" font="15">from Africa. In B. Weinstein (ed.), </text>
+<text top="582" left="292" width="230" height="11" font="21"><i>Language Policy and Political Development</i></text>
+<text top="582" left="521" width="3" height="12" font="15">,</text>
+<text top="599" left="105" width="125" height="12" font="15">25-32. Norwood: Ablex.</text>
+<text top="629" left="75" width="399" height="12" font="15">Nichols, Johanna (1986). Head-marking and dependent-marking grammar. </text>
+<text top="629" left="474" width="51" height="11" font="21"><i>Language</i></text>
+<text top="645" left="105" width="55" height="12" font="15">62:56-119.</text>
+<text top="675" left="75" width="108" height="12" font="15">Prah, K.K. (1995). </text>
+<text top="675" left="182" width="302" height="11" font="21"><i>African Languages for the Mass Education of Africans</i></text>
+<text top="675" left="484" width="41" height="12" font="15">. Bonn:</text>
+<text top="692" left="105" width="195" height="12" font="15">Education and Documentation Center.</text>
+<text top="722" left="75" width="450" height="12" font="15">Robinson, Clinton D.W. (2000). Pluralism and linguistic diversity in Africa. In Mal</text>
+<text top="739" left="105" width="297" height="12" font="15">Leicester, Celia Modgil and Sohan Modghil (eds.), </text>
+<text top="739" left="402" width="123" height="11" font="21"><i>Systems of Education:</i></text>
+<text top="755" left="105" width="199" height="11" font="21"><i>Theories, Policies and Implicit Values</i></text>
+<text top="755" left="304" width="222" height="12" font="15">, 164-178. London and New York: Falmer</text>
+<text top="772" left="105" width="30" height="12" font="15">Press.</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="272" width="122" height="10" font="19"><i>Capacity building in Africa</i></text>
+<text top="41" left="540" width="12" height="10" font="19"><i>89</i></text>
+<text top="81" left="105" width="349" height="12" font="15">Storch, Anne (To appear). Hone. In Gerrit J Dimmendaal (ed.), </text>
+<text top="81" left="454" width="101" height="11" font="21"><i>Coding Participant</i></text>
+<text top="98" left="134" width="326" height="11" font="21"><i>Marking: Construction Types in Twelve African Languages</i></text>
+<text top="98" left="460" width="95" height="12" font="15">. Amsterdam and</text>
+<text top="115" left="134" width="155" height="12" font="15">Philadelphia: John Benjamins.</text>
+<text top="144" left="105" width="450" height="12" font="15">Walusimbi, Livingstone (1968). The teaching of the vernacular languages in Uganda. In</text>
+<text top="161" left="134" width="229" height="12" font="15">Ladefoged, Glick and Criper (eds.), 143-151.</text>
+<text top="191" left="105" width="449" height="12" font="15">Williamson, Kay and Roger Blench (2000). Niger-Congo. In Bernd Heine and Derek</text>
+<text top="208" left="134" width="71" height="12" font="15">Nurse (eds.), </text>
+<text top="208" left="205" width="187" height="11" font="21"><i>African Language: An Introduction,</i></text>
+<text top="208" left="392" width="162" height="12" font="15"> 11-42. Cambridge: Cambridge</text>
+<text top="225" left="134" width="87" height="12" font="15">University Press.</text>
+</page>
+</pdf2xml>

@@ -23,8 +23,8 @@ public class Main {
                 outputList.add(f);
             }
             if(f.getName().endsWith(".pdf")){
-                String xmlPath = converter.convertToXml("Data/"+f.getName());
-                outputList.add(new File("InputData/"+ outputList));
+                String xmlPath = converter.convertToXml("InputData/"+f.getName());
+                outputList.add(new File(xmlPath));
             }
         }
         return outputList;
@@ -32,6 +32,7 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
         List<File> fileNames = convertPDFFiles();
+        System.out.println(fileNames.get(0).getAbsolutePath());
         for (File f : fileNames){
             Category category = Classifier.asignToCategory(f);
             System.out.println("Die Datei " + f.getName() + " ist von der Kategorie: " + category);
