@@ -9,7 +9,7 @@ import java.util.List;
 
 public class Main {
 
-    public static ArrayList<File> convertPDFFiles() throws Exception {
+    public static ArrayList<File> returnXMLFiles() throws Exception {
         File DataDir = new File("InputData");
         ArrayList<File> fileList = new ArrayList<>(Arrays.asList(DataDir.listFiles()));
         ArrayList<File> outputList = new ArrayList<>();
@@ -28,11 +28,11 @@ public class Main {
     }
 
     public static void main(String[] args) throws Exception {
-        List<File> fileNames = convertPDFFiles();
+        List<File> xmlFiles = returnXMLFiles();
 
         List<String[]> csvData = CSVCreator.initializeCsvList();
 
-        for (File f : fileNames){
+        for (File f : xmlFiles){
             Category category = Classifier.asignToCategory(f);
             CSVCreator.appendDataSet(csvData, f.getName(), category, "keywords");
         }

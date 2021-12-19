@@ -5,35 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InputData/PDF-Sammlung.xml.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InputData/ldd02-07-pdf.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InputData/ldd18-00-pdf.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InputData/mathieu.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InputData/travis2012-0-pdf.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InputData/wp-baetscher-pdf.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InputData/wpss-02-pdf.xml.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SIA-Data-Categorizer-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SIA-Data-Categorizer-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/classifier/Classifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classifier/Classifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/util/CSVCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/CSVCreator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/ConditionUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/ConditionUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/PDFToXML.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/PDFToXML.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/XPathUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/XPathUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.ClassifierTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.ClassifierTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.ConditionUnitTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.ConditionUnitTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.IdentifierTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.IdentifierTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.XPathUnitTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.XPathUnitTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UnitTest.ClassifierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UnitTest.ClassifierTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UnitTest.ConditionUnitTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UnitTest.ConditionUnitTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UnitTest.IdentifierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UnitTest.IdentifierTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UnitTest.XPathUnitTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UnitTest.XPathUnitTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
