@@ -2,6 +2,8 @@ package util;
 
 import org.apache.commons.lang3.SystemUtils;
 import java.io.*;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Logger;
 
@@ -59,6 +61,24 @@ public class PDFToXML {
         bufWrite.flush();
         bufWrite.close();
         return tempFilePath;
+    }
+
+    public static ArrayList<File> returnXMLFiles() throws Exception {
+        File DataDir = new File("InputData");
+        ArrayList<File> fileList = new ArrayList<>(Arrays.asList(DataDir.listFiles()));
+        ArrayList<File> outputList = new ArrayList<>();
+
+        PDFToXML converter = new PDFToXML();
+        for (File f : fileList){
+            if(f.getName().endsWith(".tmp") || f.getName().endsWith(".xml")){
+                outputList.add(f);
+            }
+            if(f.getName().endsWith(".pdf")){
+                String xmlPath = converter.convertToXml("InputData/"+f.getName());
+                outputList.add(new File(xmlPath));
+            }
+        }
+        return outputList;
     }
 
 }

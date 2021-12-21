@@ -9,26 +9,8 @@ import java.util.List;
 
 public class Main {
 
-    public static ArrayList<File> returnXMLFiles() throws Exception {
-        File DataDir = new File("InputData");
-        ArrayList<File> fileList = new ArrayList<>(Arrays.asList(DataDir.listFiles()));
-        ArrayList<File> outputList = new ArrayList<>();
-
-        PDFToXML converter = new PDFToXML();
-        for (File f : fileList){
-            if(f.getName().endsWith(".tmp") || f.getName().endsWith(".xml")){
-                outputList.add(f);
-            }
-            if(f.getName().endsWith(".pdf")){
-                String xmlPath = converter.convertToXml("InputData/"+f.getName());
-                outputList.add(new File(xmlPath));
-            }
-        }
-        return outputList;
-    }
-
     public static void main(String[] args) throws Exception {
-        List<File> xmlFiles = returnXMLFiles();
+        List<File> xmlFiles = PDFToXML.returnXMLFiles();
 
         List<String[]> csvData = CSVCreator.initializeCsvList();
 
