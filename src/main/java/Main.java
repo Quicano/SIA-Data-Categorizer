@@ -44,15 +44,12 @@ public class Main {
         FileOutputStream fileOut = new FileOutputStream(config, true);
         properties.store(fileOut, "Config");
 
-
         gui.addKeywordList();
         return properties;
     }
-
 
     public static void main(String[] args) throws Exception {
         Properties properties = setup(new GUI());
         run(properties);
     }
-
 }

@@ -1,8 +1,6 @@
 package util;
 
 import javax.swing.*;
-import javax.swing.event.ListSelectionEvent;
-import javax.swing.event.ListSelectionListener;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -27,16 +25,15 @@ public class GUI extends Component {
     }
 
     public void addKeywordList(){
-        JFrame jFrame = new JFrame();
+        JFrame jFrame = new JFrame("Demo");
         jFrame.setBounds(0,0,1000,1000);
         JTextField textField = new JTextField();
         textField.setBounds(0,0,200,30);
-        jFrame.add(textField);
+        jFrame.add(textField, BorderLayout.NORTH);
         DefaultListModel<String> dlm = new DefaultListModel<String>();
         JList<String> list = new JList<>(dlm);
         list.setBounds(0,200, 200, 400);
-        jFrame.add(new JScrollPane(list));
-
+        jFrame.add(new JScrollPane(list),BorderLayout.SOUTH);
         jFrame.add(new JButton("Add") {
             {
                 addActionListener(new ActionListener() {
@@ -45,9 +42,16 @@ public class GUI extends Component {
                     }
                 });
             }
-        }, BorderLayout.PAGE_END);
-
-
+        }, BorderLayout.WEST);
+        jFrame.add(new JButton("Start") {
+            {
+                addActionListener(new ActionListener() {
+                    public void actionPerformed(ActionEvent e) {
+                        dlm.addElement(textField.getText());
+                    }
+                });
+            }
+        }, BorderLayout.EAST);
         jFrame.pack();
         jFrame.setLocationRelativeTo(null);
         jFrame.setVisible(true);
