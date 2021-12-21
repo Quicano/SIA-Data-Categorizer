@@ -5,14 +5,16 @@ import util.GUI;
 import util.PDFToXML;
 
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 
 public class Main {
 
-    public static void run() throws Exception {
-        Properties properties = new Properties();
+    public static void run(Properties properties) throws Exception {
         String filepath = properties.getProperty("filepath");
         List<File> xmlFiles = PDFToXML.returnXMLFiles(filepath);
         List<String[]> csvData = CSVCreator.initializeCsvList();
@@ -34,14 +36,23 @@ public class Main {
         CSVCreator.writeFile(csvData);
     }
 
-    public static void setup(GUI gui){
-       // gui.chooseFile();
+    public static Properties setup(GUI gui) throws IOException {
+        String filepath = gui.chooseFile();
+        Properties properties = new Properties();
+        properties.setProperty("filepath", filepath);
+        File config = new File("src/main/resources/config.properties");
+        FileOutputStream fileOut = new FileOutputStream(config, true);
+        properties.store(fileOut, "Config");
+
+
         gui.addKeywordList();
+        return properties;
     }
 
 
     public static void main(String[] args) throws Exception {
-        setup(new GUI());
+        Properties properties = setup(new GUI());
+        run(properties);
     }
 
 }
