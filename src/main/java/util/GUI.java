@@ -43,6 +43,11 @@ public class GUI extends Component {
                     }
                 });
             }
+        }, BorderLayout.NORTH);
+        jFrame.add(new JButton("Done") {
+            {
+
+            }
         }, BorderLayout.SOUTH);
 
         jFrame.pack();

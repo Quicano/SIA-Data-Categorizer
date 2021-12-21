@@ -1,7 +1,10 @@
+util\GUI$1$1.class
 Main.class
 util\ConditionUnit.class
 classifier\Category.class
 util\PDFToXML.class
 util\CSVCreator.class
+util\GUI$1.class
+util\GUI.class
 classifier\Classifier.class
 util\XPathUnit.class
