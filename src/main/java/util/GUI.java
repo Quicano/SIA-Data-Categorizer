@@ -26,14 +26,43 @@ public class GUI extends Component {
         return result;
     }
 
+    public void addKeywordList(){
+        JFrame jFrame = new JFrame();
+        jFrame.setBounds(0,0,1000,1000);
+        JTextField textField = new JTextField();
+        textField.setBounds(0,0,200,30);
+        jFrame.add(textField);
+        DefaultListModel<String> dlm = new DefaultListModel<String>();
+        JList<String> list = new JList<>(dlm);
+        list.setBounds(0,200, 200, 400);
+        jFrame.add(new JScrollPane(list));
+
+        jFrame.add(new JButton("Add") {
+            {
+                addActionListener(new ActionListener() {
+                    public void actionPerformed(ActionEvent e) {
+                        dlm.addElement(textField.getText());
+                    }
+                });
+            }
+        }, BorderLayout.PAGE_END);
+
+
+        jFrame.pack();
+        jFrame.setLocationRelativeTo(null);
+        jFrame.setVisible(true);
+    }
+
     public void addKeywords(){
         JFrame jFrame = new JFrame();
         JTextField keywordField = new JTextField();
-        keywordField.setBounds(50,100,200,30);
+        keywordField.setBounds(200,100,200,30);
         jFrame.add(keywordField);
         DefaultListModel<String> dlm = new DefaultListModel<String>();
         JList<String> list = new JList<>(dlm);
         jFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+        jFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+
         jFrame.add(new JScrollPane(list));
         jFrame.add(new JButton("Add") {
             {
@@ -43,12 +72,12 @@ public class GUI extends Component {
                     }
                 });
             }
-        }, BorderLayout.NORTH);
-        jFrame.add(new JButton("Done") {
+        }, BorderLayout.PAGE_START);
+        jFrame.add(new JButton("Search") {
             {
 
             }
-        }, BorderLayout.SOUTH);
+        }, BorderLayout.PAGE_END);
 
         jFrame.pack();
         jFrame.setVisible(true);

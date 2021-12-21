@@ -35,8 +35,8 @@ public class Main {
     }
 
     public static void setup(GUI gui){
-        gui.chooseFile();
-        gui.addKeywords();
+       // gui.chooseFile();
+        gui.addKeywordList();
     }
 
 
