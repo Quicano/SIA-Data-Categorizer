@@ -63,8 +63,8 @@ public class PDFToXML {
         return tempFilePath;
     }
 
-    public static ArrayList<File> returnXMLFiles() throws Exception {
-        File DataDir = new File("InputData");
+    public static ArrayList<File> returnXMLFiles(String filepath) throws Exception {
+        File DataDir = new File(filepath);
         ArrayList<File> fileList = new ArrayList<>(Arrays.asList(DataDir.listFiles()));
         ArrayList<File> outputList = new ArrayList<>();
 
