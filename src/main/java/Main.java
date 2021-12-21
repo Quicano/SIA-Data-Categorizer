@@ -1,16 +1,17 @@
 import classifier.Classifier;
 import classifier.Category;
 import util.CSVCreator;
+import util.GUI;
 import util.PDFToXML;
+
 import java.io.File;
-import java.sql.Array;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 
 public class Main {
 
-    public static void main(String[] args) throws Exception {
+    public static void run() throws Exception {
         Properties properties = new Properties();
         String filepath = properties.getProperty("filepath");
         List<File> xmlFiles = PDFToXML.returnXMLFiles(filepath);
@@ -22,7 +23,7 @@ public class Main {
                 CSVCreator.appendDataSet(csvData, f.getName(), category, "keywords");
             }
         }else{
-            ArrayList<String> keywords = new ArrayList<String>();
+            ArrayList<String> keywords = new ArrayList<>();
             String s = properties.getProperty("keywords");
             keywords.add(s);
             for (File f : xmlFiles){
@@ -32,4 +33,16 @@ public class Main {
         }
         CSVCreator.writeFile(csvData);
     }
+
+    public static void setup(GUI gui){
+        gui.chooseFile();
+        gui.addKeywords();
+    }
+
+
+    public static void main(String[] args) throws Exception {
+        setup(new GUI());
+        run();
+    }
+
 }
