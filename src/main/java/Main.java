@@ -38,6 +38,9 @@ public class Main {
 
     public static Properties setup(GUI gui) throws IOException {
         String filepath = gui.chooseFile();
+        if(filepath == null){
+            System.exit(0);
+        }
         Properties properties = new Properties();
         properties.setProperty("filepath", filepath);
         File config = new File("src/main/resources/config.properties");
@@ -49,7 +52,9 @@ public class Main {
     }
 
     public static void main(String[] args) throws Exception {
-        Properties properties = setup(new GUI());
-        run(properties);
+        GUI gui = new GUI();
+        //Properties properties = setup(gui);
+        gui.addKeywordList();
+        //run(properties);
     }
 }

@@ -25,16 +25,16 @@ public class GUI extends Component {
     }
 
     public void addKeywordList(){
-        JFrame jFrame = new JFrame("Demo");
+        JFrame jFrame = new JFrame("Schlüssebegriffe");
         jFrame.setBounds(0,0,1000,1000);
         JTextField textField = new JTextField();
-        textField.setBounds(0,0,200,30);
-        jFrame.add(textField, BorderLayout.NORTH);
+        textField.setBounds(0,0,300,30);
         DefaultListModel<String> dlm = new DefaultListModel<String>();
         JList<String> list = new JList<>(dlm);
         list.setBounds(0,200, 200, 400);
         jFrame.add(new JScrollPane(list),BorderLayout.SOUTH);
-        jFrame.add(new JButton("Add") {
+        jFrame.add(textField, BorderLayout.NORTH);
+        jFrame.add(new JButton("Hinzufügen") {
             {
                 addActionListener(new ActionListener() {
                     public void actionPerformed(ActionEvent e) {
@@ -43,7 +43,7 @@ public class GUI extends Component {
                 });
             }
         }, BorderLayout.WEST);
-        jFrame.add(new JButton("Start") {
+        jFrame.add(new JButton("Sortieren") {
             {
                 addActionListener(new ActionListener() {
                     public void actionPerformed(ActionEvent e) {
@@ -52,38 +52,10 @@ public class GUI extends Component {
                 });
             }
         }, BorderLayout.EAST);
+        jFrame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         jFrame.pack();
         jFrame.setLocationRelativeTo(null);
         jFrame.setVisible(true);
     }
 
-    public void addKeywords(){
-        JFrame jFrame = new JFrame();
-        JTextField keywordField = new JTextField();
-        keywordField.setBounds(200,100,200,30);
-        jFrame.add(keywordField);
-        DefaultListModel<String> dlm = new DefaultListModel<String>();
-        JList<String> list = new JList<>(dlm);
-        jFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-        jFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-
-        jFrame.add(new JScrollPane(list));
-        jFrame.add(new JButton("Add") {
-            {
-                addActionListener(new ActionListener() {
-                    public void actionPerformed(ActionEvent e) {
-                        dlm.addElement(keywordField.getText());
-                    }
-                });
-            }
-        }, BorderLayout.PAGE_START);
-        jFrame.add(new JButton("Search") {
-            {
-
-            }
-        }, BorderLayout.PAGE_END);
-
-        jFrame.pack();
-        jFrame.setVisible(true);
-    }
 }
