@@ -36,24 +36,15 @@ public class Main {
         CSVCreator.writeFile(csvData);
     }
 
-    public static Properties setup(GUI gui) throws IOException {
-        String filepath = gui.chooseFile();
-        if(filepath == null){
-            System.exit(0);
-        }
-        Properties properties = new Properties();
-        properties.setProperty("filepath", filepath);
-        File config = new File("src/main/resources/config.properties");
-        FileOutputStream fileOut = new FileOutputStream(config, true);
-        properties.store(fileOut, "Config");
-
+    public static void setup(GUI gui) throws IOException {
+        gui.chooseFile();
         gui.addKeywordList();
-        return properties;
+        System.out.println(gui.addKeywordList());
     }
 
     public static void main(String[] args) throws Exception {
         GUI gui = new GUI();
-        //Properties properties = setup(gui);
+        setup(gui);
         gui.addKeywordList();
         //run(properties);
     }
