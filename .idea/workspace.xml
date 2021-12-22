@@ -5,21 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/PropertiesHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/PropertiesHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/PropertiesHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/GUI$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/GUI$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/GUI$2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/GUI$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/GUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/PropertiesHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/PropertiesHandler.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
