@@ -21,7 +21,7 @@ public class GUI extends Component {
         chooser.setAcceptAllFileFilterUsed(false);
 
         if (chooser.showOpenDialog(this) == JFileChooser.APPROVE_OPTION) {
-            result = chooser.getSelectedFile().getAbsolutePath();
+            result = chooser.getSelectedFile().getCanonicalPath();
         }
         else {
             result = null;
