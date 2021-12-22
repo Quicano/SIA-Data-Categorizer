@@ -15,7 +15,7 @@ public class PropertiesHandler {
         properties.store(fileOut, "Config");
     }
 
-    public static String getValue(String keyword) throws FileNotFoundException {
+    public static String getValue(String keyword) {
         String s = null;
         try (InputStream input = new FileInputStream("src/main/resources/config.properties")) {
             Properties properties = new Properties();

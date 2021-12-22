@@ -68,7 +68,12 @@ public class GUI extends Component {
                         } catch (IOException ex) {
                             ex.printStackTrace();
                         }
-
+                        try {
+                            Runner.startCategorization();
+                        } catch (Exception ex) {
+                            ex.printStackTrace();
+                        }
+                        jFrame.dispose();
                     }
                 });
             }
