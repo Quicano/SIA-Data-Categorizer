@@ -1,13 +1,11 @@
 package UnitTest;
 
-import com.sun.source.tree.AssertTree;
+
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import util.XPathUnit;
-
 import java.io.File;
 
 public class XPathUnitTest {

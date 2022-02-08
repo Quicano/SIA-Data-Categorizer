@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="21" family="BAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="1" size="12" family="BAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="2" size="16" family="CAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="3" size="15" family="BAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="4" size="15" family="CAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="5" size="9" family="CAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="6" size="13" family="CAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="7" size="12" family="CAAAAA+LiberationSerif" color="#000000"/>
+<text top="136" left="274" width="365" height="23" font="0"><b>A typology of EPP-checking mechanism<a href="doner2013-pdf.html#1">s</a></b></text>
+<text top="135" left="639" width="6" height="13" font="1"><a href="doner2013-pdf.html#1"><b>*</b></a></text>
+<text top="217" left="409" width="100" height="18" font="2">Julianne Doner</text>
+<text top="235" left="387" width="143" height="18" font="2">University of Toronto</text>
+<text top="311" left="427" width="8" height="17" font="3"><b>S</b></text>
+<text top="314" left="435" width="57" height="13" font="1"><b>UMMARY</b></text>
+<text top="346" left="135" width="652" height="17" font="4">I propose that the EPP is obligatory cross-linguistically, but that the forms it takes vary from language to </text>
+<text top="363" left="135" width="652" height="17" font="4">language, and even sometimes within the same language. Alexiadou and Anagnostopoulou (1998) argue </text>
+<text top="381" left="135" width="652" height="17" font="4">that the EPP can be checked by either a head or by a phrasal element, and Massam and Smallwood (1997)  </text>
+<text top="398" left="135" width="652" height="17" font="4">argue that it can be checked by either a verbal or nominal element. Intersecting these two approaches leads </text>
+<text top="415" left="135" width="652" height="17" font="4">to a total of four forms of EPP-checking, as attested, for example, in English, Niuean, Italian, Irish, and </text>
+<text top="433" left="135" width="652" height="17" font="4">Arabic. McCloskey (1996, 2001) argues that Irish does not have an EPP; I propose that, rather, it has an </text>
+<text top="450" left="135" width="652" height="17" font="4">EPP which is checked by movement  of the verb into Infl. Alternations within the Italian subjunctive  </text>
+<text top="467" left="135" width="652" height="17" font="4">paradigm  indicate   that   it  is  the  agreement   morphemes  which   are   crucial   for   EPP-checking  in  Italian. </text>
+<text top="485" left="135" width="652" height="17" font="4">Finally, the alternations in word order and subject-verb agreement in Arabic can be explained by assuming </text>
+<text top="502" left="135" width="516" height="17" font="4">an intra-linguistic alternation between the EPP being checked by a D-head or by a DP.</text>
+<text top="575" left="432" width="11" height="17" font="3"><b>R</b></text>
+<text top="577" left="443" width="43" height="13" font="1"><b>ÉSUMÉ</b></text>
+<text top="609" left="135" width="630" height="17" font="4">Je propose que le Principe de Projection Étendue (PPÉ) soit obligatoire pour toutes les langues, bien que </text>
+<text top="627" left="135" width="647" height="17" font="4">son fonctionnement puisse varier d'une langue à l'autre ou même parfois dans une même langue. Alexiadou </text>
+<text top="644" left="135" width="639" height="17" font="4">et Anagnostopoulou (1998) soutiennent que le PPÉ peut être contrôlé par un syntagme syntaxique ou bien </text>
+<text top="661" left="135" width="644" height="17" font="4">la tête de celui-ci, tandis que Massam et Smallwood (1997) suggèrent que le contrôle peut être effectué par </text>
+<text top="679" left="135" width="609" height="17" font="4">un élément aussi bien verbal que nominal. En amalgamant ces deux approches, nous obtenons quatre </text>
+<text top="696" left="135" width="615" height="17" font="4">façons avec lesquelles le PPÉ peut être vérifié, comme il est d'ailleurs attesté en anglais, en niuéen, en </text>
+<text top="713" left="135" width="640" height="17" font="4">italien, en irlandais et en arabe. McCloskey (1996, 2001) propose que le PPÉ ne soit pas actif en irlandais; </text>
+<text top="730" left="135" width="645" height="17" font="4">au contraire, j'avance que la vérification du PPÉ dans la langue est accomplie par le mouvement du verbe à </text>
+<text top="748" left="135" width="646" height="17" font="4">Infl. De même, les alternances à l'intérieur du paradigme subjonctif en italien indiquent que les morphèmes </text>
+<text top="765" left="135" width="650" height="17" font="4">d'accord sont essentiels pour le contrôle du PPÉ. Enfin, les variations dans l’ordre des mots et dans l’accord </text>
+<text top="783" left="135" width="599" height="17" font="4">entre le sujet et le verbe en arabe s'expliquent aussi par la vérification du PPÉ, contrôlée soit par un </text>
+<text top="800" left="135" width="248" height="17" font="4">syntagme DP ou bien uniquement sa tête.</text>
+<text top="912" left="135" width="5" height="10" font="5">*</text>
+<text top="912" left="144" width="643" height="15" font="6">This article is based on work I did for my MA forum paper. Thanks to Diane Massam, my supervisor, Elizabeth </text>
+<text top="928" left="144" width="643" height="15" font="6">Cowper,   the   graduate   coordinator,   and   to   the   members   of   my   cohort   for   all   of   their   comments,   support,   and  </text>
+<text top="943" left="144" width="643" height="15" font="6">encouragement. I would also like to thank Michela Ippolito for discussing the Italian data with me. Thanks also to </text>
+<text top="959" left="144" width="643" height="15" font="6">Michelle Yuan and Becky Tollan, the audience at MOTH, and all those who listened to my dry run. Finally, a thank  </text>
+<text top="975" left="144" width="325" height="15" font="6">you to Julien Carrier for translating my abstract into French.</text>
+<text top="1006" left="135" width="301" height="14" font="7">McGill Working Papers in Linguistics, 23.1, Summer 2013</text>
+<text top="1020" left="135" width="135" height="14" font="7">© 2013 by Julianne Doner</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="18" family="BAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="9" size="14" family="BAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="10" size="16" family="DAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="11" size="16" family="BAAAAA+LiberationSerif" color="#000000"/>
+<text top="135" left="135" width="15" height="18" font="2">A </text>
+<text top="138" left="150" width="71" height="15" font="6">TYPOLOGY</text>
+<text top="135" left="221" width="4" height="18" font="2"> </text>
+<text top="138" left="226" width="17" height="15" font="6">OF</text>
+<text top="135" left="242" width="38" height="18" font="2"> EPP-</text>
+<text top="138" left="281" width="68" height="15" font="6">CHECKING</text>
+<text top="135" left="349" width="4" height="18" font="2"> </text>
+<text top="138" left="353" width="88" height="15" font="6">MECHANISMS</text>
+<text top="171" left="135" width="9" height="20" font="8"><b>1</b></text>
+<text top="171" left="167" width="7" height="20" font="8"><b>I</b></text>
+<text top="174" left="174" width="109" height="16" font="9"><b>NTRODUCTION</b></text>
+<text top="210" left="135" width="653" height="18" font="2">The Extended Projection Principle (EPP) was first introduced to account for the fact that subjects </text>
+<text top="228" left="135" width="653" height="18" font="2">appear to be obligatory in every clause, at least in English (Chomsky 1981, 1982). However, not </text>
+<text top="247" left="135" width="653" height="18" font="2">all languages require a subject in the same way that English does, which raises the question of  </text>
+<text top="266" left="135" width="653" height="18" font="2">whether the EPP is a universal requirement of the grammar, and, if it is a universal requirement, </text>
+<text top="285" left="135" width="511" height="18" font="2">why   it   is   less   obviously   so   in   some   languages,   such   as   in   VSO   or   in  </text>
+<text top="285" left="647" width="22" height="18" font="10"><i>pro</i></text>
+<text top="285" left="669" width="118" height="18" font="2">-drop   languages. </text>
+<text top="304" left="135" width="653" height="18" font="2">However, a variety of cross-linguistic forms of the EPP have been proposed, which allow for a </text>
+<text top="323" left="135" width="173" height="18" font="2">universal view of the EPP.</text>
+<text top="342" left="169" width="619" height="18" font="2">One way that it has been proposed that the EPP can vary cross-linguistically is through a </text>
+<text top="361" left="135" width="653" height="18" font="2">distinction   between   V-   and   D-   prominent   languages.   For   example,   Massam   and   Smallwood </text>
+<text top="380" left="135" width="653" height="18" font="2">(1997) show that, in Niuean, the predicate is always high in the structure, and they thus propose  </text>
+<text top="399" left="135" width="653" height="18" font="2">that, in Niuean, the EPP is checked by the predicate, rather than by a DP. Likewise, Davies and </text>
+<text top="418" left="135" width="653" height="18" font="2">Dubinsky (2001) consider several languages and propose a contrast between V- and D- prominent </text>
+<text top="437" left="135" width="653" height="18" font="2">languages. For them, D-prominent languages have an EPP satisfied by a D feature in T, whereas  </text>
+<text top="456" left="135" width="430" height="18" font="2">V-prominent languages have an EPP satisfied by a V feature in T.</text>
+<text top="475" left="169" width="619" height="18" font="2">Another   way   that   the   EPP  has   been   proposed   to   vary   cross-linguistically   is   through   a </text>
+<text top="494" left="135" width="653" height="18" font="2">contrast   between   heads   and   phrases.  Alexiadou   and  Anagnostopoulou   (1998),   in   considering </text>
+<text top="513" left="135" width="653" height="18" font="2">several   Null   Subject   Langauges   (NSLs),   argue   that   the   EPP   is   parameterized   between </text>
+<text top="532" left="135" width="653" height="18" font="2">move/merge XP and move/merge Xº. The agreement morpheme on the verbs in NSLs includes a </text>
+<text top="551" left="135" width="653" height="18" font="2">D feature in the inflection, and is equivalent to a pronoun in other languages. Verb raising can </text>
+<text top="570" left="135" width="129" height="18" font="2">thus check the EPP.</text>
+<text top="589" left="169" width="613" height="18" font="2">If we combine these two approaches, the result is a four-way contrast in forms of EPP-</text>
+<text top="608" left="135" width="306" height="18" font="2">checking, as shown in the typology in Table 1.</text>
+<text top="646" left="285" width="348" height="18" font="2">Table 1: Cross-Linguistic Varieties of EPP-Checking</text>
+<text top="685" left="366" width="199" height="18" font="11"><b>EPP Checked by a Nominal </b></text>
+<text top="704" left="434" width="59" height="18" font="11"><b>Element</b></text>
+<text top="685" left="608" width="134" height="18" font="11"><b>EPP Checked by a </b></text>
+<text top="704" left="618" width="110" height="18" font="11"><b>Verbal Element</b></text>
+<text top="723" left="184" width="134" height="18" font="11"><b>EPP Checked by a </b></text>
+<text top="742" left="191" width="117" height="18" font="11"><b>Phrasal Element</b></text>
+<text top="723" left="436" width="55" height="18" font="2">DP-EPP</text>
+<text top="742" left="420" width="86" height="18" font="2">(i.e. English)</text>
+<text top="723" left="645" width="55" height="18" font="2">VP-EPP</text>
+<text top="742" left="632" width="83" height="18" font="2">(i.e. Niuean)</text>
+<text top="762" left="184" width="130" height="18" font="11"><b>EPP Checked by a</b></text>
+<text top="781" left="199" width="100" height="18" font="11"><b>Head Element</b></text>
+<text top="762" left="438" width="51" height="18" font="2">Dº-EPP</text>
+<text top="781" left="424" width="77" height="18" font="2">(i.e. Italian)</text>
+<text top="762" left="648" width="51" height="18" font="2">Vº-EPP</text>
+<text top="781" left="640" width="65" height="18" font="2">(i.e. Irish)</text>
+<text top="820" left="135" width="653" height="18" font="2">In   the   following,   I   will   consider   each   of   these   languages  in  turn,   as  well   as  Arabic,   which </text>
+<text top="839" left="135" width="653" height="18" font="2">alternates between a DP- and a Dº-EPP. This typology allows us to maintain that the EPP is a </text>
+<text top="858" left="135" width="653" height="18" font="2">cross-linguistic aspect of grammar, which must be obligatorily checked in some form in every </text>
+<text top="877" left="135" width="363" height="18" font="2">instance of Infl through some sort of local relationship.</text>
+<text top="914" left="135" width="9" height="20" font="8"><b>2</b></text>
+<text top="914" left="167" width="86" height="20" font="8"><b>DP-EPP: E</b></text>
+<text top="917" left="254" width="56" height="16" font="9"><b>NGLISH</b></text>
+<text top="952" left="135" width="653" height="18" font="2">English was the basis on which the EPP was originally proposed (Chomsky 1981, 1982), and, as </text>
+<text top="971" left="135" width="653" height="18" font="2">such, behaves much like we would expect a language with a requirement for an overt subject to </text>
+<text top="990" left="135" width="653" height="18" font="2">behave. However, Davies and Dubinsky (2001) show that, not only does English require an overt </text>
+<text top="1009" left="135" width="653" height="18" font="2">subject, it requires that the subject be a DP, at least covertly. They demonstrate that even when the </text>
+<text top="1028" left="135" width="653" height="18" font="2">subject of an English clause appears to be something other than a DP, it behaves like a DP. They  </text>
+<text top="136" left="775" width="8" height="18" font="2">2</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="171" left="135" width="459" height="18" font="2">thus propose that all English subjects are contained within a DP shell.</text>
+<text top="190" left="169" width="602" height="18" font="2">The sentences in (1) demonstrate that non-nominal elements can appear in subject position.</text>
+<text top="228" left="135" width="19" height="18" font="2">(1)</text>
+<text top="228" left="189" width="287" height="18" font="2">a.    [That I saw a unicorn] was unexpected.</text>
+<text top="247" left="189" width="316" height="18" font="2">b.    [Down the hill] is a good place for a picnic.</text>
+<text top="266" left="189" width="327" height="18" font="2">c.    [Very clean] is how he expects his apartment.</text>
+<text top="304" left="135" width="653" height="18" font="2">In (2), the same non-nominal elements undergo raising from the embedded clauses to the subject  </text>
+<text top="323" left="135" width="196" height="18" font="2">position of the matrix clause. </text>
+<text top="361" left="135" width="19" height="18" font="2">(2)</text>
+<text top="361" left="189" width="338" height="18" font="2">a.    [That I saw a unicorn] seems to be unexpected.</text>
+<text top="379" left="189" width="382" height="18" font="2">b.    [Down the hill] seems to be a good place for a picnic.</text>
+<text top="399" left="189" width="393" height="18" font="2">c.    [Very clean] seems to be how he expects his apartment.</text>
+<text top="436" left="135" width="653" height="18" font="2">Assuming, then, that the EPP triggers raising, it would appear that these non-nominal elements </text>
+<text top="455" left="135" width="220" height="18" font="2">have the ability to check the EPP.</text>
+<text top="474" left="169" width="619" height="18" font="2">  However, these non-nominal subjects do have some properties of DPs. At the very least, </text>
+<text top="493" left="135" width="653" height="18" font="2">they have  φ-features. Davies and Dubinsky (2001) demonstrate this by the fact that they can </text>
+<text top="512" left="135" width="509" height="18" font="2">trigger agreement under coordination, as shown in (3) for CPs, PPs, and APs.</text>
+<text top="550" left="135" width="19" height="18" font="2">(3)</text>
+<text top="550" left="189" width="469" height="18" font="2">a.    [That the march should go ahead] and [that it should be cancelled] </text>
+<text top="569" left="189" width="433" height="18" font="2">       have both been argued by the same people at different times. </text>
+<text top="588" left="607" width="177" height="18" font="2">(McCloskey, 1991, p. 564)</text>
+<text top="607" left="189" width="497" height="18" font="2">b.    [Down the hill] and [across the river] are both good places for a picnic.</text>
+<text top="626" left="189" width="454" height="18" font="2">c.    [Very brawny] and [very studious] are what Cindy aspires to be. </text>
+<text top="645" left="512" width="271" height="18" font="2">        (Davies and Dubinsky, 2001, p.249)</text>
+<text top="683" left="135" width="653" height="18" font="2">Similarly, they also show that CP and PP subjects can license emphatic reflexives, as shown in the </text>
+<text top="702" left="135" width="107" height="18" font="2">sentences in (4).</text>
+<text top="740" left="135" width="19" height="18" font="2">(4)</text>
+<text top="740" left="189" width="298" height="18" font="2">a.    That I saw the girl itself was unexpected.</text>
+<text top="759" left="189" width="308" height="18" font="2">b.    Down those hills is itself a fairly long trip.</text>
+<text top="797" left="135" width="653" height="18" font="2">The ability of CPs and PPs to license emphatic reflexives is available only when they are in </text>
+<text top="816" left="135" width="263" height="18" font="2">subject position, as demonstrated in (5).</text>
+<text top="854" left="135" width="19" height="18" font="2">(5)</text>
+<text top="854" left="189" width="316" height="18" font="2">a.    *It was unexpected that I saw the girl itself.</text>
+<text top="873" left="189" width="345" height="18" font="2">b.    *A good place to hide is under those beds itself.</text>
+<text top="911" left="135" width="653" height="18" font="2">This seems to indicate that the presence of φ-features on non-nominals occurs only when they are </text>
+<text top="930" left="135" width="129" height="18" font="2">in subject position. </text>
+<text top="949" left="167" width="620" height="18" font="2">Davies and Dubinsky (2001) argue, based on these facts, that all non-nominal subjects in </text>
+<text top="968" left="135" width="653" height="18" font="2">English are contained within a DP shell, and that, therefore, the English EPP can only be checked  </text>
+<text top="987" left="135" width="653" height="18" font="2">by a DP subject. They contrast this with languages such as Bulgarian and Malagasy, which they </text>
+<text top="1006" left="135" width="448" height="18" font="2">argue are V-prominent, since they do not show these same patterns. </text>
+<text top="136" left="135" width="8" height="18" font="2">3</text>
+<text top="136" left="666" width="6" height="18" font="2">J</text>
+<text top="139" left="673" width="59" height="15" font="6">ULIANNE</text>
+<text top="136" left="731" width="16" height="18" font="2"> D</text>
+<text top="139" left="747" width="36" height="15" font="6">ONER</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="135" left="135" width="15" height="18" font="2">A </text>
+<text top="138" left="150" width="71" height="15" font="6">TYPOLOGY</text>
+<text top="135" left="221" width="4" height="18" font="2"> </text>
+<text top="138" left="226" width="17" height="15" font="6">OF</text>
+<text top="135" left="242" width="38" height="18" font="2"> EPP-</text>
+<text top="138" left="281" width="68" height="15" font="6">CHECKING</text>
+<text top="135" left="349" width="4" height="18" font="2"> </text>
+<text top="138" left="353" width="88" height="15" font="6">MECHANISMS</text>
+<text top="171" left="135" width="9" height="20" font="8"><b>3</b></text>
+<text top="171" left="167" width="87" height="20" font="8"><b>VP-EPP: N</b></text>
+<text top="174" left="255" width="46" height="16" font="9"><b>IUEAN</b></text>
+<text top="210" left="135" width="653" height="18" font="2">Massam (2000, 2001) shows that, in Niuean, the predicate raises to the specifier of Infl, checking </text>
+<text top="228" left="135" width="470" height="18" font="2">the EPP and deriving the surface VSO word order, as shown in (6)<a href="doner2013-pdf.html#4">.</a></text>
+<text top="228" left="607" width="5" height="11" font="5"><a href="doner2013-pdf.html#4">1</a></text>
+<text top="228" left="611" width="176" height="18" font="2"><a href="doner2013-pdf.html#4">  </a>She also argues that the </text>
+<text top="247" left="135" width="237" height="18" font="2">sentence-initial particles (including </text>
+<text top="247" left="372" width="36" height="18" font="10"><i>hā ne</i></text>
+<text top="247" left="408" width="247" height="18" font="2">, below) are in a fused C and T head. </text>
+<text top="285" left="135" width="19" height="18" font="2">(6)</text>
+<text top="285" left="189" width="195" height="18" font="2">Hā ne nonofo  a     mutolu i </text>
+<text top="285" left="405" width="37" height="18" font="2">hinei.</text>
+<text top="285" left="621" width="29" height="18" font="2">       </text>
+<text top="307" left="189" width="35" height="15" font="6">PROG</text>
+<text top="304" left="224" width="39" height="18" font="2">  stay </text>
+<text top="307" left="297" width="26" height="15" font="6">ABS</text>
+<text top="304" left="323" width="145" height="18" font="2"> you      at  this.place</text>
+<text top="323" left="189" width="196" height="18" font="2">‘Whilst you are staying here.’</text>
+<text top="342" left="635" width="148" height="18" font="2">(Massam, 2000, p. 99)</text>
+<text top="380" left="169" width="619" height="18" font="2">According to Massam, the raising of the VP is what checks the EPP. That the whole VP </text>
+<text top="399" left="135" width="653" height="18" font="2">raises, and not just the V head, can be shown by the ability of phrasal material to also move in the </text>
+<text top="418" left="135" width="653" height="18" font="2">course   of   raising.   For   example,   in   a   Pseudo   Noun   Incorporation   (PNI)   construction,   bare </text>
+<text top="437" left="135" width="653" height="18" font="2">nominals move along with the verb to Infl, as shown in (7a). This contrasts with sentences in the  </text>
+<text top="456" left="135" width="653" height="18" font="2">regular VSO order, as in (7b). Note that, in both cases, the VP must have raised, since it surfaces  </text>
+<text top="475" left="135" width="181" height="18" font="2">prior to adverbials, such as </text>
+<text top="475" left="317" width="41" height="18" font="10"><i>tūmau</i></text>
+<text top="475" left="358" width="65" height="18" font="2"> ‘always.’</text>
+<text top="513" left="135" width="19" height="18" font="2">(7)</text>
+<text top="513" left="189" width="33" height="18" font="2">a.    [</text>
+<text top="521" left="222" width="12" height="11" font="5">VP</text>
+<text top="513" left="235" width="143" height="18" font="2"> Takafaga ika] tūmau </text>
+<text top="513" left="405" width="17" height="18" font="2">nī </text>
+<text top="513" left="459" width="48" height="18" font="2">a      ia.</text>
+<text top="513" left="621" width="16" height="18" font="2">    </text>
+<text top="532" left="243" width="79" height="18" font="2">           hunt </text>
+<text top="532" left="351" width="79" height="18" font="2">fish always </text>
+<text top="535" left="459" width="37" height="15" font="6">EMPH</text>
+<text top="532" left="496" width="4" height="18" font="2"> </text>
+<text top="535" left="513" width="26" height="15" font="6">ABS</text>
+<text top="532" left="539" width="20" height="18" font="2"> he</text>
+<text top="551" left="189" width="319" height="18" font="2">b.    Takafaga tūmau  nī        e      ia  e      tau ika.</text>
+<text top="570" left="189" width="145" height="18" font="2">       hunt         always </text>
+<text top="573" left="334" width="37" height="15" font="6">EMPH</text>
+<text top="570" left="371" width="4" height="18" font="2"> </text>
+<text top="573" left="375" width="26" height="15" font="6">ERG</text>
+<text top="570" left="401" width="28" height="18" font="2"> he  </text>
+<text top="573" left="429" width="26" height="15" font="6">ABS</text>
+<text top="570" left="455" width="4" height="18" font="2"> </text>
+<text top="573" left="459" width="15" height="15" font="6">PL</text>
+<text top="570" left="475" width="33" height="18" font="2">  fish</text>
+<text top="589" left="189" width="178" height="18" font="2">       ‘He is always fishing.’</text>
+<text top="608" left="623" width="161" height="18" font="2"> (Massam, 2001, p. 157)</text>
+<text top="646" left="135" width="653" height="18" font="2">Sentences such as (7a) cannot be a case of traditional Noun Incorporation, since the nominal can </text>
+<text top="665" left="135" width="653" height="18" font="2">be phrasal, as shown in (8). In fact, in (8b), even functional elements have been pied-piped with </text>
+<text top="684" left="135" width="627" height="18" font="2">the verb to initial position, showing that what moved must be more than some compound head.</text>
+<text top="722" left="135" width="23" height="18" font="2">(8) </text>
+<text top="722" left="189" width="257" height="18" font="2">a.    Ne  [inu    kofe    kono] a      Mele.</text>
+<text top="722" left="621" width="21" height="18" font="2">     </text>
+<text top="741" left="189" width="25" height="18" font="2">      </text>
+<text top="744" left="214" width="23" height="15" font="6">PST</text>
+<text top="741" left="236" width="135" height="18" font="2">  drink coffee bitter  </text>
+<text top="744" left="372" width="26" height="15" font="6">ABS</text>
+<text top="741" left="398" width="42" height="18" font="2">  Mele</text>
+<text top="760" left="189" width="201" height="18" font="2">      ‘Mary drank bitter coffee.’</text>
+<text top="779" left="627" width="157" height="18" font="2">(Massam, 2001, p. 158)</text>
+<text top="798" left="189" width="329" height="18" font="2">b.    Ne [kai sipi  mo    e     ika  mitaki] a     Sione.</text>
+<text top="798" left="621" width="16" height="18" font="2">    </text>
+<text top="817" left="189" width="29" height="18" font="2">       </text>
+<text top="820" left="218" width="23" height="15" font="6">PST</text>
+<text top="817" left="241" width="64" height="18" font="2"> eat  chip </text>
+<text top="820" left="305" width="30" height="15" font="6">COM</text>
+<text top="817" left="335" width="4" height="18" font="2"> </text>
+<text top="820" left="339" width="26" height="15" font="6">ABS</text>
+<text top="817" left="365" width="83" height="18" font="2"> fish good    </text>
+<text top="820" left="447" width="26" height="15" font="6">ABS</text>
+<text top="817" left="473" width="42" height="18" font="2"> Sione</text>
+<text top="836" left="189" width="238" height="18" font="2">       ‘Sione ate good fish and chips.’</text>
+<text top="855" left="623" width="161" height="18" font="2"> (Massam, 2001, p. 160)</text>
+<text top="893" left="167" width="620" height="18" font="2">As such, Massam and Smallwood (1997) and Massam (2000) argue that the EPP is checked </text>
+<text top="912" left="135" width="653" height="18" font="2">by a VP in Niuean. They show that any subject-object asymmetries in Niuean can be explained by </text>
+<text top="931" left="135" width="653" height="18" font="2">their hierarchical position. They also argue that this explains why there are no expletives in </text>
+<text top="949" left="135" width="653" height="18" font="2">Niuean. Under this approach, the English and the Niuean EPP both involve the movement of a </text>
+<text top="991" left="135" width="5" height="10" font="5">1</text>
+<text top="992" left="145" width="642" height="15" font="6">Abbreviations in the glosses are as follows:  1/2/3=first/second/third person; abs=absolutive case; com=comitative </text>
+<text top="1007" left="145" width="642" height="15" font="6">case;   comp=complementizer;   cop=copula;   emph=emphatic;   erg=ergative   case;   f=feminine;   m=masculine; </text>
+<text top="1023" left="145" width="642" height="15" font="6">neg=negation;   nfin=non-finite;   nom=nominative   case;   pl=plural;   pres=present   tense;   prog=progressive   aspect; </text>
+<text top="1038" left="145" width="369" height="15" font="6">pst=past tense; sbj=subjunctive mood; sg=singular; vn=verbal noun.</text>
+<text top="136" left="775" width="8" height="18" font="2">4</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="171" left="135" width="539" height="18" font="2">maximal projection into the specifier of Infl, and both result in a rigid word order.</text>
+<text top="208" left="135" width="9" height="20" font="8"><b>4</b></text>
+<text top="208" left="167" width="13" height="20" font="8"><b>D</b></text>
+<text top="211" left="180" width="5" height="16" font="9"><b>º</b></text>
+<text top="208" left="185" width="57" height="20" font="8"><b>-EPP: I</b></text>
+<text top="211" left="243" width="55" height="16" font="9"><b>TALIAN</b></text>
+<text top="246" left="135" width="653" height="18" font="2">Alexiadou and Anagnostopoulou (1998) argue that, in Null Subject Languages (NSLs), including </text>
+<text top="265" left="135" width="653" height="18" font="2">Italian, the EPP is checked by a D-feature on the verb, through head-movement. In this section, I </text>
+<text top="284" left="135" width="653" height="18" font="2">will present some additional evidence from the subjunctive paradigm of Italian, in which the </text>
+<text top="303" left="135" width="545" height="18" font="2">second person singular pronoun is obligatory (Cardinaletti, 2004), as shown in (9).</text>
+<text top="341" left="135" width="19" height="18" font="2">(9)</text>
+<text top="341" left="189" width="70" height="18" font="2">a.    Spero </text>
+<text top="341" left="297" width="132" height="18" font="2">    che  *(tu)   vinca.</text>
+<text top="341" left="675" width="12" height="18" font="2">   </text>
+<text top="360" left="189" width="73" height="18" font="2">       hope.1</text>
+<text top="363" left="262" width="17" height="15" font="6">SG</text>
+<text top="360" left="279" width="4" height="18" font="2">.</text>
+<text top="363" left="283" width="32" height="15" font="6">PRES</text>
+<text top="360" left="315" width="54" height="18" font="2"> that    2</text>
+<text top="363" left="369" width="17" height="15" font="6">SG</text>
+<text top="360" left="385" width="37" height="18" font="2">  win.</text>
+<text top="363" left="423" width="31" height="15" font="6">PRES</text>
+<text top="360" left="454" width="4" height="18" font="2">.</text>
+<text top="363" left="458" width="21" height="15" font="6">SBJ</text>
+<text top="360" left="480" width="4" height="18" font="2">.</text>
+<text top="363" left="484" width="17" height="15" font="6">SG</text>
+<text top="379" left="189" width="172" height="18" font="2">       ‘I hope that you win.’</text>
+<text top="398" left="189" width="70" height="18" font="2">b.    Spera </text>
+<text top="398" left="297" width="132" height="18" font="2">    che  *(tu)   vinca.</text>
+<text top="417" left="189" width="73" height="18" font="2">       hope.3</text>
+<text top="420" left="262" width="17" height="15" font="6">SG</text>
+<text top="417" left="279" width="4" height="18" font="2">.</text>
+<text top="420" left="283" width="31" height="15" font="6">PRES</text>
+<text top="417" left="315" width="54" height="18" font="2"> that    2</text>
+<text top="420" left="369" width="17" height="15" font="6">SG</text>
+<text top="417" left="385" width="37" height="18" font="2">  win.</text>
+<text top="420" left="423" width="31" height="15" font="6">PRES</text>
+<text top="417" left="454" width="4" height="18" font="2">.</text>
+<text top="420" left="458" width="21" height="15" font="6">SBJ</text>
+<text top="417" left="480" width="4" height="18" font="2">.</text>
+<text top="420" left="484" width="17" height="15" font="6">SG</text>
+<text top="436" left="189" width="202" height="18" font="2">       ‘S/he hopes that you win.’</text>
+<text top="455" left="688" width="95" height="18" font="2">(Ippolito, p.c.)</text>
+<text top="493" left="135" width="653" height="18" font="2">That the pronoun is obligatory is unexpected since Italian is a consistent NSL; this is the only </text>
+<text top="512" left="135" width="653" height="18" font="2">case in which a pronoun is obligatory regardless of discourse conditions in Italian. Even within </text>
+<text top="531" left="135" width="653" height="18" font="2">the   subjunctive   paradigm,   the   omission   of   the   first  and   third   singular   pronouns   are   more </text>
+<text top="550" left="135" width="546" height="18" font="2">acceptable than the omission of the second person pronoun, as shown in (10)-(11).</text>
+<text top="550" left="682" width="5" height="11" font="5"><a href="doner2013-pdf.html#5">2</a></text>
+<text top="550" left="687" width="101" height="18" font="2"><a href="doner2013-pdf.html#5"> </a>Note also that </text>
+<text top="569" left="135" width="581" height="18" font="2">the form of the verb is syncretic across the entire singular present subjunctive paradigm.</text>
+<text top="607" left="135" width="27" height="18" font="2">(10)</text>
+<text top="607" left="189" width="67" height="18" font="2">a.    Speri </text>
+<text top="607" left="297" width="134" height="18" font="2">    che ??(io)   vinca.</text>
+<text top="607" left="675" width="12" height="18" font="2">   </text>
+<text top="626" left="189" width="73" height="18" font="2">       hope.2</text>
+<text top="629" left="262" width="17" height="15" font="6">SG</text>
+<text top="626" left="279" width="4" height="18" font="2">.</text>
+<text top="629" left="283" width="31" height="15" font="6">PRES</text>
+<text top="626" left="315" width="58" height="18" font="2"> that     1</text>
+<text top="629" left="373" width="17" height="15" font="6">SG</text>
+<text top="626" left="390" width="33" height="18" font="2"> win.</text>
+<text top="629" left="423" width="31" height="15" font="6">PRES</text>
+<text top="626" left="454" width="4" height="18" font="2">.</text>
+<text top="629" left="458" width="21" height="15" font="6">SBJ</text>
+<text top="626" left="480" width="4" height="18" font="2">.</text>
+<text top="629" left="484" width="17" height="15" font="6">SG</text>
+<text top="645" left="189" width="174" height="18" font="2">       ‘You hope that I win.’</text>
+<text top="664" left="189" width="70" height="18" font="2">b.    Spera </text>
+<text top="664" left="297" width="134" height="18" font="2">    che ??(io)   vinca.</text>
+<text top="683" left="189" width="73" height="18" font="2">       hope.3</text>
+<text top="686" left="262" width="17" height="15" font="6">SG</text>
+<text top="683" left="279" width="4" height="18" font="2">.</text>
+<text top="686" left="283" width="31" height="15" font="6">PRES</text>
+<text top="683" left="315" width="58" height="18" font="2"> that     1</text>
+<text top="686" left="373" width="17" height="15" font="6">SG</text>
+<text top="683" left="390" width="33" height="18" font="2"> win.</text>
+<text top="686" left="423" width="31" height="15" font="6">PRES</text>
+<text top="683" left="454" width="4" height="18" font="2">.</text>
+<text top="686" left="458" width="21" height="15" font="6">SBJ</text>
+<text top="683" left="480" width="4" height="18" font="2">.</text>
+<text top="686" left="484" width="17" height="15" font="6">SG</text>
+<text top="702" left="189" width="183" height="18" font="2">       ‘S/he hopes that I win.’</text>
+<text top="721" left="688" width="95" height="18" font="2">(Ippolito, p.c.)</text>
+<text top="759" left="135" width="27" height="18" font="2">(11)</text>
+<text top="759" left="189" width="70" height="18" font="2">a.    Spero </text>
+<text top="759" left="297" width="127" height="18" font="2">    che (lei)    vinca.</text>
+<text top="759" left="675" width="4" height="18" font="2"> </text>
+<text top="778" left="189" width="73" height="18" font="2">       hope.1</text>
+<text top="781" left="262" width="17" height="15" font="6">SG</text>
+<text top="778" left="279" width="4" height="18" font="2">.</text>
+<text top="781" left="283" width="31" height="15" font="6">PRES</text>
+<text top="778" left="315" width="41" height="18" font="2"> that 3</text>
+<text top="781" left="356" width="17" height="15" font="6">SG</text>
+<text top="778" left="373" width="4" height="18" font="2">.</text>
+<text top="781" left="377" width="7" height="15" font="6">F</text>
+<text top="778" left="384" width="33" height="18" font="2"> win.</text>
+<text top="781" left="417" width="32" height="15" font="6">PRES</text>
+<text top="778" left="449" width="4" height="18" font="2">.</text>
+<text top="781" left="453" width="21" height="15" font="6">SBJ</text>
+<text top="778" left="474" width="4" height="18" font="2">.</text>
+<text top="781" left="479" width="17" height="15" font="6">SG</text>
+<text top="797" left="189" width="176" height="18" font="2">       ‘I hope that she wins.’</text>
+<text top="816" left="189" width="68" height="18" font="2">b.    Speri </text>
+<text top="816" left="297" width="127" height="18" font="2">    che (lei)    vinca.</text>
+<text top="835" left="189" width="73" height="18" font="2">       hope.2</text>
+<text top="838" left="262" width="17" height="15" font="6">SG</text>
+<text top="835" left="279" width="4" height="18" font="2">.</text>
+<text top="838" left="283" width="31" height="15" font="6">PRES</text>
+<text top="835" left="315" width="41" height="18" font="2"> that 3</text>
+<text top="838" left="356" width="17" height="15" font="6">SG</text>
+<text top="835" left="373" width="4" height="18" font="2">.</text>
+<text top="838" left="377" width="7" height="15" font="6">F</text>
+<text top="835" left="384" width="33" height="18" font="2"> win.</text>
+<text top="838" left="417" width="32" height="15" font="6">PRES</text>
+<text top="835" left="449" width="4" height="18" font="2">.</text>
+<text top="838" left="453" width="21" height="15" font="6">SBJ</text>
+<text top="835" left="474" width="4" height="18" font="2">.</text>
+<text top="838" left="479" width="17" height="15" font="6">SG</text>
+<text top="854" left="189" width="197" height="18" font="2">       ‘You hope that she wins.’</text>
+<text top="873" left="688" width="95" height="18" font="2">(Ippolito, p.c.)</text>
+<text top="911" left="162" width="626" height="18" font="2">Maiden (1995) shows how the second person singular form of the subjunctive developed to </text>
+<text top="930" left="135" width="653" height="18" font="2">its modern  syncretic   form   by means of  analogy.  In Classical  Latin  (CL),   the   second  person </text>
+<text top="949" left="135" width="183" height="18" font="2">singular was marked with  </text>
+<text top="949" left="318" width="15" height="18" font="10"><i>–s</i></text>
+<text top="949" left="333" width="455" height="18" font="2">  in most verbal paradigms, including the subjunctive. However, a </text>
+<text top="967" left="135" width="653" height="18" font="2">regular sound change caused the stressed front vowel-[s] sequences of CL to become [e] or [i] in </text>
+<text top="987" left="135" width="653" height="18" font="2">most varieties of Italo-Romance. This, alongside the changes in the first singular form, to be  </text>
+<text top="1023" left="135" width="5" height="10" font="5">2</text>
+<text top="1023" left="146" width="637" height="15" font="6">Speaker judgments vary as to the grammaticality of omitting the first person pronoun; however, they agree that it is </text>
+<text top="1038" left="146" width="351" height="15" font="6">more grammatical than the omission of the third person pronoun.</text>
+<text top="136" left="135" width="8" height="18" font="2">5</text>
+<text top="136" left="666" width="6" height="18" font="2">J</text>
+<text top="139" left="673" width="59" height="15" font="6">ULIANNE</text>
+<text top="136" left="731" width="16" height="18" font="2"> D</text>
+<text top="139" left="747" width="36" height="15" font="6">ONER</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="135" left="135" width="15" height="18" font="2">A </text>
+<text top="138" left="150" width="71" height="15" font="6">TYPOLOGY</text>
+<text top="135" left="221" width="4" height="18" font="2"> </text>
+<text top="138" left="226" width="17" height="15" font="6">OF</text>
+<text top="135" left="242" width="38" height="18" font="2"> EPP-</text>
+<text top="138" left="281" width="68" height="15" font="6">CHECKING</text>
+<text top="135" left="349" width="4" height="18" font="2"> </text>
+<text top="138" left="353" width="88" height="15" font="6">MECHANISMS</text>
+<text top="171" left="135" width="653" height="18" font="2">discussed   below,   led   to   the   homophony   of   all   three   singular   subjunctive   forms   in   the   first </text>
+<text top="190" left="135" width="653" height="18" font="2">conjugation. In turn, the homophony of these three forms in the first conjugation led to the </text>
+<text top="209" left="135" width="653" height="18" font="2">change, by analogy, of the second person in the other conjugations, as well (Maiden, 1995). These </text>
+<text top="228" left="135" width="653" height="18" font="2">changes, then, extended beyond simple sound change. If we assume that the loss of the person </text>
+<text top="247" left="135" width="653" height="18" font="2">marker was accompanied by a reanalysis of the feature specifications of the verb, such that the  </text>
+<text top="266" left="135" width="653" height="18" font="2">person specifications and the D feature were lost, then we can explain why the verb takes default  </text>
+<text top="285" left="135" width="653" height="18" font="2">third singular agreement  and is no longer able  to check the  EPP. The  pronoun thus became </text>
+<text top="304" left="135" width="71" height="18" font="2">obligatory.</text>
+<text top="323" left="162" width="626" height="18" font="2">In  contrast,  the  syncretism  of   the   first  and  third singular  subjunctive   forms results  from </text>
+<text top="342" left="135" width="568" height="18" font="2">simple sound change (Maiden, 1995). In CL, the first singular form was marked by </text>
+<text top="342" left="705" width="20" height="18" font="10"><i>–m</i></text>
+<text top="342" left="725" width="63" height="18" font="2">, and the </text>
+<text top="361" left="135" width="244" height="18" font="2">third singular form was marked by -</text>
+<text top="361" left="379" width="5" height="18" font="10"><i>t</i></text>
+<text top="361" left="384" width="404" height="18" font="2">. However, both word final [t] and [m] were lost in late CL </text>
+<text top="379" left="135" width="653" height="18" font="2">(Maiden, 1995). Since this syncretism arose by means of sound change alone, without analogy, </text>
+<text top="399" left="135" width="653" height="18" font="2">the feature specification of the verb did not necessarily change. As such, the verb remained  </text>
+<text top="417" left="135" width="341" height="18" font="2">specified for the features required to check the EPP.</text>
+<text top="436" left="162" width="626" height="18" font="2">In Italian, the verb alone is not sufficient for checking the EPP. Instead, a D feature, which is  </text>
+<text top="455" left="135" width="653" height="18" font="2">usually realized as rich agreement on the verb, is what is crucial for checking the EPP. In the case  </text>
+<text top="474" left="135" width="653" height="18" font="2">of   the   second   person   singular   subjunctive,   this   D   feature   is   missing,   and   so   a   pronoun   is  </text>
+<text top="493" left="135" width="242" height="18" font="2">obligatory in order to check the EPP.</text>
+<text top="530" left="135" width="9" height="20" font="8"><b>5</b></text>
+<text top="530" left="167" width="13" height="20" font="8"><b>V</b></text>
+<text top="534" left="180" width="5" height="16" font="9"><b>º</b></text>
+<text top="530" left="185" width="57" height="20" font="8"><b>-EPP: I</b></text>
+<text top="534" left="243" width="35" height="16" font="9"><b>RISH</b></text>
+<text top="569" left="135" width="653" height="18" font="2">Thus far, we have seen the EPP checked by VPs in Niuean, by DPs in English, and by Dºs on the </text>
+<text top="588" left="135" width="653" height="18" font="2">verb in Italian. In order to complete the typology in Table 1, there must be a language in which </text>
+<text top="607" left="135" width="533" height="18" font="2">the EPP is checked by a Vº. The structure of Irish is consistent with this analysis.</text>
+<text top="626" left="169" width="619" height="18" font="2">McCloskey (1996, 2001) argues that Irish has no EPP. However, his arguments only show </text>
+<text top="645" left="135" width="653" height="18" font="2">that Irish doesn’t have a DP-EPP. His evidence includes the fact that, in some constructions in </text>
+<text top="664" left="135" width="498" height="18" font="2">Irish, including the salient unaccusative, there is no argument raising at all. </text>
+<text top="683" left="169" width="619" height="18" font="2">Irish has two unaccusative constructions, the salient unaccusatives (12a), which take a PP </text>
+<text top="702" left="135" width="540" height="18" font="2">complement, and the putative unaccusatives (12b), which take a DP complement. </text>
+<text top="740" left="135" width="27" height="18" font="2">(12)</text>
+<text top="740" left="189" width="196" height="18" font="2">a.    Neartaigh      ar  a   ghlór.</text>
+<text top="759" left="189" width="197" height="18" font="2">       strengthened on his voice</text>
+<text top="778" left="189" width="180" height="18" font="2">b.    Neartaigh      a    ghlór.</text>
+<text top="797" left="189" width="176" height="18" font="2">       strengthened his voice</text>
+<text top="816" left="189" width="195" height="18" font="2">       ‘His voice strengthened.’</text>
+<text top="835" left="607" width="177" height="18" font="2">(McCloskey, 2001, p. 170)</text>
+<text top="873" left="135" width="653" height="18" font="2">There are several constructions in which the DP argument in the putative unaccusatives raises in </text>
+<text top="892" left="135" width="653" height="18" font="2">order to get case, but the PP argument in the salient unaccusative does not (McCloskey, 2001). </text>
+<text top="911" left="135" width="598" height="18" font="2">For example, this occurs in the progressive aspect, as shown in (13). In (13b), the object </text>
+<text top="911" left="734" width="53" height="18" font="10"><i>a ghlór </i></text>
+<text top="930" left="135" width="653" height="18" font="2">‘his voice’ raises with the verb to initial position. However, in (13a), the PP complement to the </text>
+<text top="949" left="135" width="33" height="18" font="2">verb </text>
+<text top="949" left="168" width="67" height="18" font="10"><i>ar a ghlór</i></text>
+<text top="949" left="235" width="262" height="18" font="2"> ‘on his voice’ remains in final position.</text>
+<text top="136" left="775" width="8" height="18" font="2">6</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="12" size="13" family="BAAAAA+LiberationSerif" color="#000000"/>
+<text top="171" left="135" width="27" height="18" font="2">(13)</text>
+<text top="171" left="189" width="246" height="18" font="2">a.    Tá ag       neartú       ar  a    ghlór.</text>
+<text top="190" left="189" width="52" height="18" font="2">       is   </text>
+<text top="193" left="241" width="35" height="15" font="6">PROG</text>
+<text top="190" left="276" width="157" height="18" font="2"> strengthen on his voice</text>
+<text top="209" left="189" width="206" height="18" font="2">b.    Tá a     ghlór   ag     neartú.</text>
+<text top="228" left="189" width="123" height="18" font="2">       is   his  voice  </text>
+<text top="231" left="313" width="35" height="15" font="6">PROG</text>
+<text top="228" left="348" width="73" height="18" font="2"> strengthen</text>
+<text top="247" left="189" width="215" height="18" font="2">       ‘His voice is strengthening.’</text>
+<text top="266" left="607" width="177" height="18" font="2">(McCloskey, 2001, p. 170)</text>
+<text top="304" left="135" width="653" height="18" font="2">Furthermore, when the progressive is clefted, the PP complement of the salient unaccusative can  </text>
+<text top="323" left="135" width="653" height="18" font="2">raise with the verb, as in (14a), but the DP complement of the putative unaccusative in (14b) </text>
+<text top="342" left="135" width="653" height="18" font="2">cannot, showing that the PP complement remains part of the VP, and also that the DP complement </text>
+<text top="361" left="135" width="59" height="18" font="2">does not.</text>
+<text top="399" left="135" width="27" height="18" font="2">(14)</text>
+<text top="399" left="189" width="194" height="18" font="2">a.    [Ag    éirí  ar  an  leanbh]</text>
+<text top="406" left="384" width="3" height="11" font="5">i</text>
+<text top="399" left="386" width="77" height="18" font="2"> a         bhí. </text>
+<text top="399" left="567" width="4" height="18" font="2"> </text>
+<text top="417" left="189" width="33" height="18" font="2">        </text>
+<text top="420" left="222" width="35" height="15" font="6">PROG</text>
+<text top="417" left="257" width="135" height="18" font="2"> rise on the child      </text>
+<text top="420" left="392" width="37" height="15" font="6">COMP</text>
+<text top="417" left="429" width="24" height="18" font="2"> be.</text>
+<text top="420" left="453" width="23" height="15" font="6">PST</text>
+<text top="436" left="189" width="367" height="18" font="2">       ‘It was becoming more agitated that the child was.’</text>
+<text top="455" left="607" width="177" height="18" font="2">(McCloskey, 1996, p. 249)</text>
+<text top="474" left="189" width="293" height="18" font="2">b.    *Is            [mo shaibhreas ag      méadú]</text>
+<text top="482" left="483" width="3" height="11" font="5">i</text>
+<text top="474" left="485" width="86" height="18" font="2">  a       tá.   </text>
+<text top="493" left="189" width="37" height="18" font="2">         </text>
+<text top="496" left="226" width="26" height="15" font="6">COP</text>
+<text top="493" left="252" width="4" height="18" font="2">.</text>
+<text top="496" left="256" width="31" height="15" font="6">PRES</text>
+<text top="493" left="287" width="106" height="18" font="2"> my wealth        </text>
+<text top="496" left="394" width="35" height="15" font="6">PROG</text>
+<text top="493" left="429" width="62" height="18" font="2"> increase </text>
+<text top="496" left="491" width="37" height="15" font="6">COMP</text>
+<text top="493" left="529" width="15" height="18" font="2"> is</text>
+<text top="512" left="189" width="254" height="18" font="2">       ‘It’s increasing that my wealth is.’</text>
+<text top="531" left="607" width="177" height="18" font="2">(McCloskey, 1996, p. 252)</text>
+<text top="569" left="135" width="653" height="18" font="2">Thus, in the salient unaccusatives, there is no argument raising at all. As such, it is difficult to  </text>
+<text top="588" left="135" width="653" height="18" font="2">imagine how the EPP could be checked in Irish, under the assumption that it needs to be checked </text>
+<text top="607" left="135" width="653" height="18" font="2">by an argument. However, we are not making that assumption; rather, I propose that the EPP can </text>
+<text top="626" left="135" width="237" height="18" font="2">also be checked by verbal elements.</text>
+<text top="645" left="169" width="619" height="18" font="2">So   far,   what   the   Niuean,   English,   and   Italian   EPP  have   in   common   is   the   mandatory </text>
+<text top="664" left="135" width="653" height="18" font="2">movement of some element to some position within the projection of Infl. Irish doesn’t appear to </text>
+<text top="683" left="135" width="653" height="18" font="2">have rich enough inflection to have Dº-EPP like Italian. As can be seen in Table 2, there are </text>
+<text top="702" left="135" width="425" height="18" font="2">several contexts in which verbal agreement is not fully realized. </text>
+<text top="740" left="209" width="500" height="18" font="2">Table 2: Irish Verbal Person and Number Inflection (from Ó Siadhail, 1989)</text>
+<text top="779" left="326" width="34" height="18" font="11"><b>Past </b></text>
+<text top="798" left="310" width="62" height="18" font="11"><b>Habitual</b></text>
+<text top="788" left="419" width="30" height="18" font="11"><b>Past</b></text>
+<text top="788" left="502" width="48" height="18" font="11"><b>Future</b></text>
+<text top="779" left="593" width="57" height="18" font="11"><b>Present </b></text>
+<text top="798" left="588" width="62" height="18" font="11"><b>Habitual</b></text>
+<text top="817" left="260" width="8" height="18" font="11"><b>1</b></text>
+<text top="820" left="269" width="18" height="15" font="12"><b>SG</b></text>
+<text top="817" left="303" width="22" height="18" font="2">-nn</text>
+<text top="817" left="395" width="12" height="18" font="2">-s</text>
+<text top="817" left="488" width="14" height="18" font="2">-d</text>
+<text top="817" left="581" width="18" height="18" font="2">-m</text>
+<text top="837" left="260" width="8" height="18" font="11"><b>2</b></text>
+<text top="840" left="269" width="18" height="15" font="12"><b>SG</b></text>
+<text top="837" left="303" width="13" height="18" font="2">-á</text>
+<text top="837" left="395" width="12" height="18" font="2">-s</text>
+<text top="837" left="488" width="11" height="18" font="2">-r</text>
+<text top="837" left="581" width="11" height="18" font="2">-r</text>
+<text top="857" left="260" width="8" height="18" font="11"><b>3</b></text>
+<text top="860" left="269" width="18" height="15" font="12"><b>SG</b></text>
+<text top="877" left="261" width="8" height="18" font="11"><b>1</b></text>
+<text top="880" left="269" width="17" height="15" font="12"><b>PL</b></text>
+<text top="877" left="303" width="45" height="18" font="2">-mís(t)</text>
+<text top="877" left="395" width="36" height="18" font="2">-mair</text>
+<text top="877" left="488" width="18" height="18" font="2">-m</text>
+<text top="877" left="581" width="31" height="18" font="2">-míd</text>
+<text top="896" left="261" width="8" height="18" font="11"><b>2</b></text>
+<text top="899" left="269" width="17" height="15" font="12"><b>PL</b></text>
+<text top="896" left="395" width="39" height="18" font="2">-bhair</text>
+<text top="916" left="261" width="8" height="18" font="11"><b>3</b></text>
+<text top="919" left="269" width="17" height="15" font="12"><b>PL</b></text>
+<text top="916" left="303" width="40" height="18" font="2">-dís(t)</text>
+<text top="916" left="395" width="26" height="18" font="2">-dar</text>
+<text top="916" left="488" width="14" height="18" font="2">-d</text>
+<text top="916" left="581" width="14" height="18" font="2">-d</text>
+<text top="955" left="135" width="653" height="18" font="2">Moreover, if Irish had VP raising, as in Niuean, we would expect the PP argument of the salient  </text>
+<text top="974" left="135" width="494" height="18" font="2">unaccusatives to raise along with the verb all the time. This is not the case<a href="doner2013-pdf.html#7">.</a></text>
+<text top="973" left="630" width="5" height="11" font="5"><a href="doner2013-pdf.html#7">3</a></text>
+<text top="974" left="635" width="153" height="18" font="2"><a href="doner2013-pdf.html#7"> </a>In Irish, only the verb </text>
+<text top="993" left="135" width="653" height="18" font="2">moves into Infl, and so I propose that it is the head movement of the verb into Infl which checks </text>
+<text top="1023" left="135" width="5" height="10" font="5">3</text>
+<text top="1023" left="146" width="635" height="15" font="6">There are some cases of complex nominal predicates raising in Irish, but Carnie (1995) argues that this is still head </text>
+<text top="1038" left="146" width="60" height="15" font="6">movement.</text>
+<text top="136" left="135" width="8" height="18" font="2">7</text>
+<text top="136" left="666" width="6" height="18" font="2">J</text>
+<text top="139" left="673" width="59" height="15" font="6">ULIANNE</text>
+<text top="136" left="731" width="16" height="18" font="2"> D</text>
+<text top="139" left="747" width="36" height="15" font="6">ONER</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="135" left="135" width="15" height="18" font="2">A </text>
+<text top="138" left="150" width="71" height="15" font="6">TYPOLOGY</text>
+<text top="135" left="221" width="4" height="18" font="2"> </text>
+<text top="138" left="226" width="17" height="15" font="6">OF</text>
+<text top="135" left="242" width="38" height="18" font="2"> EPP-</text>
+<text top="138" left="281" width="68" height="15" font="6">CHECKING</text>
+<text top="135" left="349" width="4" height="18" font="2"> </text>
+<text top="138" left="353" width="88" height="15" font="6">MECHANISMS</text>
+<text top="171" left="135" width="107" height="18" font="2">the EPP in Irish.</text>
+<text top="190" left="169" width="619" height="18" font="2">There is V-to-Infl movement in Italian, French, and Irish. However, in French, the EPP is </text>
+<text top="209" left="135" width="653" height="18" font="2">checked by a DP (Davies and Dubinsky, 2001), and thus the EPP in French must be independent  </text>
+<text top="228" left="135" width="653" height="18" font="2">of V-to-Infl movement. In Italian, the EPP is normally checked by the Dº-head on the verb, so, </text>
+<text top="247" left="135" width="653" height="18" font="2">although V-to-Infl movement is related to the EPP, it is not sufficient to check it—the correct </text>
+<text top="266" left="135" width="653" height="18" font="2">features must also be present. In Irish, however, I am arguing that it is V-to-Infl movement itself </text>
+<text top="285" left="135" width="653" height="18" font="2">which checks the EPP. Thus, V-to-Infl movement in these three languages must be independently </text>
+<text top="304" left="135" width="653" height="18" font="2">triggered. Assuming that the EPP needs to be checked in all instances of Infl, even in non-finite </text>
+<text top="323" left="135" width="653" height="18" font="2">clauses, but that V-to-Infl movement triggered for tense reasons does not occur in non-finite  </text>
+<text top="342" left="135" width="648" height="18" font="2">clauses, we could use non-finite clauses to distinguish these three different motivations for V-to-</text>
+<text top="361" left="135" width="102" height="18" font="2">Infl movement.</text>
+<text top="379" left="169" width="619" height="18" font="2">Such an approach predicts that V-to-Infl movement in Italian should occur in non-finite </text>
+<text top="399" left="135" width="653" height="18" font="2">clauses, since it is related to the EPP. This is the case, as shown by the fact that the main verb </text>
+<text top="417" left="135" width="139" height="18" font="2">precedes the adverb </text>
+<text top="417" left="275" width="21" height="18" font="10"><i>più</i></text>
+<text top="417" left="296" width="492" height="18" font="2"> ‘no more’ in both the finite clause in (15a) and the non-finite clause in </text>
+<text top="436" left="135" width="40" height="18" font="2">(15b).</text>
+<text top="474" left="135" width="27" height="18" font="2">(15)</text>
+<text top="474" left="189" width="220" height="18" font="2">a.    Gianni non mangia          più.</text>
+<text top="474" left="621" width="16" height="18" font="2">    </text>
+<text top="493" left="189" width="76" height="18" font="2">       John    </text>
+<text top="496" left="266" width="27" height="15" font="6">NEG</text>
+<text top="493" left="293" width="36" height="18" font="2"> eat.3</text>
+<text top="496" left="329" width="17" height="15" font="6">SG</text>
+<text top="493" left="345" width="4" height="18" font="2">.</text>
+<text top="496" left="350" width="31" height="15" font="6">PRES</text>
+<text top="493" left="381" width="59" height="18" font="2"> no more</text>
+<text top="512" left="189" width="172" height="18" font="2">       ‘John no longer eats.’</text>
+<text top="531" left="189" width="190" height="18" font="2">b.    per non  mangiare più…</text>
+<text top="550" left="189" width="56" height="18" font="2">       for  </text>
+<text top="553" left="245" width="27" height="15" font="6">NEG</text>
+<text top="550" left="273" width="27" height="18" font="2"> eat.</text>
+<text top="553" left="300" width="31" height="15" font="6">NFIN</text>
+<text top="550" left="331" width="67" height="18" font="2">   no more</text>
+<text top="569" left="189" width="215" height="18" font="2">       ‘in order to no longer eat…’</text>
+<text top="588" left="623" width="160" height="18" font="2">  (Pollock, 1989, p. 412)</text>
+<text top="626" left="135" width="653" height="18" font="2">However, V-to-Infl movement is not predicted to occur in second person singular subjunctive </text>
+<text top="645" left="135" width="653" height="18" font="2">clauses, since the EPP is checked by the pronoun in such clauses, and not by verb raising. This is,  </text>
+<text top="664" left="135" width="434" height="18" font="2">again,   the   case,   as   shown   by   the   fact   that   the   lexical   verb  </text>
+<text top="664" left="570" width="29" height="18" font="10"><i>esca</i></text>
+<text top="664" left="599" width="188" height="18" font="2">  ‘exit’  follows   the   adverb </text>
+<text top="683" left="135" width="76" height="18" font="10"><i>solitamente</i></text>
+<text top="683" left="211" width="162" height="18" font="2"> ‘usually’ in (16), below.</text>
+<text top="721" left="135" width="27" height="18" font="2">(16)</text>
+<text top="721" left="189" width="72" height="18" font="2">       Crede </text>
+<text top="721" left="297" width="198" height="18" font="2">      che  tu    solitamente esca </text>
+<text top="721" left="513" width="118" height="18" font="2">            alle due.</text>
+<text top="740" left="189" width="77" height="18" font="2">(he) think.3</text>
+<text top="743" left="266" width="17" height="15" font="6">SG</text>
+<text top="740" left="283" width="4" height="18" font="2">.</text>
+<text top="743" left="287" width="32" height="15" font="6">PRES</text>
+<text top="740" left="319" width="45" height="18" font="2"> that  2</text>
+<text top="743" left="364" width="17" height="15" font="6">SG</text>
+<text top="740" left="381" width="111" height="18" font="2">  usually   exit.</text>
+<text top="743" left="492" width="31" height="15" font="6">PRES</text>
+<text top="740" left="524" width="4" height="18" font="2">.</text>
+<text top="743" left="528" width="17" height="15" font="6">SG</text>
+<text top="740" left="545" width="4" height="18" font="2">.</text>
+<text top="743" left="549" width="21" height="15" font="6">SBJ</text>
+<text top="740" left="570" width="57" height="18" font="2"> at    two</text>
+<text top="759" left="189" width="262" height="18" font="2">‘He thinks that you usually exit at two.’</text>
+<text top="778" left="575" width="208" height="18" font="2">       (Cardinaletti, 2004, p. 127)</text>
+<text top="816" left="135" width="653" height="18" font="2">On the other hand, in French, where verb raising movement is independent of the EPP, there is no </text>
+<text top="835" left="135" width="273" height="18" font="2">V-to-Infl movement in non-finite clauses.</text>
+<text top="873" left="135" width="27" height="18" font="2">(17)</text>
+<text top="873" left="189" width="206" height="18" font="2">Ne   pas posséder  de voiture…</text>
+<text top="873" left="621" width="25" height="18" font="2">      </text>
+<text top="895" left="189" width="27" height="15" font="6">NEG</text>
+<text top="892" left="216" width="62" height="18" font="2"> not own.</text>
+<text top="895" left="278" width="31" height="15" font="6">NFIN</text>
+<text top="892" left="309" width="48" height="18" font="2"> a   car </text>
+<text top="911" left="189" width="136" height="18" font="2">‘Not owning a car...’</text>
+<text top="930" left="631" width="152" height="18" font="2">(Pollock, 1989, p. 374)</text>
+<text top="968" left="135" width="538" height="18" font="2">Thus, V-to-Infl movement appears related to the EPP in Italian, but not in French.</text>
+<text top="987" left="169" width="619" height="18" font="2">In Irish, V-to-Infl movement is also predicted in non-finite clauses, since it is EPP-related. </text>
+<text top="1006" left="135" width="653" height="18" font="2">However, unfortunately, non-finite clauses in Irish take the form of predicative verbal nouns </text>
+<text top="1025" left="135" width="653" height="18" font="2">(PVNs)   (Ó   Siadhail,   1989;   Carnie,   2011),   which   Carnie   (2011)   argues   do   not   have   the   full </text>
+<text top="136" left="775" width="8" height="18" font="2">8</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="13" size="16" family="EAAAAA+DejaVuSerif" color="#000000"/>
+	<fontspec id="14" size="15" family="EAAAAA+DejaVuSerif" color="#000000"/>
+<text top="171" left="135" width="653" height="18" font="2">functional structure of a clause. Crucially, they are missing tense projections. Some PVNs are </text>
+<text top="190" left="135" width="96" height="18" font="2">shown in (18).</text>
+<text top="228" left="135" width="27" height="18" font="2">(18)</text>
+<text top="228" left="189" width="370" height="18" font="2">a.    Ba   mhaith liom        Seán an  scéal a          scríobh.</text>
+<text top="228" left="621" width="16" height="18" font="2">    </text>
+<text top="247" left="189" width="29" height="18" font="2">       </text>
+<text top="250" left="218" width="26" height="15" font="6">COP</text>
+<text top="247" left="243" width="95" height="18" font="2"> good    with.1</text>
+<text top="250" left="339" width="17" height="15" font="6">SG</text>
+<text top="247" left="356" width="110" height="18" font="2"> Sean the story 3</text>
+<text top="250" left="466" width="17" height="15" font="6">SG</text>
+<text top="247" left="483" width="4" height="18" font="2">.</text>
+<text top="250" left="487" width="12" height="15" font="6">M</text>
+<text top="247" left="498" width="42" height="18" font="2"> write.</text>
+<text top="250" left="541" width="19" height="15" font="6">VN</text>
+<text top="266" left="189" width="237" height="18" font="2">       ‘I want Sean to write the story.’</text>
+<text top="285" left="189" width="312" height="18" font="2">b.    Tá         mé ábalta an  scéal a          scríobh.</text>
+<text top="304" left="189" width="48" height="18" font="2">       be.</text>
+<text top="307" left="238" width="31" height="15" font="6">PRES</text>
+<text top="304" left="269" width="140" height="18" font="2"> I    able    the story 3</text>
+<text top="307" left="409" width="17" height="15" font="6">SG</text>
+<text top="304" left="426" width="4" height="18" font="2">.</text>
+<text top="307" left="430" width="12" height="15" font="6">M</text>
+<text top="304" left="442" width="42" height="18" font="2"> write.</text>
+<text top="307" left="484" width="19" height="15" font="6">VN</text>
+<text top="323" left="189" width="220" height="18" font="2">       ‘I am able to write the story.’</text>
+<text top="342" left="626" width="157" height="18" font="2"> (Carnie, 2011, p. 1212)</text>
+<text top="379" left="135" width="653" height="18" font="2">The verb does not raise in non-finite clauses in Irish because there is no Infl projection. In Irish,  </text>
+<text top="399" left="135" width="653" height="18" font="2">then, the verb raises to Infl in every clause that has an Infl projection. The fact that there are no </text>
+<text top="417" left="135" width="653" height="18" font="2">non-finite clauses with fully specified structure could be the result of some conflict between the </text>
+<text top="436" left="135" width="653" height="18" font="2">requirements of a non-finite verb and the requirements of the EPP. A non-finite Infl head would </text>
+<text top="455" left="135" width="653" height="18" font="2">not   have   the   tense   features  compatible   with   verb   raising,   and   so   verb   raising   would  not   be </text>
+<text top="474" left="135" width="330" height="18" font="2">triggered, but then the EPP could not get checked.</text>
+<text top="493" left="169" width="613" height="18" font="2">These   facts  suggest,   then,   that  V-to-Infl   movement   occurs  with   different   triggers   cross-</text>
+<text top="512" left="135" width="653" height="18" font="2">linguistically. For example, it occurs with full agreement when checking a Dº-EPP, as in Italian.  </text>
+<text top="531" left="135" width="653" height="18" font="2">In languages such as French, the movement is triggered to check tense features, and so occurs </text>
+<text top="550" left="135" width="653" height="18" font="2">with specified tense features. Finally, it does not necessarily occur with any inflection when </text>
+<text top="569" left="135" width="305" height="18" font="2">checking a Vº-EPP, in languages such as Irish.</text>
+<text top="606" left="135" width="9" height="20" font="8"><b>6</b></text>
+<text top="606" left="167" width="17" height="20" font="8"><b>M</b></text>
+<text top="610" left="184" width="36" height="16" font="9"><b>IXED</b></text>
+<text top="606" left="220" width="15" height="20" font="8"><b> S</b></text>
+<text top="610" left="235" width="59" height="16" font="9"><b>YSTEMS</b></text>
+<text top="606" left="294" width="23" height="20" font="8"><b>: A</b></text>
+<text top="610" left="317" width="46" height="16" font="9"><b>RABIC</b></text>
+<text top="645" left="135" width="653" height="18" font="2">As is well known, Arabic exhibits different possible word orders, which are associated with </text>
+<text top="664" left="135" width="653" height="18" font="2">different agreement patterns. These different word orders and agreement patterns correlate with  </text>
+<text top="683" left="135" width="653" height="18" font="2">different modes of EPP-checking. In the primary word order in Arabic, VSO, which generally has </text>
+<text top="702" left="135" width="653" height="18" font="2">only partial subject-verb agreement, the EPP is checked by means of a DP. In both the SVO order </text>
+<text top="721" left="135" width="653" height="18" font="2">and in null-subject constructions, which have full subject-verb agreement, the EPP is checked by </text>
+<text top="740" left="135" width="507" height="18" font="2">means of a D feature on V, through V-to-Infl movement, much like in Italian.</text>
+<text top="759" left="169" width="619" height="18" font="2">Aoun, Benmamoun, and Choueiri (2010) show that Arabic VSO sentences are derived by </text>
+<text top="778" left="135" width="653" height="18" font="2">means of verb movement to F, a position higher than Infl but lower than C, and movement of the </text>
+<text top="797" left="135" width="579" height="18" font="2">subject to the specifier of Infl. Thus, the sentence in (19) would be structured as in (20).</text>
+<text top="835" left="135" width="27" height="18" font="2">(19)</text>
+<text top="835" left="189" width="63" height="18" font="2">ma-qra-š </text>
+<text top="835" left="297" width="88" height="18" font="2">           omar </text>
+<text top="834" left="338" width="9" height="19" font="13">ʕ</text>
+<text top="835" left="385" width="5" height="18" font="2">l</text>
+<text top="836" left="390" width="9" height="17" font="14">ə</text>
+<text top="835" left="399" width="38" height="18" font="2">-ktab </text>
+<text top="835" left="621" width="8" height="18" font="2">  </text>
+<text top="857" left="189" width="27" height="15" font="6">NEG</text>
+<text top="854" left="216" width="46" height="18" font="2">-read.3</text>
+<text top="857" left="262" width="12" height="15" font="6">M</text>
+<text top="854" left="274" width="4" height="18" font="2">.</text>
+<text top="857" left="278" width="17" height="15" font="6">SG</text>
+<text top="854" left="295" width="5" height="18" font="2">-</text>
+<text top="857" left="301" width="27" height="15" font="6">NEG</text>
+<text top="854" left="328" width="113" height="18" font="2">  Omar  the-book</text>
+<text top="873" left="189" width="197" height="18" font="2">‘Omar did not read the book.’</text>
+<text top="892" left="617" width="166" height="18" font="2">(Aoun et al., 2010, p. 68)</text>
+<text top="136" left="135" width="8" height="18" font="2">9</text>
+<text top="136" left="666" width="6" height="18" font="2">J</text>
+<text top="139" left="673" width="59" height="15" font="6">ULIANNE</text>
+<text top="136" left="731" width="16" height="18" font="2"> D</text>
+<text top="139" left="747" width="36" height="15" font="6">ONER</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="135" left="135" width="15" height="18" font="2">A </text>
+<text top="138" left="150" width="71" height="15" font="6">TYPOLOGY</text>
+<text top="135" left="221" width="4" height="18" font="2"> </text>
+<text top="138" left="226" width="17" height="15" font="6">OF</text>
+<text top="135" left="242" width="38" height="18" font="2"> EPP-</text>
+<text top="138" left="281" width="68" height="15" font="6">CHECKING</text>
+<text top="135" left="349" width="4" height="18" font="2"> </text>
+<text top="138" left="353" width="88" height="15" font="6">MECHANISMS</text>
+<text top="171" left="135" width="27" height="18" font="2">(20)</text>
+<text top="556" left="135" width="653" height="18" font="2">Arabic   also   has   an   existential   construction,   which   can   surface   with   an   overt   auxiliary   as </text>
+<text top="575" left="135" width="118" height="18" font="2">illustrated in (21).</text>
+<text top="613" left="135" width="27" height="18" font="2">(21)</text>
+<text top="613" left="189" width="307" height="18" font="2">kaana       hunaaka Taalib-un      fii l-ħadiiqati</text>
+<text top="613" left="621" width="8" height="18" font="2">  </text>
+<text top="632" left="189" width="38" height="18" font="2">was.3</text>
+<text top="635" left="227" width="12" height="15" font="6">M</text>
+<text top="632" left="239" width="4" height="18" font="2">.</text>
+<text top="635" left="243" width="17" height="15" font="6">SG</text>
+<text top="632" left="260" width="119" height="18" font="2">  there      student-</text>
+<text top="635" left="379" width="31" height="15" font="6">NOM</text>
+<text top="632" left="410" width="96" height="18" font="2"> in  the-garden</text>
+<text top="651" left="189" width="236" height="18" font="2">‘There was a student in the garden.’</text>
+<text top="670" left="617" width="166" height="18" font="2">(Aoun et al., 2010, p. 70)</text>
+<text top="708" left="135" width="653" height="18" font="2">If we assume, as is generally assumed for English, that the expletive is inserted into the specifier </text>
+<text top="727" left="135" width="653" height="18" font="2">of Infl in order to satisfy the EPP, then the auxiliary verb must be in some position higher than  </text>
+<text top="746" left="135" width="125" height="18" font="2">Infl—such as in F. </text>
+<text top="765" left="169" width="619" height="18" font="2">In Standard Arabic, as well as in some other dialects, there is only partial subject-verb  </text>
+<text top="784" left="135" width="653" height="18" font="2">agreement when the verb precedes the subject, whereas there is full agreement for pre-verbal </text>
+<text top="803" left="135" width="653" height="18" font="2">subjects (Aoun et al., 2010). For example, for human subjects denoted by a full DP, the verb will </text>
+<text top="822" left="135" width="589" height="18" font="2">surface in the singular form regardless of the subject’s number features, as shown in (22)<a href="doner2013-pdf.html#10">.</a></text>
+<text top="822" left="725" width="5" height="11" font="5"><a href="doner2013-pdf.html#10">4</a></text>
+<text top="822" left="730" width="4" height="18" font="2"><a href="doner2013-pdf.html#10"> </a></text>
+<text top="860" left="135" width="27" height="18" font="2">(22)</text>
+<text top="860" left="189" width="209" height="18" font="2">a.     akala       l-mu allim-uun </text>
+<text top="859" left="217" width="9" height="19" font="13">ʔ</text>
+<text top="859" left="321" width="9" height="19" font="13">ʕ</text>
+<text top="879" left="189" width="60" height="18" font="2">       ate.3</text>
+<text top="882" left="249" width="12" height="15" font="6">M</text>
+<text top="879" left="261" width="4" height="18" font="2">.</text>
+<text top="882" left="265" width="17" height="15" font="6">SG</text>
+<text top="879" left="282" width="82" height="18" font="2"> the-teacher-</text>
+<text top="882" left="365" width="12" height="15" font="6">M</text>
+<text top="879" left="377" width="4" height="18" font="2">.</text>
+<text top="882" left="381" width="15" height="15" font="6">PL</text>
+<text top="879" left="396" width="4" height="18" font="2">.</text>
+<text top="882" left="400" width="31" height="15" font="6">NOM</text>
+<text top="898" left="189" width="212" height="18" font="2">b.    * akal-uu   l-mu allim-uun</text>
+<text top="897" left="226" width="9" height="19" font="13">ʔ</text>
+<text top="897" left="328" width="9" height="19" font="13">ʕ</text>
+<text top="917" left="189" width="70" height="18" font="2">         ate-3</text>
+<text top="920" left="259" width="12" height="15" font="6">M</text>
+<text top="917" left="271" width="4" height="18" font="2">.</text>
+<text top="920" left="275" width="15" height="15" font="6">PL</text>
+<text top="917" left="290" width="82" height="18" font="2"> the-teacher-</text>
+<text top="920" left="373" width="12" height="15" font="6">M</text>
+<text top="917" left="385" width="4" height="18" font="2">.</text>
+<text top="920" left="389" width="15" height="15" font="6">PL</text>
+<text top="917" left="404" width="4" height="18" font="2">.</text>
+<text top="920" left="408" width="31" height="15" font="6">NOM</text>
+<text top="936" left="189" width="151" height="18" font="2">       ‘The teachers ate.’</text>
+<text top="955" left="621" width="162" height="18" font="2">(Aoun et al. 2010, p. 76)</text>
+<text top="991" left="135" width="5" height="10" font="5">4</text>
+<text top="992" left="146" width="636" height="15" font="6">The   facts   of   Arabic   agreement   are   complicated   by   some   independently   motivated   processes   of   agreement  </text>
+<text top="1007" left="146" width="636" height="15" font="6">neutralization and some other alternations that are sensitive to animacy, and to whether the subject is a pronoun or a </text>
+<text top="1023" left="146" width="636" height="15" font="6">full DP. What is important to note is that there is always full agreement for humans in the SVO word order, but  </text>
+<text top="1038" left="146" width="494" height="15" font="6">agreement may be impoverished in the VSO order. For more details, see Aoun et al. (2010).</text>
+<text top="136" left="767" width="17" height="18" font="2">10</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="171" left="135" width="653" height="18" font="2">These agreement patterns contrast with the patterns in the SVO word order, in which there is  </text>
+<text top="190" left="135" width="397" height="18" font="2">always full agreement for human subjects, as shown in (23).</text>
+<text top="228" left="135" width="27" height="18" font="2">(23)</text>
+<text top="228" left="189" width="136" height="18" font="2">a.    l-mu allim-uun </text>
+<text top="227" left="248" width="9" height="19" font="13">ʕ</text>
+<text top="228" left="351" width="75" height="18" font="2">     akal-uu</text>
+<text top="227" left="368" width="9" height="19" font="13">ʔ</text>
+<text top="228" left="621" width="4" height="18" font="2"> </text>
+<text top="247" left="189" width="107" height="18" font="2">       the-teacher-</text>
+<text top="250" left="296" width="12" height="15" font="6">M</text>
+<text top="247" left="308" width="4" height="18" font="2">.</text>
+<text top="250" left="312" width="15" height="15" font="6">PL</text>
+<text top="247" left="328" width="4" height="18" font="2">.</text>
+<text top="250" left="332" width="31" height="15" font="6">NOM</text>
+<text top="247" left="363" width="37" height="18" font="2"> ate-3</text>
+<text top="250" left="400" width="12" height="15" font="6">M</text>
+<text top="247" left="411" width="4" height="18" font="2">.</text>
+<text top="250" left="416" width="15" height="15" font="6">PL</text>
+<text top="266" left="189" width="145" height="18" font="2">b.    *l-mu allim-uun </text>
+<text top="265" left="257" width="9" height="19" font="13">ʕ</text>
+<text top="266" left="351" width="68" height="18" font="2">       akala</text>
+<text top="265" left="376" width="9" height="19" font="13">ʔ</text>
+<text top="285" left="189" width="115" height="18" font="2">         the-teacher-</text>
+<text top="288" left="305" width="12" height="15" font="6">M</text>
+<text top="285" left="316" width="4" height="18" font="2">.</text>
+<text top="288" left="320" width="15" height="15" font="6">PL</text>
+<text top="285" left="336" width="5" height="18" font="2">-</text>
+<text top="288" left="341" width="31" height="15" font="6">NOM</text>
+<text top="285" left="372" width="36" height="18" font="2"> ate.3</text>
+<text top="288" left="408" width="12" height="15" font="6">M</text>
+<text top="285" left="420" width="4" height="18" font="2">.</text>
+<text top="288" left="424" width="17" height="15" font="6">SG</text>
+<text top="304" left="189" width="151" height="18" font="2">       ‘The teachers ate.’</text>
+<text top="323" left="613" width="170" height="18" font="2"> (Aoun et al., 2010, p. 76)</text>
+<text top="361" left="169" width="619" height="18" font="2">Thus, in the VSO word order, default singular number agreement occurs, and there is an </text>
+<text top="379" left="135" width="653" height="18" font="2">overt subject in the specifier of Infl. When expletives occur, they surface in the VSO order. </text>
+<text top="399" left="135" width="653" height="18" font="2">Therefore, we can conclude that the EPP in these clauses is satisfied by phrasal DPs, just as in </text>
+<text top="417" left="135" width="653" height="18" font="2">English. In this word order, full agreement is not necessary since the EPP is satisfied by the </text>
+<text top="436" left="135" width="653" height="18" font="2">phrasal DP in the specifier of Infl. On the other hand, gender agreement is not affected by word </text>
+<text top="455" left="135" width="213" height="18" font="2">order since it is not EPP-related.</text>
+<text top="474" left="169" width="619" height="18" font="2">Arabic SVO clauses, on the other hand, pattern with null-subject clauses in requiring full </text>
+<text top="493" left="135" width="328" height="18" font="2">agreement. A null subject clause is shown in (24).</text>
+<text top="531" left="135" width="27" height="18" font="2">(24)</text>
+<text top="531" left="198" width="221" height="18" font="2">ištaraytu    l-kitaaba llaðii katabta</text>
+<text top="531" left="189" width="9" height="19" font="13">ʔ</text>
+<text top="531" left="621" width="4" height="18" font="2"> </text>
+<text top="550" left="189" width="262" height="18" font="2">bought.1sg  the-book that   wrote.2m.sg</text>
+<text top="569" left="189" width="231" height="18" font="2">‘I bought the book that you wrote.’</text>
+<text top="588" left="613" width="170" height="18" font="2"> (Aoun et al., 2010, p. 79)</text>
+<text top="626" left="135" width="653" height="18" font="2">As such, the SVO word order of Arabic behaves much like a consistent NSL, such as Italian. Just </text>
+<text top="645" left="135" width="653" height="18" font="2">as   with   consistent   NSLs,   the   SVO   order   is   often   described   as   having   a   topic-like   meaning </text>
+<text top="664" left="135" width="653" height="18" font="2">attributed   to   pre-verbal   subjects   (Aoun   et   al.,   2010),   and   has   rich   inflection,   optional   overt </text>
+<text top="683" left="135" width="653" height="18" font="2">subjects, and a lack of expletives. Thus, I propose that, for the SVO sentences in Arabic, the EPP </text>
+<text top="702" left="135" width="293" height="18" font="2">is checked in the same way as for the other </text>
+<text top="702" left="428" width="22" height="18" font="10"><i>pro</i></text>
+<text top="702" left="450" width="337" height="18" font="2">-drop languages, by a D element in the agreement </text>
+<text top="721" left="135" width="75" height="18" font="2">morpheme.</text>
+<text top="758" left="135" width="9" height="20" font="8"><b>7</b></text>
+<text top="758" left="167" width="11" height="20" font="8"><b>F</b></text>
+<text top="761" left="178" width="61" height="16" font="9"><b>URTHER</b></text>
+<text top="758" left="240" width="12" height="20" font="8"><b> I</b></text>
+<text top="761" left="251" width="44" height="16" font="9"><b>SSUES</b></text>
+<text top="797" left="135" width="653" height="18" font="2">Thus, we see that the EPP is checked by a DP in the specifier of Infl in English, by a D feature on </text>
+<text top="816" left="135" width="653" height="18" font="2">the V head in Italian, by a VP in the sprecifier of Infl in Niuean, and by a V head in Irish. In </text>
+<text top="835" left="135" width="653" height="18" font="2">Arabic, the EPP can either be checked by a DP in the specifier of Infl, or by a D feature on the V  </text>
+<text top="854" left="135" width="653" height="18" font="2">head, which results in alternations in the word order and in the agreement paradigms. In all of  </text>
+<text top="873" left="135" width="653" height="18" font="2">these cases, there must be, for every instance of Infl, some verbal or nominal element in a local, </text>
+<text top="892" left="135" width="653" height="18" font="2">overt, relationship with it in order to check the EPP. Under this characterization of the EPP, it can </text>
+<text top="911" left="135" width="371" height="18" font="2">be maintained that it is a universal property of grammar.</text>
+<text top="930" left="169" width="619" height="18" font="2">One question that remains is whether it is the D and V elements themselves which check the </text>
+<text top="949" left="135" width="653" height="18" font="2">EPP, or some feature dependent on them. In Italian, it appears to be the person feature which is  </text>
+<text top="967" left="135" width="653" height="18" font="2">crucial for the EPP, but, on the other hand, in Arabic, it is number agreement that does not surface </text>
+<text top="987" left="135" width="653" height="18" font="2">when the EPP is checked by a phrasal DP. Finally, for English, all of Davies and Dubinsky’s </text>
+<text top="1005" left="135" width="648" height="18" font="2">(2001) diagnostics were sensitive to φ-features. As such, it could be that the EPP is sensitive to φ-</text>
+<text top="1024" left="135" width="653" height="18" font="2">features, rather than to D itself. If this is the case, we might expect there to be an analogous </text>
+<text top="136" left="135" width="16" height="18" font="2">11</text>
+<text top="136" left="666" width="6" height="18" font="2">J</text>
+<text top="139" left="673" width="59" height="15" font="6">ULIANNE</text>
+<text top="136" left="731" width="16" height="18" font="2"> D</text>
+<text top="139" left="747" width="36" height="15" font="6">ONER</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="135" left="135" width="15" height="18" font="2">A </text>
+<text top="138" left="150" width="71" height="15" font="6">TYPOLOGY</text>
+<text top="135" left="221" width="4" height="18" font="2"> </text>
+<text top="138" left="226" width="17" height="15" font="6">OF</text>
+<text top="135" left="242" width="38" height="18" font="2"> EPP-</text>
+<text top="138" left="281" width="68" height="15" font="6">CHECKING</text>
+<text top="135" left="349" width="4" height="18" font="2"> </text>
+<text top="138" left="353" width="88" height="15" font="6">MECHANISMS</text>
+<text top="171" left="135" width="653" height="18" font="2">dependent feature on verbal elements, perhaps some tense feature, that is able to check the EPP in </text>
+<text top="190" left="135" width="240" height="18" font="2">languages such as Niuean and Irish. </text>
+<text top="209" left="169" width="619" height="18" font="2">Another avenue for further research is to determine what all of these elements have in </text>
+<text top="228" left="135" width="653" height="18" font="2">common, such that they are able to check the EPP. One possible analysis is that they all encode </text>
+<text top="247" left="135" width="653" height="18" font="2">notions of deixis. Verbal elements encode temporal deixis, while nominal elements encode person </text>
+<text top="266" left="135" width="653" height="18" font="2">deixis. This fits in well with Ritter and Wiltschko’s (2009) Parametric Substantiation Hypothesis, </text>
+<text top="285" left="135" width="653" height="18" font="2">under which Infl is a locus for deixis; the EPP could be another case of a deictic requirement </text>
+<text top="304" left="135" width="653" height="18" font="2">triggered by the same head. Although clearly independent, the EPP as described here and Ritter </text>
+<text top="323" left="135" width="653" height="18" font="2">and Wiltschko’s criteria for Infl elements show some remarkable similarities. This idea is also  </text>
+<text top="342" left="135" width="647" height="18" font="2">supported by languages such as Finnish, where, alongside nominal elements, locative adverbs —</text>
+<text top="361" left="135" width="510" height="18" font="2">which encode locative deixis — are able to check the EPP (Holmberg, 2005).</text>
+<text top="399" left="135" width="13" height="20" font="8"><b>R</b></text>
+<text top="402" left="148" width="86" height="16" font="9"><b>EFERENCES</b></text>
+<text top="438" left="135" width="653" height="18" font="2">Alexiadou, A. and Anagnostopoulou, E. (1998). Parametrizing AGR: Word order, V-movement </text>
+<text top="457" left="156" width="130" height="18" font="2">and EPP-checking. </text>
+<text top="457" left="286" width="274" height="18" font="10"><i>Natural Language and Linguistic Theory,</i></text>
+<text top="457" left="561" width="4" height="18" font="2"> </text>
+<text top="457" left="565" width="17" height="18" font="10"><i>16</i></text>
+<text top="457" left="581" width="86" height="18" font="2">(3), 491-539.</text>
+<text top="476" left="135" width="353" height="18" font="2">Aoun, J., Benmamoun, E., and Choueiri, L. (2010). </text>
+<text top="476" left="489" width="146" height="18" font="10"><i>The Syntax of Arabic.</i></text>
+<text top="476" left="636" width="152" height="18" font="2"> Cambridge, England: </text>
+<text top="495" left="156" width="190" height="18" font="2">Cambridge University Press.</text>
+<text top="514" left="135" width="621" height="18" font="2">Cardinaletti,  A.   (2004).   Towards   a   cartography   of   subject   positions.   In   L.   Rizzi   (Ed.),  </text>
+<text top="514" left="757" width="31" height="18" font="10"><i>The </i></text>
+<text top="533" left="156" width="151" height="18" font="10"><i>Structure of CP and IP</i></text>
+<text top="533" left="308" width="391" height="18" font="2"> (pp. 124-174). Oxford, England: Oxford University Press. </text>
+<text top="552" left="135" width="296" height="18" font="2">Carnie, A. (2011). Mixed categories in Irish. </text>
+<text top="552" left="432" width="47" height="18" font="10"><i>Lingua</i></text>
+<text top="552" left="479" width="8" height="18" font="2">, </text>
+<text top="552" left="487" width="25" height="18" font="10"><i>121</i></text>
+<text top="552" left="512" width="103" height="18" font="2">(7): 1207-1224.</text>
+<text top="571" left="135" width="133" height="18" font="2">Carnie, A. (1995).  </text>
+<text top="571" left="269" width="310" height="18" font="10"><i>Non-Verbal Predication and Head-Movement</i></text>
+<text top="571" left="579" width="208" height="18" font="2">  (Doctoral dissertation). MIT, </text>
+<text top="590" left="156" width="86" height="18" font="2">Boston, MA.</text>
+<text top="609" left="135" width="158" height="18" font="2">Chomsky,   N.   (1981).  </text>
+<text top="609" left="293" width="272" height="18" font="10"><i>Lectures   on   Government   and   Binding.</i></text>
+<text top="609" left="566" width="221" height="18" font="2">  Dordrecht,   Netherlands:   Foris </text>
+<text top="628" left="156" width="90" height="18" font="2">Publications. </text>
+<text top="647" left="135" width="155" height="18" font="2">Chomsky,   N.   (1982).  </text>
+<text top="647" left="291" width="497" height="18" font="10"><i>Some   Concepts   and   Consequences   of   the   Theory   of   Government   and  </i></text>
+<text top="666" left="156" width="56" height="18" font="10"><i>Binding.</i></text>
+<text top="666" left="213" width="198" height="18" font="2"> Cambridge, MA: MIT Press. </text>
+<text top="685" left="135" width="653" height="18" font="2">Davies, W. D. and Dubinsky, S. (2001). Functional architecture and the distribution of subject </text>
+<text top="704" left="156" width="346" height="18" font="2">properties. In W. D. Davies and S. Dubinsky (Eds.), </text>
+<text top="704" left="503" width="285" height="18" font="10"><i>Objects and Other Subjects: Grammatical  </i></text>
+<text top="723" left="156" width="437" height="18" font="10"><i>Functions,   Functional   Categories,   and   Configurationality  </i></text>
+<text top="723" left="594" width="101" height="18" font="2">(pp.   247-279)</text>
+<text top="723" left="694" width="18" height="18" font="10"><i>.  </i></text>
+<text top="723" left="713" width="75" height="18" font="2">Dordrecht, </text>
+<text top="742" left="156" width="289" height="18" font="2">Netherlands: Kluwer Academic Publishers. </text>
+<text top="761" left="135" width="605" height="18" font="2">Harley, H. (2000). Irish, the EPP and PRO. Unpublished manuscript, University of Arizona.</text>
+<text top="780" left="135" width="251" height="18" font="2">Holmberg, A. (2005). Is there a little </text>
+<text top="780" left="386" width="22" height="18" font="10"><i>pro</i></text>
+<text top="780" left="409" width="174" height="18" font="2">? Evidence from Finnish. </text>
+<text top="780" left="583" width="119" height="18" font="10"><i>Linguistic Inquiry</i></text>
+<text top="780" left="703" width="4" height="18" font="2"> </text>
+<text top="780" left="708" width="17" height="18" font="10"><i>36</i></text>
+<text top="780" left="724" width="59" height="18" font="2">(4): 533-</text>
+<text top="799" left="156" width="29" height="18" font="2">564.</text>
+<text top="818" left="135" width="134" height="18" font="2">Maiden, M. (1995). </text>
+<text top="818" left="269" width="199" height="18" font="10"><i>A Linguistic History of Italian</i></text>
+<text top="818" left="468" width="256" height="18" font="2">. New York, NY: Longman Publishing.</text>
+<text top="837" left="135" width="653" height="18" font="2">Massam, D. (2000). VSO and VOS: Aspects of Niuean word order. In A. Carnie and E. Guilfoyle, </text>
+<text top="856" left="156" width="53" height="18" font="2">(Eds.),  </text>
+<text top="856" left="209" width="306" height="18" font="10"><i>The   Syntax   of   the   Verb   Initial   Languages  </i></text>
+<text top="856" left="516" width="86" height="18" font="2">(pp.   97-116)</text>
+<text top="856" left="602" width="4" height="18" font="10"><i>.</i></text>
+<text top="856" left="606" width="181" height="18" font="2">  New  York,   NY:   Oxford </text>
+<text top="875" left="156" width="117" height="18" font="2">University Press. </text>
+<text top="894" left="135" width="416" height="18" font="2">Massam, D. (2001). Pseudo noun incorporation in Niuean.  </text>
+<text top="894" left="552" width="236" height="18" font="10"><i>Natural Language and Linguistic  </i></text>
+<text top="913" left="156" width="47" height="18" font="10"><i>Theory</i></text>
+<text top="913" left="203" width="4" height="18" font="2">,</text>
+<text top="913" left="207" width="21" height="18" font="10"><i> 19</i></text>
+<text top="913" left="228" width="87" height="18" font="2">(1): 153-197.</text>
+<text top="931" left="135" width="653" height="18" font="2">Massam, D. and Smallwood, C. (1997). Essential features of predication in English and Niuean. </text>
+<text top="951" left="156" width="169" height="18" font="2">In   K.   Kusumoto   (Ed.),  </text>
+<text top="951" left="325" width="158" height="18" font="10"><i>Proceedings   of   NELS  </i></text>
+<text top="951" left="483" width="119" height="18" font="2">27   (pp.   263-272)</text>
+<text top="951" left="603" width="4" height="18" font="10"><i>.</i></text>
+<text top="951" left="607" width="181" height="18" font="2">  Amherst,   MA:   Graduate </text>
+<text top="969" left="156" width="376" height="18" font="2">Linguistics Student Union, University of Massachusetts. </text>
+<text top="988" left="135" width="314" height="18" font="2">McCloskey, J. (1991). There, it and agreement. </text>
+<text top="988" left="450" width="119" height="18" font="10"><i>Linguistic Inquiry</i></text>
+<text top="988" left="569" width="8" height="18" font="2">, </text>
+<text top="988" left="577" width="17" height="18" font="10"><i>22</i></text>
+<text top="988" left="593" width="87" height="18" font="2">(3): 563-567.</text>
+<text top="1007" left="135" width="653" height="18" font="2">McCloskey, J. (1996). Subjects and subject positions in Irish. In R. D. Borsley and I. Roberts </text>
+<text top="1026" left="156" width="53" height="18" font="2">(Eds.),  </text>
+<text top="1026" left="210" width="464" height="18" font="10"><i>The   Syntax   of   the   Celtic   Languages:   A   Comparative   Perspective</i></text>
+<text top="1026" left="674" width="105" height="18" font="2">  (pp.   241-283)</text>
+<text top="1026" left="779" width="8" height="18" font="10"><i>. </i></text>
+<text top="136" left="767" width="17" height="18" font="2">12</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="171" left="156" width="339" height="18" font="2">Cambridge, England: Cambridge University Press. </text>
+<text top="190" left="135" width="653" height="18" font="2">McCloskey, J. (2001). The distribution of subject properties in Irish. In W. D. Davies and S. </text>
+<text top="209" left="156" width="136" height="18" font="2">Dubinsky   (Eds.),  </text>
+<text top="209" left="293" width="495" height="18" font="10"><i>Objects   and   Other   Subjects:   Grammatical   Functions,   Functional  </i></text>
+<text top="228" left="156" width="234" height="18" font="10"><i>Categories, and Configurationality</i></text>
+<text top="228" left="391" width="97" height="18" font="2"> (pp. 157-192)</text>
+<text top="228" left="488" width="9" height="18" font="10"><i>. </i></text>
+<text top="228" left="497" width="290" height="18" font="2">Dordrecht, Netherlands: Kluwer Academic </text>
+<text top="247" left="156" width="77" height="18" font="2">Publishers. </text>
+<text top="266" left="135" width="164" height="18" font="2">Ó Siadhail, M. (1989).  </text>
+<text top="266" left="299" width="94" height="18" font="10"><i>Modern Irish.</i></text>
+<text top="266" left="393" width="394" height="18" font="2">  Cambridge Studies in Linguistics. Cambridge, England: </text>
+<text top="285" left="156" width="190" height="18" font="2">Cambridge University Press.</text>
+<text top="304" left="135" width="579" height="18" font="2">Pollock,   J.   (1989).   Verb   movement,   Universal   Grammar,   and   the   structure   of   IP.  </text>
+<text top="304" left="716" width="72" height="18" font="10"><i>Linguistic </i></text>
+<text top="323" left="156" width="49" height="18" font="10"><i>Inquiry</i></text>
+<text top="323" left="205" width="8" height="18" font="2">, </text>
+<text top="323" left="213" width="17" height="18" font="10"><i>20</i></text>
+<text top="323" left="230" width="87" height="18" font="2">(3): 365-424.</text>
+<text top="342" left="135" width="653" height="18" font="2">Ritter,   E.   and   Wiltschko,   M.   (2009).   Varieties   of   INFL:   Tense,   location,   and   person.   In   H. </text>
+<text top="361" left="156" width="372" height="18" font="2">Broekhuis, J. Craenenbroeck, H. van Riemsdijk (Eds.), </text>
+<text top="361" left="529" width="187" height="18" font="10"><i>Alternatives to Cartography</i></text>
+<text top="361" left="717" width="66" height="18" font="2"> (pp. 153-</text>
+<text top="379" left="156" width="298" height="18" font="2">202). Berlin, New York: Mouton de Gruyter. </text>
+<text top="136" left="135" width="17" height="18" font="2">13</text>
+<text top="136" left="666" width="6" height="18" font="2">J</text>
+<text top="139" left="673" width="59" height="15" font="6">ULIANNE</text>
+<text top="136" left="731" width="16" height="18" font="2"> D</text>
+<text top="139" left="747" width="36" height="15" font="6">ONER</text>
+</page>
+<outline>
+<item page="2">1 Introduction</item>
+<item page="2">2 DP-EPP: English</item>
+<item page="4">3 VP-EPP: Niuean</item>
+<item page="5">4 Dº-EPP: Italian</item>
+<item page="6">5 Vº-EPP: Irish</item>
+<item page="9">6 Mixed Systems: Arabic</item>
+<item page="11">7 Further Issues</item>
+</outline>
+</pdf2xml>

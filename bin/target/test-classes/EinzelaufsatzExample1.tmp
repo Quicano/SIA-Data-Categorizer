@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="23" family="TJAGUE+NimbusRomNo9L-Regu" color="#000000"/>
+	<fontspec id="1" size="17" family="TJAGUE+NimbusRomNo9L-Regu" color="#000000"/>
+	<fontspec id="2" size="21" family="TJAGUE+NimbusRomNo9L-Regu" color="#000000"/>
+	<fontspec id="3" size="17" family="DFBMKA+NimbusRomNo9L-ReguItal" color="#000000"/>
+	<fontspec id="4" size="14" family="TJAGUE+NimbusRomNo9L-Regu" color="#000000"/>
+	<fontspec id="5" size="14" family="DFBMKA+NimbusRomNo9L-ReguItal" color="#000000"/>
+	<fontspec id="6" size="17" family="MLILCJ+NimbusRomNo9L-Medi" color="#000000"/>
+<text top="134" left="188" width="590" height="29" font="0">Atomic Mass Nouns: Unity, Plurality and Semantic Flexibility</text>
+<text top="131" left="778" width="9" height="21" font="1">*</text>
+<text top="198" left="189" width="93" height="26" font="2">Haitao Cai</text>
+<text top="223" left="188" width="193" height="21" font="3">University of Pennsylvania</text>
+<text top="244" left="189" width="196" height="22" font="1">hcai@babel.ling.upenn.edu</text>
+<text top="295" left="324" width="408" height="18" font="4">Atomic mass nouns share morphosyntactic properties with prototypi-</text>
+<text top="313" left="324" width="405" height="18" font="4">cal mass nouns. At the same time, the former semantically deviate</text>
+<text top="331" left="324" width="405" height="18" font="4">from the latter. Based on re-examined empirical data, I propose that</text>
+<text top="349" left="324" width="239" height="18" font="4">the semantics of atomic mass nouns is</text>
+<text top="349" left="568" width="44" height="18" font="5">flexible</text>
+<text top="349" left="612" width="120" height="18" font="4">. Particularly, a se-</text>
+<text top="367" left="324" width="405" height="18" font="4">mantic shift occurs when the default interpretation of an atomic mass</text>
+<text top="385" left="324" width="374" height="18" font="4">noun results in implausible interpretation or ungrammaticality.</text>
+<text top="449" left="189" width="129" height="23" font="6">1. Introduction</text>
+<text top="490" left="189" width="540" height="22" font="1">Many languages, such as English and German, draw a distinction between</text>
+<text top="511" left="189" width="35" height="21" font="3">mass</text>
+<text top="511" left="229" width="72" height="22" font="1">nouns and</text>
+<text top="511" left="305" width="39" height="21" font="3">count</text>
+<text top="511" left="349" width="380" height="22" font="1">nouns, which is typically characterized by a variety of</text>
+<text top="533" left="189" width="541" height="22" font="1">grammatical properties such as restriction of plural morphology (e.g., (1))</text>
+<text top="555" left="189" width="253" height="22" font="1">and determiner selection (e.g., (2)).</text>
+<text top="594" left="216" width="21" height="22" font="1">(1)</text>
+<text top="594" left="269" width="12" height="22" font="1">a.</text>
+<text top="594" left="323" width="326" height="22" font="1">Chairs were purchased by the new neighbors.</text>
+<text top="616" left="269" width="13" height="22" font="1">b.</text>
+<text top="616" left="314" width="362" height="22" font="1">*Furnitures were purchased by the new neighbors.</text>
+<text top="656" left="216" width="21" height="22" font="1">(2)</text>
+<text top="656" left="269" width="12" height="22" font="1">a.</text>
+<text top="656" left="323" width="337" height="22" font="1">many cars / *much team(s) / several computers</text>
+<text top="677" left="269" width="13" height="22" font="1">b.</text>
+<text top="677" left="314" width="356" height="22" font="1">*many sand / much water / *several equipment(s)</text>
+<text top="717" left="189" width="543" height="22" font="1">Prototypical count nouns denote discrete and bounded objects such as ba-</text>
+<text top="739" left="189" width="541" height="22" font="1">nanas and books (Lasersohn 2011: 1131), whereas mass nouns prototypically</text>
+<text top="760" left="189" width="543" height="22" font="1">denote entities without salient atomic structures, for example, wine and pow-</text>
+<text top="782" left="189" width="542" height="22" font="1">der. Nonetheless, a number of exceptions to the latter have long been noticed,</text>
+<text top="804" left="189" width="169" height="22" font="1">among which there are</text>
+<text top="803" left="364" width="70" height="23" font="6">furniture</text>
+<text top="804" left="434" width="5" height="22" font="1">,</text>
+<text top="803" left="444" width="82" height="23" font="6">equipment</text>
+<text top="804" left="531" width="26" height="22" font="1">and</text>
+<text top="803" left="563" width="67" height="23" font="6">footwear</text>
+<text top="804" left="630" width="101" height="22" font="1">. Particularly,</text>
+<text top="825" left="189" width="540" height="22" font="1">a mass noun could be almost (though imperfectly) synonymous to a count</text>
+<text top="860" left="188" width="541" height="18" font="4">* Special thanks go to Florian Schwarz, for his insightful comments on the analyses and</text>
+<text top="878" left="189" width="540" height="18" font="4">important suggestions for the experiment design. The implementation of the experiment in</text>
+<text top="896" left="189" width="540" height="18" font="4">Ibex Farm relies on assistance from Jérémy Zehr. My conversations with Lucas Champollion</text>
+<text top="913" left="189" width="540" height="18" font="4">on atomic mass nouns and related issues are extremely helpful. Additionally, this article</text>
+<text top="931" left="189" width="540" height="18" font="4">greatly benefits from David Embick’s questioning and my cohort members’ feedback in</text>
+<text top="949" left="189" width="540" height="18" font="4">LING-500 at the University of Pennsylvania. I also want to thank my advisor Robin Clark</text>
+<text top="967" left="189" width="543" height="18" font="4">for his guidance. Moreover, I appreciate the valuable feedback from the audience at ILLS 7.</text>
+<text top="985" left="188" width="117" height="18" font="4">All errors are mine.</text>
+<text top="1076" left="189" width="420" height="21" font="3">Studies in the Linguistic Sciences: Illinois Working Papers</text>
+<text top="1075" left="613" width="36" height="23" font="6">2016</text>
+<text top="1076" left="649" width="52" height="22" font="1">: 20-34</text>
+<text top="1097" left="189" width="213" height="22" font="1">Copyright © 2016 Haitao Cai</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="7" size="11" family="TJAGUE+NimbusRomNo9L-Regu" color="#000000"/>
+	<fontspec id="8" size="16" family="TJAGUE+NimbusRomNo9L-Regu" color="#000000"/>
+<text top="45" left="288" width="10" height="18" font="4">C</text>
+<text top="48" left="299" width="13" height="14" font="7">AI</text>
+<text top="45" left="313" width="20" height="18" font="4">: U</text>
+<text top="48" left="334" width="31" height="14" font="7">NITY</text>
+<text top="45" left="363" width="17" height="18" font="4">, P</text>
+<text top="48" left="381" width="97" height="14" font="7">LURALITY AND</text>
+<text top="45" left="482" width="8" height="18" font="4">S</text>
+<text top="48" left="491" width="59" height="14" font="7">EMANTIC</text>
+<text top="45" left="554" width="8" height="18" font="4">F</text>
+<text top="48" left="563" width="73" height="14" font="7">LEXIBILITY</text>
+<text top="131" left="189" width="184" height="22" font="1">noun, as is illustrated by</text>
+<text top="130" left="378" width="67" height="23" font="6">footwear</text>
+<text top="131" left="452" width="26" height="22" font="1">and</text>
+<text top="130" left="484" width="41" height="23" font="6">shoes</text>
+<text top="131" left="525" width="204" height="22" font="1">. These mass nouns denote</text>
+<text top="152" left="189" width="384" height="22" font="1">objects with salient atomicity. Hence, they are named</text>
+<text top="152" left="577" width="136" height="21" font="3">atomic mass nouns</text>
+<text top="152" left="714" width="4" height="22" font="1">.</text>
+<text top="192" left="188" width="544" height="22" font="1">Thereby, Chierchia (1998) claims that the mass/count distinction is inde-</text>
+<text top="214" left="189" width="542" height="22" font="1">pendent from the structure of denotations. Based on the same observation,</text>
+<text top="235" left="189" width="540" height="22" font="1">Rothstein (2010) draws the conclusion that the mass/count distinction is</text>
+<text top="257" left="189" width="540" height="22" font="1">a grammatical rather than ontological distinction, and therefore must be</text>
+<text top="279" left="189" width="541" height="22" font="1">accounted for in terms of how expressions refer instead of the objects they</text>
+<text top="300" left="189" width="540" height="22" font="1">refer to. Under the framework of model-theoretic semantics, it needs to</text>
+<text top="322" left="189" width="540" height="22" font="1">be specified how the denotations of nouns are formally represented in the</text>
+<text top="344" left="189" width="162" height="22" font="1">derivation of meaning.</text>
+<text top="383" left="189" width="540" height="22" font="1">Crucially, atomic mass nouns display several properties that do not align</text>
+<text top="405" left="188" width="541" height="22" font="1">with prototypical mass nouns (i.e., whose denotations do not have salient</text>
+<text top="427" left="189" width="540" height="22" font="1">atomic structures). These properties indicate that atomic mass nouns call for</text>
+<text top="448" left="189" width="489" height="22" font="1">a semantic analysis deviating from that for prototypical mass nouns.</text>
+<text top="507" left="203" width="526" height="22" font="1">(i) Although both atomic mass nouns and prototypical mass nouns can</text>
+<text top="529" left="229" width="270" height="22" font="1">be associated with classifiers such as</text>
+<text top="528" left="503" width="39" height="23" font="6">piece</text>
+<text top="529" left="542" width="187" height="22" font="1">, the objects falling under</text>
+<text top="551" left="229" width="500" height="22" font="1">the denotation of the resultant nominal phrases of the latter are subject</text>
+<text top="572" left="229" width="417" height="22" font="1">to constraints of size or shape (e.g., (3)). For instance,</text>
+<text top="572" left="653" width="76" height="23" font="6">a piece of</text>
+<text top="593" left="229" width="49" height="23" font="6">cheese</text>
+<text top="594" left="285" width="447" height="22" font="1">normally cannot denote a huge cheese wheel. In contrast,</text>
+<text top="616" left="229" width="500" height="22" font="1">classifiers extract atomic objects denoted by atomic mass nouns without</text>
+<text top="637" left="229" width="456" height="22" font="1">constraining the shape or size of the extracted atoms. Instead,</text>
+<text top="637" left="690" width="39" height="23" font="6">piece</text>
+<text top="659" left="229" width="500" height="22" font="1">retrieves all FURNITURE-atoms and EQUIPMENT-atoms regardless</text>
+<text top="681" left="229" width="154" height="22" font="1">of their shape or size.</text>
+<text top="710" left="256" width="21" height="22" font="1">(3)</text>
+<text top="710" left="309" width="245" height="22" font="1">a piece of cheese, a piece of wood</text>
+<text top="739" left="256" width="21" height="22" font="1">(4)</text>
+<text top="739" left="309" width="305" height="22" font="1">a piece of furniture, a piece of equipment</text>
+<text top="776" left="198" width="531" height="22" font="1">(ii) Barner &amp; Snedeker (2005) discover that quantity judgment with respect</text>
+<text top="797" left="229" width="503" height="22" font="1">to prototypical mass nouns is determined by mass or volume (e.g.,</text>
+<text top="819" left="228" width="501" height="22" font="1">(5a)); whereas comparison of quantity with respect to atomic mass</text>
+<text top="841" left="229" width="500" height="22" font="1">nouns is based on the number of individuals (e.g., (5b)), which is in</text>
+<text top="862" left="229" width="435" height="22" font="1">line with that regarding prototypical count nouns (e.g., (5c)).</text>
+<text top="891" left="256" width="21" height="22" font="1">(5)</text>
+<text top="891" left="309" width="12" height="22" font="1">a.</text>
+<text top="891" left="363" width="283" height="22" font="1">Jack bought more cheese than Jane did.</text>
+<text top="913" left="309" width="13" height="22" font="1">b.</text>
+<text top="913" left="363" width="298" height="22" font="1">Jack bought more furniture than Jane did.</text>
+<text top="935" left="309" width="12" height="22" font="1">c.</text>
+<text top="935" left="363" width="278" height="22" font="1">Jack bought more chairs than Jane did.</text>
+<text top="1038" left="451" width="16" height="20" font="8">21</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="46" left="322" width="8" height="18" font="4">S</text>
+<text top="49" left="332" width="93" height="14" font="7">TUDIES IN THE</text>
+<text top="46" left="429" width="9" height="18" font="4">L</text>
+<text top="49" left="439" width="66" height="14" font="7">INGUISTIC</text>
+<text top="46" left="509" width="8" height="18" font="4">S</text>
+<text top="49" left="518" width="54" height="14" font="7">CIENCES</text>
+<text top="46" left="577" width="30" height="18" font="4">2016</text>
+<text top="131" left="188" width="544" height="22" font="1">At the same time, atomic mass nouns share most of the grammatical proper-</text>
+<text top="152" left="189" width="540" height="22" font="1">ties with prototypical mass nouns, such as singular verb agreement (6) and</text>
+<text top="174" left="189" width="176" height="22" font="1">determiner selection (7).</text>
+<text top="214" left="216" width="21" height="22" font="1">(6)</text>
+<text top="214" left="269" width="12" height="22" font="1">a.</text>
+<text top="214" left="323" width="254" height="22" font="1">The furniture is/*are made in USA.</text>
+<text top="235" left="269" width="13" height="22" font="1">b.</text>
+<text top="235" left="323" width="223" height="22" font="1">The gold is/*are made in USA.</text>
+<text top="275" left="216" width="21" height="22" font="1">(7)</text>
+<text top="275" left="269" width="12" height="22" font="1">a.</text>
+<text top="275" left="323" width="279" height="22" font="1">Jack purchased much/*many furniture.</text>
+<text top="296" left="269" width="13" height="22" font="1">b.</text>
+<text top="296" left="323" width="248" height="22" font="1">Jack purchased much/*many gold.</text>
+<text top="336" left="189" width="540" height="22" font="1">Because of this duality of atomic mass nouns’ semantic and grammatical</text>
+<text top="358" left="189" width="543" height="22" font="1">properties, the formal representation of their meaning is rather controversial.</text>
+<text top="379" left="188" width="541" height="22" font="1">There have been lots of attempts to address this issue, two of which are</text>
+<text top="401" left="189" width="540" height="22" font="1">reviewed in Section 3, namely, Chierchia 1998 and Rothstein 2010. Despite</text>
+<text top="423" left="189" width="540" height="22" font="1">plenty of evidence provided to justify the two analyses, I show that their</text>
+<text top="444" left="189" width="442" height="22" font="1">main proposals contradict examples that are readily available.</text>
+<text top="484" left="189" width="543" height="22" font="1">Moreover, these two semantic analyses of atomic mass nouns, like many oth-</text>
+<text top="506" left="189" width="540" height="22" font="1">ers, may have based their arguments on illusionary grammaticality judgment</text>
+<text top="527" left="189" width="540" height="22" font="1">of sentences in which reciprocals take atomic mass NPs as antecedents. In</text>
+<text top="549" left="189" width="540" height="22" font="1">order to verify the (un)grammaticality of certain sentences underlying the</text>
+<text top="571" left="189" width="540" height="22" font="1">theoretic debate, an online survey concerning the interaction of atomic mass</text>
+<text top="592" left="189" width="540" height="22" font="1">nouns and reciprocals is presented in Section 4 to reinforce the empirical</text>
+<text top="614" left="189" width="540" height="22" font="1">basis of the analysis developed in this article. Basically, the results provide</text>
+<text top="636" left="189" width="543" height="22" font="1">preliminary evidence that mass noun phrases serving as antecedents of recip-</text>
+<text top="657" left="189" width="66" height="22" font="1">rocals do</text>
+<text top="657" left="259" width="23" height="21" font="3">not</text>
+<text top="657" left="287" width="442" height="22" font="1">necessarily lead to absolute ungrammaticality that is on a par</text>
+<text top="679" left="188" width="541" height="22" font="1">with typical ill-formed sentences such as (1b). Instead, the grammaticality</text>
+<text top="701" left="189" width="540" height="22" font="1">judgment involving atomic mass nouns displays non-trivial cross-speaker</text>
+<text top="722" left="189" width="543" height="22" font="1">variation and an overall neutral evaluation. Particularly, these results de-</text>
+<text top="744" left="189" width="540" height="22" font="1">viate from the grammaticality judgment reported by Chierchia (1998) and</text>
+<text top="766" left="189" width="543" height="22" font="1">Rothstein (2010) and hence cast doubt on the soundness of the their analyses.</text>
+<text top="805" left="189" width="540" height="22" font="1">Given the re-examined empirical data, my main proposal is put forward in</text>
+<text top="827" left="189" width="540" height="22" font="1">Section 5 to account for the duality of atomic mass nouns’ semantic and</text>
+<text top="849" left="189" width="540" height="22" font="1">grammatical properties. Rather than trying to derive all of the properties from</text>
+<text top="870" left="189" width="540" height="22" font="1">a single semantic representation, I propose that the interpretation of atomic</text>
+<text top="892" left="189" width="104" height="22" font="1">mass nouns is</text>
+<text top="892" left="298" width="52" height="21" font="3">flexible</text>
+<text top="892" left="351" width="379" height="22" font="1">. Specifically, the default interpretation is formally</text>
+<text top="914" left="189" width="540" height="22" font="1">atomless (i.e., in which the atomic objects denoted by atomic mass nouns</text>
+<text top="935" left="189" width="540" height="22" font="1">are ‘invisible’) and thus explains the properties shared with prototypical</text>
+<text top="957" left="189" width="540" height="22" font="1">mass nouns. Further, an alternative interpretation with accessible atomic</text>
+<text top="979" left="189" width="540" height="22" font="1">objects is activated as a ‘last resort’ in order to avoid implausibility or</text>
+<text top="1038" left="451" width="16" height="20" font="8">22</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="17" family="WIUSUQ+CMSY10" color="#000000"/>
+	<fontspec id="10" size="13" family="WIUSUQ+CMSY10" color="#000000"/>
+	<fontspec id="11" size="17" family="CDWNPX+BBOLD10" color="#000000"/>
+	<fontspec id="12" size="17" family="HAMVPC+CMR10" color="#000000"/>
+	<fontspec id="13" size="17" family="OYAQFE+MSAM10" color="#000000"/>
+	<fontspec id="14" size="16" family="MCZJWI+CMEX10" color="#000000"/>
+	<fontspec id="15" size="13" family="TJAGUE+NimbusRomNo9L-Regu" color="#000000"/>
+<text top="45" left="288" width="10" height="18" font="4">C</text>
+<text top="48" left="299" width="13" height="14" font="7">AI</text>
+<text top="45" left="313" width="20" height="18" font="4">: U</text>
+<text top="48" left="334" width="31" height="14" font="7">NITY</text>
+<text top="45" left="363" width="17" height="18" font="4">, P</text>
+<text top="48" left="381" width="97" height="14" font="7">LURALITY AND</text>
+<text top="45" left="482" width="8" height="18" font="4">S</text>
+<text top="48" left="491" width="59" height="14" font="7">EMANTIC</text>
+<text top="45" left="554" width="8" height="18" font="4">F</text>
+<text top="48" left="563" width="73" height="14" font="7">LEXIBILITY</text>
+<text top="131" left="189" width="540" height="22" font="1">ungrammaticality. For example, without a particular preceding context, the</text>
+<text top="152" left="189" width="540" height="22" font="1">speaker of (5b) would not compare the quantities of furniture in terms of</text>
+<text top="174" left="189" width="540" height="22" font="1">mass or volume. Instead, the quantity judgment is based on number of</text>
+<text top="196" left="189" width="540" height="22" font="1">FURNITURE-atoms, which is in support of incorporating atomicity into the</text>
+<text top="217" left="189" width="261" height="22" font="1">interpretation of atomic mass nouns.</text>
+<text top="257" left="189" width="540" height="22" font="1">Before diving into the discussion on the semantics of atomic mass nouns, two</text>
+<text top="279" left="189" width="343" height="22" font="1">distinct formal representations of aggregations,</text>
+<text top="279" left="536" width="62" height="21" font="3">plurality</text>
+<text top="279" left="603" width="26" height="22" font="1">and</text>
+<text top="279" left="634" width="95" height="21" font="3">mereological</text>
+<text top="300" left="189" width="29" height="21" font="3">sum</text>
+<text top="300" left="218" width="511" height="22" font="1">, are introduced in Section 2 which underlie the distinction between</text>
+<text top="322" left="189" width="305" height="22" font="1">formal atomicity and formal atomlessness.</text>
+<text top="389" left="189" width="299" height="23" font="6">2. Two Types of Formal Aggregations</text>
+<text top="430" left="188" width="541" height="22" font="1">As has been widely noticed (e.g., Moltmann 1998, Nicolas 2008), there</text>
+<text top="452" left="189" width="540" height="22" font="1">are several formal representations of aggregations employed in semantic</text>
+<text top="473" left="189" width="272" height="22" font="1">analyses of nominals. One of them is</text>
+<text top="473" left="465" width="63" height="21" font="3">plurality</text>
+<text top="473" left="528" width="201" height="22" font="1">, which typically represents</text>
+<text top="495" left="189" width="496" height="22" font="1">entities falling under the denotations of plural noun phrases. Formally,</text>
+<text top="495" left="690" width="9" height="21" font="3">a</text>
+<text top="498" left="701" width="12" height="21" font="9">t</text>
+<text top="495" left="716" width="9" height="21" font="3">a</text>
+<text top="495" left="725" width="4" height="16" font="10">0</text>
+<text top="517" left="189" width="262" height="22" font="1">is the plurality consisting of exactly</text>
+<text top="517" left="455" width="9" height="21" font="3">a</text>
+<text top="517" left="469" width="26" height="22" font="1">and</text>
+<text top="517" left="500" width="9" height="21" font="3">a</text>
+<text top="516" left="509" width="4" height="16" font="10">0</text>
+<text top="517" left="514" width="215" height="22" font="1">, and is also the denotation of</text>
+<text top="538" left="189" width="117" height="22" font="1">the noun phrase</text>
+<text top="538" left="311" width="70" height="23" font="6">A and A’</text>
+<text top="538" left="386" width="45" height="22" font="1">where</text>
+<text top="541" left="435" width="6" height="20" font="11"><b>[</b></text>
+<text top="538" left="442" width="13" height="23" font="6">A</text>
+<text top="541" left="455" width="6" height="20" font="11"><b>]</b></text>
+<text top="542" left="465" width="14" height="18" font="12">=</text>
+<text top="538" left="483" width="9" height="21" font="3">a</text>
+<text top="538" left="497" width="26" height="22" font="1">and</text>
+<text top="541" left="529" width="6" height="20" font="11"><b>[</b></text>
+<text top="538" left="535" width="18" height="23" font="6">A’</text>
+<text top="541" left="553" width="6" height="20" font="11"><b>]</b></text>
+<text top="542" left="564" width="14" height="18" font="12">=</text>
+<text top="538" left="582" width="9" height="21" font="3">a</text>
+<text top="538" left="591" width="4" height="16" font="10">0</text>
+<text top="538" left="595" width="134" height="22" font="1">. The components</text>
+<text top="560" left="189" width="540" height="22" font="1">contained in a plurality are grammatically accessible. For instance, sentence</text>
+<text top="582" left="188" width="471" height="22" font="1">(8) can mean that John had a glass of wine and Mary had another.</text>
+<text top="621" left="216" width="21" height="22" font="1">(8)</text>
+<text top="621" left="269" width="254" height="22" font="1">John and Mary had a glass of wine.</text>
+<text top="661" left="189" width="24" height="22" font="1">Let</text>
+<text top="660" left="218" width="14" height="25" font="13">E</text>
+<text top="661" left="236" width="135" height="22" font="1">denote the relation</text>
+<text top="661" left="376" width="49" height="21" font="3">among</text>
+<text top="661" left="429" width="303" height="22" font="1">between pluralities and their components.</text>
+<text top="683" left="189" width="69" height="22" font="1">Formally,</text>
+<text top="704" left="340" width="9" height="21" font="3">a</text>
+<text top="703" left="351" width="14" height="25" font="13">E</text>
+<text top="704" left="368" width="9" height="21" font="3">b</text>
+<text top="704" left="386" width="16" height="22" font="1">iff</text>
+<text top="707" left="411" width="10" height="21" font="9">9</text>
+<text top="704" left="421" width="11" height="21" font="3">A</text>
+<text top="707" left="432" width="5" height="18" font="12">[</text>
+<text top="704" left="437" width="9" height="21" font="3">a</text>
+<text top="707" left="450" width="12" height="21" font="9">2</text>
+<text top="704" left="466" width="11" height="21" font="3">A</text>
+<text top="707" left="488" width="12" height="21" font="9">^</text>
+<text top="704" left="512" width="9" height="21" font="3">b</text>
+<text top="707" left="525" width="14" height="18" font="12">=</text>
+<text top="693" left="542" width="18" height="19" font="14">G</text>
+<text top="704" left="562" width="11" height="21" font="3">A</text>
+<text top="707" left="573" width="5" height="18" font="12">]</text>
+<text top="754" left="189" width="409" height="22" font="1">In contrast, another formal representation of aggregation,</text>
+<text top="754" left="602" width="127" height="21" font="3">mereological sum</text>
+<text top="775" left="189" width="15" height="22" font="1">or</text>
+<text top="775" left="208" width="55" height="21" font="3">‘fusion’</text>
+<text top="775" left="267" width="203" height="22" font="1">essentially comes with unity.</text>
+<text top="773" left="470" width="7" height="16" font="15">1</text>
+<text top="775" left="483" width="185" height="22" font="1">For example, the fusion of</text>
+<text top="775" left="673" width="9" height="21" font="3">a</text>
+<text top="775" left="686" width="25" height="22" font="1">and</text>
+<text top="775" left="716" width="9" height="21" font="3">a</text>
+<text top="775" left="725" width="4" height="16" font="10">0</text>
+<text top="797" left="188" width="70" height="22" font="1">(notation:</text>
+<text top="797" left="264" width="37" height="21" font="3">a a</text>
+<text top="797" left="301" width="4" height="16" font="10">0</text>
+<text top="797" left="305" width="283" height="22" font="1">) is used to represent the aggregation of</text>
+<text top="797" left="593" width="9" height="21" font="3">a</text>
+<text top="797" left="606" width="26" height="22" font="1">and</text>
+<text top="797" left="636" width="9" height="21" font="3">a</text>
+<text top="797" left="645" width="4" height="16" font="10">0</text>
+<text top="797" left="654" width="75" height="22" font="1">as a single</text>
+<text top="819" left="189" width="342" height="22" font="1">entity, though possibly physically discrete (e.g.,</text>
+<text top="819" left="536" width="9" height="21" font="3">a</text>
+<text top="819" left="549" width="155" height="22" font="1">does not overlap with</text>
+<text top="819" left="708" width="9" height="21" font="3">a</text>
+<text top="818" left="717" width="4" height="16" font="10">0</text>
+<text top="819" left="722" width="10" height="22" font="1">).</text>
+<text top="840" left="188" width="89" height="22" font="1">The unity of</text>
+<text top="840" left="282" width="37" height="21" font="3">a a</text>
+<text top="840" left="318" width="4" height="16" font="10">0</text>
+<text top="840" left="327" width="179" height="22" font="1">can be formulated as (9).</text>
+<text top="880" left="216" width="21" height="22" font="1">(9)</text>
+<text top="883" left="269" width="10" height="21" font="9">8</text>
+<text top="880" left="279" width="9" height="21" font="3">d</text>
+<text top="883" left="289" width="5" height="18" font="12">[</text>
+<text top="880" left="294" width="9" height="21" font="3">d</text>
+<text top="879" left="306" width="14" height="25" font="13">E</text>
+<text top="880" left="323" width="37" height="21" font="3">a a</text>
+<text top="880" left="360" width="4" height="16" font="10">0</text>
+<text top="883" left="377" width="18" height="21" font="9">!</text>
+<text top="880" left="408" width="9" height="21" font="3">d</text>
+<text top="883" left="422" width="14" height="18" font="12">=</text>
+<text top="880" left="440" width="37" height="21" font="3">a a</text>
+<text top="880" left="477" width="4" height="16" font="10">0</text>
+<text top="883" left="481" width="5" height="18" font="12">]</text>
+<text top="920" left="188" width="171" height="22" font="1">Two different pluralities</text>
+<text top="920" left="364" width="9" height="21" font="3">g</text>
+<text top="927" left="373" width="7" height="16" font="15">1</text>
+<text top="920" left="385" width="26" height="22" font="1">and</text>
+<text top="920" left="415" width="9" height="21" font="3">g</text>
+<text top="927" left="424" width="7" height="16" font="15">2</text>
+<text top="920" left="436" width="294" height="22" font="1">can have the same mereological sum. For</text>
+<text top="941" left="189" width="541" height="22" font="1">instance, the upper half of a glass of water and the lower half form a plurality</text>
+<text top="975" left="190" width="6" height="13" font="7">1</text>
+<text top="977" left="200" width="412" height="18" font="4">See Champollion &amp; Krifka 2014 for an axiomatic characterization of</text>
+<text top="977" left="616" width="24" height="18" font="5">sum</text>
+<text top="977" left="640" width="4" height="18" font="4">.</text>
+<text top="1038" left="451" width="16" height="20" font="8">23</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="16" size="17" family="CISIPC+CMMI10" color="#000000"/>
+<text top="46" left="322" width="8" height="18" font="4">S</text>
+<text top="49" left="332" width="93" height="14" font="7">TUDIES IN THE</text>
+<text top="46" left="429" width="9" height="18" font="4">L</text>
+<text top="49" left="439" width="66" height="14" font="7">INGUISTIC</text>
+<text top="46" left="509" width="8" height="18" font="4">S</text>
+<text top="49" left="518" width="54" height="14" font="7">CIENCES</text>
+<text top="46" left="577" width="30" height="18" font="4">2016</text>
+<text top="131" left="189" width="542" height="22" font="1">that is not identical to the plurality formed by the left half and the right half,</text>
+<text top="152" left="189" width="486" height="22" font="1">despite the mereological sums of the two pluralities being the same.</text>
+<text top="192" left="189" width="24" height="22" font="1">Let</text>
+<text top="195" left="219" width="14" height="21" font="9"></text>
+<text top="192" left="238" width="138" height="22" font="1">denote the relation</text>
+<text top="192" left="381" width="164" height="21" font="3">(mereological) part-of</text>
+<text top="192" left="545" width="184" height="22" font="1">, which characterizes the</text>
+<text top="214" left="189" width="540" height="22" font="1">relation between a mereological fusion and its parts and which can be defined</text>
+<text top="235" left="189" width="244" height="22" font="1">in terms of sum/fusion as follows.</text>
+<text top="275" left="388" width="9" height="21" font="3">a</text>
+<text top="277" left="401" width="14" height="21" font="9"></text>
+<text top="275" left="419" width="9" height="21" font="3">b</text>
+<text top="275" left="437" width="16" height="22" font="1">iff</text>
+<text top="275" left="462" width="37" height="21" font="3">a b</text>
+<text top="278" left="503" width="14" height="18" font="12">=</text>
+<text top="275" left="521" width="9" height="21" font="3">b</text>
+<text top="314" left="189" width="75" height="22" font="1">Moreover,</text>
+<text top="314" left="269" width="9" height="21" font="3">a</text>
+<text top="314" left="283" width="25" height="22" font="1">is a</text>
+<text top="314" left="313" width="120" height="21" font="3">proper part of b</text>
+<text top="314" left="438" width="71" height="22" font="1">(notation:</text>
+<text top="314" left="516" width="9" height="21" font="3">a</text>
+<text top="318" left="529" width="14" height="18" font="16">&lt;</text>
+<text top="314" left="547" width="9" height="21" font="3">b</text>
+<text top="314" left="556" width="28" height="22" font="1">) iff</text>
+<text top="314" left="588" width="9" height="21" font="3">a</text>
+<text top="317" left="602" width="14" height="21" font="9"></text>
+<text top="314" left="620" width="9" height="21" font="3">b</text>
+<text top="314" left="634" width="26" height="22" font="1">and</text>
+<text top="314" left="665" width="9" height="21" font="3">a</text>
+<text top="317" left="678" width="0" height="21" font="9">6</text>
+<text top="318" left="678" width="14" height="18" font="12">=</text>
+<text top="314" left="696" width="9" height="21" font="3">b</text>
+<text top="314" left="705" width="25" height="22" font="1">. A</text>
+<text top="336" left="189" width="363" height="22" font="1">simple example illustrating the difference between</text>
+<text top="336" left="557" width="49" height="21" font="3">among</text>
+<text top="336" left="610" width="26" height="22" font="1">and</text>
+<text top="336" left="641" width="50" height="21" font="3">part-of</text>
+<text top="336" left="698" width="31" height="22" font="1">is as</text>
+<text top="358" left="189" width="90" height="22" font="1">follows. Let</text>
+<text top="358" left="283" width="9" height="21" font="3">a</text>
+<text top="358" left="297" width="26" height="22" font="1">and</text>
+<text top="358" left="328" width="9" height="21" font="3">b</text>
+<text top="358" left="342" width="129" height="22" font="1">be two chairs and</text>
+<text top="358" left="475" width="9" height="21" font="3">a</text>
+<text top="357" left="484" width="4" height="16" font="10">0</text>
+<text top="358" left="493" width="55" height="22" font="1">a leg of</text>
+<text top="358" left="553" width="9" height="21" font="3">a</text>
+<text top="358" left="562" width="53" height="22" font="1">. Then,</text>
+<text top="358" left="619" width="9" height="21" font="3">a</text>
+<text top="357" left="628" width="4" height="16" font="10">0</text>
+<text top="358" left="637" width="92" height="22" font="1">stands in the</text>
+<text top="379" left="189" width="202" height="22" font="1">mereological part-of relation</text>
+<text top="382" left="396" width="14" height="21" font="9"></text>
+<text top="379" left="414" width="14" height="22" font="1">to</text>
+<text top="379" left="432" width="9" height="21" font="3">a</text>
+<text top="379" left="445" width="87" height="22" font="1">as well as to</text>
+<text top="379" left="536" width="37" height="21" font="3">a b</text>
+<text top="379" left="573" width="77" height="22" font="1">. Formally,</text>
+<text top="379" left="655" width="9" height="21" font="3">a</text>
+<text top="379" left="664" width="4" height="16" font="10">0</text>
+<text top="382" left="672" width="14" height="21" font="9"></text>
+<text top="379" left="690" width="9" height="21" font="3">a</text>
+<text top="379" left="704" width="25" height="22" font="1">and</text>
+<text top="401" left="189" width="9" height="21" font="3">a</text>
+<text top="401" left="198" width="4" height="16" font="10">0</text>
+<text top="404" left="206" width="14" height="21" font="9"></text>
+<text top="401" left="224" width="37" height="21" font="3">a b</text>
+<text top="401" left="261" width="177" height="22" font="1">. In contrast, the relation</text>
+<text top="401" left="443" width="49" height="21" font="3">among</text>
+<text top="400" left="496" width="14" height="25" font="13">E</text>
+<text top="401" left="515" width="104" height="22" font="1">holds between</text>
+<text top="401" left="623" width="9" height="21" font="3">a</text>
+<text top="401" left="636" width="26" height="22" font="1">and</text>
+<text top="401" left="667" width="9" height="21" font="3">a</text>
+<text top="404" left="678" width="12" height="21" font="9">t</text>
+<text top="401" left="693" width="9" height="21" font="3">b</text>
+<text top="401" left="706" width="23" height="22" font="1">but</text>
+<text top="423" left="189" width="88" height="22" font="1">not between</text>
+<text top="423" left="282" width="9" height="21" font="3">a</text>
+<text top="422" left="291" width="4" height="16" font="10">0</text>
+<text top="423" left="300" width="26" height="22" font="1">and</text>
+<text top="423" left="330" width="9" height="21" font="3">a</text>
+<text top="423" left="344" width="80" height="22" font="1">or between</text>
+<text top="423" left="428" width="9" height="21" font="3">a</text>
+<text top="422" left="437" width="4" height="16" font="10">0</text>
+<text top="423" left="446" width="26" height="22" font="1">and</text>
+<text top="423" left="477" width="9" height="21" font="3">a</text>
+<text top="425" left="489" width="12" height="21" font="9">t</text>
+<text top="423" left="503" width="9" height="21" font="3">b</text>
+<text top="423" left="512" width="175" height="22" font="1">. In other words, neither</text>
+<text top="423" left="692" width="9" height="21" font="3">a</text>
+<text top="423" left="705" width="24" height="22" font="1">nor</text>
+<text top="444" left="189" width="9" height="21" font="3">a</text>
+<text top="447" left="201" width="12" height="21" font="9">t</text>
+<text top="444" left="216" width="9" height="21" font="3">b</text>
+<text top="444" left="230" width="192" height="22" font="1">is a plurality that contains</text>
+<text top="444" left="428" width="9" height="21" font="3">a</text>
+<text top="444" left="437" width="4" height="16" font="10">0</text>
+<text top="444" left="447" width="245" height="22" font="1">as a component. More generally,</text>
+<text top="447" left="697" width="14" height="21" font="9"></text>
+<text top="444" left="717" width="12" height="22" font="1">is</text>
+<text top="466" left="189" width="110" height="22" font="1">transitive while</text>
+<text top="465" left="304" width="14" height="25" font="13">E</text>
+<text top="466" left="322" width="44" height="22" font="1">is not.</text>
+<text top="506" left="189" width="541" height="22" font="1">Prototypical mass nouns cannot contain pluralities in their denotations by</text>
+<text top="527" left="189" width="541" height="22" font="1">default. This claim is evidenced by the ungrammaticality of taking a naturally</text>
+<text top="549" left="189" width="540" height="22" font="1">atomless mass definite as the antecedent of a reciprocal. Suppose that the</text>
+<text top="571" left="189" width="327" height="22" font="1">denotation of each atomless mass noun stem</text>
+<text top="570" left="521" width="11" height="23" font="6">P</text>
+<text top="571" left="537" width="192" height="22" font="1">contains pluralities, it will</text>
+<text top="592" left="189" width="540" height="22" font="1">be unexpected that a single mass noun phrase cannot be the antecedent of a</text>
+<text top="614" left="189" width="540" height="22" font="1">reciprocal while a conjunction of two mass noun phrases can, because the</text>
+<text top="636" left="189" width="293" height="22" font="1">components of the ‘plurality’ denoted by</text>
+<text top="635" left="487" width="72" height="23" font="6">the water</text>
+<text top="636" left="563" width="166" height="22" font="1">should be accessible as</text>
+<text top="657" left="189" width="281" height="22" font="1">are John and Mary in the denotation of</text>
+<text top="657" left="475" width="118" height="23" font="6">John and Mary</text>
+<text top="657" left="593" width="136" height="22" font="1">. This is illustrated</text>
+<text top="679" left="189" width="138" height="22" font="1">by (10a) and (10b).</text>
+<text top="719" left="216" width="30" height="22" font="1">(10)</text>
+<text top="719" left="278" width="12" height="22" font="1">a.</text>
+<text top="719" left="323" width="210" height="22" font="1">*The water repels each other.</text>
+<text top="740" left="278" width="13" height="22" font="1">b.</text>
+<text top="740" left="332" width="275" height="22" font="1">The water and the oil repel each other.</text>
+<text top="808" left="189" width="165" height="23" font="6">3. Existing Theories</text>
+<text top="848" left="189" width="161" height="23" font="6">3.1. Chierchia 1998</text>
+<text top="889" left="189" width="540" height="22" font="1">In order to formally spell out his observation that the mass/count distinction</text>
+<text top="911" left="189" width="540" height="22" font="1">is independent from the structures of denotations, Chierchia (1998) employs</text>
+<text top="932" left="189" width="391" height="22" font="1">two formal entities to represent aggregations of objects:</text>
+<text top="932" left="585" width="60" height="21" font="3">plurality</text>
+<text top="932" left="650" width="25" height="22" font="1">and</text>
+<text top="932" left="680" width="48" height="21" font="3">groups</text>
+<text top="932" left="728" width="4" height="22" font="1">.</text>
+<text top="954" left="189" width="400" height="22" font="1">Under his formal framework, a plurality is modeled as a</text>
+<text top="954" left="594" width="20" height="21" font="3">set</text>
+<text top="954" left="613" width="116" height="22" font="1">, which is not of</text>
+<text top="976" left="189" width="540" height="22" font="1">primary interest for the discussion here; whereas groups are assumed to be</text>
+<text top="1038" left="451" width="16" height="20" font="8">24</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="45" left="288" width="10" height="18" font="4">C</text>
+<text top="48" left="299" width="13" height="14" font="7">AI</text>
+<text top="45" left="313" width="20" height="18" font="4">: U</text>
+<text top="48" left="334" width="31" height="14" font="7">NITY</text>
+<text top="45" left="363" width="17" height="18" font="4">, P</text>
+<text top="48" left="381" width="97" height="14" font="7">LURALITY AND</text>
+<text top="45" left="482" width="8" height="18" font="4">S</text>
+<text top="48" left="491" width="59" height="14" font="7">EMANTIC</text>
+<text top="45" left="554" width="8" height="18" font="4">F</text>
+<text top="48" left="563" width="73" height="14" font="7">LEXIBILITY</text>
+<text top="131" left="189" width="48" height="21" font="3">atomic</text>
+<text top="131" left="240" width="489" height="22" font="1">(and thus singular) entities that essentially represent the denotations of</text>
+<text top="152" left="189" width="146" height="22" font="1">group nouns such as</text>
+<text top="152" left="340" width="80" height="23" font="6">committee</text>
+<text top="152" left="424" width="26" height="22" font="1">and</text>
+<text top="152" left="454" width="49" height="23" font="6">family</text>
+<text top="152" left="503" width="226" height="22" font="1">. Crucially, each group consists</text>
+<text top="174" left="189" width="540" height="22" font="1">of atomic constituents that could be retrieved from the containing group, so</text>
+<text top="196" left="189" width="540" height="22" font="1">that (11) could describe such a situation that each family member is picking</text>
+<text top="217" left="189" width="540" height="22" font="1">some apples him/herself, in contrast with a situation in which the whole</text>
+<text top="239" left="189" width="417" height="22" font="1">family is collaborating in picking a common set of apples.</text>
+<text top="279" left="216" width="30" height="22" font="1">(11)</text>
+<text top="279" left="278" width="209" height="22" font="1">The family is picking apples.</text>
+<text top="318" left="189" width="540" height="22" font="1">Chierchia’s (1998) treatment of atomic mass nouns can be summarized as</text>
+<text top="340" left="189" width="540" height="22" font="1">follows: mass definites built from atomic mass nouns denote groups, which</text>
+<text top="361" left="189" width="540" height="22" font="1">is enforced by the fact that they are morphologically singular. Given the</text>
+<text top="383" left="189" width="540" height="22" font="1">intuitive proposal that plural definites denote pluralities, Chierchia’s account</text>
+<text top="405" left="189" width="543" height="22" font="1">appears to be able to explain the contrast between (12a) and (12b). Specifi-</text>
+<text top="426" left="189" width="543" height="22" font="1">cally, (12a) is perfectly grammatical while (12b) is claimed to be ungrammat-</text>
+<text top="448" left="189" width="170" height="22" font="1">ical, despite the fact that</text>
+<text top="448" left="364" width="183" height="23" font="6">those pieces of furniture</text>
+<text top="448" left="551" width="25" height="22" font="1">and</text>
+<text top="448" left="581" width="105" height="23" font="6">that furniture</text>
+<text top="448" left="690" width="39" height="22" font="1">could</text>
+<text top="470" left="189" width="540" height="22" font="1">denote the same external objects. Chierchia’s analysis is straightforward: the</text>
+<text top="491" left="189" width="540" height="22" font="1">former is formally represented as a plurality of FURNITURE-atoms while</text>
+<text top="513" left="189" width="483" height="22" font="1">the latter denotes the group constituted of the FURNITURE-atoms.</text>
+<text top="553" left="216" width="30" height="22" font="1">(12)</text>
+<text top="553" left="278" width="12" height="22" font="1">a.</text>
+<text top="553" left="332" width="382" height="22" font="1">The pieces of furniture are piled on top of each other.</text>
+<text top="574" left="278" width="13" height="22" font="1">b.</text>
+<text top="574" left="332" width="318" height="22" font="1">%The furniture is piled on top of each other.</text>
+<text top="614" left="189" width="540" height="22" font="1">Ultimately, this analysis of the interaction between reciprocals and atomic</text>
+<text top="636" left="189" width="540" height="22" font="1">mass nouns, like many others, relies on the assumption that reciprocals</text>
+<text top="657" left="189" width="543" height="22" font="1">require a (at least) semantically plural antecedent. In other words, the deno-</text>
+<text top="679" left="189" width="541" height="22" font="1">tation of the antecedent of a reciprocal must contain multiple grammatically</text>
+<text top="701" left="189" width="541" height="22" font="1">accessible constituents, which should be a plurality under Chierchia’s (1998)</text>
+<text top="722" left="189" width="83" height="22" font="1">framework.</text>
+<text top="762" left="189" width="540" height="22" font="1">Nonetheless, this analysis turns out to be ignorant of the semantic difference</text>
+<text top="784" left="189" width="407" height="22" font="1">between group nouns and atomic mass nouns. Since both</text>
+<text top="783" left="600" width="99" height="23" font="6">the furniture</text>
+<text top="784" left="703" width="26" height="22" font="1">and</text>
+<text top="805" left="189" width="78" height="23" font="6">the family</text>
+<text top="805" left="273" width="456" height="22" font="1">denote a group, it could be expected that (13) is as ill-formed</text>
+<text top="827" left="189" width="540" height="22" font="1">as (12b). This expectation of equal grammaticality is among Chierchia’s</text>
+<text top="849" left="188" width="165" height="22" font="1">(implicit) assumptions.</text>
+<text top="888" left="216" width="30" height="22" font="1">(13)</text>
+<text top="888" left="278" width="259" height="22" font="1">The family is supporting each other.</text>
+<text top="928" left="189" width="540" height="22" font="1">However, various sources of empirical data point toward the contrary. For</text>
+<text top="950" left="189" width="540" height="22" font="1">instance, almost all of my informants think that (13) is to a large extent a fine</text>
+<text top="1038" left="451" width="16" height="20" font="8">25</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="17" size="13" family="MLILCJ+NimbusRomNo9L-Medi" color="#000000"/>
+	<fontspec id="18" size="13" family="DFBMKA+NimbusRomNo9L-ReguItal" color="#000000"/>
+	<fontspec id="19" size="17" family="VSEQYM+CMSY10" color="#000000"/>
+	<fontspec id="20" size="14" family="WIUSUQ+CMSY10" color="#000000"/>
+<text top="46" left="322" width="8" height="18" font="4">S</text>
+<text top="49" left="332" width="93" height="14" font="7">TUDIES IN THE</text>
+<text top="46" left="429" width="9" height="18" font="4">L</text>
+<text top="49" left="439" width="66" height="14" font="7">INGUISTIC</text>
+<text top="46" left="509" width="8" height="18" font="4">S</text>
+<text top="49" left="518" width="54" height="14" font="7">CIENCES</text>
+<text top="46" left="577" width="30" height="18" font="4">2016</text>
+<text top="134" left="189" width="362" height="22" font="1">sentence, which is significantly better than (12b).</text>
+<text top="132" left="551" width="7" height="16" font="15">2</text>
+<text top="134" left="566" width="163" height="22" font="1">This difference is also</text>
+<text top="156" left="189" width="540" height="22" font="1">noted by Rothstein (2010: 380). Therefore, a semantic analysis which treats</text>
+<text top="177" left="189" width="540" height="22" font="1">the two types of nouns in the same way cannot account for the perceivable</text>
+<text top="199" left="189" width="234" height="22" font="1">contrast between (12b) and (13).</text>
+<text top="266" left="189" width="159" height="23" font="6">3.2. Rothstein 2010</text>
+<text top="307" left="189" width="540" height="22" font="1">Basically, Rothstein (2010) attempts to account for various phenomena</text>
+<text top="329" left="189" width="540" height="22" font="1">regarding the mass/count distinction in terms of type match/mismatch. In</text>
+<text top="351" left="189" width="542" height="22" font="1">her formal framework, there is one primitive representation of aggregations,</text>
+<text top="372" left="189" width="201" height="22" font="1">namely, (mereological) sum</text>
+<text top="372" left="413" width="97" height="22" font="1">over a unique</text>
+<text top="372" left="515" width="114" height="21" font="3">mass domain M</text>
+<text top="372" left="629" width="4" height="22" font="1">.</text>
+<text top="370" left="639" width="7" height="16" font="15">3</text>
+<text top="372" left="652" width="79" height="22" font="1">Uniformly,</text>
+<text top="394" left="189" width="72" height="22" font="1">each noun</text>
+<text top="393" left="265" width="11" height="23" font="6">P</text>
+<text top="394" left="280" width="273" height="22" font="1">is associated with a root noun meaning</text>
+<text top="394" left="557" width="11" height="21" font="3">P</text>
+<text top="401" left="566" width="22" height="16" font="15">root</text>
+<text top="397" left="592" width="14" height="21" font="9">✓</text>
+<text top="394" left="610" width="15" height="21" font="3">M</text>
+<text top="394" left="626" width="103" height="22" font="1">, i.e., the set of</text>
+<text top="416" left="189" width="270" height="22" font="1">entities that have the property of being</text>
+<text top="415" left="464" width="11" height="23" font="6">P</text>
+<text top="416" left="475" width="254" height="22" font="1">. In addition, the interpretation of an</text>
+<text top="437" left="189" width="345" height="22" font="1">utterance is always relative to a specific context</text>
+<text top="437" left="538" width="8" height="21" font="3">c</text>
+<text top="437" left="546" width="183" height="22" font="1">, which formally consists</text>
+<text top="459" left="189" width="540" height="22" font="1">of the atomic objects in the context. What semantically distinguishes count</text>
+<text top="481" left="189" width="540" height="22" font="1">nouns from mass nouns is the types of their denotations. The denotation of a</text>
+<text top="502" left="189" width="540" height="22" font="1">mass noun is identical to its root meaning (formally, (14a)); whereas each</text>
+<text top="524" left="189" width="541" height="22" font="1">element falling under the denotation of a count noun is formally indexed by</text>
+<text top="546" left="189" width="299" height="22" font="1">the context, which is formulated as (14b).</text>
+<text top="585" left="216" width="30" height="22" font="1">(14)</text>
+<text top="585" left="278" width="12" height="22" font="1">a.</text>
+<text top="588" left="332" width="6" height="20" font="11"><b>[</b></text>
+<text top="585" left="338" width="11" height="23" font="6">P</text>
+<text top="592" left="349" width="28" height="17" font="17">mass</text>
+<text top="588" left="378" width="6" height="20" font="11"><b>]</b></text>
+<text top="592" left="385" width="6" height="16" font="18">c</text>
+<text top="588" left="395" width="14" height="18" font="12">=</text>
+<text top="585" left="413" width="11" height="21" font="3">P</text>
+<text top="592" left="422" width="22" height="16" font="15">root</text>
+<text top="607" left="278" width="13" height="22" font="1">b.</text>
+<text top="610" left="332" width="6" height="20" font="11"><b>[</b></text>
+<text top="606" left="338" width="11" height="23" font="6">P</text>
+<text top="613" left="349" width="32" height="17" font="17">count</text>
+<text top="610" left="382" width="6" height="20" font="11"><b>]</b></text>
+<text top="614" left="388" width="6" height="16" font="18">c</text>
+<text top="610" left="399" width="14" height="18" font="12">=</text>
+<text top="610" left="417" width="9" height="21" font="19">{</text>
+<text top="610" left="426" width="7" height="21" font="9">h</text>
+<text top="607" left="433" width="9" height="21" font="3">d</text>
+<text top="610" left="443" width="5" height="18" font="16">,</text>
+<text top="607" left="450" width="8" height="21" font="3">c</text>
+<text top="610" left="458" width="7" height="21" font="9">i</text>
+<text top="607" left="469" width="5" height="22" font="1">:</text>
+<text top="607" left="482" width="9" height="21" font="3">d</text>
+<text top="610" left="496" width="12" height="21" font="9">2</text>
+<text top="607" left="512" width="11" height="21" font="3">P</text>
+<text top="614" left="521" width="22" height="16" font="15">root</text>
+<text top="610" left="546" width="12" height="21" font="9">\</text>
+<text top="607" left="560" width="8" height="21" font="3">c</text>
+<text top="610" left="568" width="9" height="21" font="19">}</text>
+<text top="647" left="188" width="541" height="22" font="1">The abstract entities employed in the formal representation that are of the</text>
+<text top="668" left="189" width="36" height="22" font="1">form</text>
+<text top="671" left="229" width="7" height="21" font="9">h</text>
+<text top="668" left="236" width="9" height="21" font="3">d</text>
+<text top="671" left="246" width="5" height="18" font="16">,</text>
+<text top="668" left="253" width="8" height="21" font="3">c</text>
+<text top="671" left="261" width="7" height="21" font="9">i</text>
+<text top="668" left="272" width="76" height="22" font="1">are named</text>
+<text top="668" left="352" width="89" height="21" font="3">count atoms</text>
+<text top="668" left="446" width="283" height="22" font="1">(Rothstein 2010: 363). Literally, count</text>
+<text top="690" left="189" width="540" height="22" font="1">atoms are what serve as the units of grammatical counting. Despite the fact</text>
+<text top="712" left="189" width="153" height="22" font="1">that the denotation of</text>
+<text top="711" left="346" width="70" height="23" font="6">furniture</text>
+<text top="712" left="421" width="309" height="22" font="1">also consists of salient atomic objects, they</text>
+<text top="733" left="189" width="540" height="22" font="1">are not represented as count atoms, as is enforced by its status as a mass</text>
+<text top="755" left="189" width="406" height="22" font="1">noun which cannot be directly associated with numerals.</text>
+<text top="794" left="188" width="544" height="22" font="1">As for the semantics of reciprocals, Rothstein imposes the following con-</text>
+<text top="816" left="189" width="540" height="22" font="1">straint (15) in order to account for the ‘ungrammaticality’ of sentences such</text>
+<text top="838" left="189" width="63" height="22" font="1">as (12b).</text>
+<text top="871" left="190" width="6" height="13" font="7">2</text>
+<text top="873" left="200" width="521" height="18" font="4">The informants reported in this article, whom I directly talk to, are native English-</text>
+<text top="891" left="189" width="532" height="18" font="4">speaking non-semanticists at the Department of Linguistics of the University of Pennsyl-</text>
+<text top="909" left="189" width="36" height="18" font="4">vania.</text>
+<text top="925" left="190" width="6" height="13" font="7">3</text>
+<text top="927" left="200" width="519" height="18" font="4">Although Rothstein (2010) does not explicitly state that the sum operation employed in</text>
+<text top="945" left="189" width="85" height="18" font="4">her analysis is</text>
+<text top="945" left="278" width="79" height="18" font="5">mereological</text>
+<text top="945" left="361" width="359" height="18" font="4">sum, several pieces of evidence support this conjecture. For</text>
+<text top="963" left="189" width="74" height="18" font="4">instance, the</text>
+<text top="963" left="268" width="41" height="18" font="5">part-of</text>
+<text top="963" left="315" width="112" height="18" font="4">relation defined by</text>
+<text top="963" left="446" width="273" height="18" font="4">is claimed to hold between her left thumb and</text>
+<text top="981" left="189" width="79" height="18" font="4">her left hand.</text>
+<text top="1038" left="451" width="16" height="20" font="8">26</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="21" size="14" family="CISIPC+CMMI10" color="#000000"/>
+<text top="45" left="288" width="10" height="18" font="4">C</text>
+<text top="48" left="299" width="13" height="14" font="7">AI</text>
+<text top="45" left="313" width="20" height="18" font="4">: U</text>
+<text top="48" left="334" width="31" height="14" font="7">NITY</text>
+<text top="45" left="363" width="17" height="18" font="4">, P</text>
+<text top="48" left="381" width="97" height="14" font="7">LURALITY AND</text>
+<text top="45" left="482" width="8" height="18" font="4">S</text>
+<text top="48" left="491" width="59" height="14" font="7">EMANTIC</text>
+<text top="45" left="554" width="8" height="18" font="4">F</text>
+<text top="48" left="563" width="73" height="14" font="7">LEXIBILITY</text>
+<text top="131" left="216" width="30" height="22" font="1">(15)</text>
+<text top="131" left="278" width="451" height="22" font="1">The antecedent of a reciprocal must denote a plural entity in</text>
+<text top="152" left="278" width="15" height="21" font="3">M</text>
+<text top="155" left="296" width="14" height="21" font="9">⇥</text>
+<text top="155" left="313" width="9" height="21" font="19">{</text>
+<text top="152" left="322" width="8" height="21" font="3">c</text>
+<text top="155" left="330" width="9" height="21" font="19">}</text>
+<text top="152" left="339" width="4" height="22" font="1">.</text>
+<text top="150" left="343" width="7" height="16" font="15">4</text>
+<text top="192" left="189" width="221" height="22" font="1">In Rothstein’s (2010) analysis,</text>
+<text top="191" left="415" width="99" height="23" font="6">the furniture</text>
+<text top="192" left="518" width="211" height="22" font="1">is not a legitimate antecedent</text>
+<text top="214" left="189" width="540" height="22" font="1">of the reciprocal since (i) the root meaning of any noun contains no count</text>
+<text top="235" left="189" width="468" height="22" font="1">atoms and (ii) there is no reason to assume that the definite article</text>
+<text top="235" left="661" width="24" height="23" font="6">the</text>
+<text top="235" left="689" width="40" height="22" font="1">could</text>
+<text top="257" left="189" width="230" height="22" font="1">shift the type of the head noun</text>
+<text top="256" left="425" width="70" height="23" font="6">furniture</text>
+<text top="257" left="495" width="128" height="22" font="1">. In other words,</text>
+<text top="256" left="629" width="100" height="23" font="6">the furniture</text>
+<text top="279" left="189" width="540" height="22" font="1">cannot serve as the antecedent of the reciprocal because the denotation of</text>
+<text top="300" left="189" width="381" height="22" font="1">the mass definite NP is not a plural entity of the form</text>
+<text top="303" left="575" width="7" height="21" font="9">h</text>
+<text top="300" left="581" width="9" height="21" font="3">d</text>
+<text top="303" left="591" width="5" height="18" font="16">,</text>
+<text top="300" left="598" width="8" height="21" font="3">c</text>
+<text top="303" left="606" width="7" height="21" font="9">i</text>
+<text top="300" left="613" width="4" height="22" font="1">.</text>
+<text top="340" left="188" width="541" height="22" font="1">Although the ‘ungrammaticality’ of (12b) appears to be well explained by</text>
+<text top="361" left="188" width="541" height="22" font="1">(15), this approach runs into difficulties when conjunctive mass NPs are</text>
+<text top="383" left="189" width="540" height="22" font="1">taken into account. As an illustration, sentence (16) is perfectly grammatical</text>
+<text top="405" left="189" width="540" height="22" font="1">in which the antecedent is a conjunction of two mass definite NPs, which</text>
+<text top="426" left="189" width="342" height="22" font="1">do denote sets of elements of the mass domain</text>
+<text top="426" left="536" width="15" height="21" font="3">M</text>
+<text top="426" left="556" width="173" height="22" font="1">rather than count atoms</text>
+<text top="448" left="189" width="85" height="22" font="1">of the form</text>
+<text top="451" left="280" width="7" height="21" font="9">h</text>
+<text top="448" left="287" width="9" height="21" font="3">d</text>
+<text top="451" left="297" width="5" height="18" font="16">,</text>
+<text top="448" left="304" width="8" height="21" font="3">c</text>
+<text top="451" left="312" width="7" height="21" font="9">i</text>
+<text top="448" left="319" width="413" height="22" font="1">. Rothstein explains the grammaticality of (16) by em-</text>
+<text top="470" left="189" width="174" height="22" font="1">ploying the operation of</text>
+<text top="470" left="368" width="118" height="21" font="3">group formation</text>
+<text top="470" left="486" width="118" height="22" font="1">, which converts</text>
+<text top="473" left="608" width="6" height="20" font="11"><b>[</b></text>
+<text top="469" left="615" width="108" height="23" font="6">the curtaining</text>
+<text top="473" left="723" width="6" height="20" font="11"><b>]</b></text>
+<text top="491" left="189" width="26" height="22" font="1">and</text>
+<text top="494" left="221" width="6" height="20" font="11"><b>[</b></text>
+<text top="491" left="227" width="101" height="23" font="6">the carpeting</text>
+<text top="494" left="328" width="6" height="20" font="11"><b>]</b></text>
+<text top="491" left="340" width="389" height="22" font="1">into two groups. Rothstein also assumes that groups</text>
+<text top="513" left="189" width="172" height="22" font="1">are count atoms. Hence,</text>
+<text top="513" left="365" width="247" height="23" font="6">the curtaining and the carpeting</text>
+<text top="513" left="617" width="112" height="22" font="1">denotes a plural</text>
+<text top="535" left="189" width="59" height="22" font="1">entity in</text>
+<text top="535" left="253" width="15" height="21" font="3">M</text>
+<text top="537" left="271" width="14" height="21" font="9">⇥</text>
+<text top="537" left="287" width="9" height="21" font="19">{</text>
+<text top="535" left="296" width="8" height="21" font="3">c</text>
+<text top="537" left="304" width="9" height="21" font="19">}</text>
+<text top="535" left="313" width="193" height="22" font="1">, satisfying constraint (15).</text>
+<text top="574" left="216" width="30" height="22" font="1">(16)</text>
+<text top="574" left="278" width="384" height="22" font="1">The curtaining and the carpeting resemble each other.</text>
+<text top="614" left="189" width="540" height="22" font="1">Nonetheless, such an explanation is incompatible with the imperfectness</text>
+<text top="636" left="189" width="288" height="22" font="1">of (12b). According to Rothstein 2010,</text>
+<text top="638" left="482" width="6" height="20" font="11"><b>[</b></text>
+<text top="635" left="488" width="99" height="23" font="6">the furniture</text>
+<text top="638" left="587" width="6" height="20" font="11"><b>]</b></text>
+<text top="636" left="598" width="26" height="22" font="1">and</text>
+<text top="638" left="629" width="6" height="20" font="11"><b>[</b></text>
+<text top="635" left="635" width="94" height="23" font="6">the pieces of</text>
+<text top="657" left="189" width="70" height="23" font="6">furniture</text>
+<text top="660" left="259" width="6" height="20" font="11"><b>]</b></text>
+<text top="657" left="270" width="359" height="22" font="1">are both plural entities. The former is of the form</text>
+<text top="649" left="634" width="18" height="19" font="14">L</text>
+<text top="657" left="654" width="11" height="21" font="3">P</text>
+<text top="657" left="669" width="60" height="22" font="1">whereas</text>
+<text top="679" left="189" width="66" height="22" font="1">the latter</text>
+<text top="682" left="261" width="7" height="21" font="9">h</text>
+<text top="671" left="268" width="18" height="19" font="14">L</text>
+<text top="679" left="288" width="11" height="21" font="3">P</text>
+<text top="682" left="297" width="5" height="18" font="16">,</text>
+<text top="679" left="304" width="8" height="21" font="3">c</text>
+<text top="682" left="312" width="7" height="21" font="9">i</text>
+<text top="679" left="319" width="410" height="22" font="1">. The perfect grammaticality of (16) shows that group</text>
+<text top="701" left="189" width="288" height="22" font="1">formation should also be applicable to</text>
+<text top="703" left="483" width="6" height="20" font="11"><b>[</b></text>
+<text top="700" left="490" width="99" height="23" font="6">the furniture</text>
+<text top="703" left="588" width="6" height="20" font="11"><b>]</b></text>
+<text top="701" left="595" width="134" height="22" font="1">, as this operation</text>
+<text top="722" left="189" width="172" height="22" font="1">is separately applied to</text>
+<text top="725" left="366" width="6" height="20" font="11"><b>[</b></text>
+<text top="722" left="373" width="108" height="23" font="6">the curtaining</text>
+<text top="725" left="481" width="6" height="20" font="11"><b>]</b></text>
+<text top="722" left="493" width="26" height="22" font="1">and</text>
+<text top="725" left="525" width="6" height="20" font="11"><b>[</b></text>
+<text top="722" left="531" width="101" height="23" font="6">the carpeting</text>
+<text top="725" left="632" width="6" height="20" font="11"><b>]</b></text>
+<text top="722" left="644" width="85" height="22" font="1">in (16). As</text>
+<text top="744" left="189" width="111" height="22" font="1">a consequence,</text>
+<text top="747" left="306" width="6" height="20" font="11"><b>[</b></text>
+<text top="743" left="312" width="99" height="23" font="6">the furniture</text>
+<text top="747" left="411" width="6" height="20" font="11"><b>]</b></text>
+<text top="744" left="422" width="307" height="22" font="1">can also be converted into a group. Since</text>
+<text top="768" left="189" width="6" height="20" font="11"><b>[</b></text>
+<text top="765" left="195" width="77" height="23" font="6">the family</text>
+<text top="768" left="273" width="6" height="20" font="11"><b>]</b></text>
+<text top="766" left="284" width="445" height="22" font="1">is also a group, the contrast between (12b) and (13) remains</text>
+<text top="787" left="189" width="86" height="22" font="1">unexpected.</text>
+<text top="827" left="188" width="541" height="22" font="1">Therefore, neither Chierchia (1998) nor Rothstein (2010) is able to capture</text>
+<text top="849" left="189" width="540" height="22" font="1">the fine-grained data regarding reciprocals, atomic mass nouns and group</text>
+<text top="883" left="190" width="6" height="13" font="7">4</text>
+<text top="884" left="200" width="520" height="18" font="4">According to Rothstein 2010, plural entities are obtained via the mereological sum . A</text>
+<text top="902" left="189" width="148" height="18" font="4">plural entity of the form</text>
+<text top="905" left="342" width="6" height="18" font="20">h</text>
+<text top="902" left="347" width="7" height="18" font="5">d</text>
+<text top="905" left="356" width="4" height="15" font="21">,</text>
+<text top="902" left="361" width="7" height="18" font="5">c</text>
+<text top="905" left="368" width="6" height="18" font="20">i</text>
+<text top="902" left="378" width="69" height="18" font="4">is such that</text>
+<text top="902" left="451" width="7" height="18" font="5">d</text>
+<text top="902" left="464" width="237" height="18" font="4">is a plural element in the mass domain</text>
+<text top="902" left="705" width="12" height="18" font="5">M</text>
+<text top="902" left="718" width="4" height="18" font="4">.</text>
+<text top="920" left="189" width="75" height="18" font="4">Specifically,</text>
+<text top="920" left="268" width="7" height="18" font="5">d</text>
+<text top="920" left="281" width="438" height="18" font="4">is an aggregation of its atomic constituents obtained via . However, it</text>
+<text top="938" left="189" width="529" height="18" font="4">has been noticed by Nicolas (2008) that it is problematic to represent plurality in terms</text>
+<text top="956" left="189" width="529" height="18" font="4">of mereological sum. In this article, I will put aside this debate and focus on the logical</text>
+<text top="974" left="189" width="405" height="18" font="4">consequence of this constraint on the grammaticality of reciprocals.</text>
+<text top="1038" left="451" width="16" height="20" font="8">27</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="46" left="322" width="8" height="18" font="4">S</text>
+<text top="49" left="332" width="93" height="14" font="7">TUDIES IN THE</text>
+<text top="46" left="429" width="9" height="18" font="4">L</text>
+<text top="49" left="439" width="66" height="14" font="7">INGUISTIC</text>
+<text top="46" left="509" width="8" height="18" font="4">S</text>
+<text top="49" left="518" width="54" height="14" font="7">CIENCES</text>
+<text top="46" left="577" width="30" height="18" font="4">2016</text>
+<text top="129" left="189" width="47" height="22" font="1">nouns.</text>
+<text top="196" left="189" width="376" height="23" font="6">4. Reciprocals: From the Empirical Perspective</text>
+<text top="237" left="189" width="541" height="22" font="1">In the two existing theories reviewed in Section 3, sentences such as (12b)</text>
+<text top="259" left="189" width="540" height="22" font="1">are marked with an asterisk * which is by default used on ungrammatical</text>
+<text top="281" left="189" width="541" height="22" font="1">sentences. Nonetheless, many of my informants report that they find (12b)</text>
+<text top="302" left="189" width="478" height="22" font="1">significantly better than typical ungrammatical sentences like (17).</text>
+<text top="342" left="216" width="30" height="22" font="1">(17)</text>
+<text top="342" left="278" width="390" height="22" font="1">*The furnitures were purchased by the new neighbors.</text>
+<text top="382" left="189" width="540" height="22" font="1">Doubtlessly, it is crucial for an analysis regarding atomic mass nouns, and</text>
+<text top="403" left="189" width="540" height="22" font="1">more generally, the mass/count distinction, to clarify people’s judgment</text>
+<text top="425" left="189" width="540" height="22" font="1">of the ill/well-formedness of this construction. Hence, a quick survey is</text>
+<text top="447" left="189" width="540" height="22" font="1">conducted online to reinforce the reliability of the empirical data underlying</text>
+<text top="468" left="189" width="301" height="22" font="1">my analysis presented in the next Section.</text>
+<text top="508" left="189" width="547" height="22" font="1">Overall, 102 native English-speaking participants (based on self-identification)</text>
+<text top="530" left="188" width="541" height="22" font="1">were recruited via Mechanical Turk who were directed to the experiment</text>
+<text top="551" left="189" width="543" height="22" font="1">hosted on Ibex Farm. Participants were instructed to evaluate the well-</text>
+<text top="573" left="189" width="540" height="22" font="1">formedness of six sentences in terms of acceptability on a 5-point scale, with</text>
+<text top="595" left="188" width="103" height="22" font="1">1 standing for</text>
+<text top="595" left="296" width="170" height="21" font="3">definitely unacceptable</text>
+<text top="595" left="465" width="45" height="22" font="1">, 2 for</text>
+<text top="595" left="516" width="168" height="21" font="3">probably unacceptable</text>
+<text top="595" left="684" width="45" height="22" font="1">, 3 for</text>
+<text top="616" left="189" width="49" height="21" font="3">unsure</text>
+<text top="616" left="238" width="45" height="22" font="1">, 4 for</text>
+<text top="616" left="288" width="149" height="21" font="3">probably acceptable</text>
+<text top="616" left="442" width="66" height="22" font="1">and 5 for</text>
+<text top="616" left="513" width="151" height="21" font="3">definitely acceptable</text>
+<text top="616" left="664" width="66" height="22" font="1">. The six</text>
+<text top="638" left="189" width="540" height="22" font="1">sentences presented to each participant consist of (i) four fillers, which are</text>
+<text top="660" left="189" width="540" height="22" font="1">common to everyone and which are in the same order; and then (ii) a random</text>
+<text top="681" left="189" width="540" height="22" font="1">sentence out of (18a) – (18d) and a random one out of (19a) – (19d) in a</text>
+<text top="703" left="189" width="101" height="22" font="1">random order.</text>
+<text top="743" left="216" width="30" height="22" font="1">(18)</text>
+<text top="743" left="278" width="12" height="22" font="1">a.</text>
+<text top="743" left="332" width="303" height="22" font="1">The furniture is piled on top of each other.</text>
+<text top="764" left="278" width="13" height="22" font="1">b.</text>
+<text top="764" left="332" width="298" height="22" font="1">The sawdust is piled on top of each other.</text>
+<text top="786" left="278" width="12" height="22" font="1">c.</text>
+<text top="786" left="332" width="276" height="22" font="1">The chair is piled on top of each other.</text>
+<text top="808" left="278" width="13" height="22" font="1">d.</text>
+<text top="808" left="332" width="293" height="22" font="1">The chairs are piled on top of each other.</text>
+<text top="847" left="216" width="30" height="22" font="1">(19)</text>
+<text top="847" left="278" width="12" height="22" font="1">a.</text>
+<text top="847" left="332" width="302" height="22" font="1">The equipment is connected to each other.</text>
+<text top="869" left="278" width="13" height="22" font="1">b.</text>
+<text top="869" left="332" width="266" height="22" font="1">The water is connected to each other.</text>
+<text top="891" left="278" width="12" height="22" font="1">c.</text>
+<text top="891" left="332" width="294" height="22" font="1">The computer is connected to each other.</text>
+<text top="912" left="278" width="13" height="22" font="1">d.</text>
+<text top="912" left="332" width="311" height="22" font="1">The computers are connected to each other.</text>
+<text top="952" left="189" width="541" height="22" font="1">Each sentence was displayed and rated on a separate page, which constantly</text>
+<text top="973" left="189" width="157" height="22" font="1">contains the question</text>
+<text top="973" left="352" width="345" height="21" font="3">How acceptable do you think this sentences is</text>
+<text top="973" left="703" width="26" height="22" font="1">and</text>
+<text top="1038" left="451" width="16" height="20" font="8">28</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="45" left="288" width="10" height="18" font="4">C</text>
+<text top="48" left="299" width="13" height="14" font="7">AI</text>
+<text top="45" left="313" width="20" height="18" font="4">: U</text>
+<text top="48" left="334" width="31" height="14" font="7">NITY</text>
+<text top="45" left="363" width="17" height="18" font="4">, P</text>
+<text top="48" left="381" width="97" height="14" font="7">LURALITY AND</text>
+<text top="45" left="482" width="8" height="18" font="4">S</text>
+<text top="48" left="491" width="59" height="14" font="7">EMANTIC</text>
+<text top="45" left="554" width="8" height="18" font="4">F</text>
+<text top="48" left="563" width="73" height="14" font="7">LEXIBILITY</text>
+<text top="131" left="189" width="196" height="22" font="1">five options of rating (e.g.,</text>
+<text top="131" left="390" width="150" height="21" font="3">probably acceptable</text>
+<text top="131" left="540" width="189" height="22" font="1">), but the numerical value</text>
+<text top="152" left="189" width="541" height="22" font="1">corresponding to each option was hidden. The survey proceeded immediately</text>
+<text top="174" left="189" width="540" height="22" font="1">after each subject clicked on an rating option. The subjects could not return</text>
+<text top="196" left="189" width="318" height="22" font="1">to an earlier sentence once it had been rated.</text>
+<text top="235" left="188" width="541" height="22" font="1">The results of the survey show the acceptability of different types of definite</text>
+<text top="257" left="189" width="540" height="22" font="1">NPs serving as the antecedents of reciprocals. The primary results are</text>
+<text top="279" left="189" width="531" height="22" font="1">summarized as follows, to which the Wilcoxon rank sum test was applied.</text>
+<text top="320" left="253" width="124" height="22" font="1">Sentence Mean</text>
+<text top="320" left="398" width="23" height="22" font="1">SD</text>
+<text top="350" left="266" width="38" height="22" font="1">(18a)</text>
+<text top="350" left="340" width="31" height="22" font="1">3.71</text>
+<text top="350" left="394" width="31" height="22" font="1">1.24</text>
+<text top="380" left="266" width="39" height="22" font="1">(18b)</text>
+<text top="380" left="340" width="31" height="22" font="1">2.75</text>
+<text top="380" left="394" width="31" height="22" font="1">1.48</text>
+<text top="409" left="266" width="38" height="22" font="1">(18c)</text>
+<text top="409" left="340" width="31" height="22" font="1">1.69</text>
+<text top="409" left="394" width="31" height="22" font="1">1.06</text>
+<text top="439" left="266" width="39" height="22" font="1">(18d)</text>
+<text top="439" left="340" width="31" height="22" font="1">4.81</text>
+<text top="439" left="394" width="31" height="22" font="1">0.60</text>
+<text top="320" left="493" width="124" height="22" font="1">Sentence Mean</text>
+<text top="320" left="638" width="23" height="22" font="1">SD</text>
+<text top="350" left="506" width="38" height="22" font="1">(19a)</text>
+<text top="350" left="580" width="31" height="22" font="1">3.22</text>
+<text top="350" left="634" width="31" height="22" font="1">1.48</text>
+<text top="380" left="506" width="39" height="22" font="1">(19b)</text>
+<text top="380" left="580" width="31" height="22" font="1">1.55</text>
+<text top="380" left="634" width="31" height="22" font="1">1.06</text>
+<text top="409" left="506" width="38" height="22" font="1">(19c)</text>
+<text top="409" left="580" width="31" height="22" font="1">1.54</text>
+<text top="409" left="634" width="31" height="22" font="1">1.10</text>
+<text top="439" left="506" width="39" height="22" font="1">(19d)</text>
+<text top="439" left="580" width="31" height="22" font="1">4.80</text>
+<text top="439" left="634" width="31" height="22" font="1">0.52</text>
+<text top="477" left="188" width="438" height="22" font="1">Take (18) as an example. Obviously, the atomic mass definite</text>
+<text top="477" left="630" width="99" height="23" font="6">the furniture</text>
+<text top="499" left="188" width="6" height="22" font="1">(</text>
+<text top="499" left="194" width="12" height="21" font="3">N</text>
+<text top="502" left="211" width="14" height="18" font="12">=</text>
+<text top="499" left="228" width="22" height="22" font="1">28,</text>
+<text top="499" left="254" width="15" height="21" font="3">M</text>
+<text top="502" left="273" width="14" height="18" font="12">=</text>
+<text top="499" left="290" width="9" height="22" font="1">3</text>
+<text top="502" left="299" width="5" height="18" font="16">.</text>
+<text top="499" left="304" width="425" height="22" font="1">71) serving as the antecedent of the reciprocal is significantly</text>
+<text top="521" left="189" width="131" height="22" font="1">more acceptable (</text>
+<text top="521" left="320" width="10" height="21" font="3">Z</text>
+<text top="524" left="335" width="14" height="18" font="12">=</text>
+<text top="521" left="354" width="9" height="22" font="1">4</text>
+<text top="524" left="363" width="5" height="18" font="16">.</text>
+<text top="521" left="367" width="23" height="22" font="1">78,</text>
+<text top="521" left="397" width="9" height="21" font="3">p</text>
+<text top="524" left="410" width="23" height="18" font="16">&lt; .</text>
+<text top="521" left="433" width="267" height="22" font="1">001) than the singular count definite</text>
+<text top="520" left="705" width="24" height="23" font="6">the</text>
+<text top="542" left="189" width="40" height="23" font="6">chair</text>
+<text top="542" left="234" width="6" height="22" font="1">(</text>
+<text top="542" left="240" width="12" height="21" font="3">N</text>
+<text top="545" left="258" width="14" height="18" font="12">=</text>
+<text top="542" left="276" width="23" height="22" font="1">23,</text>
+<text top="542" left="304" width="15" height="21" font="3">M</text>
+<text top="545" left="324" width="14" height="18" font="12">=</text>
+<text top="542" left="342" width="9" height="22" font="1">1</text>
+<text top="545" left="351" width="5" height="18" font="16">.</text>
+<text top="542" left="356" width="376" height="22" font="1">69), though it is still far from being perfectly well-</text>
+<text top="564" left="189" width="63" height="22" font="1">formed (</text>
+<text top="564" left="252" width="10" height="21" font="3">Z</text>
+<text top="567" left="267" width="14" height="18" font="12">=</text>
+<text top="564" left="285" width="9" height="22" font="1">4</text>
+<text top="567" left="294" width="5" height="18" font="16">.</text>
+<text top="564" left="299" width="23" height="22" font="1">29,</text>
+<text top="564" left="327" width="9" height="21" font="3">p</text>
+<text top="567" left="340" width="23" height="18" font="16">&lt; .</text>
+<text top="564" left="363" width="286" height="22" font="1">001) comparing with the plural definite</text>
+<text top="563" left="654" width="75" height="23" font="6">the chairs</text>
+<text top="586" left="188" width="6" height="22" font="1">(</text>
+<text top="586" left="194" width="12" height="21" font="3">N</text>
+<text top="589" left="212" width="14" height="18" font="12">=</text>
+<text top="586" left="231" width="23" height="22" font="1">31,</text>
+<text top="586" left="259" width="15" height="21" font="3">M</text>
+<text top="589" left="279" width="14" height="18" font="12">=</text>
+<text top="586" left="298" width="9" height="22" font="1">4</text>
+<text top="589" left="307" width="5" height="18" font="16">.</text>
+<text top="586" left="312" width="418" height="22" font="1">81). In addition, (18a) displays noticeable cross-speaker</text>
+<text top="607" left="189" width="75" height="22" font="1">variation (</text>
+<text top="607" left="264" width="22" height="21" font="3">SD</text>
+<text top="610" left="290" width="14" height="18" font="12">=</text>
+<text top="607" left="308" width="9" height="22" font="1">1</text>
+<text top="610" left="317" width="5" height="18" font="16">.</text>
+<text top="607" left="322" width="410" height="22" font="1">24). Similarly, an overall neutral evaluation and a cross-</text>
+<text top="629" left="189" width="484" height="22" font="1">speaker variation are also observed in the result regarding (19a) (</text>
+<text top="629" left="673" width="12" height="21" font="3">N</text>
+<text top="632" left="690" width="14" height="18" font="12">=</text>
+<text top="629" left="709" width="23" height="22" font="1">23,</text>
+<text top="651" left="189" width="15" height="21" font="3">M</text>
+<text top="654" left="209" width="14" height="18" font="12">=</text>
+<text top="651" left="227" width="9" height="22" font="1">3</text>
+<text top="654" left="236" width="5" height="18" font="16">.</text>
+<text top="651" left="240" width="22" height="22" font="1">22,</text>
+<text top="651" left="267" width="22" height="21" font="3">SD</text>
+<text top="654" left="293" width="14" height="18" font="12">=</text>
+<text top="651" left="311" width="9" height="22" font="1">1</text>
+<text top="654" left="320" width="5" height="18" font="16">.</text>
+<text top="651" left="325" width="28" height="22" font="1">48).</text>
+<text top="690" left="189" width="220" height="22" font="1">Interestingly, sentence (18b) (</text>
+<text top="690" left="409" width="12" height="21" font="3">N</text>
+<text top="693" left="427" width="14" height="18" font="12">=</text>
+<text top="690" left="445" width="23" height="22" font="1">20,</text>
+<text top="690" left="473" width="15" height="21" font="3">M</text>
+<text top="693" left="494" width="14" height="18" font="12">=</text>
+<text top="690" left="512" width="9" height="22" font="1">2</text>
+<text top="693" left="521" width="5" height="18" font="16">.</text>
+<text top="690" left="526" width="135" height="22" font="1">75) is also better (</text>
+<text top="690" left="661" width="10" height="21" font="3">Z</text>
+<text top="693" left="676" width="14" height="18" font="12">=</text>
+<text top="690" left="695" width="9" height="22" font="1">2</text>
+<text top="693" left="704" width="5" height="18" font="16">.</text>
+<text top="690" left="709" width="23" height="22" font="1">73,</text>
+<text top="712" left="190" width="9" height="21" font="3">p</text>
+<text top="715" left="204" width="14" height="18" font="12">=</text>
+<text top="715" left="222" width="5" height="18" font="16">.</text>
+<text top="712" left="227" width="435" height="22" font="1">003) than (18c) and its acceptability is only slightly lower (</text>
+<text top="712" left="662" width="10" height="21" font="3">Z</text>
+<text top="715" left="677" width="14" height="18" font="12">=</text>
+<text top="712" left="695" width="9" height="22" font="1">2</text>
+<text top="715" left="704" width="5" height="18" font="16">.</text>
+<text top="712" left="709" width="23" height="22" font="1">21,</text>
+<text top="733" left="190" width="9" height="21" font="3">p</text>
+<text top="737" left="203" width="14" height="18" font="12">=</text>
+<text top="737" left="221" width="5" height="18" font="16">.</text>
+<text top="733" left="226" width="167" height="22" font="1">014) than (18a), though</text>
+<text top="733" left="397" width="62" height="23" font="6">sawdust</text>
+<text top="733" left="463" width="266" height="22" font="1">does not denote objects with perfectly</text>
+<text top="755" left="189" width="540" height="22" font="1">salient atomic structure. Nonetheless, it could be imagined that the sawdust</text>
+<text top="777" left="189" width="540" height="22" font="1">is constituted of perceivable chips, despite the fact that it is not always</text>
+<text top="798" left="189" width="540" height="22" font="1">the case. Thus, sentence (18b) may be interpreted as a description of a</text>
+<text top="820" left="189" width="543" height="22" font="1">scenario in which numerous chips of wood are piled on top of each other.</text>
+<text top="842" left="189" width="540" height="22" font="1">In contrast, atomicity is by default much less salient in the denotation of</text>
+<text top="863" left="189" width="72" height="23" font="6">the water</text>
+<text top="863" left="261" width="329" height="22" font="1">, which explains the ill-formedness of (19b) (</text>
+<text top="863" left="590" width="12" height="21" font="3">N</text>
+<text top="867" left="607" width="14" height="18" font="12">=</text>
+<text top="863" left="625" width="22" height="22" font="1">31,</text>
+<text top="863" left="652" width="15" height="21" font="3">M</text>
+<text top="867" left="672" width="14" height="18" font="12">=</text>
+<text top="863" left="690" width="9" height="22" font="1">1</text>
+<text top="867" left="699" width="5" height="18" font="16">.</text>
+<text top="863" left="704" width="29" height="22" font="1">55).</text>
+<text top="885" left="189" width="386" height="22" font="1">Furthermore, the large standard deviation of (18b) (</text>
+<text top="885" left="575" width="22" height="21" font="3">SD</text>
+<text top="888" left="601" width="14" height="18" font="12">=</text>
+<text top="885" left="620" width="9" height="22" font="1">1</text>
+<text top="888" left="629" width="5" height="18" font="16">.</text>
+<text top="885" left="634" width="95" height="22" font="1">48) indicates</text>
+<text top="907" left="189" width="541" height="22" font="1">that people differ from each other with respect to the acceptability of (18b)</text>
+<text top="928" left="189" width="541" height="22" font="1">more than with respect to the other sentences in (18). This phenomenon may</text>
+<text top="950" left="188" width="541" height="22" font="1">well be a consequence of sawdust’s intermediate level of salience of atomic</text>
+<text top="972" left="189" width="67" height="22" font="1">structure.</text>
+<text top="1038" left="451" width="16" height="20" font="8">29</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="46" left="322" width="8" height="18" font="4">S</text>
+<text top="49" left="332" width="93" height="14" font="7">TUDIES IN THE</text>
+<text top="46" left="429" width="9" height="18" font="4">L</text>
+<text top="49" left="439" width="66" height="14" font="7">INGUISTIC</text>
+<text top="46" left="509" width="8" height="18" font="4">S</text>
+<text top="49" left="518" width="54" height="14" font="7">CIENCES</text>
+<text top="46" left="577" width="30" height="18" font="4">2016</text>
+<text top="131" left="188" width="544" height="22" font="1">To sum up, the variations of acceptability within both (18) and (19) corre-</text>
+<text top="152" left="189" width="543" height="22" font="1">late with the salience of atomic structure of the denotations of reciprocals’</text>
+<text top="174" left="189" width="543" height="22" font="1">antecedents. This is consistent with the judgments provided by other infor-</text>
+<text top="196" left="189" width="542" height="22" font="1">mants. Admittedly, the results are not as conclusive as people might expect,</text>
+<text top="217" left="189" width="541" height="22" font="1">for several reasons. For instance, the category of atomic mass nouns is only</text>
+<text top="239" left="189" width="217" height="22" font="1">instantiated by two nouns (i.e.,</text>
+<text top="238" left="411" width="70" height="23" font="6">furniture</text>
+<text top="239" left="485" width="25" height="22" font="1">and</text>
+<text top="238" left="515" width="82" height="23" font="6">equipment</text>
+<text top="239" left="597" width="132" height="22" font="1">), which leaves the</text>
+<text top="261" left="189" width="540" height="22" font="1">logical possibility that other atomic nouns would have different behavior</text>
+<text top="282" left="189" width="540" height="22" font="1">in such a test. Still, these preliminary results tend to suggest that natural</text>
+<text top="304" left="189" width="540" height="22" font="1">atomicity (or equivalently, salience of atomic structure) also plays a crucial</text>
+<text top="326" left="189" width="540" height="22" font="1">role in determining the grammaticality of reciprocal constructions. This</text>
+<text top="347" left="189" width="540" height="22" font="1">suggestion in turn implies that natural atomicity may trigger an interpretation</text>
+<text top="369" left="189" width="542" height="22" font="1">of atomic mass nouns in which atomic entities are grammatically accessible,</text>
+<text top="391" left="188" width="541" height="22" font="1">which is required by the grammaticality of reciprocal constructions. As a</text>
+<text top="412" left="189" width="543" height="22" font="1">consequence, those theories which do not capture the intermediate grammat-</text>
+<text top="434" left="189" width="540" height="22" font="1">icality of sentences such as (18a) is likely to over-simplify the grammatical</text>
+<text top="456" left="189" width="335" height="22" font="1">and semantic properties of atomic mass nouns.</text>
+<text top="523" left="189" width="279" height="23" font="6">5. Atomic Mass Nouns are Flexible</text>
+<text top="564" left="189" width="278" height="22" font="1">Suppose that the atomic elements of</text>
+<text top="567" left="474" width="6" height="20" font="11"><b>[</b></text>
+<text top="563" left="480" width="70" height="23" font="6">furniture</text>
+<text top="567" left="550" width="6" height="20" font="11"><b>]</b></text>
+<text top="564" left="564" width="166" height="22" font="1">are not grammatically</text>
+<text top="586" left="189" width="540" height="22" font="1">accessible, it will be rather hard to understand why constraints of shape</text>
+<text top="607" left="189" width="331" height="22" font="1">or size are not imposed on the denotation of</text>
+<text top="607" left="526" width="136" height="23" font="6">piece of furniture</text>
+<text top="607" left="661" width="70" height="22" font="1">. That is,</text>
+<text top="629" left="189" width="540" height="22" font="1">the most plausible reason why those constraints apply to prototypical mass</text>
+<text top="651" left="189" width="540" height="22" font="1">nouns but not to atomic mass nouns is: the atomic entities contained in the</text>
+<text top="672" left="189" width="540" height="22" font="1">denotations of atomic mass nouns are grammatically accessible while no</text>
+<text top="694" left="189" width="471" height="22" font="1">atomic objects are accessible in those of prototypical mass nouns.</text>
+<text top="733" left="188" width="541" height="22" font="1">This explanation is readily justified, provided that (a) a primary function</text>
+<text top="755" left="189" width="540" height="22" font="1">of atomic entities is to facilitate counting and thus measuring the overall</text>
+<text top="777" left="189" width="541" height="22" font="1">quantity of objects, and that (b) counting requires units. Objects denoted by</text>
+<text top="798" left="189" width="540" height="22" font="1">prototypical mass nouns need to satisfy certain conditions such as shape and</text>
+<text top="820" left="189" width="540" height="22" font="1">size in order to be countable, as many or most of them are inappropriate for</text>
+<text top="842" left="189" width="543" height="22" font="1">counting, considering their diversity of shape, size and form of aggregation.</text>
+<text top="863" left="189" width="540" height="22" font="1">In contrast, the atomicity of the objects denoted by atomic mass nouns</text>
+<text top="885" left="189" width="540" height="22" font="1">provides the units of counting and thus are exempted from the constraints of</text>
+<text top="907" left="189" width="226" height="22" font="1">shape or size on counting units.</text>
+<text top="946" left="188" width="541" height="22" font="1">Therefore, atomic objects must be contained in the denotations of atomic</text>
+<text top="968" left="189" width="542" height="22" font="1">mass nouns in such a way that their grammatical accessibility is preserved,</text>
+<text top="1038" left="451" width="16" height="20" font="8">30</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="22" size="17" family="WDLYXS+StandardSymL-Slant_167" color="#000000"/>
+	<fontspec id="23" size="17" family="MCZJWI+CMEX10" color="#000000"/>
+<text top="45" left="288" width="10" height="18" font="4">C</text>
+<text top="48" left="299" width="13" height="14" font="7">AI</text>
+<text top="45" left="313" width="20" height="18" font="4">: U</text>
+<text top="48" left="334" width="31" height="14" font="7">NITY</text>
+<text top="45" left="363" width="17" height="18" font="4">, P</text>
+<text top="48" left="381" width="97" height="14" font="7">LURALITY AND</text>
+<text top="45" left="482" width="8" height="18" font="4">S</text>
+<text top="48" left="491" width="59" height="14" font="7">EMANTIC</text>
+<text top="45" left="554" width="8" height="18" font="4">F</text>
+<text top="48" left="563" width="73" height="14" font="7">LEXIBILITY</text>
+<text top="131" left="189" width="540" height="22" font="1">so that the atomic objects can be readily retrieved. These observations</text>
+<text top="152" left="189" width="188" height="22" font="1">point toward (20), where</text>
+<text top="152" left="383" width="11" height="21" font="3">P</text>
+<text top="150" left="394" width="16" height="16" font="15">AT</text>
+<text top="161" left="392" width="6" height="16" font="18">c</text>
+<text top="152" left="418" width="294" height="22" font="1">is the set of atomic objects denoted by</text>
+<text top="152" left="718" width="11" height="23" font="6">P</text>
+<text top="174" left="189" width="75" height="22" font="1">in context</text>
+<text top="174" left="271" width="8" height="21" font="3">c</text>
+<text top="174" left="279" width="44" height="22" font="1">, e.g.,</text>
+<text top="173" left="331" width="70" height="23" font="6">furniture</text>
+<text top="174" left="408" width="323" height="22" font="1">denotes pluralities of FURNITURE-atoms,</text>
+<text top="196" left="189" width="540" height="22" font="1">since the atomic objects falling under the denotations of atomic mass nouns</text>
+<text top="217" left="189" width="540" height="22" font="1">need to be retrieved in the interpretation of (4) and (5b) (repeated below as</text>
+<text top="239" left="188" width="543" height="22" font="1">(21a) and (21b)). Pluralities, rather than mere atoms, should be contained,</text>
+<text top="261" left="189" width="540" height="22" font="1">since (i) quantity judgment is determined by number of atoms, which often</text>
+<text top="282" left="189" width="540" height="22" font="1">involves multiple atoms; and (ii) there is no overt morphosyntactic marking</text>
+<text top="304" left="189" width="540" height="22" font="1">for pluralization of mass nouns. Therefore, plurality must be built into the</text>
+<text top="326" left="189" width="135" height="22" font="1">interpretation (20).</text>
+<text top="365" left="216" width="30" height="22" font="1">(20)</text>
+<text top="368" left="278" width="6" height="20" font="11"><b>[</b></text>
+<text top="365" left="284" width="11" height="23" font="6">P</text>
+<text top="372" left="295" width="64" height="17" font="17">atom, mass</text>
+<text top="368" left="360" width="6" height="20" font="11"><b>]</b></text>
+<text top="372" left="367" width="6" height="16" font="18">c</text>
+<text top="368" left="377" width="14" height="18" font="12">=</text>
+<text top="368" left="395" width="9" height="21" font="19">{</text>
+<text top="357" left="404" width="13" height="19" font="14">F</text>
+<text top="365" left="420" width="9" height="21" font="3">S</text>
+<text top="365" left="433" width="5" height="22" font="1">:</text>
+<text top="365" left="446" width="9" height="21" font="3">S</text>
+<text top="368" left="459" width="14" height="21" font="9">✓</text>
+<text top="365" left="477" width="11" height="21" font="3">P</text>
+<text top="363" left="488" width="16" height="16" font="15">AT</text>
+<text top="374" left="486" width="6" height="16" font="18">c</text>
+<text top="368" left="512" width="12" height="21" font="9">^</text>
+<text top="365" left="531" width="9" height="21" font="3">S</text>
+<text top="368" left="544" width="0" height="21" font="9">6</text>
+<text top="368" left="544" width="14" height="18" font="12">=</text>
+<text top="365" left="564" width="7" height="22" font="1">/0</text>
+<text top="368" left="571" width="9" height="21" font="19">}</text>
+<text top="405" left="216" width="30" height="22" font="1">(21)</text>
+<text top="405" left="278" width="12" height="22" font="1">a.</text>
+<text top="405" left="332" width="305" height="22" font="1">a piece of furniture, a piece of equipment</text>
+<text top="426" left="278" width="13" height="22" font="1">b.</text>
+<text top="426" left="332" width="298" height="22" font="1">Jack bought more furniture than Jane did.</text>
+<text top="466" left="188" width="110" height="22" font="1">The meaning of</text>
+<text top="465" left="303" width="39" height="23" font="6">piece</text>
+<text top="466" left="345" width="251" height="22" font="1">can be represented as follows where</text>
+<text top="465" left="601" width="12" height="23" font="22">y</text>
+<text top="466" left="619" width="110" height="22" font="1">is the constraint</text>
+<text top="488" left="189" width="234" height="22" font="1">on shape/size that is encoded in</text>
+<text top="487" left="428" width="39" height="23" font="6">piece</text>
+<text top="488" left="466" width="263" height="22" font="1">. The type of count atom defined in</text>
+<text top="509" left="189" width="191" height="22" font="1">Rothstein 2010 is adopted.</text>
+<text top="567" left="211" width="6" height="20" font="11"><b>[</b></text>
+<text top="563" left="217" width="74" height="23" font="6">piece of P</text>
+<text top="567" left="291" width="6" height="20" font="11"><b>]</b></text>
+<text top="571" left="297" width="6" height="16" font="18">c</text>
+<text top="567" left="308" width="14" height="18" font="12">=</text>
+<text top="536" left="326" width="14" height="21" font="23">(</text>
+<text top="554" left="340" width="9" height="21" font="19">{</text>
+<text top="554" left="349" width="7" height="21" font="9">h</text>
+<text top="552" left="356" width="9" height="21" font="3">d</text>
+<text top="555" left="366" width="5" height="18" font="16">,</text>
+<text top="552" left="373" width="8" height="21" font="3">c</text>
+<text top="554" left="381" width="7" height="21" font="9">i</text>
+<text top="552" left="392" width="5" height="22" font="1">:</text>
+<text top="554" left="405" width="10" height="21" font="9">9</text>
+<text top="552" left="415" width="9" height="21" font="3">d</text>
+<text top="551" left="425" width="4" height="16" font="10">0</text>
+<text top="554" left="433" width="12" height="21" font="9">2</text>
+<text top="555" left="449" width="6" height="20" font="11"><b>[</b></text>
+<text top="551" left="456" width="11" height="23" font="6">P</text>
+<text top="555" left="467" width="6" height="20" font="11"><b>]</b></text>
+<text top="559" left="473" width="6" height="16" font="18">c</text>
+<text top="555" left="484" width="5" height="18" font="12">[</text>
+<text top="552" left="489" width="9" height="21" font="3">d</text>
+<text top="550" left="502" width="14" height="25" font="13">E</text>
+<text top="552" left="518" width="9" height="21" font="3">d</text>
+<text top="551" left="528" width="4" height="16" font="10">0</text>
+<text top="555" left="532" width="5" height="18" font="12">]</text>
+<text top="554" left="537" width="9" height="21" font="19">}</text>
+<text top="552" left="576" width="130" height="22" font="1">if (22) is satisfied;</text>
+<text top="580" left="340" width="9" height="21" font="19">{</text>
+<text top="580" left="349" width="7" height="21" font="9">h</text>
+<text top="578" left="356" width="9" height="21" font="3">d</text>
+<text top="581" left="366" width="5" height="18" font="16">,</text>
+<text top="578" left="373" width="8" height="21" font="3">c</text>
+<text top="580" left="381" width="7" height="21" font="9">i</text>
+<text top="578" left="392" width="5" height="22" font="1">:</text>
+<text top="578" left="405" width="9" height="21" font="3">d</text>
+<text top="580" left="419" width="14" height="21" font="9"></text>
+<text top="569" left="437" width="18" height="19" font="14">L</text>
+<text top="581" left="455" width="6" height="20" font="11"><b>[</b></text>
+<text top="577" left="461" width="11" height="23" font="6">P</text>
+<text top="581" left="472" width="6" height="20" font="11"><b>]</b></text>
+<text top="585" left="478" width="6" height="16" font="18">c</text>
+<text top="580" left="492" width="12" height="21" font="9">^</text>
+<text top="576" left="511" width="12" height="23" font="22">y</text>
+<text top="581" left="525" width="7" height="18" font="12">(</text>
+<text top="578" left="532" width="9" height="21" font="3">d</text>
+<text top="581" left="542" width="7" height="18" font="12">)</text>
+<text top="580" left="549" width="9" height="21" font="19">}</text>
+<text top="578" left="576" width="74" height="22" font="1">otherwise.</text>
+<text top="619" left="216" width="30" height="22" font="1">(22)</text>
+<text top="622" left="278" width="6" height="20" font="11"><b>[</b></text>
+<text top="619" left="284" width="11" height="23" font="6">P</text>
+<text top="622" left="295" width="6" height="20" font="11"><b>]</b></text>
+<text top="626" left="302" width="6" height="16" font="18">c</text>
+<text top="619" left="313" width="333" height="22" font="1">contains (non-trivial) pluralities of elements of</text>
+<text top="619" left="650" width="15" height="21" font="3">M</text>
+<text top="619" left="671" width="58" height="22" font="1">(i.e., the</text>
+<text top="641" left="278" width="105" height="22" font="1">mass domain).</text>
+<text top="681" left="189" width="540" height="22" font="1">Nonetheless, an atomic mass noun phrase serving as the antecedent of a</text>
+<text top="702" left="189" width="540" height="22" font="1">reciprocal leads to partial ungrammaticality (e.g., (18a)), which is subject</text>
+<text top="724" left="189" width="540" height="22" font="1">to cross-speaker variation and which is unexpected given (20). Those who</text>
+<text top="746" left="189" width="540" height="22" font="1">think (18a) is ungrammatical mostly explain their intuition by appealing to</text>
+<text top="767" left="189" width="511" height="22" font="1">the generalization that a reciprocal requires a plural antecedent, while</text>
+<text top="767" left="705" width="24" height="23" font="6">the</text>
+<text top="788" left="189" width="70" height="23" font="6">furniture</text>
+<text top="789" left="264" width="158" height="22" font="1">is singular/non-plural.</text>
+<text top="829" left="189" width="543" height="22" font="1">Hence, the semantic representation of atomic mass nouns involves both plu-</text>
+<text top="850" left="189" width="543" height="22" font="1">rality and atomlessness, and thus both visibility and invisibility of atoms.</text>
+<text top="872" left="189" width="543" height="22" font="1">Furthermore, in the semantics of atomic mass nouns, these contrastive fea-</text>
+<text top="894" left="189" width="540" height="22" font="1">tures are combined in such a way that is distinct from the way they are</text>
+<text top="915" left="189" width="540" height="22" font="1">combined in the semantics of group/collective nouns, given the contrast in</text>
+<text top="937" left="189" width="540" height="22" font="1">acceptability between (18a) and (13). That is, the atomic elements contained</text>
+<text top="959" left="189" width="14" height="22" font="1">in</text>
+<text top="961" left="208" width="6" height="20" font="11"><b>[</b></text>
+<text top="958" left="215" width="11" height="23" font="6">P</text>
+<text top="965" left="226" width="64" height="17" font="17">atom, mass</text>
+<text top="961" left="291" width="6" height="20" font="11"><b>]</b></text>
+<text top="965" left="297" width="6" height="16" font="18">c</text>
+<text top="959" left="309" width="420" height="22" font="1">are not as readily accessible as are those contained in the</text>
+<text top="980" left="189" width="200" height="22" font="1">denotations of group nouns.</text>
+<text top="1038" left="451" width="16" height="20" font="8">31</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="46" left="322" width="8" height="18" font="4">S</text>
+<text top="49" left="332" width="93" height="14" font="7">TUDIES IN THE</text>
+<text top="46" left="429" width="9" height="18" font="4">L</text>
+<text top="49" left="439" width="66" height="14" font="7">INGUISTIC</text>
+<text top="46" left="509" width="8" height="18" font="4">S</text>
+<text top="49" left="518" width="54" height="14" font="7">CIENCES</text>
+<text top="46" left="577" width="30" height="18" font="4">2016</text>
+<text top="131" left="188" width="544" height="22" font="1">The cross-speaker variation concerning (18a) and its overall neutral evalua-</text>
+<text top="152" left="189" width="484" height="22" font="1">tion indicate that the semantic representation of atomic mass nouns is</text>
+<text top="152" left="677" width="50" height="21" font="3">flexible</text>
+<text top="152" left="728" width="4" height="22" font="1">.</text>
+<text top="174" left="188" width="117" height="22" font="1">As a mass noun,</text>
+<text top="173" left="310" width="70" height="23" font="6">furniture</text>
+<text top="174" left="385" width="344" height="22" font="1">is interpreted according to (23) by default, since</text>
+<text top="196" left="189" width="540" height="22" font="1">those characteristic properties of mass nouns (e.g., verb agreement) force the</text>
+<text top="217" left="189" width="540" height="22" font="1">atomless and plurality-free interpretation of all mass nouns, which accounts</text>
+<text top="239" left="189" width="540" height="22" font="1">for the ungrammaticality of (18a). Recall that the elements in (23) are fusions</text>
+<text top="261" left="189" width="359" height="22" font="1">of atoms, thus the atoms are ‘invisible’, since the</text>
+<text top="261" left="552" width="51" height="21" font="3">part-of</text>
+<text top="261" left="610" width="56" height="22" font="1">relation</text>
+<text top="263" left="671" width="14" height="21" font="9"></text>
+<text top="261" left="689" width="40" height="22" font="1">holds</text>
+<text top="282" left="189" width="540" height="22" font="1">between a fusion and its atomic constituents as well as between the fusion</text>
+<text top="304" left="189" width="396" height="22" font="1">and fragments of the atomic constituents. Therefore,</text>
+<text top="304" left="591" width="11" height="21" font="3">P</text>
+<text top="304" left="602" width="127" height="22" font="1">-atoms contained</text>
+<text top="326" left="189" width="188" height="22" font="1">in elements of the default</text>
+<text top="328" left="382" width="6" height="20" font="11"><b>[</b></text>
+<text top="325" left="388" width="11" height="23" font="6">P</text>
+<text top="332" left="399" width="64" height="17" font="17">atom, mass</text>
+<text top="328" left="464" width="6" height="20" font="11"><b>]</b></text>
+<text top="332" left="471" width="6" height="16" font="18">c</text>
+<text top="326" left="483" width="246" height="22" font="1">cannot be retrieved without using</text>
+<text top="347" left="189" width="252" height="22" font="1">additional items such as classifiers.</text>
+<text top="387" left="216" width="30" height="22" font="1">(23)</text>
+<text top="390" left="278" width="6" height="20" font="11"><b>[</b></text>
+<text top="386" left="284" width="11" height="23" font="6">P</text>
+<text top="393" left="295" width="64" height="17" font="17">atom, mass</text>
+<text top="390" left="360" width="6" height="20" font="11"><b>]</b></text>
+<text top="394" left="367" width="6" height="16" font="18">c</text>
+<text top="390" left="377" width="14" height="18" font="12">=</text>
+<text top="390" left="395" width="9" height="21" font="19">{</text>
+<text top="378" left="404" width="18" height="19" font="14">L</text>
+<text top="387" left="424" width="9" height="21" font="3">S</text>
+<text top="387" left="437" width="5" height="22" font="1">:</text>
+<text top="387" left="451" width="9" height="21" font="3">S</text>
+<text top="390" left="464" width="14" height="21" font="9">✓</text>
+<text top="387" left="482" width="11" height="21" font="3">P</text>
+<text top="385" left="493" width="16" height="16" font="15">AT</text>
+<text top="395" left="491" width="6" height="16" font="18">c</text>
+<text top="390" left="517" width="12" height="21" font="9">^</text>
+<text top="387" left="536" width="9" height="21" font="3">S</text>
+<text top="390" left="549" width="0" height="21" font="9">6</text>
+<text top="390" left="549" width="14" height="18" font="12">=</text>
+<text top="387" left="569" width="7" height="22" font="1">/0</text>
+<text top="390" left="576" width="9" height="21" font="19">}</text>
+<text top="426" left="189" width="540" height="22" font="1">Nonetheless, the plurality alternative (20) is pragmatically activated as a ‘last</text>
+<text top="448" left="189" width="540" height="22" font="1">resort’, e.g., because of the lack of a grammatical antecedent of the reciprocal</text>
+<text top="470" left="189" width="540" height="22" font="1">in (18a) (though only grammaticized by some speakers). Analogously, it</text>
+<text top="491" left="189" width="540" height="22" font="1">is usually senseless to compare the quantity of furniture by volume; but</text>
+<text top="513" left="189" width="540" height="22" font="1">the quantity judgment based on atomic entities requires the retrievability of</text>
+<text top="535" left="189" width="347" height="22" font="1">FURNITURE-atoms and therefore invokes (20).</text>
+<text top="574" left="189" width="543" height="22" font="1">Furthermore, a contrast that needs to be accounted for is: the plural inter-</text>
+<text top="596" left="189" width="540" height="22" font="1">pretation of atomic mass nouns is naturally activated in the interpretation</text>
+<text top="618" left="189" width="540" height="22" font="1">of comparative constructions such as (5b), while the shift of interpretation</text>
+<text top="639" left="189" width="540" height="22" font="1">is often resisted with respect to reciprocals. This can be understood if the</text>
+<text top="661" left="189" width="543" height="22" font="1">motivation for shifting in the two situations are compared. If the plural inter-</text>
+<text top="683" left="189" width="540" height="22" font="1">pretation is not triggered, the quantity judgment will have to be determined</text>
+<text top="704" left="189" width="540" height="22" font="1">by volume of furniture, which is rather implausible. In this case, there is</text>
+<text top="726" left="189" width="540" height="22" font="1">nothing that could inhibit the shift to the non-default interpretation (20). In</text>
+<text top="748" left="189" width="540" height="22" font="1">contrast, if the default atomless interpretation (23) is preserved, sentences</text>
+<text top="769" left="189" width="543" height="22" font="1">such as (18a) are ungrammatical; however, if the semantic shift occurs, sen-</text>
+<text top="791" left="189" width="541" height="22" font="1">tence (18a) will become perfectly grammatical. That is, the shift from (23)</text>
+<text top="813" left="189" width="132" height="22" font="1">to (20) results in a</text>
+<text top="813" left="325" width="82" height="21" font="3">categorical</text>
+<text top="813" left="411" width="318" height="22" font="1">change from ungrammatical to grammatical</text>
+<text top="834" left="189" width="540" height="22" font="1">in reciprocal construction (18a), which makes people less certain about the</text>
+<text top="856" left="189" width="220" height="22" font="1">legitimateness of such a move.</text>
+<text top="896" left="188" width="541" height="22" font="1">This section can be concluded with another desirable consequence of the</text>
+<text top="917" left="189" width="543" height="22" font="1">proposal of semantic flexibility. Mainly, it can explain another fact con-</text>
+<text top="939" left="189" width="540" height="22" font="1">cerning atomic mass nouns that Bale &amp; Barner (2009) point out: atomic</text>
+<text top="961" left="189" width="540" height="22" font="1">mass nouns are most resistant to count features such as pluralization. For</text>
+<text top="982" left="189" width="66" height="22" font="1">example,</text>
+<text top="982" left="261" width="84" height="23" font="6">two waters</text>
+<text top="982" left="349" width="380" height="22" font="1">can be grammatical in particular contexts, but there</text>
+<text top="1038" left="451" width="16" height="20" font="8">32</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="45" left="288" width="10" height="18" font="4">C</text>
+<text top="48" left="299" width="13" height="14" font="7">AI</text>
+<text top="45" left="313" width="20" height="18" font="4">: U</text>
+<text top="48" left="334" width="31" height="14" font="7">NITY</text>
+<text top="45" left="363" width="17" height="18" font="4">, P</text>
+<text top="48" left="381" width="97" height="14" font="7">LURALITY AND</text>
+<text top="45" left="482" width="8" height="18" font="4">S</text>
+<text top="48" left="491" width="59" height="14" font="7">EMANTIC</text>
+<text top="45" left="554" width="8" height="18" font="4">F</text>
+<text top="48" left="563" width="73" height="14" font="7">LEXIBILITY</text>
+<text top="131" left="189" width="245" height="22" font="1">are no such contexts available for</text>
+<text top="130" left="439" width="70" height="23" font="6">furniture</text>
+<text top="131" left="513" width="15" height="22" font="1">or</text>
+<text top="130" left="533" width="82" height="23" font="6">equipment</text>
+<text top="131" left="615" width="114" height="22" font="1">. Given that the</text>
+<text top="152" left="189" width="540" height="22" font="1">semantic representation of atomic mass nouns is flexible between (20) and</text>
+<text top="174" left="188" width="372" height="22" font="1">(23), a hypothetical (singular) count interpretation of</text>
+<text top="173" left="565" width="11" height="23" font="6">P</text>
+<text top="180" left="576" width="64" height="17" font="17">atom, mass</text>
+<text top="174" left="641" width="88" height="22" font="1">, where each</text>
+<text top="196" left="189" width="251" height="22" font="1">element is a count atom of the form</text>
+<text top="198" left="444" width="7" height="21" font="9">h</text>
+<text top="196" left="451" width="9" height="21" font="3">d</text>
+<text top="199" left="461" width="5" height="18" font="16">,</text>
+<text top="196" left="468" width="8" height="21" font="3">c</text>
+<text top="198" left="476" width="7" height="21" font="9">i</text>
+<text top="196" left="487" width="242" height="22" font="1">and whose plural form will denote</text>
+<text top="217" left="189" width="540" height="22" font="1">pluralities of count atoms, is blocked by the plural interpretation (20). This</text>
+<text top="239" left="189" width="543" height="22" font="1">is because, it would be rather confusing to have two different plural inter-</text>
+<text top="261" left="189" width="540" height="22" font="1">pretations of the same noun, in both of which atomic objects are visible but</text>
+<text top="282" left="189" width="540" height="22" font="1">are formally represented as being of different types. Moreover, following</text>
+<text top="304" left="189" width="497" height="22" font="1">Rothstein (2010), only sets consisting of singular entities of the form</text>
+<text top="307" left="690" width="7" height="21" font="9">h</text>
+<text top="304" left="697" width="9" height="21" font="3">d</text>
+<text top="307" left="707" width="5" height="18" font="16">,</text>
+<text top="304" left="714" width="8" height="21" font="3">c</text>
+<text top="307" left="722" width="7" height="21" font="9">i</text>
+<text top="326" left="189" width="127" height="22" font="1">can be pluralized.</text>
+<text top="323" left="316" width="7" height="16" font="15">5</text>
+<text top="326" left="329" width="400" height="22" font="1">Thus, there is no way to grammatically pluralize atomic</text>
+<text top="347" left="189" width="540" height="22" font="1">mass nouns, even if the interpretation shifts to (20); instead, classifiers have</text>
+<text top="369" left="189" width="231" height="22" font="1">to be employed as a type shifter.</text>
+<text top="436" left="189" width="117" height="23" font="6">6. Conclusion</text>
+<text top="477" left="188" width="541" height="22" font="1">The duality of semantic and grammatical properties of atomic mass nouns</text>
+<text top="499" left="189" width="543" height="22" font="1">calls for a flexible semantics. The semantic flexibility is supported by prelim-</text>
+<text top="521" left="189" width="540" height="22" font="1">inary evidence such as the overall neutral evaluation and the cross-speaker</text>
+<text top="542" left="189" width="543" height="22" font="1">variation of the grammaticality of sentences containing atomic mass defi-</text>
+<text top="564" left="189" width="540" height="22" font="1">nites as the antecedents of reciprocals. The semantic shift is mostly driven</text>
+<text top="586" left="189" width="540" height="22" font="1">by the pressure of plausibility or grammaticality. That is, the shift occurs</text>
+<text top="607" left="188" width="541" height="22" font="1">when the default atomless interpretation leads to implausible interpretation</text>
+<text top="629" left="189" width="149" height="22" font="1">or ungrammaticality.</text>
+<text top="669" left="188" width="541" height="22" font="1">Also, it has been argued that an approach which treats atomic mass nouns in</text>
+<text top="690" left="189" width="540" height="22" font="1">the same way as group nouns or which appeals to mere type match/mismatch</text>
+<text top="712" left="189" width="540" height="22" font="1">can only explain a limited part of the data. As for a semantic definition of</text>
+<text top="734" left="189" width="330" height="22" font="1">group nouns, readers are referred to Cai 2015.</text>
+<text top="773" left="189" width="540" height="22" font="1">Still, it is not clear why certain nouns denoting entities with salient atomic</text>
+<text top="795" left="189" width="540" height="22" font="1">structures are mass nouns. The answer might be obtained via historical</text>
+<text top="817" left="189" width="96" height="22" font="1">investigation.</text>
+<text top="890" left="190" width="6" height="13" font="7">5</text>
+<text top="892" left="200" width="510" height="18" font="4">Similar constraints apply to other mass/count properties such as determiner selection.</text>
+<text top="1038" left="451" width="16" height="20" font="8">33</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="46" left="322" width="8" height="18" font="4">S</text>
+<text top="49" left="332" width="93" height="14" font="7">TUDIES IN THE</text>
+<text top="46" left="429" width="9" height="18" font="4">L</text>
+<text top="49" left="439" width="66" height="14" font="7">INGUISTIC</text>
+<text top="46" left="509" width="8" height="18" font="4">S</text>
+<text top="49" left="518" width="54" height="14" font="7">CIENCES</text>
+<text top="46" left="577" width="30" height="18" font="4">2016</text>
+<text top="130" left="189" width="12" height="22" font="1">R</text>
+<text top="134" left="202" width="88" height="17" font="4">EFERENCES</text>
+<text top="170" left="189" width="542" height="22" font="1">Bale, Alan C. &amp; David Barner. 2009. The interpretation of functional heads:</text>
+<text top="192" left="216" width="428" height="22" font="1">Using comparatives to explore the mass/count distinction.</text>
+<text top="192" left="653" width="76" height="21" font="3">Journal of</text>
+<text top="213" left="216" width="73" height="21" font="3">Semantics</text>
+<text top="213" left="293" width="115" height="22" font="1">26(3). 217–252.</text>
+<text top="235" left="189" width="543" height="22" font="1">Barner, David. &amp; Jesse Snedeker. 2005. Quantity judgments and individua-</text>
+<text top="257" left="216" width="273" height="22" font="1">tion: Evidence that mass nouns count.</text>
+<text top="257" left="495" width="72" height="21" font="3">Cognition</text>
+<text top="257" left="572" width="97" height="22" font="1">97(1). 41–66.</text>
+<text top="278" left="189" width="543" height="22" font="1">Cai, Haitao. 2015. A vagueness approach to the mass/count distinction.</text>
+<text top="300" left="215" width="413" height="21" font="3">University of Pennsylvania Working Papers in Linguistics</text>
+<text top="300" left="632" width="61" height="22" font="1">21(1). 6.</text>
+<text top="322" left="189" width="540" height="22" font="1">Champollion, Lucas. &amp; Manfred Krifka. 2014. Mereology. In Paul Dekker</text>
+<text top="343" left="215" width="161" height="22" font="1">&amp; Maria Aloni (eds.),</text>
+<text top="343" left="382" width="256" height="21" font="3">Cambridge handbook of semantics</text>
+<text top="343" left="638" width="91" height="22" font="1">. Cambridge</text>
+<text top="365" left="216" width="515" height="22" font="1">University Press. Http://ling.auf.net/lingbuzz/002099. (18 September,</text>
+<text top="387" left="216" width="46" height="22" font="1">2014.)</text>
+<text top="408" left="189" width="543" height="22" font="1">Chierchia, Gennaro. 1998. Plurality of mass nouns and the notion of “seman-</text>
+<text top="430" left="216" width="293" height="22" font="1">tic parameter”. In Susan Rothstein (ed.),</text>
+<text top="430" left="513" width="151" height="21" font="3">Events and grammar</text>
+<text top="430" left="664" width="68" height="22" font="1">, 53–103.</text>
+<text top="452" left="216" width="141" height="22" font="1">Dordrecht: Kluwer.</text>
+<text top="473" left="189" width="543" height="22" font="1">Chierchia, Gennaro. 2010. Mass nouns, vagueness and semantic variation.</text>
+<text top="495" left="216" width="63" height="21" font="3">Synthese</text>
+<text top="495" left="283" width="115" height="22" font="1">174(1). 99–149.</text>
+<text top="517" left="189" width="231" height="22" font="1">Landman, Fred. 1989. Groups, I.</text>
+<text top="517" left="425" width="191" height="21" font="3">Linguistics and Philosophy</text>
+<text top="517" left="620" width="112" height="22" font="1">12(5). 559–605.</text>
+<text top="538" left="189" width="542" height="22" font="1">Lasersohn, Peter. 2011. Mass nouns and plurals. In Claudia Maienborn,</text>
+<text top="560" left="216" width="308" height="22" font="1">Klaus von Heusinger &amp; Paul Portner (eds.),</text>
+<text top="560" left="529" width="200" height="21" font="3">Semantics: An International</text>
+<text top="582" left="215" width="297" height="21" font="3">Handbook of Natural Language Meaning</text>
+<text top="582" left="512" width="217" height="22" font="1">, vol. 2, 1131–1153. Walter de</text>
+<text top="603" left="216" width="59" height="22" font="1">Gruyter.</text>
+<text top="625" left="189" width="412" height="22" font="1">Lønning, Jan T. 1987. Mass terms and quantification.</text>
+<text top="625" left="615" width="114" height="21" font="3">Linguistics and</text>
+<text top="647" left="215" width="81" height="21" font="3">Philosophy</text>
+<text top="647" left="301" width="88" height="22" font="1">10(1). 1–52.</text>
+<text top="668" left="189" width="540" height="22" font="1">Moltmann, Friederike. 1998. Part structures, integrity, and the mass-count</text>
+<text top="690" left="216" width="80" height="22" font="1">distinction.</text>
+<text top="690" left="303" width="63" height="21" font="3">Synthese</text>
+<text top="690" left="370" width="115" height="22" font="1">116(1). 75–111.</text>
+<text top="712" left="189" width="364" height="22" font="1">Nicolas, David. 2008. Mass nouns and plural logic.</text>
+<text top="712" left="559" width="173" height="21" font="3">Linguistics and Philoso-</text>
+<text top="733" left="216" width="26" height="21" font="3">phy</text>
+<text top="733" left="246" width="115" height="22" font="1">31(2). 211–244.</text>
+<text top="755" left="189" width="543" height="22" font="1">Pelletier, Francis J. 1975. Non-singular reference: Some preliminaries.</text>
+<text top="777" left="215" width="87" height="21" font="3">Philosophia</text>
+<text top="777" left="307" width="106" height="22" font="1">5(4). 451–465.</text>
+<text top="798" left="189" width="461" height="22" font="1">Rothstein, Susan. 2010. Counting and the mass/count distinction.</text>
+<text top="798" left="657" width="72" height="21" font="3">Journal of</text>
+<text top="820" left="216" width="73" height="21" font="3">Semantics</text>
+<text top="820" left="293" width="115" height="22" font="1">27(3). 343–397.</text>
+<text top="1038" left="451" width="16" height="20" font="8">34</text>
+</page>
+</pdf2xml>

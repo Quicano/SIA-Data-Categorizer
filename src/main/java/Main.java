@@ -17,6 +17,5 @@ public class Main {
         }
         GUI gui = new GUI();
         run(gui);
-
     }
 }

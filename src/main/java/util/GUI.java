@@ -40,7 +40,7 @@ public class GUI extends Component {
         jFrame.setBounds(0,0,1000,1000);
         jFrame.add(new JScrollPane(list),BorderLayout.SOUTH);
         jFrame.add(textField, BorderLayout.NORTH);
-        jFrame.add(new JButton("Hinzufügen") {
+        jFrame.add(new JButton("Add") {
             {
                 addActionListener(new ActionListener() {
                     public void actionPerformed(ActionEvent e) {
@@ -50,7 +50,7 @@ public class GUI extends Component {
                 });
             }
         }, BorderLayout.WEST);
-        jFrame.add(new JButton("Sortieren") {
+        jFrame.add(new JButton("Sort") {
             {
                 addActionListener(new ActionListener() {
                     public void actionPerformed(ActionEvent e) {

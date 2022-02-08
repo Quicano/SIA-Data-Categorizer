@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="892" width="629">
+	<fontspec id="0" size="18" family="Times New Roman" color="#000000"/>
+	<fontspec id="1" size="9" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="2" size="23" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="3" size="12" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="4" size="16" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="5" size="5" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="6" size="13" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="7" size="13" family="ABCDEE+Verdana,Italic" color="#000000"/>
+	<fontspec id="8" size="20" family="ABCDEE+Verdana,Bold" color="#000000"/>
+	<fontspec id="9" size="18" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="10" size="14" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="11" size="18" family="ABCDEE+Verdana,Bold" color="#000000"/>
+<text top="64" left="436" width="5" height="16" font="0"> </text>
+<text top="76" left="94" width="3" height="11" font="1"> </text>
+<text top="88" left="180" width="325" height="29" font="2">Language Documentation  </text>
+<text top="117" left="240" width="197" height="29" font="2">and Description </text>
+<text top="146" left="94" width="4" height="15" font="3"> </text>
+<text top="160" left="264" width="145" height="20" font="4">ISSN 1740-6234 </text>
+<text top="180" left="94" width="457" height="20" font="4">___________________________________________ </text>
+<text top="200" left="94" width="2" height="7" font="5"> </text>
+<text top="208" left="94" width="156" height="16" font="6">This article appears in:</text>
+<text top="208" left="250" width="323" height="16" font="7"><i> Language Documentation and Description, vol </i></text>
+<text top="224" left="94" width="9" height="16" font="7"><i>1</i></text>
+<text top="224" left="102" width="167" height="16" font="6">. Editor: Peter K. Austin </text>
+<text top="258" left="94" width="383" height="25" font="8"><b>The opportunity and challenge of </b></text>
+<text top="283" left="94" width="385" height="25" font="8"><b>language documentation in India </b></text>
+<text top="317" left="94" width="18" height="22" font="9">E.</text>
+<text top="321" left="111" width="5" height="17" font="10"> </text>
+<text top="317" left="116" width="12" height="22" font="9">A</text>
+<text top="321" left="129" width="76" height="17" font="10">NNAMALAI</text>
+<text top="317" left="205" width="6" height="22" font="9"> </text>
+<text top="357" left="94" width="475" height="16" font="6">Cite this article: E. Annamalai (2003). The opportunity and challenge </text>
+<text top="373" left="94" width="415" height="16" font="6">of language documentation in India. In Peter K. Austin (ed.) </text>
+<text top="373" left="508" width="70" height="16" font="7"><i>Language </i></text>
+<text top="390" left="94" width="256" height="16" font="7"><i>Documentation and Description, vol 1</i></text>
+<text top="390" left="350" width="207" height="16" font="6">. London: SOAS. pp. 159-167 </text>
+<text top="415" left="94" width="392" height="16" font="6">Link to this article: http://www.elpublishing.org/PID/013 </text>
+<text top="440" left="94" width="334" height="16" font="6">This electronic version first published: July 2014 </text>
+<text top="457" left="94" width="434" height="16" font="6">__________________________________________________ </text>
+<text top="473" left="94" width="2" height="7" font="5"> </text>
+<text top="481" left="206" width="354" height="16" font="6">This article is published under a Creative Commons </text>
+<text top="497" left="206" width="364" height="16" font="6">License CC-BY-NC (Attribution-NonCommercial). The </text>
+<text top="513" left="206" width="363" height="16" font="6">licence permits users to use, reproduce, disseminate </text>
+<text top="530" left="94" width="449" height="16" font="6">or display the article provided that the author is attributed as the </text>
+<text top="546" left="94" width="456" height="16" font="6">original creator and that the reuse is restricted to non-commercial </text>
+<text top="563" left="94" width="320" height="16" font="6">purposes i.e. research or educational use. See </text>
+<text top="579" left="94" width="335" height="16" font="6">http://creativecommons.org/licenses/by-nc/4.0/ </text>
+<text top="596" left="94" width="468" height="16" font="6">______________________________________________________ </text>
+<text top="621" left="94" width="142" height="22" font="11"><b>EL Publishing </b></text>
+<text top="652" left="94" width="310" height="16" font="6">For more EL Publishing articles and services: </text>
+<text top="668" left="94" width="5" height="16" font="6"> </text>
+<text top="685" left="134" width="65" height="16" font="6">Website: </text>
+<text top="685" left="269" width="202" height="16" font="6">http://www.elpublishing.org  </text>
+<text top="701" left="134" width="99" height="16" font="6">Terms of use: </text>
+<text top="701" left="269" width="242" height="16" font="6">http://www.elpublishing.org/terms </text>
+<text top="717" left="134" width="96" height="16" font="6">Submissions: </text>
+<text top="717" left="269" width="285" height="16" font="6">http://www.elpublishing.org/submissions </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="892" width="630">
+	<fontspec id="12" size="14" family="BJMPJN+Arial" color="#231f20"/>
+	<fontspec id="13" size="12" family="BJMPLN+TimesNewRomanPSMT" color="#231f20"/>
+<text top="116" left="103" width="422" height="13" font="12"><b>The opportunity and challenge of language documentation in </b></text>
+<text top="141" left="103" width="38" height="13" font="12"><b>India </b></text>
+<text top="165" left="103" width="3" height="11" font="13"> </text>
+<text top="187" left="103" width="71" height="11" font="13">E. Annamalai </text>
+<text top="208" left="103" width="3" height="11" font="13"> </text>
+<text top="229" left="103" width="290" height="13" font="12"><b>1 New needs and forms of documentation </b></text>
+<text top="253" left="103" width="456" height="11" font="13">Documentation is creating a record of the past or the present for the future. The nature of </text>
+<text top="269" left="103" width="455" height="11" font="13">documentation as regards content and form depends on its purported use and its perceived </text>
+<text top="284" left="103" width="455" height="11" font="13">users. The documentation of language has received academic and public attention in recent </text>
+<text top="299" left="103" width="455" height="11" font="13">times as a response to the disappearance of languages accelerated by the modern economic </text>
+<text top="315" left="103" width="460" height="11" font="13">and political structures. Languages, however, have been recorded from the earliest </text>
+<text top="330" left="103" width="456" height="11" font="13">historical times on stones, barks, leaves, plates and cloth in the form of texts, and in some </text>
+<text top="346" left="103" width="457" height="11" font="13">cases, in the form of grammars and glossaries. In recent history, colonial administrators </text>
+<text top="361" left="103" width="458" height="11" font="13">and Christian missionaries documented languages for the purposes of governance and </text>
+<text top="377" left="103" width="459" height="11" font="13">preaching respectively. Their documents were used also for scientific exploration of </text>
+<text top="392" left="103" width="457" height="11" font="13">language by the linguists when their own recording of the language in the filed was not </text>
+<text top="407" left="103" width="184" height="11" font="13">there or needed to be supplemented.  </text>
+<text top="435" left="140" width="422" height="11" font="13">Documentation of languages in the context of language endangerment is new </text>
+<text top="451" left="103" width="455" height="11" font="13">historically in terms of its purpose and scope. The purpose is preservation of language and </text>
+<text top="466" left="103" width="455" height="11" font="13">it is two fold: to keep a record of a language that is to disappear and to aid to stop and, may </text>
+<text top="481" left="103" width="456" height="11" font="13">be, to reverse the disappearance of a language. For the second purpose, documentation of </text>
+<text top="497" left="103" width="457" height="11" font="13">language is a necessary, but not a sufficient, condition. This new documentation is also, </text>
+<text top="512" left="103" width="456" height="11" font="13">like the earlier recording of languages, usable for linguistic exploration either at present or </text>
+<text top="528" left="103" width="456" height="11" font="13">at a future date. But the scope of recording is vast, which is more than written texts. The </text>
+<text top="543" left="103" width="457" height="11" font="13">linguistic exploration is to help reverse language disappearance by using it in education, </text>
+<text top="559" left="103" width="456" height="11" font="13">for example, and to enhance knowledge about human beings through an understanding of </text>
+<text top="574" left="103" width="159" height="11" font="13">the diversity of their languages. </text>
+<text top="602" left="140" width="420" height="11" font="13">When a language is documented, something more is made available besides the </text>
+<text top="617" left="103" width="456" height="11" font="13">form of the language to the user of the document through the interpretation of it. It is the </text>
+<text top="633" left="103" width="456" height="11" font="13">knowledge of the social system mediated by the language, the cultural values signified in </text>
+<text top="648" left="103" width="460" height="11" font="13">the language and the cognitive pattern of interpretation of the social and natural </text>
+<text top="663" left="103" width="457" height="11" font="13">environment codified in the language. The nature of the language materials documented </text>
+<text top="679" left="103" width="456" height="11" font="13">will differ to become amenable for these different kinds of interpretation. The present day </text>
+<text top="694" left="103" width="413" height="11" font="13">documentation of language, thus, has a larger canvass and is for multiple purposes. </text>
+<text top="722" left="140" width="422" height="11" font="13">There is a new kind of language documentation at present using the digital </text>
+<text top="737" left="103" width="456" height="11" font="13">technology, which is called creation of language corpus. The corpus is being created for </text>
+<text top="753" left="103" width="457" height="11" font="13">the major languages of the world. It is huge running into millions of words. Mostly it </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="892" width="630">
+	<fontspec id="14" size="10" family="BJMPPN+ArialMT" color="#231f20"/>
+	<fontspec id="15" size="10" family="BJNABN+Arial" color="#231f20"/>
+<text top="76" left="74" width="20" height="13" font="14">160 </text>
+<text top="78" left="257" width="61" height="11" font="15"><i>E. Annamalai</i></text>
+<text top="76" left="318" width="3" height="13" font="14"> </text>
+<text top="805" left="74" width="3" height="11" font="13"> </text>
+<text top="117" left="74" width="455" height="11" font="13">consists of written texts and as such the texts are inherently edited or deliberated. A corpus </text>
+<text top="132" left="74" width="456" height="11" font="13">may document historically earlier texts of literary compositions that give the earlier form </text>
+<text top="148" left="74" width="455" height="11" font="13">of the language, or spoken materials, but they are not many. The goal of the large corpus is </text>
+<text top="163" left="74" width="456" height="11" font="13">to record the actual use or manifestation of the language. Since the language use has wide </text>
+<text top="179" left="74" width="455" height="11" font="13">variation and multiple contexts, the size of the corpus is naturally large to be representative </text>
+<text top="194" left="74" width="456" height="11" font="13">of the wide spread use of the language. The purpose of the corpus is to provide data for </text>
+<text top="209" left="74" width="460" height="11" font="13">analyzing naturally occurring language, making dictionaries of finer distinctions of </text>
+<text top="225" left="74" width="455" height="11" font="13">contexts of use and meaning, producing natural sounding pedagogical materials and aiding </text>
+<text top="240" left="74" width="458" height="11" font="13">development of tools for automated language processing for practical applications and </text>
+<text top="256" left="74" width="456" height="11" font="13">translation non-creative texts of languages. The corpus aims to push linguistic analysis to </text>
+<text top="271" left="74" width="460" height="11" font="13">go beyond the elicited and self-generated language data and to theorize language </text>
+<text top="287" left="74" width="459" height="11" font="13">competence from language performance. If there is any element of preservation in </text>
+<text top="302" left="74" width="456" height="11" font="13">language corpus, it is the recording of language change and language variation that could </text>
+<text top="317" left="74" width="135" height="11" font="13">be discerned in the future.  </text>
+<text top="345" left="111" width="421" height="11" font="13">Documentation of endangered languages differs from language corpus creation </text>
+<text top="361" left="74" width="455" height="11" font="13">with regard to the status of the language selected, to the purpose of the user and to the size </text>
+<text top="376" left="74" width="456" height="11" font="13">of the material. The grammar and the dictionary are not an integral part of the corpus, but </text>
+<text top="391" left="74" width="458" height="11" font="13">are potential products from it and are produced for their commercial value. Language </text>
+<text top="407" left="74" width="457" height="11" font="13">documentation, on the other hand, is for the sake of preserving the language through its </text>
+<text top="422" left="74" width="456" height="11" font="13">texts (overwhelmingly oral), grammar and dictionary and the diversity of human cultural </text>
+<text top="438" left="74" width="128" height="11" font="13">and intellectual heritage.  </text>
+<text top="466" left="111" width="419" height="11" font="13">Language documentation has the advantages of the new technology. It can be done </text>
+<text top="481" left="74" width="458" height="11" font="13">digitally in cyber space and is not constrained by considerations of storage space and </text>
+<text top="496" left="74" width="455" height="11" font="13">perishable material. The documents can be easily duplicated and transmitted globally. New </text>
+<text top="512" left="74" width="455" height="11" font="13">tools help quick and precise recording in the field (provided there is a source of power) and </text>
+<text top="527" left="74" width="459" height="11" font="13">help quick and efficient organization and analysis of data. The technology makes it </text>
+<text top="543" left="74" width="457" height="11" font="13">possible to have multimedia documentation with sound and image that give authenticity </text>
+<text top="558" left="74" width="456" height="11" font="13">and animation to the data. The texts in documentation may remain open for later additions </text>
+<text top="573" left="74" width="457" height="11" font="13">with ease, by the same or other linguists as well as by the native speakers themselves, </text>
+<text top="589" left="74" width="456" height="11" font="13">when they are acquainted with the new tools. The documentation at one site can provide </text>
+<text top="604" left="74" width="456" height="11" font="13">links to other sites of documentation of the same language. Thus the limits imposed by the </text>
+<text top="620" left="74" width="457" height="11" font="13">earlier medium and techniques of documentation are overcome. Nevertheless, since the </text>
+<text top="635" left="74" width="456" height="11" font="13">technology changes fast, the data recorded, for example, in a CD now may not be readable </text>
+<text top="651" left="74" width="455" height="11" font="13">after some years or decades, like the data in punch cards are unreadable now. It means that </text>
+<text top="666" left="74" width="456" height="11" font="13">language documentation must keep transferring the data to new medium as it is developed </text>
+<text top="681" left="74" width="127" height="11" font="13">by improved technology. </text>
+<text top="709" left="111" width="418" height="11" font="13">Documentation of endangered languages in different parts of the world, as different </text>
+<text top="725" left="74" width="455" height="11" font="13">from the field notes and publications of linguists, has been taking place since a decade. The </text>
+<text top="740" left="74" width="458" height="11" font="13">professional linguists are involved in this new enterprise, but, unlike in the past, the </text>
+<text top="755" left="74" width="456" height="11" font="13">language communities are taken to be their partners. The documentation work at different </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="892" width="630">
+	<fontspec id="16" size="12" family="BJMPJN+Arial" color="#231f20"/>
+	<fontspec id="17" size="8" family="BJMPLN+TimesNewRomanPSMT" color="#231f20"/>
+	<fontspec id="18" size="6" family="BJMPLN+TimesNewRomanPSMT" color="#231f20"/>
+	<fontspec id="19" size="10" family="BJMPLN+TimesNewRomanPSMT" color="#231f20"/>
+<text top="77" left="103" width="3" height="11" font="13"> </text>
+<text top="78" left="325" width="22" height="11" font="15"><i>India</i></text>
+<text top="76" left="348" width="398" height="13" font="14"> 161 </text>
+<text top="805" left="103" width="3" height="11" font="13"> </text>
+<text top="117" left="103" width="457" height="11" font="13">places and by different people differs in the extent of the use of technology and in the </text>
+<text top="132" left="103" width="461" height="11" font="13">professional orientation of those who do the documentation. I shall describe the </text>
+<text top="148" left="103" width="455" height="11" font="13">opportunities and challenges for the documentation of languages in India, which has a long </text>
+<text top="163" left="103" width="277" height="11" font="13">history of inscriptions in languages used by the royalty. </text>
+<text top="184" left="103" width="3" height="11" font="13"> </text>
+<text top="205" left="103" width="119" height="11" font="16"><b>2 Response in India </b></text>
+<text top="234" left="103" width="457" height="11" font="13">If one goes by the names people give to indicate their mother tongue, there are 10,400 </text>
+<text top="249" left="103" width="455" height="11" font="13">mother tongue names returned in the 1991 census of India. This number is systematized to </text>
+<text top="264" left="103" width="455" height="11" font="13">be 3,372 in the census by eliminating the spurious names. Of these, 1,576 are linguistically </text>
+<text top="280" left="103" width="460" height="11" font="13">identifiable names, but are not necessarily distinct from others linguistically. The </text>
+<text top="295" left="103" width="458" height="11" font="13">remaining 1,796 have not been identified with any language variety and they become </text>
+<text top="311" left="103" width="456" height="11" font="13">listless in the census being brushed aside as other names (Bhattacharya 2002). The mother </text>
+<text top="326" left="103" width="456" height="11" font="13">tongues with identifiable names that have more than 10,000 speakers are grouped under a </text>
+<text top="342" left="103" width="458" height="11" font="13">language (as viewed by linguists, not necessarily as perceived by their speakers). In </text>
+<text top="357" left="103" width="457" height="11" font="13">essence, they are not given language status. The mother tongues with less than 10,000 </text>
+<text top="372" left="103" width="457" height="11" font="13">speakers are also grouped under a language, not individually but under the amorphous </text>
+<text top="388" left="103" width="456" height="11" font="13">category ‘other mother tongues’. They do not count for anything other than adding to the </text>
+<text top="403" left="103" width="456" height="11" font="13">number of speakers of the language under which they are grouped, or becoming invisible </text>
+<text top="419" left="103" width="199" height="11" font="13">being not grouped under any language.  </text>
+<text top="446" left="140" width="421" height="11" font="13">The 1,576 mother tongues, which are expressions of social identity rather than </text>
+<text top="462" left="103" width="457" height="11" font="13">grammatical codes, are classified into 114 languages (Indo-European 20, Dravidian 17, </text>
+<text top="477" left="103" width="461" height="11" font="13">Austro-Asiatic 14, Sino-Tibetan 62, Other 1). The question raised for language </text>
+<text top="493" left="103" width="456" height="11" font="13">documentation by the census report on languages is whether documentation is concerned </text>
+<text top="508" left="103" width="456" height="11" font="13">with endangerment among the abstracted 114 languages alone. The answer is obvious. By </text>
+<text top="524" left="103" width="456" height="11" font="13">the size of the speaker population, which is one of the factors that indicate endangerment, </text>
+<text top="539" left="103" width="457" height="11" font="13">the mother tongues not grouped under any language are the ones endangered. In other </text>
+<text top="554" left="103" width="455" height="11" font="13">words, the languages not in the census list are endangered. These are almost as many as the </text>
+<text top="570" left="103" width="83" height="11" font="13">listed languages</text>
+<text top="567" left="187" width="4" height="7" font="17">1</text>
+<text top="570" left="191" width="372" height="11" font="13">. One, therefore, does not go to the current census report to find </text>
+<text top="585" left="103" width="457" height="11" font="13">endangered languages, but goes to the field. The filed linguists, for example, claim that </text>
+<text top="601" left="103" width="457" height="11" font="13">there are 26 Dravidian languages (Krishnamurti 2003). When compared with the census </text>
+<text top="616" left="103" width="322" height="11" font="13">figures, nine of them are endangered by the population criterion. </text>
+<text top="644" left="140" width="419" height="11" font="13">With regard to mother tongues grouped under one or the other language, they do </text>
+<text top="659" left="103" width="459" height="11" font="13">not count for documentation, if the purpose of documentation is to record variant </text>
+<text top="675" left="103" width="457" height="11" font="13">representations of human cognition as coded in the languages of the world. The mother </text>
+<text top="690" left="103" width="459" height="11" font="13">tongues (they are not dialects, which are constructs of linguists) of a language are </text>
+<text top="706" left="103" width="457" height="11" font="13">superficially different in their grammar. There are, however, mother tongues that differ </text>
+<text top="721" left="103" width="151" height="11" font="13">                                                 </text>
+<text top="737" left="103" width="3" height="6" font="18">1</text>
+<text top="739" left="107" width="452" height="9" font="19"> The 1961 Census that abstracts languages from mother tongue returns without reference to the number of </text>
+<text top="754" left="103" width="455" height="9" font="19">their speakers lists 200 languages. In the absence of information on languages with less than 10,000 speakers </text>
+<text top="770" left="103" width="405" height="9" font="19">in the later Censuses, one will have to rely on the 1961 Census to identify endangered languages.  </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="892" width="630">
+<text top="76" left="74" width="20" height="13" font="14">162 </text>
+<text top="78" left="257" width="61" height="11" font="15"><i>E. Annamalai</i></text>
+<text top="76" left="318" width="3" height="13" font="14"> </text>
+<text top="805" left="74" width="3" height="11" font="13"> </text>
+<text top="117" left="74" width="458" height="11" font="13">substantially in their grammar, but are grouped under a language, or there are mother </text>
+<text top="132" left="74" width="458" height="11" font="13">tongues that have same grammar but are listed as separate languages, for religious or </text>
+<text top="148" left="74" width="458" height="11" font="13">political reasons (Brass 1974). If the purpose of documentation is to record language </text>
+<text top="163" left="74" width="459" height="11" font="13">diversity based on the community construct of language difference, they count for </text>
+<text top="179" left="74" width="83" height="11" font="13">documentation.  </text>
+<text top="206" left="111" width="420" height="11" font="13">The job of identifying endangered languages falls on individual linguists when a </text>
+<text top="222" left="74" width="456" height="11" font="13">survey like the census is not helpful. The linguists in India are concerned about the loss of </text>
+<text top="237" left="74" width="456" height="11" font="13">languages. They select for description languages that have not been described so far; but </text>
+<text top="253" left="74" width="458" height="11" font="13">the fact that some of them are endangered is an incidental one; it is not the primary </text>
+<text top="268" left="74" width="456" height="11" font="13">criterion for selection by linguists. Language documentation is a facet in field linguistics </text>
+<text top="284" left="74" width="456" height="11" font="13">and not a distinct field of professional work. As such, there is no specialized training in </text>
+<text top="299" left="74" width="455" height="11" font="13">language documentation in linguistics departments other than training in field work, which </text>
+<text top="314" left="74" width="456" height="11" font="13">is also provided in many departments in the class room by bringing speakers to them. Any </text>
+<text top="330" left="74" width="456" height="11" font="13">work in actual field is done as part of doctoral work by students. Such work has become </text>
+<text top="345" left="74" width="458" height="11" font="13">less attractive to students after the emergence of Chomskyan linguistics, which makes </text>
+<text top="361" left="74" width="459" height="11" font="13">possible the merger of the analyst and the speaker of a language into one and the </text>
+<text top="376" left="74" width="459" height="11" font="13">emergence of sociolinguistics, which makes the study of dialects -variation within a </text>
+<text top="391" left="74" width="455" height="11" font="13">language- the focus of field work. To top it all, linguistics lately does not attract motivated </text>
+<text top="407" left="74" width="456" height="11" font="13">students in India. All these result in documentation of endangered languages not being a </text>
+<text top="422" left="74" width="144" height="11" font="13">top priority in the discipline. </text>
+<text top="450" left="111" width="420" height="11" font="13">The institutional arrangement for describing un- and under-described languages, </text>
+<text top="466" left="74" width="452" height="11" font="13">that includes endangered languages, rests with the government. There is no major infra-</text>
+<text top="481" left="74" width="460" height="11" font="13">structure and support building efforts for documentation by academic bodies like </text>
+<text top="496" left="74" width="458" height="11" font="13">University Grants Commission and Indian Council of Social Science Research or by </text>
+<text top="512" left="74" width="456" height="11" font="13">private foundations. The Tribal Welfare departments in State governments have a wing for </text>
+<text top="527" left="74" width="455" height="11" font="13">work on tribal languages, but the work is on teaching them to tribal students in schools and </text>
+<text top="543" left="74" width="458" height="11" font="13">government officials posted to work in tribal areas. Any documentation work such as </text>
+<text top="558" left="74" width="331" height="11" font="13">elementary grammar and word list is not of professional standard.  </text>
+<text top="586" left="111" width="419" height="11" font="13">There are three institutions with the Central government, Language Division of the </text>
+<text top="601" left="74" width="455" height="11" font="13">Census, Calcutta, Anthropological Survey of India, Calcutta and Central Institute of Indian </text>
+<text top="617" left="74" width="456" height="11" font="13">languages (CIIL), Mysore, which do linguistic work of different kinds that have a bearing </text>
+<text top="632" left="74" width="455" height="11" font="13">on language documentation and preservation. The Language Division is responsible for the </text>
+<text top="648" left="74" width="455" height="11" font="13">analysis and classification of language data of the Census and it is bound by administrative </text>
+<text top="663" left="74" width="458" height="11" font="13">and political decisions of the government about the nature of the data reported to the </text>
+<text top="678" left="74" width="456" height="11" font="13">public. One descriptive work it does is establishing a mother tongue as a language by its </text>
+<text top="694" left="74" width="461" height="11" font="13">grammatical distinctiveness, which process is called language identification. This </text>
+<text top="709" left="74" width="456" height="11" font="13">identification work enables any mother tongue with less than 10,000 speakers to be called </text>
+<text top="725" left="74" width="455" height="11" font="13">an endangered language instead of being subsumed under another language and ignored for </text>
+<text top="740" left="74" width="456" height="11" font="13">official purposes. The Anthropological Survey, as part of its recording and study of tribal </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="892" width="630">
+<text top="77" left="103" width="3" height="11" font="13"> </text>
+<text top="78" left="325" width="22" height="11" font="15"><i>India</i></text>
+<text top="76" left="348" width="398" height="13" font="14"> 163 </text>
+<text top="805" left="103" width="3" height="11" font="13"> </text>
+<text top="117" left="103" width="457" height="11" font="13">cultures, documents tribal languages. The linguistic work is secondary in importance in </text>
+<text top="132" left="103" width="276" height="11" font="13">terms of human and budgetary resources of the Survey. </text>
+<text top="160" left="140" width="419" height="11" font="13">CIIL’s work on tribal and other minor languages has pedagogical orientation. The </text>
+<text top="176" left="103" width="458" height="11" font="13">grammars, bi- or trilingual dictionaries produced by the institute are primarily to aid </text>
+<text top="191" left="103" width="456" height="11" font="13">production of school primers, training of teachers and language learning by workers from </text>
+<text top="206" left="103" width="456" height="11" font="13">outside in tribal communities; the texts of folk tales recorded are primarily for providing </text>
+<text top="222" left="103" width="455" height="11" font="13">cultural content to the pedagogical materials. Nevertheless, the largest number of tribal and </text>
+<text top="237" left="103" width="457" height="11" font="13">other minor languages described at one place in a comparable format is at the institute. </text>
+<text top="253" left="103" width="455" height="11" font="13">These descriptions have been archived there and are expected to be available digitally. The </text>
+<text top="268" left="103" width="457" height="11" font="13">institute initiated a project specifically for recording endangered languages in a common </text>
+<text top="284" left="103" width="456" height="11" font="13">format in collaboration with linguistics departments in universities, but the project did not </text>
+<text top="299" left="103" width="456" height="11" font="13">go very far due to poor response from the linguistics departments and poor phonetic and </text>
+<text top="314" left="103" width="459" height="11" font="13">grammatical training of their students. The institute has a programme of providing </text>
+<text top="330" left="103" width="457" height="11" font="13">fellowship to students from tribal communities to pursue linguistic study in universities </text>
+<text top="345" left="103" width="456" height="11" font="13">with the purpose of creating a pool of native linguists who will work on their languages. </text>
+<text top="361" left="103" width="442" height="11" font="13">After graduation, however, many of them get into administrative jobs in the government. </text>
+<text top="388" left="140" width="418" height="11" font="13">The training for language documentation must be multifaceted, as there is no single </text>
+<text top="404" left="103" width="456" height="11" font="13">documentation of a language. The kind of documentation varies depending on its use. It </text>
+<text top="419" left="103" width="455" height="11" font="13">will differ from the choice of language to aspects of the chosen language with regard to the </text>
+<text top="435" left="103" width="457" height="11" font="13">products aimed from it. If the aim is understanding of human history and the course of </text>
+<text top="450" left="103" width="457" height="11" font="13">migration, language isolates will get preference for documentation. If the purpose is to </text>
+<text top="466" left="103" width="458" height="11" font="13">know the language genealogy, the documentation will go for lexical data sanitized of </text>
+<text top="481" left="103" width="456" height="11" font="13">words absorbed from contact with other languages. To know, on the other hand, about the </text>
+<text top="496" left="103" width="456" height="11" font="13">past or contemporary interaction between communities, the documentation will value the </text>
+<text top="512" left="103" width="457" height="11" font="13">mixed lexical and grammatical data. Documentation of a language of attrition will not </text>
+<text top="527" left="103" width="456" height="11" font="13">yield a functioning language when its data are sanitized. The notion of purity of language </text>
+<text top="543" left="103" width="456" height="11" font="13">for documentation does not serve the pedagogical purpose, which is important in language </text>
+<text top="558" left="103" width="458" height="11" font="13">transmission between generations. If the language actually used in life should be the </text>
+<text top="573" left="103" width="457" height="11" font="13">language of pedagogical materials, particularly for a bilingual education programme, it </text>
+<text top="589" left="103" width="458" height="11" font="13">cannot be a purified variety. This is true also of efforts to revitalize an endangered </text>
+<text top="604" left="103" width="456" height="11" font="13">language and make it function effectively in the modern times, since it will require words </text>
+<text top="620" left="103" width="456" height="11" font="13">for new concepts, institutions and objects, which may come from other languages. When </text>
+<text top="635" left="103" width="458" height="11" font="13">the linguist’s ideal of a pure language for grammatical study does not match with the </text>
+<text top="651" left="103" width="438" height="11" font="13">community’s goal of functional use, the documentation must find a way to satisfy both.  </text>
+<text top="678" left="140" width="419" height="11" font="13">The purpose of constructing the grammar of a language for a linguist may not be </text>
+<text top="694" left="103" width="457" height="11" font="13">just discovering it for its own sake. Such a construction of grammar may not even stop </text>
+<text top="709" left="103" width="457" height="11" font="13">with building the knowledge base of the professional linguists and their discipline. The </text>
+<text top="725" left="103" width="456" height="11" font="13">grammar could be the means to understand the human mind, which manifests through the </text>
+<text top="740" left="103" width="459" height="11" font="13">formal structuring of human languages, which differ from one another in many, but </text>
+<text top="755" left="103" width="458" height="11" font="13">predictable, ways. The grammatical parameters of languages are as important as their </text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="892" width="630">
+<text top="76" left="74" width="20" height="13" font="14">164 </text>
+<text top="78" left="257" width="61" height="11" font="15"><i>E. Annamalai</i></text>
+<text top="76" left="318" width="3" height="13" font="14"> </text>
+<text top="805" left="74" width="3" height="11" font="13"> </text>
+<text top="117" left="74" width="459" height="11" font="13">universal properties to understand the human mind. For this endeavour, theoretically </text>
+<text top="132" left="74" width="460" height="11" font="13">informed in-depth grammars are necessary in as many languages as possible. The </text>
+<text top="148" left="74" width="456" height="11" font="13">endangered languages that have grammatical structures that are unusual and different from </text>
+<text top="163" left="74" width="455" height="11" font="13">the known languages get priority for documentation to be used for this purpose. It will be a </text>
+<text top="179" left="74" width="456" height="11" font="13">loss to human knowledge if such endangered languages are lost without the study of mind </text>
+<text top="194" left="74" width="452" height="11" font="13">being informed by them. The contribution of Warlpiri to linguistic theory regarding non-</text>
+<text top="209" left="74" width="457" height="11" font="13">configurational nature of grammatical structure is a reminder to such a possibility (Hale </text>
+<text top="225" left="74" width="458" height="11" font="13">1998). This incidentally makes the point that there is no disjunction with theoretical </text>
+<text top="240" left="74" width="455" height="11" font="13">linguistics when one of the purposes of documenting endangered languages is to have their </text>
+<text top="256" left="74" width="457" height="11" font="13">contribution for the study of human cognition. The phonology of endangered languages </text>
+<text top="271" left="74" width="455" height="11" font="13">may help to define the extent of the subset of meaning differentiating linguistic sounds out </text>
+<text top="287" left="74" width="458" height="11" font="13">of the large number of sounds that humans are physiologically capable of producing. </text>
+<text top="302" left="74" width="456" height="11" font="13">Without the knowledge of the endangered (Khoisan) languages with clicks in Africa, for </text>
+<text top="317" left="74" width="238" height="11" font="13">example, the subset will have remained unreal.  </text>
+<text top="345" left="111" width="422" height="11" font="13">Similarly, for appreciating human linguistic legacy, the documentation should </text>
+<text top="361" left="74" width="456" height="11" font="13">incorporate typological orientation in the collection and organization of data to tell us how </text>
+<text top="376" left="74" width="460" height="11" font="13">the grammatical diversity is not random, but is structured. This purpose suggests </text>
+<text top="391" left="74" width="457" height="11" font="13">preference in selection for documentation for languages which have diverse grammatical </text>
+<text top="407" left="74" width="457" height="11" font="13">structures. They will show how rich and plural the human linguistic legacy is, as is the </text>
+<text top="422" left="74" width="78" height="11" font="13">artistic legacy.  </text>
+<text top="450" left="111" width="418" height="11" font="13">One important value claimed for language diversity is that it allows for the diversity </text>
+<text top="466" left="74" width="456" height="11" font="13">of experiencing the world and interpreting it through the medium of many languages and </text>
+<text top="481" left="74" width="460" height="11" font="13">for helping to live a life in harmony with self and others by learning from the </text>
+<text top="496" left="74" width="456" height="11" font="13">understanding of life by the users of other languages and cultures. To have this gain, the </text>
+<text top="512" left="74" width="458" height="11" font="13">lexical documentation must be semantically detailed with information on the semantic </text>
+<text top="527" left="74" width="459" height="11" font="13">range of words, their semantic classification and their metaphorical use in ordinary </text>
+<text top="543" left="74" width="53" height="11" font="13">discourse. </text>
+<text top="570" left="111" width="419" height="11" font="13">The dictionaries that form part of documentation are commonly bilingual with the </text>
+<text top="586" left="74" width="456" height="11" font="13">target language being an international language like English, which helps the linguists in </text>
+<text top="601" left="74" width="457" height="11" font="13">their research. They, however, must be tri- and quadri-lingual with gloss in the regional </text>
+<text top="617" left="74" width="459" height="11" font="13">(provincial) and national languages, if they are to help the speakers of endangered </text>
+<text top="632" left="74" width="459" height="11" font="13">languages to improve themselves materially and to empower themselves politically. </text>
+<text top="648" left="74" width="459" height="11" font="13">Addition of these languages in the dictionary makes them tools for learning these </text>
+<text top="663" left="74" width="457" height="11" font="13">languages of power. This purpose of the dictionary for the community necessitates the </text>
+<text top="678" left="74" width="456" height="11" font="13">entry of the endangered language in the dictionary using the alphabet developed for it. The </text>
+<text top="694" left="74" width="456" height="11" font="13">writing system, grammar and dictionary will deny the common assertion of the dominant </text>
+<text top="709" left="74" width="456" height="11" font="13">community that the speech of small communities without these is not a language and so is </text>
+<text top="725" left="74" width="457" height="11" font="13">not fit to be used in public domains like schools. The denial of this assertion with such </text>
+<text top="740" left="74" width="458" height="11" font="13">materials gives the community a sense of pride and self-worth, which is the first step </text>
+<text top="755" left="74" width="458" height="11" font="13">towards empowerment. Dealing with the low socio-economic status of the endangered </text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="892" width="630">
+<text top="77" left="103" width="3" height="11" font="13"> </text>
+<text top="78" left="325" width="22" height="11" font="15"><i>India</i></text>
+<text top="76" left="348" width="398" height="13" font="14"> 165 </text>
+<text top="805" left="103" width="3" height="11" font="13"> </text>
+<text top="117" left="103" width="459" height="11" font="13">language is a subsequent step to giving it the language status. To get the semantic </text>
+<text top="132" left="103" width="456" height="11" font="13">information mentioned earlier, the dictionary must give gloss in the endangered language </text>
+<text top="148" left="103" width="455" height="11" font="13">itself, as the dictionaries of major languages do, with detailed description of polysemy and </text>
+<text top="163" left="103" width="456" height="11" font="13">contexts of use illustrated with citations. The bilingual dictionaries tend to give translation </text>
+<text top="179" left="103" width="457" height="11" font="13">equivalents in the dominant target language for the words of the endangered language </text>
+<text top="194" left="103" width="459" height="11" font="13">rather than giving a semantic description of the words within the framework of the </text>
+<text top="209" left="103" width="274" height="11" font="13">semantic structure of the endangered source language.  </text>
+<text top="237" left="140" width="420" height="11" font="13">A language constitutes the social system in which it operates. The knowledge of </text>
+<text top="253" left="103" width="455" height="11" font="13">how the language is controlled and used gives the knowledge about the social system. This </text>
+<text top="268" left="103" width="457" height="11" font="13">knowledge could be obtained from information about language use and denial of use in </text>
+<text top="284" left="103" width="456" height="11" font="13">actual situations. Natural conversations in different settings with different actors will give </text>
+<text top="299" left="103" width="458" height="11" font="13">an idea of who speaks what to whom when and how from the cues like turn taking, </text>
+<text top="314" left="103" width="457" height="11" font="13">hesitations, hedges, jokes, politeness expressions etc. To get these and other cues from </text>
+<text top="330" left="103" width="456" height="11" font="13">language use to get an idea of differences in the social systems of communities speaking </text>
+<text top="345" left="103" width="456" height="11" font="13">endangered languages, there must be documentation of ethnographically rich speech with </text>
+<text top="361" left="103" width="456" height="11" font="13">detailed annotation of the contexts of use including the backgrounds of the participants in </text>
+<text top="376" left="103" width="272" height="11" font="13">the speech event. This goes beyond elicited narratives. </text>
+<text top="404" left="140" width="418" height="11" font="13">All the above show that it is an extremely challenging task to arrive at the materials </text>
+<text top="419" left="103" width="456" height="11" font="13">to be documented that are maximally usable for multiple purposes. Documentation for the </text>
+<text top="435" left="103" width="455" height="11" font="13">use of both the linguists and the community is itself difficult. The problem of dialect versus </text>
+<text top="450" left="103" width="459" height="11" font="13">language is a basic problem about selection for documentation. This distinction is a </text>
+<text top="466" left="103" width="458" height="11" font="13">linguistic construct, which may conflict with the community’s perception about their </text>
+<text top="481" left="103" width="457" height="11" font="13">speech, as mentioned earlier. For them, others speak differently and they have no use in </text>
+<text top="496" left="103" width="452" height="11" font="13">categorizing and labeling that difference. Another problem lies in the choice of the meta-</text>
+<text top="512" left="103" width="457" height="11" font="13">language for annotation and description. The community has no meta-language different </text>
+<text top="527" left="103" width="456" height="11" font="13">from their own language and the linguist is incapable of using the target language as the </text>
+<text top="543" left="103" width="459" height="11" font="13">meta-language. Moreover, collection of different kinds of materials requires different </text>
+<text top="558" left="103" width="457" height="11" font="13">techniques and expertise. The linguistics departments in India are not geared to provide </text>
+<text top="573" left="103" width="455" height="11" font="13">training of such magnitude and complexity to take on language documentation in a serious </text>
+<text top="589" left="103" width="30" height="11" font="13">way.  </text>
+<text top="617" left="140" width="420" height="11" font="13">It is unlikely that funding and other support will be provided by the government </text>
+<text top="632" left="103" width="457" height="11" font="13">and other bodies to linguistics departments in the country to train students in language </text>
+<text top="648" left="103" width="456" height="11" font="13">documentation and take up that work on priority because there is no public awareness or </text>
+<text top="663" left="103" width="458" height="11" font="13">demand for language preservation even to the little extent it is found with regard to </text>
+<text top="678" left="103" width="456" height="11" font="13">preservation of endangered animals and plants. This is particularly true of people speaking </text>
+<text top="694" left="103" width="456" height="11" font="13">major languages in India. The reasons for the apathy are many. First, there is a view that </text>
+<text top="709" left="103" width="456" height="11" font="13">the loss of native language is the price inevitably to be paid for material progress. Second, </text>
+<text top="725" left="103" width="457" height="11" font="13">there is a belief that the native culture could be practised and preserved even when the </text>
+<text top="740" left="103" width="457" height="11" font="13">native language is replaced. Third, there is a hope that giving up small languages will </text>
+<text top="755" left="103" width="457" height="11" font="13">enhance wider communication between social groups. There is a need to change these </text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="892" width="630">
+	<fontspec id="20" size="12" family="BJNEDF+TimesNewRomanPS" color="#231f20"/>
+<text top="76" left="74" width="20" height="13" font="14">166 </text>
+<text top="78" left="257" width="61" height="11" font="15"><i>E. Annamalai</i></text>
+<text top="76" left="318" width="3" height="13" font="14"> </text>
+<text top="805" left="74" width="3" height="11" font="13"> </text>
+<text top="117" left="74" width="459" height="11" font="13">erroneous public perceptions to gain popular endorsement and support to preserving </text>
+<text top="132" left="74" width="115" height="11" font="13">endangered languages. </text>
+<text top="160" left="111" width="419" height="11" font="13">Linguists (such as Pandit 1979) have observed that societal bilingualism in India is </text>
+<text top="176" left="74" width="456" height="11" font="13">stable and people build a repertoire of languages for themselves, rather than replacing one </text>
+<text top="191" left="74" width="456" height="11" font="13">language by another. This historical fact makes people be complacent about language loss, </text>
+<text top="206" left="74" width="455" height="11" font="13">particularly in tribal communities, whose mother tongue retention rate has fallen from 49% </text>
+<text top="222" left="74" width="459" height="11" font="13">in 1971 to 42% in 1981 (Khubchandani 2002). Besides such shifts to the dominant </text>
+<text top="237" left="74" width="458" height="11" font="13">languages of the region, there is also biological extinction of tribal communities like </text>
+<text top="253" left="74" width="459" height="11" font="13">Andamanese (Annamalai and Gnanasundaram 2001). The question why the migrant </text>
+<text top="268" left="74" width="456" height="11" font="13">communities in India maintain their language over generations, which Pandit posed, must </text>
+<text top="284" left="74" width="458" height="11" font="13">be coupled with the other question why stable communities lose their language when </text>
+<text top="299" left="74" width="456" height="11" font="13">participating in an industrial economy and centripetal politics of linguistic states in India. </text>
+<text top="314" left="74" width="457" height="11" font="13">Raising the second question loudly will help create awareness about the developmental </text>
+<text top="330" left="74" width="438" height="11" font="13">perils to multiplicity of languages and gain support to the traditional multilingual ethos.  </text>
+<text top="358" left="111" width="419" height="11" font="13">Whether the society succeeds in arresting language loss or not, documentation of </text>
+<text top="373" left="74" width="456" height="11" font="13">languages likely to be lost in India will contribute to knowledge about human capability </text>
+<text top="388" left="74" width="455" height="11" font="13">and history, like the languages to be lost in any other country. The endangered languages in </text>
+<text top="404" left="74" width="457" height="11" font="13">India may have unique grammatical and semantic features; the isolates among them, as </text>
+<text top="419" left="74" width="458" height="11" font="13">found in Andaman islands and unitary members of language families, as found in the </text>
+<text top="435" left="74" width="458" height="11" font="13">north-eastern hills, may have unique stories to tell about human migration. Given the </text>
+<text top="450" left="74" width="456" height="11" font="13">transference of grammatical features between languages of different genetic families due to </text>
+<text top="466" left="74" width="455" height="11" font="13">stable bilingualism as well as language shift that makes the grammar an areal phenomenon, </text>
+<text top="481" left="74" width="455" height="11" font="13">the grammatical data of endangered languages, along with the data of other languages, will </text>
+<text top="496" left="74" width="458" height="11" font="13">give knowledge to linguists about the process of grammatical convergence. This may </text>
+<text top="512" left="74" width="402" height="11" font="13">perhaps be a special benefit of documentation of endangered languages in India.  </text>
+<text top="532" left="74" width="3" height="11" font="13"> </text>
+<text top="554" left="74" width="82" height="13" font="12"><b>References </b></text>
+<text top="574" left="74" width="459" height="11" font="13">Annamalai, E. and Gnanasundaram, V. 2001. Andamanese: Biological challenge for </text>
+<text top="590" left="96" width="242" height="11" font="13">language reversal. In Fishman, Joshua A. (ed.) </text>
+<text top="590" left="338" width="188" height="11" font="20"><i>Can threatened languages be saved?</i></text>
+<text top="590" left="526" width="3" height="11" font="13"> </text>
+<text top="605" left="96" width="165" height="11" font="13">Clevedon. Multilingual Matters.  </text>
+<text top="627" left="74" width="456" height="11" font="13">Bhattacharya, S.S. 2002. Languages in India: Their status and function. In Itagi, N.H. and </text>
+<text top="642" left="96" width="178" height="11" font="13">Singh, Shailendra Kumar (eds.). </text>
+<text top="642" left="274" width="259" height="11" font="20"><i>Linguistic landscaping in India with particular </i></text>
+<text top="658" left="96" width="59" height="11" font="20"><i>reference to</i></text>
+<text top="658" left="155" width="3" height="11" font="13"> </text>
+<text top="658" left="158" width="69" height="11" font="20"><i>the new states</i></text>
+<text top="658" left="228" width="238" height="11" font="13">. Mysore: Central Institute of Indian Languages </text>
+<text top="679" left="74" width="95" height="11" font="13">Brass, Paul. 1974. </text>
+<text top="679" left="169" width="236" height="11" font="20"><i>Language, religion and politics in north India.</i></text>
+<text top="679" left="405" width="125" height="11" font="13"> Cambridge: Cambridge </text>
+<text top="695" left="96" width="84" height="11" font="13">University Press </text>
+<text top="716" left="74" width="456" height="11" font="13">Hale, Kenneth. 1998. On endangered languages and the importance of linguistic diversity. </text>
+<text top="732" left="96" width="308" height="11" font="13">In Grenoble, Lenore, A. and Whaley, Lindsay J. (eds.). </text>
+<text top="732" left="404" width="129" height="11" font="20"><i>Endangered languages: </i></text>
+<text top="747" left="96" width="72" height="11" font="20"><i>Language loss</i></text>
+<text top="747" left="168" width="3" height="11" font="13"> </text>
+<text top="747" left="171" width="123" height="11" font="20"><i>and community response</i></text>
+<text top="747" left="293" width="210" height="11" font="13">. Cambridge: Cambridge University Press </text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="892" width="630">
+<text top="77" left="103" width="3" height="11" font="13"> </text>
+<text top="78" left="325" width="22" height="11" font="15"><i>India</i></text>
+<text top="76" left="348" width="398" height="13" font="14"> 167 </text>
+<text top="805" left="103" width="3" height="11" font="13"> </text>
+<text top="117" left="103" width="123" height="11" font="13">Krishnamurti, Bh. 2003. </text>
+<text top="117" left="227" width="105" height="11" font="20"><i>Dravidian languages</i></text>
+<text top="117" left="331" width="210" height="11" font="13">. Cambridge: Cambridge University Press </text>
+<text top="139" left="103" width="459" height="11" font="13">Khubchandani, Lachman, M. 2002. Language profiles of Jharkhand, Chattisgarh and </text>
+<text top="154" left="125" width="436" height="11" font="13">Uttaranchal: A subaltern perspective of language development. In Itagi, N.H. and </text>
+<text top="169" left="125" width="178" height="11" font="13">Singh, Shailendra Kumar (eds.). </text>
+<text top="169" left="303" width="259" height="11" font="20"><i>Linguistic landscaping in India with particular </i></text>
+<text top="185" left="125" width="59" height="11" font="20"><i>reference to</i></text>
+<text top="185" left="184" width="3" height="11" font="13"> </text>
+<text top="185" left="187" width="69" height="11" font="20"><i>the new states</i></text>
+<text top="185" left="257" width="238" height="11" font="13">. Mysore: Central Institute of Indian Languages </text>
+<text top="206" left="103" width="458" height="11" font="13">Pandit, P.B. 1979. Perspectives on sociolinguistics in India. In McCormick, W.C. and </text>
+<text top="222" left="125" width="110" height="11" font="13">Wurm, S.A. (eds.). </text>
+<text top="222" left="235" width="247" height="11" font="20"><i>Language and society: Anthropological issues</i></text>
+<text top="222" left="482" width="81" height="11" font="13">. The Hague: </text>
+<text top="237" left="125" width="42" height="11" font="13">Mouton </text>
+<text top="254" left="103" width="3" height="11" font="13"> </text>
+</page>
+</pdf2xml>
