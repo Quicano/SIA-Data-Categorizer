@@ -26,10 +26,12 @@ public class PDFToXML {
         String xmlFilePath = tempDir + "/" + nameOfPaper + ".xml";
         Process pdfToXmlConversion;
         if (SystemUtils.IS_OS_LINUX) { //Linux Process
+            String linuxCommand = "pdftohtml -xml -i -c -q -s " + pdfFile.getCanonicalPath() + " " + xmlFilePath;
             pdfToXmlConversion = executionRuntime.exec("pdftohtml -xml -i -c -q -s " + pdfFile.getCanonicalPath() + " " + xmlFilePath);
         } else {//Windows Process. Ubuntu Virtual Machine needs to be installed
-            System.out.println("wsl \n pdftohtml -xml -i -c -q -s " + pdfFile.getName());
-            pdfToXmlConversion = executionRuntime.exec("cd "+ directory+ " \n wsl \n pdftohtml -xml -i -c -q -s " + pdfFile.getName() );
+            String windowsCommand = "wsl \n pdftohtml -xml -i -c -q -s src/test/resources/" + pdfFile.getName() + " " + xmlFilePath;
+            System.out.println(windowsCommand);
+            pdfToXmlConversion = executionRuntime.exec(windowsCommand);
         }
         try {
             LOG.info("Waiting for conversion to finish..");
