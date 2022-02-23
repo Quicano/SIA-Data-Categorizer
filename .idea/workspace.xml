@@ -5,13 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/UnitTest/FileSelectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/furuya.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/util/PDFToXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/PDFToXML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/InputTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UnitTest/DirectoryPathTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UnitTest/FileSelectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UnitTest/FileSelectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SIA-Data-Categorizer-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SIA-Data-Categorizer-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classifier/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classifier/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classifier/Classifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classifier/Classifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/CSVCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/CSVCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/ConditionUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/ConditionUnit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/GUI$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/GUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/GUI$2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/GUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/GUI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/util/PDFToXML.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/PDFToXML.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/InputTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/PropertiesHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/PropertiesHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/XPathUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/XPathUnit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.ClassifierTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.ClassifierTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.ConditionUnitTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.ConditionUnitTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.IdentifierTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.IdentifierTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.XPathUnitTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-UnitTest.XPathUnitTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UnitTest.ClassifierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UnitTest.ClassifierTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UnitTest.ConditionUnitTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UnitTest.ConditionUnitTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UnitTest.IdentifierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UnitTest.IdentifierTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/UnitTest.XPathUnitTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/UnitTest.XPathUnitTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UnitTest/ClassifierTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UnitTest/ClassifierTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UnitTest/ConditionUnitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UnitTest/ConditionUnitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UnitTest/DirectoryPathTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UnitTest/FileSelectionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UnitTest/FileSelectionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UnitTest/IdentifierTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UnitTest/IdentifierTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UnitTest/XPathUnitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UnitTest/XPathUnitTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +104,7 @@
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Unbrauchbar\PDF" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FileSelectionTest.pdfToXmlTest">
+  <component name="RunManager" selected="JUnit.FileSelectionTest.pathConversion">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="SIA-Data-Categorizer" />
@@ -78,18 +112,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DirectoryPathTest.convertExternalFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in SIA-Data-Categorizer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SIA-Data-Categorizer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UnitTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="UnitTest" />
-      <option name="MAIN_CLASS_NAME" value="UnitTest.DirectoryPathTest" />
-      <option name="METHOD_NAME" value="convertExternalFile" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,6 +125,22 @@
       <option name="PACKAGE_NAME" value="UnitTest" />
       <option name="MAIN_CLASS_NAME" value="UnitTest.FileSelectionTest" />
       <option name="METHOD_NAME" value="inputDirTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileSelectionTest.pathConversion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SIA-Data-Categorizer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest.FileSelectionTest" />
+      <option name="METHOD_NAME" value="pathConversion" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,27 +162,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitTest in SIA-Data-Categorizer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SIA-Data-Categorizer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UnitTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="UnitTest" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FileSelectionTest.pathConversion" />
         <item itemvalue="JUnit.FileSelectionTest.pdfToXmlTest" />
-        <item itemvalue="JUnit.FileSelectionTest.inputDirTest" />
-        <item itemvalue="JUnit.DirectoryPathTest.convertExternalFile" />
+        <item itemvalue="JUnit.All in SIA-Data-Categorizer" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.UnitTest in SIA-Data-Categorizer" />
+        <item itemvalue="JUnit.FileSelectionTest.inputDirTest" />
       </list>
     </recent_temporary>
   </component>

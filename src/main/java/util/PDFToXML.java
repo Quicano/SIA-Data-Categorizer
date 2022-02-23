@@ -29,7 +29,7 @@ public class PDFToXML {
             String linuxCommand = "pdftohtml -xml -i -c -q -s " + pdfFile.getCanonicalPath() + " " + xmlFilePath;
             pdfToXmlConversion = executionRuntime.exec("pdftohtml -xml -i -c -q -s " + pdfFile.getCanonicalPath() + " " + xmlFilePath);
         } else {//Windows Process. Ubuntu Virtual Machine needs to be installed
-            String windowsCommand = "wsl \n pdftohtml -xml -i -c -q -s src/test/resources/" + pdfFile.getName() + " " + xmlFilePath;
+            String windowsCommand = "wsl \n pdftohtml -xml -i -c -q -s " + pdfFile.getCanonicalPath() + " " + xmlFilePath;
             System.out.println(windowsCommand);
             pdfToXmlConversion = executionRuntime.exec(windowsCommand);
         }
@@ -70,6 +70,7 @@ public class PDFToXML {
         ArrayList<File> fileList = new ArrayList<>(Arrays.asList(DataDir.listFiles()));
         ArrayList<File> outputList = new ArrayList<>();
 
+        System.out.println(fileList.size());
 
         PDFToXML converter = new PDFToXML();
         for (File f : fileList){
