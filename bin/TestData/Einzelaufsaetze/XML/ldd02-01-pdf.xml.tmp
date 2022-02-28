@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="892" width="629">
+	<fontspec id="0" size="18" family="Times New Roman" color="#000000"/>
+	<fontspec id="1" size="9" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="2" size="23" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="3" size="12" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="4" size="16" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="5" size="5" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="6" size="13" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="7" size="13" family="ABCDEE+Verdana,Italic" color="#000000"/>
+	<fontspec id="8" size="20" family="ABCDEE+Verdana,Bold" color="#000000"/>
+	<fontspec id="9" size="18" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="10" size="14" family="ABCDEE+Verdana" color="#000000"/>
+	<fontspec id="11" size="18" family="ABCDEE+Verdana,Bold" color="#000000"/>
+<text top="64" left="436" width="5" height="16" font="0"> </text>
+<text top="76" left="94" width="3" height="11" font="1"> </text>
+<text top="88" left="180" width="325" height="29" font="2">Language Documentation  </text>
+<text top="117" left="240" width="197" height="29" font="2">and Description </text>
+<text top="146" left="94" width="4" height="15" font="3"> </text>
+<text top="160" left="264" width="145" height="20" font="4">ISSN 1740-6234 </text>
+<text top="180" left="94" width="457" height="20" font="4">___________________________________________ </text>
+<text top="200" left="94" width="2" height="7" font="5"> </text>
+<text top="208" left="94" width="156" height="16" font="6">This article appears in:</text>
+<text top="208" left="250" width="323" height="16" font="7"><i> Language Documentation and Description, vol </i></text>
+<text top="224" left="94" width="9" height="16" font="7"><i>2</i></text>
+<text top="224" left="102" width="167" height="16" font="6">. Editor: Peter K. Austin </text>
+<text top="258" left="94" width="463" height="25" font="8"><b>Editor's Preface and List of Contributors </b></text>
+<text top="283" left="94" width="97" height="25" font="8"><b>(LDD 2) </b></text>
+<text top="317" left="94" width="11" height="22" font="9">P</text>
+<text top="321" left="104" width="42" height="17" font="10">ETER </text>
+<text top="317" left="146" width="19" height="22" font="9">K.</text>
+<text top="321" left="165" width="5" height="17" font="10"> </text>
+<text top="317" left="170" width="12" height="22" font="9">A</text>
+<text top="321" left="182" width="46" height="17" font="10">USTIN</text>
+<text top="317" left="228" width="6" height="22" font="9"> </text>
+<text top="357" left="94" width="461" height="16" font="6">Cite this article: Peter K. Austin (2004). Editor's Preface and List of </text>
+<text top="373" left="94" width="316" height="16" font="6">Contributors (LDD 2). In Peter K. Austin (ed.) </text>
+<text top="373" left="410" width="71" height="16" font="7"><i>Language </i></text>
+<text top="390" left="94" width="256" height="16" font="7"><i>Documentation and Description, vol 2</i></text>
+<text top="390" left="350" width="172" height="16" font="6">. London: SOAS. pp. 3-8 </text>
+<text top="415" left="94" width="392" height="16" font="6">Link to this article: http://www.elpublishing.org/PID/016 </text>
+<text top="440" left="94" width="334" height="16" font="6">This electronic version first published: July 2014 </text>
+<text top="457" left="94" width="434" height="16" font="6">__________________________________________________ </text>
+<text top="473" left="94" width="2" height="7" font="5"> </text>
+<text top="481" left="206" width="354" height="16" font="6">This article is published under a Creative Commons </text>
+<text top="497" left="206" width="364" height="16" font="6">License CC-BY-NC (Attribution-NonCommercial). The </text>
+<text top="513" left="206" width="363" height="16" font="6">licence permits users to use, reproduce, disseminate </text>
+<text top="530" left="94" width="449" height="16" font="6">or display the article provided that the author is attributed as the </text>
+<text top="546" left="94" width="456" height="16" font="6">original creator and that the reuse is restricted to non-commercial </text>
+<text top="563" left="94" width="320" height="16" font="6">purposes i.e. research or educational use. See </text>
+<text top="579" left="94" width="335" height="16" font="6">http://creativecommons.org/licenses/by-nc/4.0/ </text>
+<text top="596" left="94" width="468" height="16" font="6">______________________________________________________ </text>
+<text top="621" left="94" width="142" height="22" font="11"><b>EL Publishing </b></text>
+<text top="652" left="94" width="310" height="16" font="6">For more EL Publishing articles and services: </text>
+<text top="668" left="94" width="5" height="16" font="6"> </text>
+<text top="685" left="134" width="65" height="16" font="6">Website: </text>
+<text top="685" left="269" width="202" height="16" font="6">http://www.elpublishing.org  </text>
+<text top="701" left="134" width="99" height="16" font="6">Terms of use: </text>
+<text top="701" left="269" width="242" height="16" font="6">http://www.elpublishing.org/terms </text>
+<text top="717" left="134" width="96" height="16" font="6">Submissions: </text>
+<text top="717" left="269" width="285" height="16" font="6">http://www.elpublishing.org/submissions </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="892" width="630">
+	<fontspec id="12" size="10" family="LMMHAM+Times" color="#000000"/>
+	<fontspec id="13" size="10" family="LMMHBN+Times" color="#000000"/>
+	<fontspec id="14" size="10" family="CXZLTK+TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="15" size="14" family="LMMHCO+Helvetica" color="#000000"/>
+	<fontspec id="16" size="12" family="LMMHAM+Times" color="#000000"/>
+	<fontspec id="17" size="8" family="LMMHAM+Times" color="#000000"/>
+<text top="776" left="97" width="280" height="10" font="12">Peter K. Austin (2004) Editor’s Preface. In Peter K. Austin (ed.) </text>
+<text top="776" left="378" width="185" height="10" font="13"><i>Language Documentation and Description,</i></text>
+<text top="789" left="97" width="17" height="10" font="13"><i>Vol </i></text>
+<text top="785" left="115" width="5" height="14" font="14"><i>2</i></text>
+<text top="789" left="120" width="93" height="10" font="12">, 3-6. London: SOAS.</text>
+<text top="82" left="97" width="113" height="14" font="15"><b>Editor’s Preface</b></text>
+<text top="119" left="97" width="79" height="12" font="16">Peter K. Austin</text>
+<text top="161" left="97" width="466" height="12" font="16">This volume arises from two one-day workshops held at the School of Oriental and African</text>
+<text top="178" left="97" width="264" height="12" font="16">Studies (SOAS), University of London: one on 22</text>
+<text top="175" left="362" width="8" height="8" font="17">nd</text>
+<text top="178" left="370" width="192" height="12" font="16"> November 2003 entitled “Archiving</text>
+<text top="195" left="97" width="194" height="12" font="16">Language Materials” and one on 7</text>
+<text top="192" left="292" width="7" height="8" font="17">th</text>
+<text top="195" left="298" width="264" height="12" font="16"> February 2004 entitled “Training and Capacity</text>
+<text top="212" left="97" width="465" height="12" font="16">Building for Endangered Languages Communities”. A companion to this volume is a CD-</text>
+<text top="229" left="97" width="464" height="12" font="16">ROM called “The Disappearing Sounds of the World’s Languages” that contains</text>
+<text top="246" left="97" width="464" height="12" font="16">multimedia materials presented as a public lecture by Professor Peter Ladefoged of the</text>
+<text top="263" left="97" width="217" height="12" font="16">University of California, Los Angeles on 6</text>
+<text top="259" left="315" width="7" height="8" font="17">th</text>
+<text top="263" left="322" width="81" height="12" font="16"> February 2004.</text>
+<text top="292" left="127" width="435" height="12" font="16">The papers for this volume are written up versions of the workshop presentations;</text>
+<text top="309" left="97" width="464" height="12" font="16">plus two invited papers (by Thieberger, presented as a Departmental Seminar at SOAS, and</text>
+<text top="326" left="97" width="465" height="12" font="16">Nathan and Austin, originally presented at the Australian Linguistic Society Annual</text>
+<text top="343" left="97" width="466" height="12" font="16">Conference, University of Sydney, July 2004). I am extremely grateful to the authors for</text>
+<text top="360" left="97" width="466" height="12" font="16">preparing their papers in a timely manner for publication. All the papers have been</text>
+<text top="377" left="97" width="466" height="12" font="16">reviewed by an editorial committee associated with the SOAS Endangered Languages</text>
+<text top="394" left="97" width="466" height="12" font="16">Academic Programme and Endangered Languages Archive; I am especially grateful to</text>
+<text top="411" left="97" width="465" height="12" font="16">Emmon Bach, Gail Coelho, Birgitt Hellwig, Friederike Lüpke, Robert Munro, David</text>
+<text top="428" left="97" width="464" height="12" font="16">Nathan, and Justin Watkins for their detailed and helpful comments on all the papers that</text>
+<text top="445" left="97" width="465" height="12" font="16">have resulted in improvements in both content and presentation. I am grateful to Candide</text>
+<text top="461" left="97" width="465" height="12" font="16">Simard for sub-editing and formatting assistance that made the editorial task so much</text>
+<text top="478" left="97" width="466" height="12" font="16">easier. Thanks also to Zara Pybus for her highly efficient administrative and organisational</text>
+<text top="495" left="97" width="41" height="12" font="16">support.</text>
+<text top="525" left="127" width="436" height="12" font="16">Language documentation is a relatively new research area and these papers make</text>
+<text top="542" left="97" width="465" height="12" font="16">significant new contributions to the theory and practice of this emerging field, especially in</text>
+<text top="559" left="97" width="466" height="12" font="16">the areas of training and capacity building, archiving, and development of multimedia for</text>
+<text top="576" left="97" width="466" height="12" font="16">endangered languages. The papers are organised thematically according to these three</text>
+<text top="593" left="97" width="466" height="12" font="16">topics, and in a geographical sweep that goes from the Asia-Pacific region, to Siberia, to</text>
+<text top="609" left="97" width="465" height="12" font="16">Africa and finally Latin America, before returning to the Pacific and Australia for the</text>
+<text top="626" left="97" width="204" height="12" font="16">archiving and multimedia contributions.</text>
+<text top="656" left="127" width="435" height="12" font="16">The collection begins with Margaret Florey’s contribution on training workshops run</text>
+<text top="673" left="97" width="465" height="12" font="16">in the Netherlands among the Mollucan community to sensitise them to their heritage</text>
+<text top="690" left="97" width="464" height="12" font="16">languages, originally and now to a decreasing degree, spoken in Maluku, Indonesia. The</text>
+<text top="707" left="97" width="466" height="12" font="16">workshops were run for language workers and dealt with a range of issues. The linguists</text>
+<text top="724" left="97" width="466" height="12" font="16">who were involved in convening them found that linguistic purism on the part of the</text>
+<text top="741" left="97" width="466" height="12" font="16">Mollucans was a major contributor to the cycle of language loss that has historically</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="892" width="630">
+	<fontspec id="18" size="10" family="LMMHGN+Helvetica" color="#000000"/>
+<text top="41" left="68" width="6" height="10" font="18"><i>4</i></text>
+<text top="41" left="260" width="71" height="10" font="18"><i>Peter K. Austin</i></text>
+<text top="82" left="68" width="464" height="12" font="16">impacted on the heritage languages in the Netherlands. Florey discusses how the</text>
+<text top="99" left="68" width="465" height="12" font="16">workshops confronted purism head-on as a topic during the workshops and training</text>
+<text top="116" left="68" width="62" height="12" font="16">programme.</text>
+<text top="145" left="97" width="436" height="12" font="16">William Foley discusses the highly complex language situation in Papua New</text>
+<text top="162" left="68" width="465" height="12" font="16">Guinea in terms of some of the challenges it presents for understanding language shift,</text>
+<text top="179" left="68" width="466" height="12" font="16">language documentation, and training and capacity development. Drawing on his first-had</text>
+<text top="196" left="68" width="464" height="12" font="16">work with native speakers of Iatmul and Yimas, he shows how collaboration with native</text>
+<text top="213" left="68" width="281" height="12" font="16">speakers can result in positive results for all concerned.</text>
+<text top="243" left="97" width="436" height="12" font="16">Ulrike Mosel’s contribution deals with dictionary making for endangered languages</text>
+<text top="259" left="68" width="464" height="12" font="16">and presents a overview of some of the major issues involved, such as selection of the</text>
+<text top="276" left="68" width="466" height="12" font="16">variety to be included, orthography choice, inclusion of grammatical information, and</text>
+<text top="293" left="68" width="466" height="12" font="16">research methods. She recommends adopting a thematic approach and shows how, even</text>
+<text top="310" left="68" width="464" height="12" font="16">with limited resources, useful outcomes can be produced. She exemplifies this based on her</text>
+<text top="327" left="68" width="458" height="12" font="16">experience with lexicographic work on Samoan and Teop, a Papua New Guinea language.</text>
+<text top="357" left="97" width="436" height="12" font="16">In E. Annamalai’s paper the focus shifts to South Asia and the work of the Central</text>
+<text top="374" left="68" width="466" height="12" font="16">Institute of Indian Languages which has a history of training native speakers to record and</text>
+<text top="391" left="68" width="465" height="12" font="16">analyse their own languages. Tjeerd de Graaf and Hidetoshi Shiraishi discuss several</text>
+<text top="407" left="68" width="466" height="12" font="16">research projects they have carried out in Russia, digitising old ‘legacy’ recordings and</text>
+<text top="424" left="68" width="465" height="12" font="16">making new records of endangered languages, especially in Siberia. They show, using</text>
+<text top="441" left="68" width="465" height="12" font="16">examples from languages like Nivkh spoken on Sakhalin Island, how local capacity for</text>
+<text top="458" left="68" width="466" height="12" font="16">language documentation and and language education can be developed by bridging the gap</text>
+<text top="475" left="68" width="295" height="12" font="16">between old recordings and modern speakers’ knowledge.</text>
+<text top="505" left="97" width="436" height="12" font="16">Africa is the topic of the following two papers: Gerrit Dimmendaal surveys issues of</text>
+<text top="522" left="68" width="464" height="12" font="16">training and capacity development across a broad sweep of African countries, giving</text>
+<text top="539" left="68" width="464" height="12" font="16">detailed and contrastive discussion of two case studies from Ethiopia and Sudan. He argues</text>
+<text top="556" left="68" width="466" height="12" font="16">persuasively for the development of direct links between first world institutions and</text>
+<text top="572" left="68" width="466" height="12" font="16">African organisations in order to maximise opportunities to develop capacity for language</text>
+<text top="589" left="68" width="465" height="12" font="16">documentation, description and support by African colleagues themselves. Friederike</text>
+<text top="606" left="68" width="466" height="12" font="16">Lüpke demonstrates that language development work in Africa has often ignored existing</text>
+<text top="623" left="68" width="466" height="12" font="16">local traditions, such as literacy and writing of African languages using Arabic-based</text>
+<text top="640" left="68" width="464" height="12" font="16">scripts, typically learnt in Koranic schools and adapted by writers to their own languages,</text>
+<text top="657" left="68" width="465" height="12" font="16">by concentrating on the ability to use official languages and scripts. She proposes that</text>
+<text top="674" left="68" width="465" height="12" font="16">language support, in West Africa in particular, should be based on a thorough assessment</text>
+<text top="691" left="68" width="459" height="12" font="16">of existing capacities that are properly incorporated into training and educational contexts.</text>
+<text top="720" left="97" width="436" height="12" font="16">Latin America is the focus of the next two papers. Yolanda Lastra discusses the</text>
+<text top="737" left="68" width="466" height="12" font="16">language situation in Mexico, which has a large number of poorly described languages</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="892" width="630">
+	<fontspec id="19" size="12" family="LMMHBN+Times" color="#000000"/>
+<text top="41" left="308" width="36" height="10" font="18"><i>Preface</i></text>
+<text top="41" left="538" width="6" height="10" font="18"><i>5</i></text>
+<text top="82" left="97" width="464" height="12" font="16">that, until recently, were ignored by official policy developers. Recent Mexican legislation</text>
+<text top="99" left="97" width="466" height="12" font="16">however now recognises the indigenous languages of the country and provides some</text>
+<text top="116" left="97" width="466" height="12" font="16">support for them. While some indigenous linguists have been trained in Mexico, the</text>
+<text top="133" left="97" width="465" height="12" font="16">challenges faced by both local educators and the language communities are brought out</text>
+<text top="149" left="97" width="466" height="12" font="16">very clearly by a case study from Misión de Chichimecas. Anthony Woodbury and Nora</text>
+<text top="166" left="97" width="464" height="12" font="16">England present a detailed account of developments at the University of Texas, Austin,</text>
+<text top="183" left="97" width="466" height="12" font="16">which have seen the establishment of a Centre for Indigenous Languages of Latin America</text>
+<text top="200" left="97" width="466" height="12" font="16">where increasing numbers of native speakers of Latin American languages are now being</text>
+<text top="217" left="97" width="464" height="12" font="16">trained. They show one of the ways that institutions in the US and elsewhere can develop</text>
+<text top="234" left="97" width="466" height="12" font="16">programmes of postgraduate training that are directly relevant to the needs of speakers of</text>
+<text top="251" left="97" width="466" height="12" font="16">endangered languages (with positive spin-offs for the university and the academic</text>
+<text top="268" left="97" width="384" height="12" font="16">discipline), without compromising on long-established standards of quality.</text>
+<text top="298" left="127" width="436" height="12" font="16">Heidi Johnson, also of the University of Texas, Austin, next presents a discussion of</text>
+<text top="314" left="97" width="466" height="12" font="16">archiving within the context of language documentation. She shows how archiving must be</text>
+<text top="331" left="97" width="466" height="12" font="16">an essential component of any documentation project, and gives a series of</text>
+<text top="348" left="97" width="465" height="12" font="16">recommendations about how to procede with the archival work. Her paper will be of</text>
+<text top="365" left="97" width="466" height="12" font="16">particular value to researchers who are new to language documentation, and includes a</text>
+<text top="382" left="97" width="261" height="12" font="16">wealth of suggestions and links to useful resources.</text>
+<text top="412" left="127" width="436" height="12" font="16">David Nathan’s contribution deals with the development of multimedia products for</text>
+<text top="429" left="97" width="464" height="12" font="16">endangered languages by what he calls ‘mobilisation’ of language materials, one of three</text>
+<text top="446" left="97" width="464" height="12" font="16">primary goals for endangered languages work (the others being documentation and</text>
+<text top="462" left="97" width="466" height="12" font="16">archiving). Drawing on his experience with a number of projects, including production of a</text>
+<text top="479" left="97" width="465" height="12" font="16">CD-ROM with the Paakantyi of eastern Australia, he presents suggestions for good</text>
+<text top="496" left="97" width="466" height="12" font="16">practice in developing multimedia, emphasing the team-work involved and the crucial role</text>
+<text top="513" left="97" width="171" height="12" font="16">of the local community members.</text>
+<text top="543" left="127" width="436" height="12" font="16">Nicholas Thieberger’s paper deals with methods for linking media recorded during</text>
+<text top="560" left="97" width="465" height="12" font="16">documentation with transcriptions and linguistic analysis, paying close attention to the</text>
+<text top="577" left="97" width="465" height="12" font="16">need to properly archive the data and make it available in a form that can be preserved and</text>
+<text top="594" left="97" width="322" height="12" font="16">distributed to others. He has developed a software tool called </text>
+<text top="594" left="420" width="51" height="11" font="19"><i>Audiamus</i></text>
+<text top="594" left="471" width="92" height="12" font="16"> which he used in</text>
+<text top="610" left="97" width="464" height="12" font="16">writing his PhD thesis description of an endangered language of Vanuatu. Thieberger’s</text>
+<text top="627" left="97" width="465" height="12" font="16">model demonstrates clearly the value of innovative use of information and communication</text>
+<text top="644" left="97" width="289" height="12" font="16">technologies to language documentation and description.</text>
+<text top="674" left="127" width="436" height="12" font="16">The volume concludes with Nathan and Austin’s paper which argues that current</text>
+<text top="691" left="97" width="464" height="12" font="16">discourse in language documentation has seen the concept of ‘metadata’ presented in a</text>
+<text top="708" left="97" width="464" height="12" font="16">narrowly understood way as related primarily to cataloguing and resource discovery. They</text>
+<text top="725" left="97" width="466" height="12" font="16">argue that this ‘thin’ metadata conception potentially has negative consequences for the</text>
+<text top="742" left="97" width="464" height="12" font="16">development of language documentation by directing attention away from the ‘thick’</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="68" width="6" height="10" font="18"><i>6</i></text>
+<text top="41" left="260" width="71" height="10" font="18"><i>Peter K. Austin</i></text>
+<text top="82" left="68" width="466" height="12" font="16">metadata that ordinary working linguists create as part of their rich representations of</text>
+<text top="99" left="68" width="465" height="12" font="16">knowledge about the languages they study (as exemplified by Thieberger’s work, for</text>
+<text top="116" left="68" width="466" height="12" font="16">instance). They suggest that there is a ‘metadata gap’ that has emerged and that it needs to</text>
+<text top="133" left="68" width="466" height="12" font="16">be addressed in order for the full potential of information and communications technology</text>
+<text top="149" left="68" width="359" height="12" font="16">for language documentation, archiving and mobilisation to be realised.</text>
+<text top="179" left="97" width="437" height="12" font="16">We welcome comments and feedback on the papers collected here, directed to the</text>
+<text top="196" left="68" width="166" height="12" font="16">address in the inside front cover.</text>
+<text top="255" left="68" width="109" height="12" font="16">Bloomsbury. London</text>
+<text top="285" left="68" width="81" height="12" font="16">December 2003</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="892" width="630">
+<text top="93" left="106" width="138" height="14" font="15"><b>List of Contributors</b></text>
+<text top="134" left="106" width="70" height="12" font="16">E. Annamalai</text>
+<text top="151" left="106" width="141" height="12" font="16">Visiting Professor Emeritus</text>
+<text top="167" left="106" width="196" height="12" font="16">Yale Center for International and Area</text>
+<text top="184" left="106" width="37" height="12" font="16">Studies</text>
+<text top="201" left="106" width="81" height="12" font="16">Yale University</text>
+<text top="218" left="106" width="108" height="12" font="16">34 Hillhouse Avenue</text>
+<text top="235" left="106" width="118" height="12" font="16">New Haven, CT 06520</text>
+<text top="252" left="106" width="25" height="12" font="16">USA</text>
+<text top="269" left="106" width="167" height="12" font="16">email: annamalai38@yahoo.com</text>
+<text top="316" left="106" width="79" height="12" font="16">Peter K. Austin</text>
+<text top="332" left="106" width="173" height="12" font="16">Endangered Languages Academic</text>
+<text top="349" left="106" width="59" height="12" font="16">Programme</text>
+<text top="366" left="106" width="172" height="12" font="16">Department of Linguistics, SOAS</text>
+<text top="383" left="106" width="177" height="12" font="16">Thornhaugh Street, Russell Square</text>
+<text top="400" left="106" width="106" height="12" font="16">London WC1H 0XG</text>
+<text top="417" left="106" width="18" height="12" font="16">UK</text>
+<text top="434" left="106" width="117" height="12" font="16">email: pa2@soas.ac.uk</text>
+<text top="480" left="106" width="99" height="12" font="16">Gerrit Dimmendaal</text>
+<text top="497" left="106" width="100" height="12" font="16">Universität zu Köln</text>
+<text top="514" left="106" width="118" height="12" font="16">Institut für Afrikanistik</text>
+<text top="531" left="106" width="121" height="12" font="16">Meister-Ekkehart-Str. 7</text>
+<text top="548" left="106" width="74" height="12" font="16">D-50923 Köln</text>
+<text top="565" left="106" width="47" height="12" font="16">Germany</text>
+<text top="582" left="106" width="204" height="12" font="16">email: gerrit.dimmendaal@uni-koeln.de</text>
+<text top="629" left="106" width="71" height="12" font="16">Nora England</text>
+<text top="645" left="106" width="120" height="12" font="16">Linguistics Department</text>
+<text top="662" left="106" width="141" height="12" font="16">University of Texas, Austin</text>
+<text top="679" left="106" width="54" height="12" font="16">Austin TX</text>
+<text top="696" left="106" width="25" height="12" font="16">USA</text>
+<text top="713" left="106" width="144" height="12" font="16">email: nce@mail.utexas.edu</text>
+<text top="134" left="349" width="83" height="12" font="16">Margaret Florey</text>
+<text top="150" left="349" width="103" height="12" font="16">Linguistics Program</text>
+<text top="167" left="349" width="178" height="12" font="16">School of Languages, Cultures and</text>
+<text top="184" left="349" width="56" height="12" font="16">Linguistics</text>
+<text top="201" left="349" width="98" height="12" font="16">Monash University</text>
+<text top="218" left="349" width="70" height="12" font="16">Victoria 3800</text>
+<text top="235" left="349" width="47" height="12" font="16">Australia</text>
+<text top="252" left="349" width="32" height="12" font="16">email:</text>
+<text top="269" left="349" width="188" height="12" font="16">margaret.florey@arts.monash.edu.au</text>
+<text top="315" left="349" width="74" height="12" font="16">William Foley</text>
+<text top="332" left="349" width="133" height="12" font="16">Department of Linguistics</text>
+<text top="349" left="349" width="109" height="12" font="16">University of Sydney</text>
+<text top="366" left="349" width="98" height="12" font="16">Sydney NSW 2000</text>
+<text top="383" left="349" width="47" height="12" font="16">Australia</text>
+<text top="400" left="349" width="171" height="12" font="16">email: wilfoley@arts.usyd.edu.au</text>
+<text top="476" left="349" width="80" height="12" font="16">Tjeerd de Graaf</text>
+<text top="493" left="349" width="87" height="12" font="16">Fryske Akademy</text>
+<text top="510" left="349" width="113" height="12" font="16">Ljouwert/Leeuwarden</text>
+<text top="527" left="349" width="84" height="12" font="16">The Netherlands</text>
+<text top="544" left="349" width="142" height="12" font="16">email: tdegraaf@fa.knaw.nl</text>
+<text top="620" left="349" width="73" height="12" font="16">Heidi Johnson</text>
+<text top="637" left="349" width="120" height="12" font="16">Linguistics Department</text>
+<text top="654" left="349" width="141" height="12" font="16">University of Texas, Austin</text>
+<text top="671" left="349" width="54" height="12" font="16">Austin TX</text>
+<text top="688" left="349" width="25" height="12" font="16">USA</text>
+<text top="705" left="349" width="173" height="12" font="16">email: hjohnson@mail.utexas.edu</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="892" width="630">
+<text top="41" left="76" width="6" height="10" font="18"><i>8</i></text>
+<text top="82" left="76" width="78" height="12" font="16">Yolanda Lastra</text>
+<text top="99" left="76" width="120" height="12" font="16">Linguistics Department</text>
+<text top="116" left="76" width="183" height="12" font="16">Universidad Nacional Autónoma de</text>
+<text top="133" left="76" width="39" height="12" font="16">México</text>
+<text top="149" left="76" width="64" height="12" font="16">Mexico City</text>
+<text top="166" left="76" width="39" height="12" font="16">Mexico</text>
+<text top="183" left="76" width="173" height="12" font="16">email: ylastra@servidor.unam.mx</text>
+<text top="230" left="76" width="88" height="12" font="16">Friederike Lüpke</text>
+<text top="247" left="76" width="173" height="12" font="16">Endangered Languages Academic</text>
+<text top="264" left="76" width="59" height="12" font="16">Programme</text>
+<text top="281" left="76" width="172" height="12" font="16">Department of Linguistics, SOAS</text>
+<text top="298" left="76" width="177" height="12" font="16">Thornhaugh Street, Russell Square</text>
+<text top="314" left="76" width="106" height="12" font="16">London WC1H 0XG</text>
+<text top="331" left="76" width="18" height="12" font="16">UK</text>
+<text top="348" left="76" width="113" height="12" font="16">email: fl2@soas.ac.uk</text>
+<text top="395" left="76" width="67" height="12" font="16">Ulrike Mosel</text>
+<text top="412" left="76" width="133" height="12" font="16">Department of Linguistics</text>
+<text top="429" left="76" width="92" height="12" font="16">University of Kiel</text>
+<text top="446" left="76" width="22" height="12" font="16">Kiel</text>
+<text top="462" left="76" width="47" height="12" font="16">Germany</text>
+<text top="479" left="76" width="189" height="12" font="16">email: umosel@linguistik.uni-kiel.de</text>
+<text top="526" left="76" width="71" height="12" font="16">David Nathan</text>
+<text top="543" left="76" width="163" height="12" font="16">Endangered Languages Archive</text>
+<text top="560" left="76" width="172" height="12" font="16">Department of Linguistics, SOAS</text>
+<text top="577" left="76" width="177" height="12" font="16">Thornhaugh Street, Russell Square</text>
+<text top="594" left="76" width="106" height="12" font="16">London WC1H 0XG</text>
+<text top="611" left="76" width="18" height="12" font="16">UK</text>
+<text top="627" left="76" width="115" height="12" font="16">email: djn@soas.ac.uk</text>
+<text top="674" left="76" width="104" height="12" font="16">Nicholas Thieberger</text>
+<text top="691" left="76" width="133" height="12" font="16">Department of Linguistics</text>
+<text top="708" left="76" width="126" height="12" font="16">University of Melbourne</text>
+<text top="725" left="76" width="99" height="12" font="16">Parkville. Vic 3054</text>
+<text top="742" left="76" width="47" height="12" font="16">Australia</text>
+<text top="759" left="76" width="150" height="12" font="16">email: thien@unimelb.edu.au</text>
+<text top="82" left="318" width="102" height="12" font="16">Anthony Woodbury</text>
+<text top="99" left="318" width="120" height="12" font="16">Linguistics Department</text>
+<text top="116" left="318" width="141" height="12" font="16">University of Texas, Austin</text>
+<text top="132" left="318" width="57" height="12" font="16">Austin, TX</text>
+<text top="149" left="318" width="25" height="12" font="16">USA</text>
+<text top="166" left="318" width="147" height="12" font="16">email: acw@mail.utexas.edu</text>
+</page>
+</pdf2xml>

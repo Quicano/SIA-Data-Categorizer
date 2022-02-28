@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="23" family="PCFFGB+TimesNewRomanPS" color="#000000"/>
+	<fontspec id="1" size="23" family="RPOUHL+TimesNewRomanPS" color="#000000"/>
+	<fontspec id="2" size="18" family="XYSMNU+TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="3" size="18" family="POVSGL+TimesNewRomanPS" color="#000000"/>
+<text top="107" left="106" width="151" height="26" font="0"><b>Style sheet for </b></text>
+<text top="107" left="257" width="408" height="26" font="1"><i><b>Working Papers in Scandinavian Syntax </b></i></text>
+<text top="135" left="106" width="6" height="26" font="1"><i><b> </b></i></text>
+<text top="162" left="106" width="102" height="20" font="2">1. Main text:  </text>
+<text top="183" left="106" width="181" height="20" font="2">14 p Times New Roman </text>
+<text top="204" left="106" width="223" height="20" font="2">In between lines: at least 20 p. </text>
+<text top="224" left="106" width="199" height="20" font="2">All margins at least 2,5 cm </text>
+<text top="245" left="106" width="5" height="20" font="2"> </text>
+<text top="266" left="106" width="94" height="20" font="2">2. Footnotes </text>
+<text top="286" left="106" width="181" height="20" font="2">12 p Times New Roman </text>
+<text top="307" left="106" width="214" height="20" font="2">In between lines at least 14 p </text>
+<text top="328" left="106" width="5" height="20" font="2"> </text>
+<text top="348" left="106" width="286" height="20" font="2">3. Abstract just above the first section.  </text>
+<text top="369" left="106" width="340" height="20" font="2">  Text: 12 p, at least 14 points in between lines </text>
+<text top="390" left="106" width="5" height="20" font="2"> </text>
+<text top="411" left="106" width="363" height="20" font="2">4. Page numbers centralized at the top of the page </text>
+<text top="431" left="106" width="5" height="20" font="2"> </text>
+<text top="452" left="106" width="493" height="20" font="2">5. Bibliographic information in the bottom margin on the first page: </text>
+<text top="473" left="106" width="14" height="20" font="2">   </text>
+<text top="473" left="120" width="410" height="20" font="3"><i>Working Papers in Scandinavian Syntax X (year) 00-00  </i></text>
+<text top="473" left="530" width="235" height="20" font="2">(X = the number of the volume) </text>
+<text top="493" left="106" width="248" height="20" font="2">    Time New Roman, 12 p, italics </text>
+</page>
+</pdf2xml>

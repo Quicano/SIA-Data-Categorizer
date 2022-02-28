@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1080" width="729">
+	<fontspec id="0" size="25" family="EEKPBH+URWPalladioL" color="#000000"/>
+	<fontspec id="1" size="23" family="EEKPBH+URWPalladioL" color="#000000"/>
+	<fontspec id="2" size="17" family="EEKPBK+URWPalladioL-Roma" color="#000000"/>
+	<fontspec id="3" size="12" family="EEKPBM+CMSY10" color="#000000"/>
+	<fontspec id="4" size="14" family="EEKPBK+URWPalladioL-Roma" color="#000000"/>
+	<fontspec id="5" size="14" family="EEKPCA+URWPalladioL-Ital" color="#000000"/>
+	<fontspec id="6" size="14" family="EEKPBH+URWPalladioL" color="#000000"/>
+	<fontspec id="7" size="11" family="EEKPBK+URWPalladioL-Roma" color="#000000"/>
+	<fontspec id="8" size="11" family="EEKPCF+CMTT10" color="#000000"/>
+<text top="39" left="81" width="82" height="25" font="0"><b>Squibs</b></text>
+<text top="129" left="81" width="240" height="24" font="1"><b>What Is a Paraphrase?</b></text>
+<text top="196" left="81" width="107" height="18" font="2">Rahul Bhagat</text>
+<text top="191" left="188" width="6" height="16" font="3"><i>∗</i></text>
+<text top="218" left="81" width="231" height="15" font="4">USC Information Sciences Institute</text>
+<text top="255" left="81" width="109" height="18" font="2">Eduard Hovy</text>
+<text top="249" left="189" width="12" height="16" font="3"><i>∗∗</i></text>
+<text top="276" left="81" width="231" height="15" font="4">USC Information Sciences Institute</text>
+<text top="336" left="81" width="574" height="15" font="5"><i>Paraphrases are sentences or phrases that convey the same meaning using different wording.</i></text>
+<text top="355" left="81" width="574" height="15" font="5"><i>Although the logical definition of paraphrases requires strict semantic equivalence, linguistics</i></text>
+<text top="375" left="81" width="574" height="15" font="5"><i>accepts a broader, approximate, equivalence—thereby allowing far more examples of “quasi-</i></text>
+<text top="394" left="81" width="574" height="15" font="5"><i>paraphrase.” But approximate equivalence is hard to define. Thus, the phenomenon of para-</i></text>
+<text top="414" left="81" width="574" height="15" font="5"><i>phrases, as understood in linguistics, is difficult to characterize. In this article, we list a set</i></text>
+<text top="433" left="81" width="11" height="15" font="5"><i>of</i></text>
+<text top="433" left="97" width="15" height="15" font="4">25</text>
+<text top="433" left="117" width="537" height="15" font="5"><i>operations that generate quasi-paraphrases. We then empirically validate the scope and</i></text>
+<text top="453" left="81" width="574" height="15" font="5"><i>accuracy of this list by manually analyzing random samples of two publicly available paraphrase</i></text>
+<text top="472" left="81" width="564" height="15" font="5"><i>corpora. We provide the distribution of naturally occurring quasi-paraphrases in English text.</i></text>
+<text top="508" left="81" width="101" height="15" font="6"><b>1. Introduction</b></text>
+<text top="544" left="84" width="570" height="15" font="4">Sentences or phrases that convey the same meaning using different wording are called</text>
+<text top="562" left="81" width="71" height="15" font="5"><i>paraphrases</i></text>
+<text top="562" left="152" width="298" height="15" font="4">. For example, consider sentences (1) and (2):</text>
+<text top="598" left="91" width="17" height="15" font="4">(1)</text>
+<text top="598" left="134" width="207" height="15" font="4">The school said that their buses</text>
+<text top="598" left="345" width="23" height="15" font="5"><i>seat</i></text>
+<text top="598" left="372" width="112" height="15" font="4">40 students each.</text>
+<text top="625" left="91" width="17" height="15" font="4">(2)</text>
+<text top="625" left="134" width="207" height="15" font="4">The school said that their buses</text>
+<text top="625" left="345" width="80" height="15" font="5"><i>accommodate</i></text>
+<text top="625" left="429" width="112" height="15" font="4">40 students each.</text>
+<text top="662" left="81" width="574" height="15" font="4">Paraphrases are of interest for many current NLP tasks, including textual entailment,</text>
+<text top="680" left="81" width="574" height="15" font="4">machine reading, question answering, information extraction, and machine translation.</text>
+<text top="698" left="81" width="574" height="15" font="4">Whenever the text contains multiple ways of saying “the same thing,” but the applica-</text>
+<text top="716" left="81" width="574" height="15" font="4">tion requires the same treatment of those various alternatives, an automated paraphrase</text>
+<text top="734" left="81" width="269" height="15" font="4">recognition mechanism would be useful.</text>
+<text top="752" left="107" width="547" height="15" font="4">One reason why paraphrase recognition systems have been difficult to build is</text>
+<text top="770" left="81" width="574" height="15" font="4">because paraphrases are hard to define. Although the strict interpretation of the</text>
+<text top="787" left="81" width="574" height="15" font="4">term “paraphrase” is quite narrow because it requires exactly identical meaning,</text>
+<text top="805" left="81" width="574" height="15" font="4">in linguistics literature paraphrases are most often characterized by an approxi-</text>
+<text top="823" left="81" width="574" height="15" font="4">mate equivalence of meaning across sentences or phrases. De Beaugrande and Dressler</text>
+<text top="841" left="81" width="574" height="15" font="4">(1981, page 50) define paraphrases as “approximate conceptual equivalence among</text>
+<text top="892" left="87" width="6" height="16" font="3"><i>∗</i></text>
+<text top="895" left="98" width="266" height="12" font="7">24515 SE 46th Terrace Issaquah, WA 98029. E-mail:</text>
+<text top="896" left="368" width="113" height="10" font="8">me@rahulbhagat.net</text>
+<text top="895" left="481" width="3" height="12" font="7">.</text>
+<text top="906" left="81" width="12" height="16" font="3"><i>∗∗</i></text>
+<text top="909" left="98" width="266" height="12" font="7">24515 SE 46th Terrace Issaquah, WA 98029. E-mail:</text>
+<text top="910" left="368" width="75" height="10" font="8">hovy@isi.edu</text>
+<text top="909" left="443" width="3" height="12" font="7">.</text>
+<text top="936" left="81" width="553" height="12" font="7">Submission received: 5 July 2012; revised submission received: 21 January 2013; accepted for publication:</text>
+<text top="950" left="81" width="73" height="12" font="7">6 March 2013.</text>
+<text top="977" left="81" width="140" height="12" font="7">doi:10.1162/COLI a 00166</text>
+<text top="1030" left="81" width="263" height="12" font="7">© 2013 Association for Computational Linguistics</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1080" width="729">
+	<fontspec id="9" size="13" family="EEKPBK+URWPalladioL-Roma" color="#000000"/>
+<text top="40" left="74" width="159" height="14" font="9">Computational Linguistics</text>
+<text top="40" left="518" width="130" height="14" font="9">Volume 39, Number 3</text>
+<text top="96" left="74" width="574" height="15" font="4">outwardly different material.” Hirst (2003, slide 9) defines paraphrases as “talk(ing)</text>
+<text top="114" left="74" width="574" height="15" font="4">about the same situation in a different way.” He argues that paraphrases aren’t fully</text>
+<text top="132" left="74" width="156" height="15" font="4">synonymous: There are</text>
+<text top="131" left="234" width="128" height="15" font="5"><i>pragmatic differences</i></text>
+<text top="132" left="367" width="281" height="15" font="4">in paraphrases, namely, difference of eval-</text>
+<text top="149" left="74" width="574" height="15" font="4">uation, connotation, viewpoint, and so forth. According to Mel’cuk (2012, page 7) “An</text>
+<text top="167" left="74" width="574" height="15" font="4">approximate synonymy of sentences is considered as sufficient for them to be produced</text>
+<text top="185" left="74" width="520" height="15" font="4">from the same SemS.” He further adds that approximate paraphrases include</text>
+<text top="185" left="599" width="49" height="15" font="5"><i>implica-</i></text>
+<text top="203" left="74" width="30" height="15" font="5"><i>tions</i></text>
+<text top="203" left="108" width="540" height="15" font="4">(not in the logical sense, but in the everyday sense). Taking an extreme view, Clark</text>
+<text top="221" left="74" width="574" height="15" font="4">(1992, page 172) rejects the idea of absolute synonymy by saying “Every two forms (in</text>
+<text top="239" left="74" width="574" height="15" font="4">language) contrast in meaning.” Overall, there is a large body of work in the linguistics</text>
+<text top="257" left="74" width="497" height="15" font="4">literature that argues that paraphrases are not restricted to strict synonymy.</text>
+<text top="275" left="101" width="547" height="15" font="4">In this article, we take a broad view of paraphrases. To avoid the conflict between</text>
+<text top="293" left="74" width="574" height="15" font="4">the notion of strict paraphrases as understood in logic and the broad notion in linguis-</text>
+<text top="311" left="74" width="134" height="15" font="4">tics, we use the term</text>
+<text top="311" left="211" width="108" height="15" font="5"><i>quasi-paraphrases</i></text>
+<text top="311" left="323" width="325" height="15" font="4">to refer to the paraphrases that we deal with here.</text>
+<text top="329" left="74" width="574" height="15" font="4">In the context of this article, the term “paraphrases” (even without the prefix “quasi”)</text>
+<text top="347" left="74" width="574" height="15" font="4">means “quasi-paraphrases.” We define quasi-paraphrases as ‘sentences or phrases that</text>
+<text top="365" left="74" width="574" height="15" font="4">convey approximately the same meaning using different words.’ We ignore the fine</text>
+<text top="383" left="74" width="574" height="15" font="4">grained distinctions of meaning between sentences and phrases, introduced due to the</text>
+<text top="401" left="74" width="574" height="15" font="4">speaker’s evaluation of the situation, connotation of the terms used, change of modality,</text>
+<text top="418" left="74" width="362" height="15" font="4">and so on. For example, consider sentences (3) and (4).</text>
+<text top="454" left="85" width="17" height="15" font="4">(3)</text>
+<text top="454" left="128" width="207" height="15" font="4">The school said that their buses</text>
+<text top="454" left="339" width="23" height="15" font="5"><i>seat</i></text>
+<text top="454" left="366" width="112" height="15" font="4">40 students each.</text>
+<text top="481" left="85" width="17" height="15" font="4">(4)</text>
+<text top="481" left="128" width="207" height="15" font="4">The school said that their buses</text>
+<text top="481" left="339" width="46" height="15" font="5"><i>cram in</i></text>
+<text top="481" left="389" width="112" height="15" font="4">40 students each.</text>
+<text top="517" left="101" width="36" height="15" font="4">Here,</text>
+<text top="517" left="141" width="23" height="15" font="5"><i>seat</i></text>
+<text top="517" left="168" width="25" height="15" font="4">and</text>
+<text top="517" left="198" width="47" height="15" font="5"><i>cram in</i></text>
+<text top="517" left="248" width="400" height="15" font="4">are not synonymous: They carry different evaluations by the</text>
+<text top="535" left="74" width="574" height="15" font="4">speaker about the same situation. We, however, consider sentences (3) and (4) to be</text>
+<text top="553" left="74" width="404" height="15" font="4">(quasi) paraphrases. Similarly, consider sentences (5) and (6).</text>
+<text top="589" left="85" width="17" height="15" font="4">(5)</text>
+<text top="589" left="128" width="71" height="15" font="4">The school</text>
+<text top="589" left="203" width="24" height="15" font="5"><i>said</i></text>
+<text top="589" left="231" width="101" height="15" font="4">that their buses</text>
+<text top="589" left="336" width="23" height="15" font="5"><i>seat</i></text>
+<text top="589" left="363" width="112" height="15" font="4">40 students each.</text>
+<text top="616" left="85" width="17" height="15" font="4">(6)</text>
+<text top="616" left="128" width="71" height="15" font="4">The school</text>
+<text top="616" left="203" width="54" height="15" font="5"><i>is saying</i></text>
+<text top="616" left="260" width="101" height="15" font="4">that their buses</text>
+<text top="616" left="365" width="120" height="15" font="5"><i>might accommodate</i></text>
+<text top="616" left="489" width="112" height="15" font="4">40 students each.</text>
+<text top="652" left="74" width="36" height="15" font="4">Here,</text>
+<text top="652" left="115" width="24" height="15" font="5"><i>said</i></text>
+<text top="652" left="144" width="25" height="15" font="4">and</text>
+<text top="652" left="174" width="54" height="15" font="5"><i>is saying</i></text>
+<text top="652" left="233" width="181" height="15" font="4">have different tenses. Also,</text>
+<text top="652" left="418" width="121" height="15" font="5"><i>might accommodate</i></text>
+<text top="652" left="544" width="25" height="15" font="4">and</text>
+<text top="652" left="574" width="23" height="15" font="5"><i>seat</i></text>
+<text top="652" left="602" width="47" height="15" font="4">are not</text>
+<text top="670" left="74" width="250" height="15" font="4">synonymous, due to the modal verb</text>
+<text top="669" left="330" width="36" height="15" font="5"><i>might</i></text>
+<text top="670" left="366" width="282" height="15" font="4">. We consider sentences (5) and (6) to be</text>
+<text top="688" left="74" width="189" height="15" font="4">quasi-paraphrases, however.</text>
+<text top="705" left="101" width="547" height="15" font="4">Note that this article focuses on defining quasi-paraphrases. It does not provide</text>
+<text top="723" left="74" width="574" height="15" font="4">direct implementation/application results of using them. We believe, however, that</text>
+<text top="741" left="74" width="574" height="15" font="4">this work will allow computation-oriented researchers to focus their future work more</text>
+<text top="759" left="74" width="574" height="15" font="4">effectively on a subset of paraphrase types without concern for missing important</text>
+<text top="777" left="74" width="574" height="15" font="4">material, and it will provide linguistics-oriented researchers with a blueprint of the</text>
+<text top="795" left="74" width="307" height="15" font="4">overall distribution of the types of paraphrase.</text>
+<text top="831" left="74" width="261" height="15" font="6"><b>2. Paraphrasing Phenomena Classified</b></text>
+<text top="867" left="74" width="574" height="15" font="4">Although approximate equivalence is hard to characterize, it is not a completely un-</text>
+<text top="885" left="74" width="574" height="15" font="4">structured phenomenon. By studying various existing paraphrase theories—Mel’cuk</text>
+<text top="903" left="74" width="574" height="15" font="4">(2012), Harris (1981), Honeck (1971)—and through an analysis of paraphrases obtained</text>
+<text top="921" left="74" width="574" height="15" font="4">from two different corpora, we have discovered that one can identify a set of 25 classes</text>
+<text top="939" left="74" width="574" height="15" font="4">of quasi-paraphrases, with each class having its own specific way of relaxing the re-</text>
+<text top="957" left="74" width="574" height="15" font="4">quirement of strict semantic equivalence. In this section, we define and describe these</text>
+<text top="974" left="74" width="48" height="15" font="4">classes.</text>
+<text top="1028" left="74" width="22" height="15" font="4">464</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1080" width="729">
+	<fontspec id="10" size="15" family="EEKPDK+EURM10" color="#000000"/>
+	<fontspec id="11" size="15" family="EEKPBM+CMSY10" color="#000000"/>
+<text top="40" left="81" width="104" height="14" font="9">Bhagat and Hovy</text>
+<text top="40" left="522" width="132" height="14" font="9">What Is a Paraphrase?</text>
+<text top="96" left="107" width="442" height="15" font="4">The classes described here categorize quasi-paraphrases from the</text>
+<text top="96" left="554" width="38" height="15" font="5"><i>lexical</i></text>
+<text top="96" left="598" width="56" height="15" font="4">perspec-</text>
+<text top="114" left="81" width="574" height="15" font="4">tive. The lexical perspective defines paraphrases in terms of the kinds of lexical changes</text>
+<text top="132" left="81" width="567" height="15" font="4">that can take place in a sentence/phrase resulting in the generation of its paraphrases.</text>
+<text top="167" left="81" width="7" height="15" font="4">1</text>
+<text top="168" left="88" width="4" height="14" font="10">.</text>
+<text top="168" left="97" width="157" height="15" font="6"><b>Synonym substitution:</b></text>
+<text top="167" left="260" width="395" height="15" font="4">Replacing a word/phrase by a synonymous word/phrase,</text>
+<text top="185" left="81" width="574" height="15" font="4">in the appropriate context, results in a paraphrase of the original sentence/phrase. This</text>
+<text top="203" left="81" width="416" height="15" font="4">category covers the special case of genitives, where the clitic</text>
+<text top="203" left="503" width="9" height="15" font="5"><i>’s</i></text>
+<text top="203" left="518" width="136" height="15" font="4">is replaced by other</text>
+<text top="221" left="81" width="151" height="15" font="4">genitive indicators like</text>
+<text top="221" left="235" width="11" height="15" font="5"><i>of</i></text>
+<text top="221" left="246" width="4" height="15" font="4">,</text>
+<text top="221" left="253" width="33" height="15" font="5"><i>of the</i></text>
+<text top="221" left="285" width="369" height="15" font="4">, and so forth. This category also covers near-synonymy,</text>
+<text top="239" left="81" width="574" height="15" font="4">that is, it allows for changes in evaluation, connotation, and so on, of words or phrases</text>
+<text top="257" left="81" width="144" height="15" font="4">between paraphrases.</text>
+<text top="257" left="228" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="295" left="91" width="17" height="15" font="4">(a)</text>
+<text top="295" left="134" width="48" height="15" font="4">Google</text>
+<text top="295" left="186" width="42" height="15" font="5"><i>bought</i></text>
+<text top="295" left="231" width="62" height="15" font="4">YouTube.</text>
+<text top="292" left="297" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="295" left="316" width="48" height="15" font="4">Google</text>
+<text top="295" left="367" width="51" height="15" font="5"><i>acquired</i></text>
+<text top="295" left="422" width="62" height="15" font="4">YouTube.</text>
+<text top="322" left="90" width="18" height="15" font="4">(b)</text>
+<text top="322" left="134" width="50" height="15" font="4">Chris is</text>
+<text top="322" left="188" width="26" height="15" font="5"><i>slim</i></text>
+<text top="322" left="214" width="4" height="15" font="4">.</text>
+<text top="319" left="222" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="322" left="241" width="50" height="15" font="4">Chris is</text>
+<text top="322" left="295" width="43" height="15" font="5"><i>slender</i></text>
+<text top="322" left="338" width="4" height="15" font="4">.</text>
+<text top="319" left="345" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="322" left="364" width="50" height="15" font="4">Chris is</text>
+<text top="322" left="418" width="41" height="15" font="5"><i>skinny</i></text>
+<text top="322" left="459" width="4" height="15" font="4">.</text>
+<text top="361" left="81" width="7" height="15" font="4">2</text>
+<text top="361" left="88" width="4" height="14" font="10">.</text>
+<text top="361" left="98" width="157" height="15" font="6"><b>Antonym substitution:</b></text>
+<text top="361" left="259" width="395" height="15" font="4">Replacing a word/phrase by its antonym accompanied by</text>
+<text top="379" left="81" width="574" height="15" font="4">a negation or by negating some other word, in the appropriate context, results in a</text>
+<text top="397" left="81" width="574" height="15" font="4">paraphrase of the original sentence/phrase. This substitution may be accompanied by</text>
+<text top="414" left="81" width="350" height="15" font="4">the addition/deletion of appropriate function words.</text>
+<text top="414" left="435" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="453" left="91" width="17" height="15" font="4">(a)</text>
+<text top="453" left="134" width="21" height="15" font="4">Pat</text>
+<text top="453" left="159" width="17" height="15" font="5"><i>ate</i></text>
+<text top="453" left="177" width="4" height="15" font="4">.</text>
+<text top="449" left="184" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="453" left="203" width="21" height="15" font="4">Pat</text>
+<text top="453" left="228" width="83" height="15" font="5"><i>did not starve</i></text>
+<text top="453" left="312" width="4" height="15" font="4">.</text>
+<text top="491" left="81" width="7" height="15" font="4">3</text>
+<text top="491" left="88" width="4" height="14" font="10">.</text>
+<text top="491" left="98" width="156" height="15" font="6"><b>Converse substitution:</b></text>
+<text top="491" left="261" width="394" height="15" font="4">Replacing a word/phrase with its converse and inverting</text>
+<text top="509" left="81" width="574" height="15" font="4">the relationship between the constituents of a sentence/phrase, in the appropriate</text>
+<text top="527" left="81" width="574" height="15" font="4">context, results in a paraphrase of the original sentence/phrase, presenting the sit-</text>
+<text top="545" left="81" width="574" height="15" font="4">uation from the converse perspective. This substitution may be accompanied by the</text>
+<text top="563" left="81" width="506" height="15" font="4">addition/deletion of appropriate function words and sentence restructuring.</text>
+<text top="563" left="590" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="601" left="91" width="17" height="15" font="4">(a)</text>
+<text top="601" left="134" width="48" height="15" font="4">Google</text>
+<text top="601" left="186" width="42" height="15" font="5"><i>bought</i></text>
+<text top="601" left="231" width="62" height="15" font="4">YouTube.</text>
+<text top="598" left="297" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="601" left="316" width="58" height="15" font="4">YouTube</text>
+<text top="601" left="377" width="66" height="15" font="5"><i>was sold to</i></text>
+<text top="601" left="448" width="51" height="15" font="4">Google.</text>
+<text top="639" left="81" width="7" height="15" font="4">4</text>
+<text top="640" left="88" width="4" height="14" font="10">.</text>
+<text top="640" left="97" width="114" height="15" font="6"><b>Change of voice:</b></text>
+<text top="639" left="215" width="439" height="15" font="4">Changing a verb from its active to passive form and vice versa re-</text>
+<text top="657" left="81" width="574" height="15" font="4">sults in a paraphrase of the original sentence/phrase. This change may be accompanied</text>
+<text top="675" left="81" width="574" height="15" font="4">by the addition/deletion of appropriate function words and sentence restructuring.</text>
+<text top="693" left="81" width="462" height="15" font="4">This often generates the most strictly meaning-preserving paraphrase.</text>
+<text top="693" left="547" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="732" left="91" width="17" height="15" font="4">(a)</text>
+<text top="732" left="134" width="21" height="15" font="4">Pat</text>
+<text top="731" left="159" width="30" height="15" font="5"><i>loves</i></text>
+<text top="732" left="193" width="40" height="15" font="4">Chris.</text>
+<text top="728" left="236" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="732" left="255" width="36" height="15" font="4">Chris</text>
+<text top="731" left="295" width="63" height="15" font="5"><i>is loved by</i></text>
+<text top="732" left="362" width="25" height="15" font="4">Pat.</text>
+<text top="770" left="81" width="7" height="15" font="4">5</text>
+<text top="770" left="88" width="4" height="14" font="10">.</text>
+<text top="770" left="96" width="124" height="15" font="6"><b>Change of person:</b></text>
+<text top="770" left="223" width="431" height="15" font="4">Changing the grammatical person of a referenced object results in</text>
+<text top="788" left="81" width="574" height="15" font="4">a paraphrase of the original sentence/phrase. This change may be accompanied by the</text>
+<text top="806" left="81" width="326" height="15" font="4">addition/deletion of appropriate function words.</text>
+<text top="806" left="410" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="844" left="91" width="17" height="15" font="4">(a)</text>
+<text top="844" left="134" width="67" height="15" font="4">Pat said, “</text>
+<text top="844" left="202" width="5" height="15" font="5"><i>I</i></text>
+<text top="844" left="211" width="90" height="15" font="4">like football.”</text>
+<text top="841" left="304" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="844" left="323" width="82" height="15" font="4">Pat said that</text>
+<text top="844" left="409" width="13" height="15" font="5"><i>he</i></text>
+<text top="844" left="426" width="91" height="15" font="4">liked football.</text>
+<text top="882" left="81" width="7" height="15" font="4">6</text>
+<text top="883" left="88" width="4" height="14" font="10">.</text>
+<text top="882" left="100" width="236" height="15" font="6"><b>Pronoun/Co-referent substitution:</b></text>
+<text top="882" left="344" width="311" height="15" font="4">Replacing a pronoun by the noun phrase it</text>
+<text top="900" left="81" width="574" height="15" font="4">co-refers with results in a paraphrase of the original sentence/phrase. This also often</text>
+<text top="918" left="81" width="393" height="15" font="4">generates the most strictly meaning-preserving paraphrase.</text>
+<text top="918" left="477" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="957" left="91" width="17" height="15" font="4">(a)</text>
+<text top="957" left="134" width="155" height="15" font="4">Pat likes Chris, because</text>
+<text top="956" left="293" width="19" height="15" font="5"><i>she</i></text>
+<text top="957" left="316" width="56" height="15" font="4">is smart.</text>
+<text top="953" left="375" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="957" left="394" width="155" height="15" font="4">Pat likes Chris, because</text>
+<text top="956" left="553" width="33" height="15" font="5"><i>Chris</i></text>
+<text top="974" left="134" width="56" height="15" font="4">is smart.</text>
+<text top="1028" left="632" width="22" height="15" font="4">465</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1080" width="729">
+<text top="40" left="74" width="159" height="14" font="9">Computational Linguistics</text>
+<text top="40" left="518" width="130" height="14" font="9">Volume 39, Number 3</text>
+<text top="96" left="74" width="7" height="15" font="4">7</text>
+<text top="96" left="82" width="4" height="14" font="10">.</text>
+<text top="96" left="91" width="132" height="15" font="6"><b>Repetition/Ellipsis:</b></text>
+<text top="96" left="228" width="420" height="15" font="4">Ellipsis or elliptical construction results in a paraphrase of the</text>
+<text top="114" left="74" width="574" height="15" font="4">original sentence/phrase. Similarly, this often generates the most strictly meaning-</text>
+<text top="132" left="74" width="153" height="15" font="4">preserving paraphrase.</text>
+<text top="131" left="231" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="170" left="85" width="17" height="15" font="4">(a)</text>
+<text top="170" left="128" width="198" height="15" font="4">Pat can run fast and Chris can</text>
+<text top="170" left="330" width="48" height="15" font="5"><i>run fast</i></text>
+<text top="170" left="377" width="32" height="15" font="4">, too.</text>
+<text top="167" left="413" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="170" left="432" width="171" height="15" font="4">Pat can run fast and Chris</text>
+<text top="188" left="128" width="55" height="15" font="4">can, too.</text>
+<text top="227" left="74" width="7" height="15" font="4">8</text>
+<text top="227" left="82" width="4" height="14" font="10">.</text>
+<text top="227" left="90" width="176" height="15" font="6"><b>Function word variations:</b></text>
+<text top="227" left="270" width="378" height="15" font="4">Changing the function words in a sentence/phrase with-</text>
+<text top="245" left="74" width="574" height="15" font="4">out affecting its semantics, in the appropriate context, results in a paraphrase of the</text>
+<text top="262" left="74" width="574" height="15" font="4">original sentence/phrase. This can involve replacing a light verb by another light verb,</text>
+<text top="280" left="74" width="574" height="15" font="4">replacing a light verb by copula, replacing certain prepositions with other prepositions,</text>
+<text top="298" left="74" width="574" height="15" font="4">replacing a determiner by another determiner, replacing a determiner by a preposition</text>
+<text top="316" left="74" width="502" height="15" font="4">and vice versa, and addition/removal of a preposition and/or a determiner.</text>
+<text top="316" left="580" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="355" left="85" width="17" height="15" font="4">(a)</text>
+<text top="355" left="128" width="48" height="15" font="4">Results</text>
+<text top="355" left="180" width="11" height="15" font="5"><i>of</i></text>
+<text top="355" left="196" width="239" height="15" font="4">the competition have been declared.</text>
+<text top="351" left="439" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="355" left="458" width="48" height="15" font="4">Results</text>
+<text top="355" left="510" width="17" height="15" font="5"><i>for</i></text>
+<text top="355" left="530" width="21" height="15" font="4">the</text>
+<text top="373" left="128" width="214" height="15" font="4">competition have been declared.</text>
+<text top="400" left="84" width="18" height="15" font="4">(b)</text>
+<text top="400" left="128" width="21" height="15" font="4">Pat</text>
+<text top="400" left="153" width="118" height="15" font="5"><i>showed a nice demo</i></text>
+<text top="400" left="271" width="4" height="15" font="4">.</text>
+<text top="396" left="278" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="400" left="297" width="32" height="15" font="4">Pat’s</text>
+<text top="400" left="333" width="87" height="15" font="5"><i>demo was nice</i></text>
+<text top="400" left="420" width="4" height="15" font="4">.</text>
+<text top="438" left="74" width="7" height="15" font="4">9</text>
+<text top="439" left="82" width="4" height="14" font="10">.</text>
+<text top="438" left="89" width="177" height="15" font="6"><b>Actor/Action substitution:</b></text>
+<text top="438" left="270" width="378" height="15" font="4">Replacing the name of an action by a word/phrase denot-</text>
+<text top="456" left="74" width="574" height="15" font="4">ing the person doing the action (actor) and vice versa, in the appropriate context, results</text>
+<text top="474" left="74" width="574" height="15" font="4">in a paraphrase of the original sentence/phrase. This substitution may be accompanied</text>
+<text top="492" left="74" width="371" height="15" font="4">by the addition/deletion of appropriate function words.</text>
+<text top="492" left="449" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="531" left="85" width="17" height="15" font="4">(a)</text>
+<text top="531" left="128" width="85" height="15" font="4">I dislike rash</text>
+<text top="530" left="217" width="42" height="15" font="5"><i>drivers</i></text>
+<text top="531" left="259" width="4" height="15" font="4">.</text>
+<text top="527" left="267" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="531" left="286" width="85" height="15" font="4">I dislike rash</text>
+<text top="530" left="374" width="45" height="15" font="5"><i>driving</i></text>
+<text top="531" left="419" width="4" height="15" font="4">.</text>
+<text top="569" left="74" width="15" height="15" font="4">10</text>
+<text top="570" left="89" width="4" height="14" font="10">.</text>
+<text top="569" left="98" width="278" height="15" font="6"><b>Verb/“Semantic-role noun” substitution:</b></text>
+<text top="569" left="380" width="268" height="15" font="4">Replacing a verb by a noun correspond-</text>
+<text top="587" left="74" width="574" height="15" font="4">ing to the agent of the action or the patient of the action or the instrument used for</text>
+<text top="605" left="74" width="574" height="15" font="4">the action or the medium used for the action, in the appropriate context, results in</text>
+<text top="623" left="74" width="574" height="15" font="4">a paraphrase of the original sentence/phrase. This substitution may be accompanied</text>
+<text top="641" left="74" width="574" height="15" font="4">by the addition/deletion of appropriate function words and sentence restructuring.</text>
+<text top="659" left="74" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="697" left="85" width="17" height="15" font="4">(a)</text>
+<text top="697" left="128" width="21" height="15" font="4">Pat</text>
+<text top="697" left="153" width="43" height="15" font="5"><i>teaches</i></text>
+<text top="697" left="200" width="40" height="15" font="4">Chris.</text>
+<text top="694" left="243" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="697" left="262" width="86" height="15" font="4">Pat is Chris’s</text>
+<text top="697" left="352" width="43" height="15" font="5"><i>teacher</i></text>
+<text top="697" left="394" width="4" height="15" font="4">.</text>
+<text top="724" left="84" width="18" height="15" font="4">(b)</text>
+<text top="724" left="128" width="21" height="15" font="4">Pat</text>
+<text top="724" left="153" width="43" height="15" font="5"><i>teaches</i></text>
+<text top="724" left="200" width="40" height="15" font="4">Chris.</text>
+<text top="721" left="243" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="724" left="262" width="86" height="15" font="4">Chris is Pat’s</text>
+<text top="724" left="352" width="46" height="15" font="5"><i>student</i></text>
+<text top="724" left="397" width="4" height="15" font="4">.</text>
+<text top="751" left="86" width="17" height="15" font="4">(c)</text>
+<text top="751" left="128" width="21" height="15" font="4">Pat</text>
+<text top="751" left="153" width="27" height="15" font="5"><i>tiled</i></text>
+<text top="751" left="184" width="125" height="15" font="4">his bathroom floor.</text>
+<text top="748" left="313" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="751" left="332" width="21" height="15" font="4">Pat</text>
+<text top="751" left="357" width="80" height="15" font="5"><i>installed tiles</i></text>
+<text top="751" left="440" width="146" height="15" font="4">on his bathroom floor.</text>
+<text top="790" left="74" width="15" height="15" font="4">11</text>
+<text top="790" left="89" width="4" height="14" font="10">.</text>
+<text top="790" left="100" width="232" height="15" font="6"><b>Manipulator/Device substitution:</b></text>
+<text top="790" left="339" width="309" height="15" font="4">Replacing the name of a device by a word/</text>
+<text top="808" left="74" width="574" height="15" font="4">phrase denoting the person using the device (manipulator) and vice versa, in the</text>
+<text top="826" left="74" width="574" height="15" font="4">appropriate context, results in a paraphrase of the original sentence/phrase. This</text>
+<text top="844" left="74" width="574" height="15" font="4">substitution may be accompanied by the addition/deletion of appropriate function</text>
+<text top="861" left="74" width="45" height="15" font="4">words.</text>
+<text top="861" left="124" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="900" left="85" width="17" height="15" font="4">(a)</text>
+<text top="900" left="128" width="25" height="15" font="4">The</text>
+<text top="900" left="157" width="27" height="15" font="5"><i>pilot</i></text>
+<text top="900" left="188" width="238" height="15" font="4">took off despite the stormy weather.</text>
+<text top="897" left="430" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="900" left="449" width="25" height="15" font="4">The</text>
+<text top="900" left="477" width="32" height="15" font="5"><i>plane</i></text>
+<text top="900" left="513" width="103" height="15" font="4">took off despite</text>
+<text top="918" left="128" width="131" height="15" font="4">the stormy weather.</text>
+<text top="957" left="74" width="15" height="15" font="4">12</text>
+<text top="957" left="89" width="4" height="14" font="10">.</text>
+<text top="957" left="97" width="202" height="15" font="6"><b>General/Specific substitution:</b></text>
+<text top="957" left="303" width="345" height="15" font="4">Replacing a word/phrase by a more general or more</text>
+<text top="974" left="74" width="574" height="15" font="4">specific word/phrase, in the appropriate context, results in a paraphrase of the original</text>
+<text top="1028" left="74" width="22" height="15" font="4">466</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1080" width="729">
+<text top="40" left="81" width="104" height="14" font="9">Bhagat and Hovy</text>
+<text top="40" left="522" width="132" height="14" font="9">What Is a Paraphrase?</text>
+<text top="96" left="81" width="574" height="15" font="4">sentence/phrase. This substitution may be accompanied by the addition/deletion of ap-</text>
+<text top="114" left="81" width="574" height="15" font="4">propriate function words. Hypernym/hyponym substitution is a part of this category.</text>
+<text top="132" left="81" width="266" height="15" font="4">This often generates a quasi-paraphrase.</text>
+<text top="131" left="351" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="168" left="91" width="17" height="15" font="4">(a)</text>
+<text top="168" left="134" width="85" height="15" font="4">I dislike rash</text>
+<text top="168" left="223" width="42" height="15" font="5"><i>drivers</i></text>
+<text top="168" left="265" width="4" height="15" font="4">.</text>
+<text top="165" left="273" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="168" left="292" width="85" height="15" font="4">I dislike rash</text>
+<text top="168" left="380" width="56" height="15" font="5"><i>motorists</i></text>
+<text top="168" left="437" width="4" height="15" font="4">.</text>
+<text top="195" left="90" width="18" height="15" font="4">(b)</text>
+<text top="195" left="134" width="123" height="15" font="4">Pat is flying in this</text>
+<text top="195" left="261" width="51" height="15" font="5"><i>weekend</i></text>
+<text top="195" left="312" width="4" height="15" font="4">.</text>
+<text top="192" left="319" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="195" left="338" width="123" height="15" font="4">Pat is flying in this</text>
+<text top="195" left="465" width="56" height="15" font="5"><i>Saturday</i></text>
+<text top="195" left="521" width="4" height="15" font="4">.</text>
+<text top="232" left="81" width="15" height="15" font="4">13</text>
+<text top="232" left="95" width="4" height="14" font="10">.</text>
+<text top="232" left="106" width="160" height="15" font="6"><b>Metaphor substitution:</b></text>
+<text top="232" left="272" width="382" height="15" font="4">Replacing a noun by its standard metaphorical use and</text>
+<text top="250" left="81" width="574" height="15" font="4">vice versa, in the appropriate context, results in a paraphrase of the original sentence/</text>
+<text top="268" left="81" width="574" height="15" font="4">phrase. This substitution may be accompanied by the addition/deletion of appropriate</text>
+<text top="286" left="81" width="105" height="15" font="4">function words.</text>
+<text top="286" left="189" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="322" left="91" width="17" height="15" font="4">(a)</text>
+<text top="322" left="134" width="147" height="15" font="4">I had to drive through</text>
+<text top="322" left="285" width="18" height="15" font="5"><i>fog</i></text>
+<text top="322" left="307" width="40" height="15" font="4">today.</text>
+<text top="319" left="351" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="322" left="370" width="147" height="15" font="4">I had to drive through</text>
+<text top="322" left="520" width="73" height="15" font="5"><i>a wall of fog</i></text>
+<text top="340" left="134" width="40" height="15" font="4">today.</text>
+<text top="367" left="90" width="18" height="15" font="4">(b)</text>
+<text top="367" left="134" width="287" height="15" font="4">Immigrants have used this network to send</text>
+<text top="367" left="425" width="26" height="15" font="5"><i>cash</i></text>
+<text top="367" left="451" width="4" height="15" font="4">.</text>
+<text top="364" left="459" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="367" left="478" width="148" height="15" font="4">Immigrants have used</text>
+<text top="385" left="134" width="135" height="15" font="4">this network to send</text>
+<text top="385" left="273" width="87" height="15" font="5"><i>stashes of cash</i></text>
+<text top="385" left="360" width="4" height="15" font="4">.</text>
+<text top="422" left="81" width="15" height="15" font="4">14</text>
+<text top="422" left="95" width="4" height="14" font="10">.</text>
+<text top="422" left="106" width="170" height="15" font="6"><b>Part/Whole substitution:</b></text>
+<text top="422" left="282" width="372" height="15" font="4">Replacing a part by its corresponding whole and vice</text>
+<text top="440" left="81" width="574" height="15" font="4">versa, in the appropriate context, results in a paraphrase of the original sentence/</text>
+<text top="458" left="81" width="574" height="15" font="4">phrase. This substitution may be accompanied by the addition/deletion of appropriate</text>
+<text top="476" left="81" width="105" height="15" font="4">function words.</text>
+<text top="475" left="189" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="512" left="91" width="17" height="15" font="4">(a)</text>
+<text top="512" left="134" width="65" height="15" font="4">American</text>
+<text top="512" left="203" width="55" height="15" font="5"><i>airplanes</i></text>
+<text top="512" left="262" width="201" height="15" font="4">pounded the Taliban defenses.</text>
+<text top="509" left="467" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="512" left="486" width="65" height="15" font="4">American</text>
+<text top="512" left="554" width="45" height="15" font="5"><i>airforce</i></text>
+<text top="530" left="134" width="201" height="15" font="4">pounded the Taliban defenses.</text>
+<text top="567" left="81" width="15" height="15" font="4">15</text>
+<text top="567" left="95" width="4" height="14" font="10">.</text>
+<text top="567" left="105" width="159" height="15" font="6"><b>Verb/Noun conversion:</b></text>
+<text top="567" left="269" width="385" height="15" font="4">Replacing a verb by its corresponding nominalized noun</text>
+<text top="585" left="81" width="574" height="15" font="4">form and vice versa, in the appropriate context, results in a paraphrase of the original</text>
+<text top="603" left="81" width="574" height="15" font="4">sentence/phrase. This substitution may be accompanied by the addition/deletion of</text>
+<text top="621" left="81" width="366" height="15" font="4">appropriate function words and sentence restructuring.</text>
+<text top="621" left="450" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="657" left="91" width="17" height="15" font="4">(a)</text>
+<text top="657" left="134" width="68" height="15" font="4">The police</text>
+<text top="657" left="206" width="74" height="15" font="5"><i>interrogated</i></text>
+<text top="657" left="284" width="84" height="15" font="4">the suspects.</text>
+<text top="654" left="371" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="657" left="390" width="235" height="15" font="4">The police subjected the suspects to</text>
+<text top="675" left="134" width="16" height="15" font="4">an</text>
+<text top="675" left="154" width="79" height="15" font="5"><i>interrogation</i></text>
+<text top="675" left="234" width="4" height="15" font="4">.</text>
+<text top="702" left="90" width="18" height="15" font="4">(b)</text>
+<text top="702" left="134" width="63" height="15" font="4">The virus</text>
+<text top="702" left="201" width="39" height="15" font="5"><i>spread</i></text>
+<text top="702" left="243" width="108" height="15" font="4">over two weeks.</text>
+<text top="699" left="355" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="702" left="374" width="115" height="15" font="4">Two weeks saw a</text>
+<text top="702" left="492" width="59" height="15" font="5"><i>spreading</i></text>
+<text top="702" left="555" width="38" height="15" font="4">of the</text>
+<text top="720" left="134" width="38" height="15" font="4">virus.</text>
+<text top="757" left="81" width="15" height="15" font="4">16</text>
+<text top="757" left="95" width="4" height="14" font="10">.</text>
+<text top="757" left="104" width="185" height="15" font="6"><b>Verb/Adjective conversion:</b></text>
+<text top="757" left="294" width="360" height="15" font="4">Replacing a verb by the corresponding adjective form</text>
+<text top="775" left="81" width="574" height="15" font="4">and vice versa, in the appropriate context, results in a paraphrase of the original</text>
+<text top="793" left="81" width="574" height="15" font="4">sentence/phrase. This substitution may be accompanied by the addition/deletion of</text>
+<text top="811" left="81" width="366" height="15" font="4">appropriate function words and sentence restructuring.</text>
+<text top="810" left="450" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="847" left="91" width="17" height="15" font="4">(a)</text>
+<text top="847" left="134" width="21" height="15" font="4">Pat</text>
+<text top="847" left="159" width="30" height="15" font="5"><i>loves</i></text>
+<text top="847" left="193" width="40" height="15" font="4">Chris.</text>
+<text top="844" left="236" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="847" left="255" width="50" height="15" font="4">Chris is</text>
+<text top="847" left="309" width="42" height="15" font="5"><i>lovable</i></text>
+<text top="847" left="355" width="42" height="15" font="4">to Pat.</text>
+<text top="884" left="81" width="15" height="15" font="4">17</text>
+<text top="884" left="95" width="4" height="14" font="10">.</text>
+<text top="884" left="105" width="171" height="15" font="6"><b>Verb/Adverb conversion:</b></text>
+<text top="884" left="281" width="374" height="15" font="4">Replacing a verb by its corresponding adverb form and</text>
+<text top="902" left="81" width="574" height="15" font="4">vice versa, in the appropriate context, results in a paraphrase of the original sentence/</text>
+<text top="920" left="81" width="574" height="15" font="4">phrase. This substitution may be accompanied by the addition/deletion of appropriate</text>
+<text top="938" left="81" width="284" height="15" font="4">function words and sentence restructuring.</text>
+<text top="938" left="369" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="974" left="91" width="17" height="15" font="4">(a)</text>
+<text top="974" left="134" width="21" height="15" font="4">Pat</text>
+<text top="974" left="159" width="44" height="15" font="5"><i>boasted</i></text>
+<text top="974" left="207" width="103" height="15" font="4">about his work.</text>
+<text top="971" left="314" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="974" left="333" width="64" height="15" font="4">Pat spoke</text>
+<text top="974" left="401" width="59" height="15" font="5"><i>boastfully</i></text>
+<text top="974" left="464" width="103" height="15" font="4">about his work.</text>
+<text top="1028" left="632" width="22" height="15" font="4">467</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1080" width="729">
+<text top="40" left="74" width="159" height="14" font="9">Computational Linguistics</text>
+<text top="40" left="518" width="130" height="14" font="9">Volume 39, Number 3</text>
+<text top="96" left="74" width="15" height="15" font="4">18</text>
+<text top="96" left="89" width="4" height="14" font="10">.</text>
+<text top="96" left="98" width="192" height="15" font="6"><b>Noun/Adjective conversion:</b></text>
+<text top="96" left="294" width="354" height="15" font="4">Replacing a verb by its corresponding adjective form</text>
+<text top="114" left="74" width="574" height="15" font="4">and vice versa, in the appropriate context, results in a paraphrase of the original</text>
+<text top="132" left="74" width="574" height="15" font="4">sentence/phrase. This substitution may be accompanied by the addition/deletion of</text>
+<text top="149" left="74" width="366" height="15" font="4">appropriate function words and sentence restructuring.</text>
+<text top="149" left="444" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="185" left="85" width="17" height="15" font="4">(a)</text>
+<text top="185" left="128" width="84" height="15" font="4">I’ll fly by the</text>
+<text top="185" left="216" width="22" height="15" font="5"><i>end</i></text>
+<text top="185" left="241" width="50" height="15" font="4">of June.</text>
+<text top="182" left="295" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="185" left="314" width="39" height="15" font="4">I’ll fly</text>
+<text top="185" left="357" width="22" height="15" font="5"><i>late</i></text>
+<text top="185" left="382" width="34" height="15" font="4">June.</text>
+<text top="221" left="74" width="15" height="15" font="4">19</text>
+<text top="222" left="89" width="4" height="14" font="10">.</text>
+<text top="221" left="98" width="251" height="15" font="6"><b>Verb-preposition/Noun substitution:</b></text>
+<text top="221" left="352" width="296" height="15" font="4">Replacing a verb and a preposition denoting</text>
+<text top="239" left="74" width="574" height="15" font="4">location by a noun denoting the location and vice versa, in the appropriate context,</text>
+<text top="257" left="74" width="574" height="15" font="4">results in a paraphrase of the original sentence/phrase. This substitution may be</text>
+<text top="275" left="74" width="574" height="15" font="4">accompanied by the addition/deletion of appropriate function words and sentence</text>
+<text top="293" left="74" width="90" height="15" font="4">restructuring.</text>
+<text top="293" left="168" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="329" left="85" width="17" height="15" font="4">(a)</text>
+<text top="329" left="128" width="109" height="15" font="4">The finalists will</text>
+<text top="329" left="241" width="42" height="15" font="5"><i>play in</i></text>
+<text top="329" left="287" width="105" height="15" font="4">Giants stadium.</text>
+<text top="325" left="396" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="329" left="415" width="174" height="15" font="4">Giants stadium will be the</text>
+<text top="347" left="128" width="69" height="15" font="5"><i>playground</i></text>
+<text top="347" left="201" width="102" height="15" font="4">for the finalists.</text>
+<text top="383" left="74" width="15" height="15" font="4">20</text>
+<text top="383" left="89" width="4" height="14" font="10">.</text>
+<text top="383" left="98" width="115" height="15" font="6"><b>Change of tense:</b></text>
+<text top="383" left="219" width="430" height="15" font="4">Changing the tense of a verb, in the appropriate context, results</text>
+<text top="401" left="74" width="574" height="15" font="4">in a paraphrase of the original sentence/phrase. This change may be accompanied</text>
+<text top="418" left="74" width="574" height="15" font="4">by the addition/deletion of appropriate function words. This often generates a quasi-</text>
+<text top="436" left="74" width="574" height="15" font="4">paraphrase, although it might be semantically less accurate than many other quasi-</text>
+<text top="454" left="74" width="84" height="15" font="4">paraphrases.</text>
+<text top="454" left="163" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="490" left="85" width="17" height="15" font="4">(a)</text>
+<text top="490" left="128" width="21" height="15" font="4">Pat</text>
+<text top="490" left="153" width="32" height="15" font="5"><i>loved</i></text>
+<text top="490" left="189" width="40" height="15" font="4">Chris.</text>
+<text top="487" left="232" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="490" left="251" width="21" height="15" font="4">Pat</text>
+<text top="490" left="276" width="30" height="15" font="5"><i>loves</i></text>
+<text top="490" left="310" width="40" height="15" font="4">Chris.</text>
+<text top="526" left="74" width="15" height="15" font="4">21</text>
+<text top="527" left="89" width="4" height="14" font="10">.</text>
+<text top="526" left="97" width="120" height="15" font="6"><b>Change of aspect:</b></text>
+<text top="526" left="221" width="427" height="15" font="4">Changing the aspect of a verb, in the appropriate context, results</text>
+<text top="544" left="74" width="574" height="15" font="4">in a paraphrase of the original sentence/phrase. This change may be accompanied by</text>
+<text top="562" left="74" width="350" height="15" font="4">the addition/deletion of appropriate function words.</text>
+<text top="562" left="429" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="598" left="85" width="17" height="15" font="4">(a)</text>
+<text top="598" left="128" width="36" height="15" font="4">Pat is</text>
+<text top="598" left="168" width="36" height="15" font="5"><i>flying</i></text>
+<text top="598" left="207" width="57" height="15" font="4">in today.</text>
+<text top="594" left="267" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="598" left="286" width="21" height="15" font="4">Pat</text>
+<text top="598" left="312" width="24" height="15" font="5"><i>flies</i></text>
+<text top="598" left="339" width="57" height="15" font="4">in today.</text>
+<text top="634" left="74" width="15" height="15" font="4">22</text>
+<text top="634" left="89" width="4" height="14" font="10">.</text>
+<text top="634" left="99" width="142" height="15" font="6"><b>Change of modality:</b></text>
+<text top="634" left="247" width="402" height="15" font="4">Addition/deletion of a modal or substitution of one modal</text>
+<text top="652" left="74" width="574" height="15" font="4">by another, in the appropriate context, results in a paraphrase of the original sen-</text>
+<text top="670" left="74" width="574" height="15" font="4">tence/phrase. This change may be accompanied by the addition/deletion of appro-</text>
+<text top="688" left="74" width="574" height="15" font="4">priate function words. This often generates a quasi-paraphrase, although it might be</text>
+<text top="705" left="74" width="412" height="15" font="4">semantically less accurate than many other quasi-paraphrases.</text>
+<text top="705" left="490" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="741" left="85" width="17" height="15" font="4">(a)</text>
+<text top="741" left="128" width="48" height="15" font="4">Google</text>
+<text top="741" left="179" width="57" height="15" font="5"><i>must buy</i></text>
+<text top="741" left="240" width="62" height="15" font="4">YouTube.</text>
+<text top="738" left="306" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="741" left="325" width="48" height="15" font="4">Google</text>
+<text top="741" left="376" width="42" height="15" font="5"><i>bought</i></text>
+<text top="741" left="422" width="62" height="15" font="4">YouTube.</text>
+<text top="768" left="84" width="18" height="15" font="4">(b)</text>
+<text top="768" left="128" width="109" height="15" font="4">The government</text>
+<text top="768" left="241" width="37" height="15" font="5"><i>wants</i></text>
+<text top="768" left="281" width="143" height="15" font="4">to boost the economy.</text>
+<text top="765" left="428" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="768" left="447" width="109" height="15" font="4">The government</text>
+<text top="768" left="560" width="33" height="15" font="5"><i>hopes</i></text>
+<text top="768" left="597" width="13" height="15" font="4">to</text>
+<text top="786" left="128" width="126" height="15" font="4">boost the economy.</text>
+<text top="822" left="74" width="15" height="15" font="4">23</text>
+<text top="822" left="89" width="4" height="14" font="10">.</text>
+<text top="822" left="98" width="150" height="15" font="6"><b>Semantic implication:</b></text>
+<text top="822" left="252" width="396" height="15" font="4">Replacing a word/phrase denoting an action, event, and so</text>
+<text top="840" left="74" width="574" height="15" font="4">forth, by a word/phrase denoting its possible future effect, in the appropriate context,</text>
+<text top="858" left="74" width="574" height="15" font="4">results in a paraphrase of the original sentence/phrase. This may be accompanied by</text>
+<text top="876" left="74" width="574" height="15" font="4">the addition/deletion of appropriate function words and sentence restructuring. This</text>
+<text top="894" left="74" width="234" height="15" font="4">often generates a quasi-paraphrase.</text>
+<text top="894" left="312" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="930" left="85" width="17" height="15" font="4">(a)</text>
+<text top="930" left="128" width="48" height="15" font="4">Google</text>
+<text top="930" left="179" width="100" height="15" font="5"><i>is in talks to buy</i></text>
+<text top="930" left="283" width="62" height="15" font="4">YouTube.</text>
+<text top="926" left="349" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="930" left="368" width="48" height="15" font="4">Google</text>
+<text top="930" left="419" width="42" height="15" font="5"><i>bought</i></text>
+<text top="930" left="464" width="62" height="15" font="4">YouTube.</text>
+<text top="957" left="84" width="18" height="15" font="4">(b)</text>
+<text top="957" left="128" width="107" height="15" font="4">The Marines are</text>
+<text top="956" left="239" width="48" height="15" font="5"><i>fighting</i></text>
+<text top="957" left="290" width="88" height="15" font="4">the terrorists.</text>
+<text top="953" left="382" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="957" left="401" width="107" height="15" font="4">The Marines are</text>
+<text top="956" left="511" width="70" height="15" font="5"><i>eliminating</i></text>
+<text top="974" left="128" width="88" height="15" font="4">the terrorists.</text>
+<text top="1028" left="74" width="22" height="15" font="4">468</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1080" width="729">
+	<fontspec id="12" size="10" family="EEKPBK+URWPalladioL-Roma" color="#000000"/>
+	<fontspec id="13" size="11" family="EEKPCA+URWPalladioL-Ital" color="#000000"/>
+<text top="40" left="81" width="104" height="14" font="9">Bhagat and Hovy</text>
+<text top="40" left="522" width="132" height="14" font="9">What Is a Paraphrase?</text>
+<text top="96" left="81" width="15" height="15" font="4">24</text>
+<text top="96" left="95" width="4" height="14" font="10">.</text>
+<text top="96" left="104" width="259" height="15" font="6"><b>Approximate numerical equivalences:</b></text>
+<text top="96" left="367" width="288" height="15" font="4">Replacing a numerical expression (a word/</text>
+<text top="114" left="81" width="574" height="15" font="4">phrase denoting a number, often with a unit) by an approximately equivalent nu-</text>
+<text top="132" left="81" width="574" height="15" font="4">merical expression (even perhaps with change of unit), in the appropriate context,</text>
+<text top="149" left="81" width="574" height="15" font="4">results in a paraphrase of the original sentence/phrase. This often generates a quasi-</text>
+<text top="167" left="81" width="78" height="15" font="4">paraphrase.</text>
+<text top="167" left="162" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="206" left="91" width="17" height="15" font="4">(a)</text>
+<text top="206" left="134" width="50" height="15" font="4">At least</text>
+<text top="206" left="189" width="15" height="15" font="5"><i>23</i></text>
+<text top="206" left="207" width="285" height="15" font="4">U.S. soldiers were killed in Iraq last month.</text>
+<text top="202" left="496" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="206" left="515" width="42" height="15" font="4">About</text>
+<text top="206" left="561" width="15" height="15" font="5"><i>25</i></text>
+<text top="206" left="579" width="27" height="15" font="4">U.S.</text>
+<text top="224" left="134" width="254" height="15" font="4">soldiers were killed in Iraq last month.</text>
+<text top="251" left="90" width="18" height="15" font="4">(b)</text>
+<text top="251" left="134" width="90" height="15" font="4">Disneyland is</text>
+<text top="251" left="229" width="15" height="15" font="5"><i>32</i></text>
+<text top="251" left="247" width="107" height="15" font="4">miles from here.</text>
+<text top="247" left="358" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="251" left="377" width="142" height="15" font="4">Disneyland is around</text>
+<text top="251" left="523" width="15" height="15" font="5"><i>30</i></text>
+<text top="251" left="542" width="54" height="15" font="4">minutes</text>
+<text top="269" left="134" width="68" height="15" font="4">from here.</text>
+<text top="307" left="81" width="15" height="15" font="4">25</text>
+<text top="307" left="95" width="4" height="14" font="10">.</text>
+<text top="307" left="104" width="141" height="15" font="6"><b>External knowledge:</b></text>
+<text top="307" left="249" width="405" height="15" font="4">Replacing a word/phrase by another word/phrase based on</text>
+<text top="325" left="81" width="574" height="15" font="4">extra-linguistic (world) knowledge, in the appropriate context, results in a paraphrase</text>
+<text top="343" left="81" width="574" height="15" font="4">of the original sentence/phrase. This may be accompanied by the addition/deletion of</text>
+<text top="361" left="81" width="574" height="15" font="4">appropriate function words and sentence restructuring. This often generates a quasi-</text>
+<text top="379" left="81" width="415" height="15" font="4">paraphrase, although in some cases preserves meaning exactly.</text>
+<text top="379" left="500" width="56" height="15" font="5"><i>Example:</i></text>
+<text top="417" left="91" width="17" height="15" font="4">(a)</text>
+<text top="417" left="134" width="20" height="15" font="5"><i>We</i></text>
+<text top="417" left="158" width="239" height="15" font="4">must work hard to win this election.</text>
+<text top="414" left="401" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="417" left="420" width="91" height="15" font="5"><i>The Democrats</i></text>
+<text top="417" left="515" width="107" height="15" font="4">must work hard</text>
+<text top="435" left="134" width="129" height="15" font="4">to win this election.</text>
+<text top="462" left="90" width="18" height="15" font="4">(b)</text>
+<text top="462" left="134" width="98" height="15" font="5"><i>The government</i></text>
+<text top="462" left="236" width="158" height="15" font="4">declared victory in Iraq.</text>
+<text top="459" left="398" width="15" height="20" font="11"><i>⇔</i></text>
+<text top="462" left="417" width="31" height="15" font="5"><i>Bush</i></text>
+<text top="462" left="452" width="158" height="15" font="4">declared victory in Iraq.</text>
+<text top="501" left="81" width="178" height="15" font="6"><b>3. Analysis of Paraphrases</b></text>
+<text top="536" left="81" width="574" height="15" font="4">In Section 2, we presented a list of lexical changes that define quasi-paraphrases. In this</text>
+<text top="554" left="81" width="574" height="15" font="4">section, we seek to validate the scope and accuracy of this list. Our analysis uses two</text>
+<text top="572" left="81" width="50" height="15" font="4">criteria:</text>
+<text top="608" left="81" width="11" height="15" font="4">1.</text>
+<text top="608" left="95" width="85" height="15" font="6"><b>Distribution</b></text>
+<text top="608" left="181" width="474" height="15" font="4">: What is the distribution of each of these lexical changes in a paraphrase</text>
+<text top="626" left="81" width="52" height="15" font="4">corpus?</text>
+<text top="653" left="81" width="11" height="15" font="4">2.</text>
+<text top="653" left="97" width="123" height="15" font="6"><b>Human judgment</b></text>
+<text top="653" left="219" width="435" height="15" font="4">: If one uses each of the lexical changes, on applicable sentences,</text>
+<text top="671" left="81" width="498" height="15" font="4">how often do each of these changes generate acceptable quasi-paraphrases?</text>
+<text top="709" left="81" width="108" height="15" font="6"><b>3.1 Distribution</b></text>
+<text top="745" left="81" width="550" height="15" font="4">We used the following procedure to measure the distribution of the lexical changes:</text>
+<text top="781" left="81" width="7" height="15" font="4">1</text>
+<text top="782" left="88" width="4" height="14" font="10">.</text>
+<text top="781" left="100" width="554" height="15" font="4">We downloaded paraphrases from two publicly available data sets containing</text>
+<text top="799" left="81" width="574" height="15" font="4">sentence-level paraphrases: the Multiple-Translations Corpus (MTC) (Huang, Graff,</text>
+<text top="817" left="81" width="574" height="15" font="4">and Doddington 2002) and the Microsoft Research (MSR) paraphrase corpus (Dolan,</text>
+<text top="835" left="81" width="574" height="15" font="4">Quirk, and Brockett 2004). The paraphrase pairs come with their equivalent parts</text>
+<text top="853" left="81" width="391" height="15" font="4">manually aligned (Cohn, Callison-Burch, and Lapata 2008).</text>
+<text top="880" left="81" width="7" height="15" font="4">2</text>
+<text top="880" left="88" width="4" height="14" font="10">.</text>
+<text top="880" left="96" width="558" height="15" font="4">We selected 30 sentence-level paraphrase pairs from each of these corpora at random</text>
+<text top="898" left="81" width="432" height="15" font="4">and extracted the corresponding aligned and unaligned phrases.</text>
+<text top="895" left="512" width="5" height="11" font="12">1</text>
+<text top="898" left="523" width="131" height="15" font="4">This resulted in 210</text>
+<text top="916" left="81" width="491" height="15" font="4">phrase pairs for the MTC corpus and 145 phrase pairs for the MSR corpus.</text>
+<text top="977" left="87" width="297" height="12" font="7">1 We assume that any unaligned phrase is paired with a</text>
+<text top="977" left="387" width="20" height="12" font="13"><i>null</i></text>
+<text top="977" left="410" width="241" height="12" font="7">phrase and we discard it prior to the analysis.</text>
+<text top="1028" left="632" width="22" height="15" font="4">469</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1080" width="729">
+	<fontspec id="14" size="13" family="EEKPBH+URWPalladioL" color="#000000"/>
+	<fontspec id="15" size="13" family="EEKPDK+EURM10" color="#000000"/>
+<text top="40" left="74" width="159" height="14" font="9">Computational Linguistics</text>
+<text top="40" left="518" width="130" height="14" font="9">Volume 39, Number 3</text>
+<text top="96" left="74" width="7" height="15" font="4">3</text>
+<text top="96" left="82" width="4" height="14" font="10">.</text>
+<text top="96" left="91" width="558" height="15" font="4">We labeled each of the phrase pairs with the appropriate lexical changes defined in</text>
+<text top="114" left="74" width="574" height="15" font="4">Section 2. If any phrase pair could not be labeled by a lexical change from Section 2, we</text>
+<text top="132" left="74" width="78" height="15" font="4">labeled it as</text>
+<text top="131" left="156" width="57" height="15" font="5"><i>unknown</i></text>
+<text top="132" left="214" width="4" height="15" font="4">.</text>
+<text top="158" left="74" width="7" height="15" font="4">4</text>
+<text top="159" left="82" width="4" height="14" font="10">.</text>
+<text top="158" left="89" width="559" height="15" font="4">We finally calculated the distribution of each label (lexical change), over all the labels,</text>
+<text top="176" left="74" width="574" height="15" font="4">for each corpus. Table 1 shows the percentage distribution of the lexical changes in the</text>
+<text top="194" left="74" width="307" height="15" font="4">MTC (column 3) and MSR corpora (column 4).</text>
+<text top="232" left="74" width="145" height="15" font="6"><b>3.2 Human Judgment</b></text>
+<text top="267" left="74" width="574" height="15" font="4">In this section, we explain the procedure we used to obtain the human judgments of the</text>
+<text top="285" left="74" width="402" height="15" font="4">changes that define paraphrases from the lexical perspective:</text>
+<text top="321" left="74" width="7" height="15" font="4">1</text>
+<text top="322" left="82" width="4" height="14" font="10">.</text>
+<text top="321" left="91" width="557" height="15" font="4">We randomly selected two words or phrases from publicly available resources (de-</text>
+<text top="339" left="74" width="574" height="15" font="4">pending on the lexical change) for each of the lexical operations from Section 2 (except</text>
+<text top="357" left="74" width="119" height="15" font="5"><i>external knowledge</i></text>
+<text top="357" left="193" width="245" height="15" font="4">). For example, to obtain words for</text>
+<text top="357" left="445" width="135" height="15" font="5"><i>synonym substitution</i></text>
+<text top="357" left="580" width="68" height="15" font="4">, we used</text>
+<text top="375" left="74" width="353" height="15" font="4">WordNet (Fellbaum 1998) (and selected a word, say</text>
+<text top="375" left="432" width="23" height="15" font="5"><i>buy</i></text>
+<text top="375" left="455" width="193" height="15" font="4">); to obtain implication rules</text>
+<text top="393" left="74" width="19" height="15" font="4">for</text>
+<text top="393" left="97" width="125" height="15" font="5"><i>semantic implication</i></text>
+<text top="393" left="223" width="404" height="15" font="4">, we used the DIRT resource (Lin and Pantel 2001); and so on.</text>
+<text top="473" left="74" width="44" height="13" font="14"><b>Table 1</b></text>
+<text top="488" left="74" width="562" height="14" font="9">Distribution and Precision of paraphrases. Distribution may not sum to 100% due to rounding.</text>
+<text top="515" left="74" width="7" height="14" font="9">#</text>
+<text top="515" left="177" width="55" height="14" font="9">classifier.Category</text>
+<text top="515" left="317" width="334" height="14" font="9">% Distribution MTC % Distribution MSR % Precision</text>
+<text top="542" left="81" width="7" height="14" font="9">1</text>
+<text top="543" left="88" width="4" height="13" font="15">.</text>
+<text top="542" left="104" width="131" height="14" font="9">Synonym substitution</text>
+<text top="542" left="371" width="13" height="14" font="9">37</text>
+<text top="542" left="503" width="13" height="14" font="9">19</text>
+<text top="542" left="613" width="13" height="14" font="9">95</text>
+<text top="557" left="81" width="7" height="14" font="9">2</text>
+<text top="557" left="88" width="4" height="13" font="15">.</text>
+<text top="557" left="104" width="132" height="14" font="9">Antonym substitution</text>
+<text top="557" left="378" width="7" height="14" font="9">0</text>
+<text top="557" left="510" width="7" height="14" font="9">0</text>
+<text top="557" left="613" width="13" height="14" font="9">65</text>
+<text top="572" left="81" width="7" height="14" font="9">3</text>
+<text top="572" left="88" width="4" height="13" font="15">.</text>
+<text top="572" left="104" width="131" height="14" font="9">Converse substitution</text>
+<text top="572" left="378" width="7" height="14" font="9">1</text>
+<text top="572" left="510" width="7" height="14" font="9">0</text>
+<text top="572" left="613" width="13" height="14" font="9">75</text>
+<text top="587" left="81" width="7" height="14" font="9">4</text>
+<text top="587" left="88" width="4" height="13" font="15">.</text>
+<text top="587" left="104" width="96" height="14" font="9">Change of voice</text>
+<text top="587" left="378" width="7" height="14" font="9">1</text>
+<text top="587" left="510" width="7" height="14" font="9">1</text>
+<text top="587" left="613" width="13" height="14" font="9">85</text>
+<text top="602" left="81" width="7" height="14" font="9">5</text>
+<text top="602" left="88" width="4" height="13" font="15">.</text>
+<text top="602" left="104" width="105" height="14" font="9">Change of person</text>
+<text top="602" left="378" width="7" height="14" font="9">0</text>
+<text top="602" left="510" width="7" height="14" font="9">1</text>
+<text top="602" left="613" width="13" height="14" font="9">80</text>
+<text top="617" left="81" width="7" height="14" font="9">6</text>
+<text top="617" left="88" width="4" height="13" font="15">.</text>
+<text top="617" left="104" width="127" height="14" font="9">Pronoun/Co-referent</text>
+<text top="632" left="119" width="71" height="14" font="9">substitution</text>
+<text top="617" left="378" width="7" height="14" font="9">1</text>
+<text top="617" left="510" width="7" height="14" font="9">1</text>
+<text top="617" left="613" width="13" height="14" font="9">70</text>
+<text top="647" left="81" width="7" height="14" font="9">7</text>
+<text top="647" left="88" width="4" height="13" font="15">.</text>
+<text top="647" left="104" width="113" height="14" font="9">Repetition/Ellipsis</text>
+<text top="647" left="378" width="7" height="14" font="9">4</text>
+<text top="647" left="510" width="7" height="14" font="9">4</text>
+<text top="647" left="606" width="20" height="14" font="9">100</text>
+<text top="662" left="81" width="7" height="14" font="9">8</text>
+<text top="662" left="88" width="4" height="13" font="15">.</text>
+<text top="662" left="104" width="151" height="14" font="9">Function word variations</text>
+<text top="662" left="371" width="13" height="14" font="9">37</text>
+<text top="662" left="503" width="13" height="14" font="9">30</text>
+<text top="662" left="613" width="13" height="14" font="9">85</text>
+<text top="677" left="81" width="7" height="14" font="9">9</text>
+<text top="677" left="88" width="4" height="13" font="15">.</text>
+<text top="677" left="104" width="156" height="14" font="9">Actor/Action substitution</text>
+<text top="677" left="378" width="7" height="14" font="9">0</text>
+<text top="677" left="510" width="7" height="14" font="9">0</text>
+<text top="677" left="613" width="13" height="14" font="9">75</text>
+<text top="692" left="74" width="13" height="14" font="9">10</text>
+<text top="692" left="88" width="4" height="13" font="15">.</text>
+<text top="692" left="104" width="165" height="14" font="9">Verb/“Semantic-role noun”</text>
+<text top="707" left="119" width="71" height="14" font="9">substitution</text>
+<text top="692" left="378" width="7" height="14" font="9">1</text>
+<text top="692" left="510" width="7" height="14" font="9">0</text>
+<text top="692" left="613" width="13" height="14" font="9">60</text>
+<text top="721" left="74" width="13" height="14" font="9">11</text>
+<text top="722" left="88" width="4" height="13" font="15">.</text>
+<text top="721" left="104" width="199" height="14" font="9">Manipulator/Device substitution</text>
+<text top="721" left="378" width="7" height="14" font="9">0</text>
+<text top="721" left="510" width="7" height="14" font="9">0</text>
+<text top="721" left="613" width="13" height="14" font="9">30</text>
+<text top="736" left="74" width="13" height="14" font="9">12</text>
+<text top="737" left="88" width="4" height="13" font="15">.</text>
+<text top="736" left="104" width="175" height="14" font="9">General/Specific substitution</text>
+<text top="736" left="378" width="7" height="14" font="9">4</text>
+<text top="736" left="510" width="7" height="14" font="9">3</text>
+<text top="736" left="613" width="13" height="14" font="9">80</text>
+<text top="751" left="74" width="13" height="14" font="9">13</text>
+<text top="752" left="88" width="4" height="13" font="15">.</text>
+<text top="751" left="104" width="133" height="14" font="9">Metaphor substitution</text>
+<text top="751" left="378" width="7" height="14" font="9">0</text>
+<text top="751" left="510" width="7" height="14" font="9">1</text>
+<text top="751" left="613" width="13" height="14" font="9">60</text>
+<text top="766" left="74" width="13" height="14" font="9">14</text>
+<text top="767" left="88" width="4" height="13" font="15">.</text>
+<text top="766" left="104" width="146" height="14" font="9">Part/Whole substitution</text>
+<text top="766" left="378" width="7" height="14" font="9">0</text>
+<text top="766" left="510" width="7" height="14" font="9">0</text>
+<text top="766" left="613" width="13" height="14" font="9">65</text>
+<text top="781" left="74" width="13" height="14" font="9">15</text>
+<text top="782" left="88" width="4" height="13" font="15">.</text>
+<text top="781" left="104" width="139" height="14" font="9">Verb/Noun conversion</text>
+<text top="781" left="378" width="7" height="14" font="9">2</text>
+<text top="781" left="510" width="7" height="14" font="9">3</text>
+<text top="781" left="606" width="20" height="14" font="9">100</text>
+<text top="796" left="74" width="13" height="14" font="9">16</text>
+<text top="797" left="88" width="4" height="13" font="15">.</text>
+<text top="796" left="104" width="161" height="14" font="9">Verb/Adjective conversion</text>
+<text top="796" left="378" width="7" height="14" font="9">1</text>
+<text top="796" left="510" width="7" height="14" font="9">0</text>
+<text top="796" left="613" width="13" height="14" font="9">55</text>
+<text top="811" left="74" width="13" height="14" font="9">17</text>
+<text top="812" left="88" width="4" height="13" font="15">.</text>
+<text top="811" left="104" width="150" height="14" font="9">Verb/Adverb conversion</text>
+<text top="811" left="378" width="7" height="14" font="9">0</text>
+<text top="811" left="510" width="7" height="14" font="9">0</text>
+<text top="811" left="613" width="13" height="14" font="9">65</text>
+<text top="826" left="74" width="13" height="14" font="9">18</text>
+<text top="826" left="88" width="4" height="13" font="15">.</text>
+<text top="826" left="104" width="168" height="14" font="9">Noun/Adjective conversion</text>
+<text top="826" left="378" width="7" height="14" font="9">0</text>
+<text top="826" left="510" width="7" height="14" font="9">0</text>
+<text top="826" left="613" width="13" height="14" font="9">80</text>
+<text top="841" left="74" width="13" height="14" font="9">19</text>
+<text top="841" left="88" width="4" height="13" font="15">.</text>
+<text top="841" left="104" width="108" height="14" font="9">Verb-preposition/</text>
+<text top="856" left="119" width="109" height="14" font="9">Noun substitution</text>
+<text top="841" left="378" width="7" height="14" font="9">0</text>
+<text top="841" left="510" width="7" height="14" font="9">0</text>
+<text top="841" left="613" width="13" height="14" font="9">65</text>
+<text top="871" left="74" width="13" height="14" font="9">20</text>
+<text top="871" left="88" width="4" height="13" font="15">.</text>
+<text top="871" left="104" width="95" height="14" font="9">Change of tense</text>
+<text top="871" left="378" width="7" height="14" font="9">4</text>
+<text top="871" left="510" width="7" height="14" font="9">1</text>
+<text top="871" left="613" width="13" height="14" font="9">70</text>
+<text top="886" left="74" width="13" height="14" font="9">21</text>
+<text top="886" left="88" width="4" height="13" font="15">.</text>
+<text top="886" left="104" width="102" height="14" font="9">Change of aspect</text>
+<text top="886" left="378" width="7" height="14" font="9">1</text>
+<text top="886" left="510" width="7" height="14" font="9">0</text>
+<text top="886" left="613" width="13" height="14" font="9">95</text>
+<text top="901" left="74" width="13" height="14" font="9">22</text>
+<text top="901" left="88" width="4" height="13" font="15">.</text>
+<text top="901" left="104" width="118" height="14" font="9">Change of modality</text>
+<text top="901" left="378" width="7" height="14" font="9">1</text>
+<text top="901" left="510" width="7" height="14" font="9">0</text>
+<text top="901" left="613" width="13" height="14" font="9">80</text>
+<text top="916" left="74" width="13" height="14" font="9">23</text>
+<text top="916" left="88" width="4" height="13" font="15">.</text>
+<text top="916" left="104" width="125" height="14" font="9">Semantic implication</text>
+<text top="916" left="378" width="7" height="14" font="9">1</text>
+<text top="916" left="510" width="7" height="14" font="9">4</text>
+<text top="916" left="613" width="13" height="14" font="9">70</text>
+<text top="931" left="74" width="13" height="14" font="9">24</text>
+<text top="931" left="88" width="4" height="13" font="15">.</text>
+<text top="931" left="104" width="143" height="14" font="9">Approximate numerical</text>
+<text top="946" left="119" width="77" height="14" font="9">equivalences</text>
+<text top="931" left="378" width="7" height="14" font="9">0</text>
+<text top="931" left="510" width="7" height="14" font="9">2</text>
+<text top="931" left="613" width="13" height="14" font="9">95</text>
+<text top="961" left="74" width="13" height="14" font="9">25</text>
+<text top="961" left="88" width="4" height="13" font="15">.</text>
+<text top="961" left="104" width="119" height="14" font="9">External knowledge</text>
+<text top="961" left="378" width="7" height="14" font="9">6</text>
+<text top="961" left="503" width="13" height="14" font="9">32</text>
+<text top="961" left="613" width="13" height="14" font="9">95</text>
+<text top="976" left="74" width="13" height="14" font="9">26</text>
+<text top="976" left="88" width="4" height="13" font="15">.</text>
+<text top="976" left="104" width="60" height="14" font="9">Unknown</text>
+<text top="976" left="378" width="7" height="14" font="9">0</text>
+<text top="976" left="510" width="7" height="14" font="9">0</text>
+<text top="976" left="606" width="22" height="14" font="9">NA</text>
+<text top="1028" left="74" width="22" height="15" font="4">470</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1080" width="729">
+	<fontspec id="16" size="15" family="EEKPIO+CMR10" color="#000000"/>
+<text top="40" left="81" width="104" height="14" font="9">Bhagat and Hovy</text>
+<text top="40" left="522" width="132" height="14" font="9">What Is a Paraphrase?</text>
+<text top="96" left="81" width="7" height="15" font="4">2</text>
+<text top="96" left="88" width="4" height="14" font="10">.</text>
+<text top="96" left="96" width="558" height="15" font="4">For each selected word or phrase, we obtained five random sentences from the Giga-</text>
+<text top="114" left="81" width="574" height="15" font="4">word corpus. These sentences were manually checked to make sure that they contained</text>
+<text top="132" left="81" width="574" height="15" font="4">the intended sense of the word or phrase. This gave us a total of 10 sentences for each</text>
+<text top="149" left="81" width="267" height="15" font="4">phenomenon. For example, for the word</text>
+<text top="149" left="352" width="23" height="15" font="5"><i>buy</i></text>
+<text top="149" left="374" width="262" height="15" font="4">, one of the selected sentences might be:</text>
+<text top="187" left="91" width="17" height="15" font="4">(a)</text>
+<text top="187" left="134" width="87" height="15" font="4">They want to</text>
+<text top="187" left="225" width="23" height="15" font="5"><i>buy</i></text>
+<text top="187" left="252" width="54" height="15" font="4">a house.</text>
+<text top="225" left="81" width="7" height="15" font="4">3</text>
+<text top="226" left="88" width="4" height="14" font="10">.</text>
+<text top="225" left="96" width="558" height="15" font="4">For each sentence selected in step 2, we applied the corresponding lexical changes to</text>
+<text top="243" left="81" width="478" height="15" font="4">the word or phrase selected in step 1 to generate a potential paraphrase.</text>
+<text top="241" left="558" width="5" height="11" font="12">2</text>
+<text top="243" left="568" width="86" height="15" font="4">For example,</text>
+<text top="261" left="81" width="106" height="15" font="4">we might apply</text>
+<text top="261" left="191" width="134" height="15" font="5"><i>synonym substitution</i></text>
+<text top="261" left="329" width="243" height="15" font="4">to sentence (a) and replace the word</text>
+<text top="261" left="577" width="23" height="15" font="5"><i>buy</i></text>
+<text top="261" left="604" width="50" height="15" font="4">with its</text>
+<text top="279" left="81" width="126" height="15" font="4">WordNet synonym</text>
+<text top="279" left="211" width="53" height="15" font="5"><i>purchase</i></text>
+<text top="279" left="264" width="279" height="15" font="4">. This will result in the following sentence:</text>
+<text top="317" left="90" width="18" height="15" font="4">(b)</text>
+<text top="317" left="134" width="87" height="15" font="4">They want to</text>
+<text top="317" left="225" width="53" height="15" font="5"><i>purchase</i></text>
+<text top="317" left="282" width="54" height="15" font="4">a house.</text>
+<text top="355" left="81" width="7" height="15" font="4">4</text>
+<text top="356" left="88" width="4" height="14" font="10">.</text>
+<text top="355" left="97" width="159" height="15" font="4">For the phenomenon of</text>
+<text top="355" left="261" width="117" height="15" font="5"><i>external knowledge</i></text>
+<text top="355" left="378" width="277" height="15" font="4">, we randomly sampled a total of 10 sen-</text>
+<text top="373" left="81" width="574" height="15" font="4">tence pairs from the MTC and MSR corpora, such that the pairs were paraphrases based</text>
+<text top="391" left="81" width="155" height="15" font="4">on external knowledge.</text>
+<text top="418" left="81" width="7" height="15" font="4">5</text>
+<text top="418" left="88" width="4" height="14" font="10">.</text>
+<text top="418" left="97" width="557" height="15" font="4">We gave the sentence pairs to two annotators and asked them to annotate them as</text>
+<text top="436" left="81" width="38" height="15" font="4">either</text>
+<text top="436" left="125" width="71" height="15" font="5"><i>paraphrases</i></text>
+<text top="436" left="202" width="14" height="15" font="4">or</text>
+<text top="436" left="222" width="100" height="15" font="5"><i>non-paraphrases</i></text>
+<text top="436" left="322" width="332" height="15" font="4">. For example, the annotator might be given the</text>
+<text top="454" left="81" width="419" height="15" font="4">sentence pair (a) and (b) and she/he might annotate this pair as</text>
+<text top="454" left="504" width="71" height="15" font="5"><i>paraphrases</i></text>
+<text top="454" left="575" width="4" height="15" font="4">.</text>
+<text top="481" left="81" width="7" height="15" font="4">6</text>
+<text top="481" left="88" width="4" height="14" font="10">.</text>
+<text top="481" left="97" width="557" height="15" font="4">We used the annotations from each of the annotators to calculate the precision per-</text>
+<text top="499" left="81" width="574" height="15" font="4">centage for each lexical change. The final precision score was calculated as the average</text>
+<text top="516" left="81" width="574" height="15" font="4">of the precision scores obtained from the two annotations. Table 1 shows the percentage</text>
+<text top="534" left="81" width="379" height="15" font="4">precision (column 5) of lexical changes in this test corpus.</text>
+<text top="561" left="81" width="7" height="15" font="4">7</text>
+<text top="562" left="88" width="4" height="14" font="10">.</text>
+<text top="561" left="96" width="559" height="15" font="4">We finally calculated the kappa statistic (Siegal and Castellan Jr. 1988) to measure the</text>
+<text top="579" left="81" width="297" height="15" font="4">inter-annotator agreement. A kappa score of</text>
+<text top="580" left="382" width="8" height="14" font="10">κ</text>
+<text top="580" left="395" width="12" height="14" font="16">=</text>
+<text top="579" left="411" width="7" height="15" font="4">0</text>
+<text top="580" left="418" width="4" height="14" font="10">.</text>
+<text top="579" left="422" width="232" height="15" font="4">66 was obtained on the annotation</text>
+<text top="597" left="81" width="31" height="15" font="4">task.</text>
+<text top="635" left="81" width="93" height="15" font="6"><b>4. Conclusion</b></text>
+<text top="671" left="81" width="574" height="15" font="4">A definition of what phenomena constitute paraphrases and what do not has been a</text>
+<text top="689" left="81" width="574" height="15" font="4">problem in the past. Whereas some people have used a very narrow interpretation</text>
+<text top="707" left="81" width="574" height="15" font="4">of paraphrases—paraphrases must be exactly logically equivalent—others have taken</text>
+<text top="725" left="81" width="574" height="15" font="4">broader perspectives that consider even semantic implications to be acceptable para-</text>
+<text top="743" left="81" width="574" height="15" font="4">phrases. To the best of our knowledge, outside of specific language interpretation frame-</text>
+<text top="761" left="81" width="574" height="15" font="4">works (like Meaning Text Theory [Mel’cuk 1996]), no one has tried to create a general,</text>
+<text top="779" left="81" width="574" height="15" font="4">exhaustive list of the transformations that define paraphrases. In this article we provide</text>
+<text top="797" left="81" width="574" height="15" font="4">such a list. We have also tried to empirically quantify the distribution and accuracy of</text>
+<text top="814" left="81" width="574" height="15" font="4">the list. It is notable that certain types of quasi-paraphrases dominate whereas others</text>
+<text top="832" left="81" width="574" height="15" font="4">are very rare. We also observed, however, that the dominating transformations vary</text>
+<text top="850" left="81" width="574" height="15" font="4">based on the type of paraphrase corpus used, thus indicating the variety of behavior</text>
+<text top="868" left="81" width="574" height="15" font="4">exhibited by the paraphrases. Based on the large variety of possible transformations that</text>
+<text top="886" left="81" width="574" height="15" font="4">can generate paraphrases, its seems likely that the kinds of paraphrases that are deemed</text>
+<text top="904" left="81" width="574" height="15" font="4">useful would depend on the application at hand. This might motivate the creation of</text>
+<text top="963" left="87" width="545" height="12" font="7">2 The words in the new sentence were allowed to be reordered (permuted) if needed and only function</text>
+<text top="977" left="98" width="409" height="12" font="7">words (and no content words) were allowed to be added to the new sentence.</text>
+<text top="1028" left="632" width="22" height="15" font="4">471</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1080" width="729">
+	<fontspec id="17" size="13" family="EEKPCA+URWPalladioL-Ital" color="#000000"/>
+<text top="40" left="74" width="159" height="14" font="9">Computational Linguistics</text>
+<text top="40" left="518" width="130" height="14" font="9">Volume 39, Number 3</text>
+<text top="96" left="74" width="574" height="15" font="4">application-specific lists of the kinds of allowable paraphrases and the development of</text>
+<text top="114" left="74" width="453" height="15" font="4">automatic methods to distinguish the different kinds of paraphrases.</text>
+<text top="153" left="74" width="129" height="15" font="6"><b>Acknowledgments</b></text>
+<text top="172" left="74" width="257" height="14" font="9">The authors wish to thank Jerry Hobbs and</text>
+<text top="187" left="74" width="206" height="14" font="9">anonymous reviewers for valuable</text>
+<text top="202" left="74" width="147" height="14" font="9">comments and feedback.</text>
+<text top="240" left="74" width="75" height="15" font="6"><b>References</b></text>
+<text top="258" left="74" width="226" height="14" font="9">Clark, E. V. 1992. Conventionality and</text>
+<text top="273" left="88" width="214" height="14" font="9">contrasts: Pragmatic principles with</text>
+<text top="288" left="88" width="252" height="14" font="9">lexical consequences. In Andrienne Lehrer</text>
+<text top="303" left="88" width="176" height="14" font="9">and Eva Feder Kittay, editors,</text>
+<text top="303" left="267" width="38" height="14" font="17"><i>Frame,</i></text>
+<text top="318" left="88" width="202" height="14" font="17"><i>Fields, and Contrasts: New Essays in</i></text>
+<text top="333" left="88" width="168" height="14" font="17"><i>Semantic Lexical Organization</i></text>
+<text top="333" left="256" width="65" height="14" font="9">. Lawrence</text>
+<text top="348" left="88" width="204" height="14" font="9">Erlbaum Associates, Hillsdale, NJ,</text>
+<text top="363" left="88" width="88" height="14" font="9">pages 171–188.</text>
+<text top="378" left="74" width="258" height="14" font="9">Cohn, T., C. Callison-Burch, and M. Lapata.</text>
+<text top="393" left="88" width="203" height="14" font="9">2008. Constructing corpora for the</text>
+<text top="408" left="88" width="186" height="14" font="9">development and evaluation of</text>
+<text top="423" left="88" width="121" height="14" font="9">paraphrase systems.</text>
+<text top="423" left="212" width="81" height="14" font="17"><i>Computational</i></text>
+<text top="438" left="88" width="61" height="14" font="17"><i>Linguistics</i></text>
+<text top="438" left="149" width="90" height="14" font="9">, 34(4):597–614.</text>
+<text top="453" left="74" width="225" height="14" font="9">De Beaugrande, R. and W. V. Dressler.</text>
+<text top="468" left="88" width="30" height="14" font="9">1981.</text>
+<text top="468" left="121" width="173" height="14" font="17"><i>Introduction to Text Linguistics</i></text>
+<text top="468" left="295" width="3" height="14" font="9">.</text>
+<text top="483" left="88" width="153" height="14" font="9">Longman, New York, NY.</text>
+<text top="498" left="74" width="215" height="14" font="9">Dolan, B., C. Quirk, and C. Brockett.</text>
+<text top="513" left="88" width="210" height="14" font="9">2004. Unsupervised construction of</text>
+<text top="527" left="88" width="218" height="14" font="9">large paraphrase corpora: Exploiting</text>
+<text top="542" left="88" width="193" height="14" font="9">massively parallel news sources.</text>
+<text top="557" left="88" width="12" height="14" font="9">In</text>
+<text top="557" left="103" width="178" height="14" font="17"><i>Proceedings of the Conference on</i></text>
+<text top="572" left="88" width="209" height="14" font="17"><i>Computational Linguistics (COLING)</i></text>
+<text top="572" left="297" width="3" height="14" font="9">,</text>
+<text top="587" left="88" width="140" height="14" font="9">pages 350–357, Geneva.</text>
+<text top="602" left="74" width="109" height="14" font="9">Fellbaum, C. 1998.</text>
+<text top="602" left="187" width="117" height="14" font="17"><i>An Electronic Lexical</i></text>
+<text top="617" left="88" width="50" height="14" font="17"><i>Database</i></text>
+<text top="617" left="137" width="174" height="14" font="9">. MIT Press, Cambridge, MA.</text>
+<text top="154" left="379" width="201" height="14" font="9">Harris, Z. 1981. Co-occurence and</text>
+<text top="169" left="393" width="223" height="14" font="9">transformation in linguistic structure.</text>
+<text top="183" left="393" width="124" height="14" font="9">In Henry Hiz, editor,</text>
+<text top="183" left="520" width="96" height="14" font="17"><i>Papers on Syntax</i></text>
+<text top="183" left="615" width="3" height="14" font="9">.</text>
+<text top="198" left="393" width="217" height="14" font="9">D. Reidel Publishing Co., Dordrecht,</text>
+<text top="213" left="393" width="230" height="14" font="9">pages 143–210. First published in 1957.</text>
+<text top="228" left="379" width="250" height="14" font="9">Hirst, G. 2003. Paraphrasing paraphrased.</text>
+<text top="243" left="393" width="217" height="14" font="9">Invited talk at the ACL International</text>
+<text top="258" left="393" width="223" height="14" font="9">Workshop on Paraphrasing, Sapporo.</text>
+<text top="273" left="379" width="213" height="14" font="9">Honeck, Richard P. 1971. A study of</text>
+<text top="288" left="393" width="76" height="14" font="9">paraphrases.</text>
+<text top="288" left="472" width="144" height="14" font="17"><i>Journal of Verbal Learning</i></text>
+<text top="303" left="393" width="110" height="14" font="17"><i>and Verbal Behavior</i></text>
+<text top="303" left="502" width="90" height="14" font="9">, 10(4):367–381.</text>
+<text top="318" left="379" width="240" height="14" font="9">Huang, S., D. Graff, and G. Doddington.</text>
+<text top="333" left="393" width="205" height="14" font="9">2002. Multiple-translation Chinese</text>
+<text top="348" left="393" width="216" height="14" font="9">corpus. Linguistic Data Consortium,</text>
+<text top="363" left="393" width="103" height="14" font="9">Philadelphia, PA.</text>
+<text top="378" left="379" width="267" height="14" font="9">Lin, D. and P. Pantel. 2001. Dirt: Discovery of</text>
+<text top="393" left="393" width="164" height="14" font="9">inference rules from text. In</text>
+<text top="393" left="560" width="86" height="14" font="17"><i>ACM SIGKDD</i></text>
+<text top="408" left="393" width="215" height="14" font="17"><i>International Conference on Knowledge</i></text>
+<text top="422" left="393" width="154" height="14" font="17"><i>Discovery and Data Mining</i></text>
+<text top="423" left="546" width="95" height="14" font="9">, pages 323–328,</text>
+<text top="438" left="393" width="111" height="14" font="9">San Francisco, CA.</text>
+<text top="452" left="379" width="265" height="14" font="9">Mel’cuk, I. 1996. Lexical functions: A tool for</text>
+<text top="467" left="393" width="252" height="14" font="9">description of lexical relations in a lexicon.</text>
+<text top="482" left="393" width="131" height="14" font="9">In Leo Wanner, editor,</text>
+<text top="482" left="527" width="97" height="14" font="17"><i>Lexical Functions</i></text>
+<text top="497" left="393" width="214" height="14" font="17"><i>in Lexicography and Natural Language</i></text>
+<text top="512" left="393" width="58" height="14" font="17"><i>Processing</i></text>
+<text top="512" left="451" width="194" height="14" font="9">. John Benjamins Publishing Co.,</text>
+<text top="527" left="393" width="188" height="14" font="9">Philadelphia, PA, pages 37–102.</text>
+<text top="542" left="379" width="100" height="14" font="9">Mel’cuk, I., 2012.</text>
+<text top="542" left="483" width="144" height="14" font="17"><i>Semantics: From Meaning</i></text>
+<text top="557" left="393" width="37" height="14" font="17"><i>to Text</i></text>
+<text top="557" left="430" width="194" height="14" font="9">. John Benjamins Publishing Co.,</text>
+<text top="572" left="393" width="103" height="14" font="9">Philadelphia, PA.</text>
+<text top="587" left="379" width="219" height="14" font="9">Siegal, S. and N. J. Castellan, Jr. 1988.</text>
+<text top="602" left="393" width="235" height="14" font="17"><i>Nonparametric Statistics for the Behavioral</i></text>
+<text top="617" left="393" width="45" height="14" font="17"><i>Sciences</i></text>
+<text top="617" left="438" width="187" height="14" font="9">. McGraw-Hill, Columbus, OH.</text>
+<text top="1028" left="74" width="22" height="15" font="4">472</text>
+</page>
+</pdf2xml>

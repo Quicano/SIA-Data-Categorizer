@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="977" width="680">
+	<fontspec id="0" size="12" family="WNKEOE+TimesNewRomanPSMT" color="#231f20"/>
+	<fontspec id="1" size="12" family="WNKEOE+TimesNewRomanPS" color="#231f20"/>
+	<fontspec id="2" size="24" family="WNKEOE+TimesNewRomanPSMT" color="#231f20"/>
+	<fontspec id="3" size="15" family="WNKEOE+TimesNewRomanPSMT" color="#231f20"/>
+	<fontspec id="4" size="18" family="WNKEOE+TimesNewRomanPSMT" color="#231f20"/>
+	<fontspec id="5" size="13" family="WNKEOE+TimesNewRomanPSMT" color="#231f20"/>
+	<fontspec id="6" size="15" family="WNKEOE+TimesNewRomanPS" color="#231f20"/>
+	<fontspec id="7" size="15" family="WNKEOE+TimesNewRomanPS" color="#231f20"/>
+<text top="67" left="311" width="243" height="16" font="0">Catalan Journal of Linguistics Special Issue, 2020 </text>
+<text top="67" left="563" width="21" height="16" font="1"><b>5-11</b></text>
+<text top="908" left="96" width="231" height="16" font="0">ISSN 1695-6885 (in press); 2014-9718 (online) </text>
+<text top="908" left="411" width="173" height="16" font="0">https://doi.org/10.5565/rev/catjl.338</text>
+<text top="107" left="96" width="299" height="32" font="2">Context and Linguistic Change</text>
+<text top="108" left="395" width="8" height="20" font="3">*</text>
+<text top="158" left="96" width="117" height="24" font="4">Josep Martines  </text>
+<text top="176" left="96" width="198" height="24" font="4">Susana Rodríguez Rosique </text>
+<text top="194" left="96" width="181" height="24" font="4">Jordi M. Antolí Martínez</text>
+<text top="216" left="96" width="120" height="18" font="5">Universitat d’Alacant </text>
+<text top="230" left="96" width="122" height="18" font="5">josep.martines@ua.es </text>
+<text top="245" left="96" width="134" height="18" font="5">susana.rodriguez@ua.es </text>
+<text top="259" left="96" width="99" height="18" font="5">jordi.antoli@ua.es</text>
+<text top="443" left="96" width="97" height="20" font="6"><b>1. Introduction</b></text>
+<text top="469" left="96" width="493" height="20" font="3">In the last decades, from being an almost irrelevant element, context has adopted a </text>
+<text top="486" left="96" width="493" height="20" font="3">central place in linguistic studies. This can be explained by the wide dissemination </text>
+<text top="503" left="96" width="493" height="20" font="3">of the theoretical frame of Cognitive Linguistics, which places linguistic change </text>
+<text top="521" left="96" width="493" height="20" font="3">in the usage we make of language. Langacker (1987, 1988, 1991) was a pioneer in </text>
+<text top="538" left="96" width="493" height="20" font="3">this usage-based linguistic approach. This approach was the novelty of his model </text>
+<text top="555" left="96" width="493" height="20" font="3">and the main contrastive element between the Cognitive Grammar defended by </text>
+<text top="572" left="96" width="493" height="20" font="3">Langacker and the Structuralist and Generative Linguistics in vogue during the </text>
+<text top="590" left="96" width="493" height="20" font="3">20th century. In the Cognitive approach, the linguistic knowledge of the speaker </text>
+<text top="607" left="96" width="493" height="20" font="3">is based on experience: there is no level of grammar independent from the usage, </text>
+<text top="624" left="96" width="382" height="20" font="3">rather the speaker induces his knowledge from concrete usages:</text>
+<text top="659" left="118" width="470" height="18" font="5">While all linguists are likely to agree that grammar is the cognitive organization of </text>
+<text top="674" left="118" width="470" height="18" font="5">language, a usage-based theorist would make the more specific proposal that grammar </text>
+<text top="690" left="118" width="450" height="18" font="5">is the cognitive organization of one’s experience with language. (Bybee 2006: 711)</text>
+<text top="723" left="118" width="471" height="20" font="3">Therefore, a usage-based approach rejects the dichotomy, in Fernand de </text>
+<text top="740" left="96" width="209" height="20" font="3">Saussure’s terminology, between </text>
+<text top="740" left="305" width="45" height="20" font="7"><i>langue </i></text>
+<text top="740" left="351" width="26" height="20" font="3">and </text>
+<text top="740" left="378" width="40" height="20" font="7"><i>parole</i></text>
+<text top="740" left="418" width="167" height="20" font="3">. It also rejects the hypoth-</text>
+<text top="758" left="96" width="493" height="20" font="3">esis according to which the speaker’s linguistic knowledge comes from an innate, </text>
+<text top="775" left="96" width="493" height="20" font="3">biologically-predetermined capacity, as generativism defends. The usage-based </text>
+<text top="829" left="96" width="492" height="16" font="0">*  This special issue was done in the context of the following research projects: “Variación y cambio </text>
+<text top="843" left="118" width="469" height="16" font="0">lingüístico en catalán. Una aproximación diacrónica según la Lingüística de Corpus” (MICINUN, </text>
+<text top="858" left="118" width="470" height="16" font="0">Ref. PGC2018-099399-B-100371) and “Gestión de la Información y Estructuración Lingüística </text>
+<text top="872" left="118" width="233" height="16" font="0">(GestInf)” (MICINUN, Ref. FFI2017-85441-R).</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="977" width="680">
+	<fontspec id="8" size="12" family="WNKEOE+Times" color="#231f20"/>
+<text top="68" left="96" width="6" height="16" font="1"><b>6</b></text>
+<text top="68" left="102" width="139" height="16" font="0">  CatJL Special Issue, 2020 </text>
+<text top="68" left="339" width="246" height="17" font="8">Josep Martines; Susana Rodríguez; Jordi M. Antolí</text>
+<text top="111" left="96" width="489" height="20" font="3">approach to the linguistic fact implies “in the end the recontextualization of gram-</text>
+<text top="128" left="96" width="364" height="20" font="3">mar, the establishment of a dialectic relationship between </text>
+<text top="128" left="460" width="42" height="20" font="7"><i>langue</i></text>
+<text top="128" left="502" width="31" height="20" font="3"> and </text>
+<text top="128" left="534" width="40" height="20" font="7"><i>parole</i></text>
+<text top="128" left="574" width="14" height="20" font="3">”, </text>
+<text top="145" left="96" width="206" height="20" font="3">according to Geeraerts (2006: 27).</text>
+<text top="163" left="118" width="466" height="20" font="3">Langacker’s proposal influenced different models that, while being heterogene-</text>
+<text top="180" left="96" width="493" height="20" font="3">ous, agree in thinking that grammar derives from language usage and that linguistic </text>
+<text top="197" left="96" width="492" height="20" font="3">change happens in the concrete contexts of interaction between the speaker and the </text>
+<text top="214" left="96" width="489" height="20" font="3">addressee or, in Traugott’s words, “language change is change in use” (2010: 30).</text>
+<text top="232" left="118" width="470" height="20" font="3">If the context has become a key element in how we conceive language and </text>
+<text top="249" left="96" width="493" height="20" font="3">linguistic change from a theoretical perspective, it also occupies a central role </text>
+<text top="266" left="96" width="493" height="20" font="3">in the renewal of research methodology. From a methodological perspective, </text>
+<text top="283" left="96" width="492" height="20" font="3">within the usage-based Linguistics, research must be done in real communicative </text>
+<text top="301" left="96" width="493" height="20" font="3">contexts and the pragmatic analysis of concrete cases becomes fundamental. As </text>
+<text top="318" left="96" width="493" height="20" font="3">a consequence, linguistic corpora are the necessary tool for the study of language </text>
+<text top="335" left="96" width="493" height="20" font="3">in contrast to other approaches that have tended to prioritize the linguistic </text>
+<text top="352" left="96" width="493" height="20" font="3">introspection of an advantaged speaker. In this regard, we must be satisfied with </text>
+<text top="370" left="96" width="493" height="20" font="3">the balance achieved in the last years. At the beginning of the century, Geeraerts </text>
+<text top="387" left="96" width="493" height="20" font="3">asserted that “corpus research is a trend that is clearly emerging, but that has not </text>
+<text top="404" left="96" width="493" height="20" font="3">yet gained as prominent a status as one would expect” (2006: 17). In contrast, </text>
+<text top="421" left="96" width="493" height="20" font="3">nowadays linguistic research is mostly based on corpora, as proved by the studies </text>
+<text top="439" left="96" width="102" height="20" font="3">included in this </text>
+<text top="438" left="198" width="80" height="20" font="7"><i>special issue</i></text>
+<text top="439" left="278" width="311" height="20" font="3">. This methodological reorientation goes hand in </text>
+<text top="456" left="96" width="493" height="20" font="3">hand with the creation of a large number of computer-based textual corpora (be </text>
+<text top="473" left="96" width="493" height="20" font="3">they oral or written, diachronic or synchronic, of general language or specific </text>
+<text top="490" left="96" width="493" height="20" font="3">varieties). The development of a methodological reflection on the interpretation of </text>
+<text top="508" left="96" width="493" height="20" font="3">the data derived from these corpora and on the tools themselves have considerably </text>
+<text top="525" left="96" width="489" height="20" font="3">improved as well (see as an example Stefanowitsch 2011 and 2020, among others).</text>
+<text top="542" left="118" width="471" height="20" font="3">When explaining how linguistic structures and meaning emerge, within the </text>
+<text top="559" left="96" width="489" height="20" font="3">theoretical and methodological approached abovementioned, the concrete commu-</text>
+<text top="577" left="96" width="493" height="20" font="3">nicative contexts represent the space where the linguistic system interacts (as part of </text>
+<text top="594" left="96" width="492" height="20" font="3">human cognition), as well as the concrete usage that materializes in the interaction </text>
+<text top="611" left="96" width="493" height="20" font="3">between speaker and addressee. In each concrete communicative act, speaker and </text>
+<text top="628" left="96" width="493" height="20" font="3">addressee negotiate meaning and it is precisely in this negotiation where the seed </text>
+<text top="646" left="96" width="147" height="20" font="3">of linguistic change lies.</text>
+<text top="663" left="118" width="466" height="20" font="3">With regard to the formalization of the semantic change as a change in con-</text>
+<text top="680" left="96" width="489" height="20" font="3">text, one of the most complete theoretical approaches with a high degree of accept-</text>
+<text top="697" left="96" width="493" height="20" font="3">ance is the Invited Inference Theory of Semantic Change (IITSC) developed by </text>
+<text top="715" left="96" width="493" height="20" font="3">Traugott (2012; Traugott &amp; Könnig 1991; Traugott &amp; Dasher 2002, among other </text>
+<text top="732" left="96" width="493" height="20" font="3">works), which is assumed by most of the articles included in this volume. Traugott </text>
+<text top="749" left="96" width="493" height="20" font="3">starts with the premise that there is a distinction between semantics and pragmatics, </text>
+<text top="766" left="96" width="493" height="20" font="3">that is, between the meaning codified in linguistic expressions (semantic), which is </text>
+<text top="784" left="96" width="489" height="20" font="3">independent from the context, and the meaning that depends on the context, contex-</text>
+<text top="801" left="96" width="493" height="20" font="3">tually inferred by the addressee (pragmatic). When the pragmatic meaning becomes </text>
+<text top="818" left="96" width="493" height="20" font="3">routinized by usage, the semantic change takes place. This contextually-inferred </text>
+<text top="835" left="96" width="493" height="20" font="3">meaning – that has been frequently termed implicature – is called invited inference </text>
+<text top="853" left="96" width="493" height="20" font="3">by Traugott (Traugott &amp; Dasher 2002; Traugott 2010). This new term emphasizes </text>
+<text top="870" left="96" width="489" height="20" font="3">the role of context in the semantic change, that is to say it makes possible a non-</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="977" width="680">
+<text top="67" left="96" width="153" height="16" font="0">Context and Linguistic Change </text>
+<text top="67" left="442" width="127" height="16" font="0">CatJL Special Issue, 2020 </text>
+<text top="67" left="579" width="6" height="16" font="1"><b>7</b></text>
+<text top="111" left="96" width="493" height="20" font="3">conventional interpretation of the construct, either an interpretation desired by the </text>
+<text top="128" left="96" width="493" height="20" font="3">speaker, who “evokes implicatures and invites the addressee/reader to infer them” </text>
+<text top="145" left="96" width="489" height="20" font="3">(Traugott &amp; Dasher 2002), or an interpretation not desired by the speaker but pro-</text>
+<text top="163" left="96" width="489" height="20" font="3">moted by the addressee. In the latter case we speak of a “context-induced reinterpre-</text>
+<text top="180" left="96" width="492" height="20" font="3">tation” (Traugott &amp; Trusdale 2013, following Heine, Claudi &amp; Hünnemeyer 1991). </text>
+<text top="197" left="96" width="493" height="20" font="3">In both cases, the invited inference is linked to the context that makes it possible, </text>
+<text top="214" left="96" width="489" height="20" font="3">which is referred to as a bridging context, i.e., cases that allow a double interpreta-</text>
+<text top="232" left="96" width="492" height="20" font="3">tion of the construct, that of the original meaning and that of the innovative meaning. </text>
+<text top="249" left="96" width="303" height="20" font="3">Once again, context is the key of linguistic change.</text>
+<text top="266" left="118" width="470" height="20" font="3">Cognitive linguistics is not the first or the only discipline that has highlighted </text>
+<text top="283" left="96" width="493" height="20" font="3">the role of context to explain the linguistic fact. There are other disciplines and </text>
+<text top="301" left="96" width="493" height="20" font="3">approaches that have paid attention to this communicative element, such as </text>
+<text top="318" left="96" width="493" height="20" font="3">Sociolinguistics or Textual Linguistics. These linguistic disciplines based on </text>
+<text top="335" left="96" width="493" height="20" font="3">usage (and Cognitive Linguistics in particular) claim a return to the communicative </text>
+<text top="352" left="96" width="494" height="20" font="3">situation and represent a rapprochement to other disciplines, as well as an </text>
+<text top="370" left="96" width="493" height="20" font="3">interaction with them. In this special issue, this perspective is adopted by Antónia </text>
+<text top="387" left="96" width="489" height="20" font="3">Coutinho’s contribution, which is placed within the theoretical framework of Socio-</text>
+<text top="404" left="96" width="158" height="20" font="3">Discursive Interactionism.</text>
+<text top="421" left="118" width="470" height="20" font="3">The study of language from a contextual point of view necessarily involves the </text>
+<text top="439" left="96" width="493" height="20" font="3">social dimension of the linguistic fact and the intrinsic variation implied by it: i.e., a </text>
+<text top="456" left="96" width="489" height="20" font="3">variation of linguistic register, as well as territorial and social variations that condi-</text>
+<text top="473" left="96" width="493" height="20" font="3">tion the usage that the speaker makes of language in society. Within this context, </text>
+<text top="490" left="96" width="489" height="20" font="3">grammar must be understood also as a social system regulated by social conven-</text>
+<text top="508" left="96" width="493" height="20" font="3">tions that orient the communicative activity. If we lose sight of the social factors </text>
+<text top="525" left="96" width="493" height="20" font="3">involved in the functioning of linguistic structures, we will only be able to know </text>
+<text top="542" left="96" width="493" height="20" font="3">them partially. That is why in the last years usage-based linguists have begun to </text>
+<text top="559" left="96" width="493" height="20" font="3">accept some of the principles of Sociolinguistics, and particularly of variationist </text>
+<text top="577" left="96" width="489" height="20" font="3">Sociolinguistics. In this issue, social variation is an important factor when describ-</text>
+<text top="594" left="96" width="493" height="20" font="3">ing certain constructions, as shown in the papers by Ramos, De Cock or Cornillie &amp; </text>
+<text top="611" left="96" width="493" height="20" font="3">Gras. In addition, these sociolinguistic factors are also relevant when analyzing the </text>
+<text top="628" left="96" width="493" height="20" font="3">development and dissemination of lexicosemantic change, as proven by Antolí’s or </text>
+<text top="646" left="96" width="184" height="20" font="3">Martínez’s papers in this issue.</text>
+<text top="663" left="118" width="470" height="20" font="3">Finally, the variation shown by an approach to usage-based language is not only </text>
+<text top="680" left="96" width="492" height="20" font="3">functional, social or territorial, but also chronological. From a cognitive standpoint, </text>
+<text top="697" left="96" width="493" height="20" font="3">polysemy in synchrony is conceived of as the diachronic evolution of the meaning </text>
+<text top="715" left="96" width="493" height="20" font="3">of words and linguistic structures. In other words, polysemy must be understood </text>
+<text top="732" left="96" width="493" height="20" font="3">as “the process of transformations of a prototype that is constantly systematized” </text>
+<text top="749" left="96" width="493" height="20" font="3">(Cifuentes 1990: 117). The synchronic and diachronic study of the language are </text>
+<text top="766" left="96" width="489" height="20" font="3">then two sides of the same coin. The historical perspective must not be then forgot-</text>
+<text top="784" left="96" width="492" height="20" font="3">ten if we wish to have a complete picture of the phenomenon, as exemplified by the </text>
+<text top="801" left="96" width="401" height="20" font="3">contributions by Traugott, Ramos, Antolí or Martínez in this issue.</text>
+<text top="818" left="118" width="471" height="20" font="3">The papers integrating this special issue aim at shedding light on the many </text>
+<text top="835" left="96" width="493" height="20" font="3">research possibilities suggested by usage-based linguistics. All the contributions </text>
+<text top="853" left="96" width="493" height="20" font="3">have different goals, focus on different languages (Catalan, English, Spanish or </text>
+<text top="870" left="96" width="489" height="20" font="3">Portuguese), use several chronological frameworks (there are diachronic and syn-</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="977" width="680">
+	<fontspec id="9" size="11" family="WNKEOE+TimesNewRomanPSMT-SC750" color="#231f20"/>
+<text top="68" left="96" width="6" height="16" font="1"><b>8</b></text>
+<text top="68" left="102" width="139" height="16" font="0">  CatJL Special Issue, 2020 </text>
+<text top="68" left="339" width="246" height="17" font="8">Josep Martines; Susana Rodríguez; Jordi M. Antolí</text>
+<text top="111" left="96" width="493" height="20" font="3">chronic analysis) and approach a variety of linguistic elements. However, despite </text>
+<text top="128" left="96" width="489" height="20" font="3">this seeming heterogeneity, all the papers share a similar methodology and a con-</text>
+<text top="145" left="96" width="493" height="20" font="3">ception of linguistic communication – and, specifically, of linguistic change – </text>
+<text top="163" left="96" width="151" height="20" font="3">strongly based on usage. </text>
+<text top="205" left="96" width="206" height="20" font="6"><b>2. Overview of the contributions</b></text>
+<text top="232" left="96" width="419" height="20" font="3">Elizabeth Closs Traugott opens this issue with a paper entitled “Is </text>
+<text top="231" left="515" width="74" height="20" font="7"><i>Back to my </i></text>
+<text top="249" left="96" width="33" height="20" font="7"><i>Point</i></text>
+<text top="249" left="128" width="460" height="20" font="3"> a Pragmatic Marker? An Inquiry into the Historical Development of some </text>
+<text top="266" left="96" width="493" height="20" font="3">Metatextual Discourse Management Markers in English”. In her study, Traugott </text>
+<text top="283" left="96" width="493" height="20" font="3">offers an approach to the study of discourse management markers using categorial, </text>
+<text top="301" left="96" width="493" height="20" font="3">terminological and historical perspectives, and she describes the process of change </text>
+<text top="318" left="96" width="493" height="20" font="3">that originates these pragmatic markers. To do so, the author uses some concrete </text>
+<text top="335" left="96" width="157" height="20" font="3">cases in English (such as </text>
+<text top="335" left="253" width="70" height="20" font="7"><i>to return to</i></text>
+<text top="335" left="323" width="19" height="20" font="3"> X </text>
+<text top="335" left="343" width="31" height="20" font="7"><i>point</i></text>
+<text top="335" left="374" width="7" height="20" font="3">, </text>
+<text top="335" left="382" width="102" height="20" font="7"><i>back to my point</i></text>
+<text top="335" left="484" width="7" height="20" font="3">, </text>
+<text top="335" left="492" width="92" height="20" font="7"><i>parenthetically</i></text>
+<text top="335" left="585" width="4" height="20" font="3"> </text>
+<text top="352" left="96" width="25" height="20" font="3">and </text>
+<text top="352" left="121" width="71" height="20" font="7"><i>incidentally</i></text>
+<text top="352" left="192" width="397" height="20" font="3">) that are analyzed with a qualitative methodology combined with </text>
+<text top="370" left="96" width="493" height="20" font="3">quantitative data. The samples come from three English diachronic corpora: the </text>
+<text top="387" left="96" width="493" height="20" font="3">Corpus of Contemporary American English, the Early English Books Online and </text>
+<text top="404" left="96" width="493" height="20" font="3">The Corpus of Historical American English. The results allow the author to define </text>
+<text top="421" left="96" width="493" height="20" font="3">a pattern in the process of change that originates discourse management markers </text>
+<text top="439" left="96" width="489" height="20" font="3">after going successively through the categories of adverbial adjuncts and con-</text>
+<text top="456" left="96" width="493" height="20" font="3">junct adverbials. Besides its categorial and terminological contribution, the paper </text>
+<text top="473" left="96" width="493" height="20" font="3">emphasizes the importance of the linguistic change and the historical perspective </text>
+<text top="490" left="96" width="124" height="20" font="3">in linguistic studies. </text>
+<text top="508" left="118" width="470" height="20" font="3">Joan-Rafael Ramos contributes to the study of linguistic variation in his paper </text>
+<text top="525" left="96" width="492" height="20" font="3">entitled “Formal Variation and Language Change in Catalan Quantifiers: the Role </text>
+<text top="542" left="96" width="493" height="20" font="3">of Pragmatics”. The author studies the factors that explain formal, functional, and </text>
+<text top="559" left="96" width="492" height="20" font="3">territorial variation in the masculine sg. forms of quantifiers derived from the Latin </text>
+<text top="577" left="96" width="53" height="20" font="3">numeral </text>
+<text top="580" left="148" width="34" height="15" font="9">unum</text>
+<text top="577" left="182" width="159" height="20" font="3"> in contemporary Catalan (</text>
+<text top="576" left="342" width="27" height="20" font="7"><i>u/un</i></text>
+<text top="577" left="368" width="42" height="20" font="3"> ‘one’, </text>
+<text top="576" left="411" width="65" height="20" font="7"><i>algú/algun</i></text>
+<text top="577" left="475" width="113" height="20" font="3"> ‘someone, some’, </text>
+<text top="594" left="96" width="78" height="20" font="7"><i>ningú/ningun</i></text>
+<text top="594" left="174" width="225" height="20" font="3"> ‘no-one, anyone, any, not one, none’, </text>
+<text top="594" left="398" width="94" height="20" font="7"><i>cada u/cada un </i></text>
+<text top="594" left="492" width="96" height="20" font="3">‘everyone, each </text>
+<text top="611" left="96" width="492" height="20" font="3">one’). The study focuses on colloquial language and the author uses samples from </text>
+<text top="628" left="96" width="493" height="20" font="3">several written and oral corpora as well as from several lexicographic, dialectogical </text>
+<text top="646" left="96" width="493" height="20" font="3">and grammatical Catalan works. The analysis takes into consideration a Romance </text>
+<text top="663" left="96" width="489" height="20" font="3">perspective and considers the historical evolution of the words using the conclu-</text>
+<text top="680" left="96" width="492" height="20" font="3">sions of some of his previous articles. When studying the functional especialization </text>
+<text top="697" left="96" width="493" height="20" font="3">of the formal variants analyzed besides inner factors, the author outlines certain </text>
+<text top="715" left="96" width="493" height="20" font="3">pragmatic and social aspects such as language contact, which turns into a motor </text>
+<text top="732" left="96" width="127" height="20" font="3">for linguistic change.</text>
+<text top="749" left="118" width="472" height="20" font="3">José Luis Cifuentes Honrubia, in his contribution “Anaphora and </text>
+<text top="766" left="96" width="493" height="20" font="3">Subjectification in Lexicalized Feminine Clitic Constructions”, highlights the </text>
+<text top="784" left="96" width="493" height="20" font="3">relevance of anaphora for linguistic change. The paper explores the analogical </text>
+<text top="801" left="96" width="493" height="20" font="3">processes triggering constructions with a lexicalized feminine clitic in Spanish </text>
+<text top="818" left="96" width="5" height="20" font="3">(</text>
+<text top="818" left="101" width="54" height="20" font="7"><i>dormirla</i></text>
+<text top="818" left="155" width="7" height="20" font="3">, </text>
+<text top="818" left="163" width="46" height="20" font="7"><i>meterla</i></text>
+<text top="818" left="209" width="7" height="20" font="3">, </text>
+<text top="818" left="217" width="62" height="20" font="7"><i>pirárselas</i></text>
+<text top="818" left="279" width="21" height="20" font="3"> or </text>
+<text top="818" left="300" width="46" height="20" font="7"><i>deberla</i></text>
+<text top="818" left="347" width="242" height="20" font="3">, for instance), which are characterized </text>
+<text top="835" left="96" width="493" height="20" font="3">by the fact that the clitic does not have a specific antecedent. The paper departs </text>
+<text top="853" left="96" width="493" height="20" font="3">from the conclusion reached at a previous paper, where he analyzed the historical </text>
+<text top="870" left="96" width="489" height="20" font="3">development of around one hundred of these constructions. The historical perspec-</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="977" width="680">
+<text top="67" left="96" width="153" height="16" font="0">Context and Linguistic Change </text>
+<text top="67" left="442" width="127" height="16" font="0">CatJL Special Issue, 2020 </text>
+<text top="67" left="579" width="6" height="16" font="1"><b>9</b></text>
+<text top="111" left="96" width="493" height="20" font="3">tive allows us to explain the presence of the feminine clitic in some cases but not </text>
+<text top="128" left="96" width="493" height="20" font="3">in all of them. In order to explain the processes that originate these constructions, </text>
+<text top="145" left="96" width="492" height="20" font="3">Cifuentes makes use of (inter)subjectification (following the proposals by Traugott </text>
+<text top="163" left="96" width="493" height="20" font="3">et al. and Company) and analogy. He identifies several types of constructions with </text>
+<text top="180" left="96" width="492" height="20" font="3">a feminine clitic according to the established analogy (in a continuum characterized </text>
+<text top="197" left="96" width="493" height="20" font="3">by an increase of the intersubjectification): from contexts in which the feminine </text>
+<text top="214" left="96" width="492" height="20" font="3">clitic refers to an intratextual or cotextual reference, to cases in which the clitic has </text>
+<text top="232" left="96" width="493" height="20" font="3">a semantic, pragmatic reference based on a communicative situation (for instance </text>
+<text top="249" left="96" width="47" height="20" font="7"><i>deberla</i></text>
+<text top="249" left="143" width="446" height="20" font="3">). This analysis allows the author to conclude that constructions with a </text>
+<text top="266" left="96" width="426" height="20" font="3">feminine clitic can be considered as an example of discourse anaphora.</text>
+<text top="283" left="118" width="106" height="20" font="3">Barbara De Cock</text>
+<text top="283" left="224" width="4" height="20" font="6"><b> </b></text>
+<text top="283" left="228" width="357" height="20" font="3">analyzes the factors that explain the alternation in contem-</text>
+<text top="301" left="96" width="493" height="20" font="3">porary Spanish of two constructions which have been traditionally considered </text>
+<text top="318" left="96" width="346" height="20" font="3">impersonal: i.e., the constructions respectively formed by </text>
+<text top="318" left="441" width="26" height="20" font="7"><i>uno </i></text>
+<text top="318" left="467" width="25" height="20" font="3">and </text>
+<text top="318" left="493" width="12" height="20" font="7"><i>se</i></text>
+<text top="318" left="505" width="84" height="20" font="3">. In her paper </text>
+<text top="335" left="96" width="440" height="20" font="3">“Intersubjective Impersonals in Context: a Multivariate Analysis of Spanish </text>
+<text top="335" left="535" width="29" height="20" font="7"><i>Uno </i></text>
+<text top="335" left="563" width="25" height="20" font="3">and </text>
+<text top="352" left="96" width="18" height="20" font="7"><i>Se </i></text>
+<text top="352" left="114" width="471" height="20" font="3">in Spoken Language”, De Cock studies the use of these constructions – under-</text>
+<text top="370" left="96" width="493" height="20" font="3">stood as strategies of agent defocussing construction – in the spoken language. To </text>
+<text top="387" left="96" width="493" height="20" font="3">do so, she uses examples from the Corpus del Español centro-peninsular and the </text>
+<text top="404" left="96" width="493" height="20" font="3">Macrocorpus de la norma lingüística culta de las principales ciudades del mundo </text>
+<text top="421" left="96" width="58" height="20" font="3">hispánico</text>
+<text top="421" left="153" width="8" height="20" font="7"><i>. </i></text>
+<text top="421" left="161" width="428" height="20" font="3">Her study combines qualitative and quantitative methodologies with a </text>
+<text top="439" left="96" width="493" height="20" font="3">multivariate analysis, taking into consideration syntactic, pragmatic and discursive </text>
+<text top="456" left="96" width="489" height="20" font="3">factors. The result of the study shows that, together with already-known syntac-</text>
+<text top="473" left="96" width="489" height="20" font="3">tic factors, the alternation between the two constructions depends largely on discur-</text>
+<text top="490" left="96" width="493" height="20" font="3">sive and pragmatic criteria which have been less studied to date. Among others, the </text>
+<text top="508" left="96" width="493" height="20" font="3">author highlights the relevance of the variation depending on the discursive genre </text>
+<text top="525" left="96" width="493" height="20" font="3">(that is, the degree of formality) or whether the construction has contextually an </text>
+<text top="542" left="96" width="114" height="20" font="3">intersubjective use.</text>
+<text top="559" left="118" width="470" height="20" font="3">Antónia Coutinho argues in favor of an inclusive analysis of the linguistic fact </text>
+<text top="577" left="96" width="493" height="20" font="3">in her article entitled “The Place of Semantics and Pragmatics in a Linguistic </text>
+<text top="594" left="96" width="493" height="20" font="3">Approach to Texts”. Her proposal falls within the field of Text Linguistics, and </text>
+<text top="611" left="96" width="493" height="20" font="3">specifically, within Discursive Interaccionism, in which the text is understood as </text>
+<text top="628" left="96" width="493" height="20" font="3">a social object. She proposes a descending methodological approach to the text </text>
+<text top="646" left="96" width="493" height="20" font="3">that goes from the superior level of the social activity to the intermediate level of </text>
+<text top="663" left="96" width="493" height="20" font="3">the textual genres and to the final level of the linguistic resources utilized. Using </text>
+<text top="680" left="96" width="493" height="20" font="3">a concrete case as a point of departure, the author argues that any approach to </text>
+<text top="697" left="96" width="493" height="20" font="3">the linguistic level of texts should take into account all the possible connections </text>
+<text top="715" left="96" width="493" height="20" font="3">among the different levels of study that are involved in the production of oral or </text>
+<text top="732" left="96" width="493" height="20" font="3">written texts. Only doing this task will we understand and analyze the texts as </text>
+<text top="749" left="96" width="172" height="20" font="3">global communicative units.</text>
+<text top="766" left="118" width="470" height="20" font="3">Jordi M. Antolí Martínez contributes a diachronic perspective to the study of </text>
+<text top="784" left="96" width="493" height="20" font="3">politeness in his article “Subjectivization and Intersubjectivization in the Evolution </text>
+<text top="801" left="96" width="72" height="20" font="3">of the Verb </text>
+<text top="801" left="168" width="38" height="20" font="7"><i>Témer</i></text>
+<text top="801" left="206" width="382" height="20" font="3"> in Catalan (13th-19th c.)”. In particular, his study analyzes the </text>
+<text top="818" left="96" width="405" height="20" font="3">origin and evolution of the intersubjective values of the Catalan verb </text>
+<text top="818" left="500" width="37" height="20" font="7"><i>témer </i></text>
+<text top="818" left="537" width="51" height="20" font="3">‘to fear’ </text>
+<text top="835" left="96" width="150" height="20" font="3">and synonymous idioms </text>
+<text top="835" left="245" width="34" height="20" font="7"><i>haver</i></text>
+<text top="835" left="279" width="4" height="20" font="3">/</text>
+<text top="835" left="284" width="53" height="20" font="7"><i>tenir por</i></text>
+<text top="835" left="337" width="4" height="20" font="3">/</text>
+<text top="835" left="341" width="28" height="20" font="7"><i>paor</i></text>
+<text top="835" left="369" width="4" height="20" font="3">/</text>
+<text top="835" left="373" width="35" height="20" font="7"><i>temor</i></text>
+<text top="835" left="408" width="180" height="20" font="3"> during the 13th through 19th </text>
+<text top="853" left="96" width="492" height="20" font="3">centuries. To do so, Antolí analyzes qualitatively and quantitatively examples from </text>
+<text top="870" left="96" width="493" height="20" font="3">three historical Catalan corpora, from Old Catalan (12th through 16th c.), modern </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="977" width="680">
+	<fontspec id="10" size="14" family="WNKEOE+TimesNewRomanPSMT" color="#231f20"/>
+	<fontspec id="11" size="14" family="WNKEOE+TimesNewRomanPS" color="#231f20"/>
+<text top="68" left="96" width="12" height="16" font="1"><b>10</b></text>
+<text top="68" left="108" width="139" height="16" font="0">  CatJL Special Issue, 2020 </text>
+<text top="68" left="339" width="246" height="17" font="8">Josep Martines; Susana Rodríguez; Jordi M. Antolí</text>
+<text top="111" left="96" width="493" height="20" font="3">Catalan (18th c.-1832) and contemporary Catalan (1833-present day). The results </text>
+<text top="128" left="96" width="118" height="20" font="3">show that the verb </text>
+<text top="128" left="213" width="38" height="20" font="7"><i>témer </i></text>
+<text top="128" left="252" width="336" height="20" font="3">and synonymous idoms display intersubjective usages </text>
+<text top="145" left="96" width="493" height="20" font="3">in dialogical contexts in which they act as a negative politeness strategy, with a </text>
+<text top="163" left="96" width="493" height="20" font="3">softening function on many occasions. These usages appear in contexts of apology, </text>
+<text top="180" left="96" width="493" height="20" font="3">warning and request as well as in assertive contexts in which a negative information </text>
+<text top="197" left="96" width="493" height="20" font="3">or opinion is offered by the addressee. The paper documents the diachronic process </text>
+<text top="214" left="96" width="493" height="20" font="3">of creation of these new values using Traugott’s concept of intersubjectivity and </text>
+<text top="232" left="96" width="385" height="20" font="3">compares it to the evolution of parallel constructions in English.</text>
+<text top="249" left="118" width="466" height="20" font="3">Caterina Martínez Martínez highlights the function of the communicative con-</text>
+<text top="266" left="96" width="493" height="20" font="3">text in the emergence of a pragmatic marker in her article “Genesis and Evolution </text>
+<text top="283" left="96" width="274" height="20" font="3">of a Pragmatic Marker in Catalan: the Case of </text>
+<text top="283" left="369" width="63" height="20" font="7"><i>Tanmateix</i></text>
+<text top="283" left="432" width="153" height="20" font="3">”. Specifically, her contri-</text>
+<text top="301" left="96" width="314" height="20" font="3">bution analyzes the process of grammaticalization of </text>
+<text top="300" left="410" width="62" height="20" font="7"><i>tanmateix </i></text>
+<text top="301" left="472" width="117" height="20" font="3">in Catalan (derived </text>
+<text top="318" left="96" width="108" height="20" font="3">from the structure </text>
+<text top="318" left="204" width="44" height="20" font="7"><i>(ai)tant</i></text>
+<text top="318" left="248" width="4" height="20" font="3"> </text>
+<text top="318" left="251" width="39" height="20" font="7"><i>mateix</i></text>
+<text top="318" left="291" width="294" height="20" font="3"> in Old Catalan) during the 17th through 19th cen-</text>
+<text top="335" left="96" width="130" height="20" font="3">turies. This word is a </text>
+<text top="335" left="225" width="79" height="20" font="7"><i>question-tag </i></text>
+<text top="335" left="304" width="281" height="20" font="3">in contemporary Catalan (also called “interjec-</text>
+<text top="352" left="96" width="493" height="20" font="3">tions”, “tag-markers” or “conversational metadiscursive connectors”) and it works </text>
+<text top="370" left="96" width="493" height="20" font="3">as a pragmatic confirmation marker. To explain its creation, the author bases her </text>
+<text top="387" left="96" width="492" height="20" font="3">study on the qualitative and quantitative analysis of the examples obtained from two </text>
+<text top="404" left="96" width="493" height="20" font="3">Catalan historical corpora: the Corpus Informatitzat per a la Gramàtica del Català </text>
+<text top="421" left="96" width="493" height="20" font="3">Modern and the Corpus Textual Informatitzat de la Llengua Catalana. She describes </text>
+<text top="439" left="96" width="493" height="20" font="3">the evolution of this structure from an original value of ‘calculus’ (typical of Old </text>
+<text top="456" left="96" width="493" height="20" font="3">Catalan) to the notion of ‘confirmation’ in modern times. Using theatrical texts, </text>
+<text top="473" left="96" width="489" height="20" font="3">Martínez describes communicative contexts of negotiation between the speaker/</text>
+<text top="490" left="96" width="492" height="20" font="3">writer and the hearer/reader that make possible contextual inferences that result in </text>
+<text top="508" left="96" width="131" height="20" font="3">this linguistic change.</text>
+<text top="525" left="118" width="470" height="20" font="3">Finally, Bert Cornillie and Pedro Gras, in an article entitled “Evidentiality and </text>
+<text top="542" left="96" width="223" height="20" font="3">Socioepistemic Status of Participants.</text>
+<text top="542" left="319" width="4" height="20" font="6"><b> </b></text>
+<text top="542" left="323" width="151" height="20" font="3">A Case Study of Spanish </text>
+<text top="542" left="474" width="67" height="20" font="7"><i>por lo visto</i></text>
+<text top="542" left="541" width="44" height="20" font="3"> ‘seem-</text>
+<text top="559" left="96" width="64" height="20" font="3">ingly’ and </text>
+<text top="559" left="160" width="61" height="20" font="7"><i>al parecer</i></text>
+<text top="559" left="221" width="343" height="20" font="3"> ‘apparently’”, analyze two evidential discourse markers: </text>
+<text top="559" left="564" width="25" height="20" font="7"><i>por </i></text>
+<text top="576" left="96" width="50" height="20" font="7"><i>lo visto </i></text>
+<text top="577" left="146" width="104" height="20" font="3">‘seemingly’ and </text>
+<text top="576" left="250" width="12" height="20" font="7"><i>al</i></text>
+<text top="577" left="262" width="4" height="20" font="3"> </text>
+<text top="576" left="266" width="48" height="20" font="7"><i>parecer</i></text>
+<text top="577" left="314" width="274" height="20" font="3"> ‘seemingly/apparently’. Based on previous </text>
+<text top="594" left="96" width="493" height="20" font="3">studies on evidentiality, already known in a Hispanic context, the authors offer </text>
+<text top="611" left="96" width="489" height="20" font="3">a detailed description of the parameters under which these constructions are uti-</text>
+<text top="628" left="96" width="272" height="20" font="3">lized. In concrete, the variables analyzed are </text>
+<text top="628" left="368" width="12" height="20" font="7"><i>a)</i></text>
+<text top="628" left="380" width="125" height="20" font="3"> the type of activity, </text>
+<text top="628" left="506" width="12" height="20" font="7"><i>b)</i></text>
+<text top="628" left="518" width="70" height="20" font="3"> the degree </text>
+<text top="646" left="96" width="84" height="20" font="3">of formality; </text>
+<text top="645" left="180" width="12" height="20" font="7"><i>c)</i></text>
+<text top="646" left="192" width="244" height="20" font="3"> the position of the marker; and d) the </text>
+<text top="645" left="436" width="153" height="20" font="7"><i>socioepistemic status of </i></text>
+<text top="663" left="96" width="70" height="20" font="7"><i>the speaker</i></text>
+<text top="663" left="166" width="423" height="20" font="3">. Their study is based mainly on the qualitative analysis of examples </text>
+<text top="680" left="96" width="57" height="20" font="3">from the </text>
+<text top="680" left="153" width="405" height="20" font="7"><i>Corpus oral de referencia de la lengua española contemporánea</i></text>
+<text top="680" left="558" width="31" height="20" font="3"> and </text>
+<text top="697" left="96" width="22" height="20" font="3">the </text>
+<text top="697" left="118" width="226" height="20" font="7"><i>Corpus oral del lenguaje adolescente</i></text>
+<text top="697" left="344" width="245" height="20" font="3">. The main conclusion reached from the </text>
+<text top="715" left="96" width="492" height="20" font="3">analysis is that these evidential markers are frequent in communicative contexts in </text>
+<text top="732" left="96" width="493" height="20" font="3">which there is an exchange of information. On the contrary, they are not common </text>
+<text top="749" left="96" width="493" height="20" font="3">in assessment contexts. A second conclusion is that the socioepistemic status of </text>
+<text top="766" left="96" width="353" height="20" font="3">the speaker determines the use of these evidential markers.</text>
+<text top="809" left="96" width="70" height="20" font="6"><b>References</b></text>
+<text top="835" left="96" width="493" height="19" font="10">Bybee, Joan L. 2006. From usage to grammar: the mind’s response to repetition. </text>
+<text top="850" left="118" width="57" height="19" font="11"><i>Language</i></text>
+<text top="850" left="175" width="76" height="19" font="10"> 82: 711-733.</text>
+<text top="868" left="96" width="255" height="19" font="10"> &lt;https://doi.org/10.1353/lan.2006.0186&gt;</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="977" width="680">
+	<fontspec id="12" size="14" family="WNKEOE+ArialMT" color="#231f20"/>
+<text top="67" left="96" width="153" height="16" font="0">Context and Linguistic Change </text>
+<text top="67" left="436" width="127" height="16" font="0">CatJL Special Issue, 2020 </text>
+<text top="67" left="573" width="12" height="16" font="1"><b>11</b></text>
+<text top="112" left="96" width="380" height="19" font="10">Cifuentes, José Luis. 1990. La polisemia como prototipo diacrónico. </text>
+<text top="111" left="476" width="112" height="19" font="11"><i>Anales de Filología </i></text>
+<text top="127" left="118" width="59" height="19" font="11"><i>Hispánica</i></text>
+<text top="127" left="177" width="62" height="19" font="10"> 5: 99-119.</text>
+<text top="145" left="96" width="366" height="19" font="10">Geeraerts, Dirk. 2006. A rough guide to Cognitive Linguistics. In </text>
+<text top="145" left="461" width="127" height="19" font="11"><i>Cognitive Linguistics: </i></text>
+<text top="161" left="118" width="88" height="19" font="11"><i>Basic Readings</i></text>
+<text top="161" left="206" width="264" height="19" font="10">, 1-28. Berlin/New York: Mouton de Gruyter. </text>
+<text top="179" left="96" width="276" height="19" font="10"> &lt;https://doi.org/10.1515/9783110199901.1&gt;</text>
+<text top="196" left="96" width="369" height="19" font="10">Heine, Bernd, Claudi, Ulrike &amp; Hünnemeyer, Friederike. 1991. </text>
+<text top="196" left="465" width="124" height="19" font="11"><i>Grammaticalization: </i></text>
+<text top="212" left="118" width="144" height="19" font="11"><i>A conceptual framework.</i></text>
+<text top="212" left="262" width="222" height="19" font="10"> Chicago: University of Chicago Press.</text>
+<text top="230" left="96" width="173" height="19" font="10">Langacker, Ronald W. 1987. </text>
+<text top="229" left="269" width="320" height="19" font="11"><i>Foundations of Cognitive Grammar. Vol. I. Theorical </i></text>
+<text top="245" left="118" width="76" height="19" font="11"><i>Prerequisites</i></text>
+<text top="245" left="194" width="275" height="19" font="10">. Stanford/California: Stanford University Press.</text>
+<text top="263" left="96" width="489" height="19" font="10">Langacker, Ronald W. 1988. A usage-based model. In Rudzka-Ostyn, Brygida (ed.).</text>
+<text top="263" left="585" width="4" height="19" font="11"><i> </i></text>
+<text top="279" left="118" width="177" height="19" font="11"><i>Topics in Cognitive Linguistics</i></text>
+<text top="279" left="295" width="54" height="19" font="10">, 127-161</text>
+<text top="279" left="349" width="4" height="19" font="11"><i>.</i></text>
+<text top="279" left="353" width="235" height="19" font="10"> Amsterdam/New York: John Benjamins </text>
+<text top="295" left="118" width="124" height="19" font="10">Publishing Company.</text>
+<text top="312" left="96" width="168" height="19" font="10">Langacker, Ronald W. 1991. </text>
+<text top="312" left="263" width="325" height="19" font="11"><i>Foundations of Cognitive Grammar. Vol. II. Descriptive </i></text>
+<text top="328" left="118" width="65" height="19" font="11"><i>application</i></text>
+<text top="328" left="183" width="275" height="19" font="10">. Stanford/California: Stanford University Press.</text>
+<text top="346" left="96" width="493" height="19" font="10">Stefanowitsch, Anatol. 2011. Cognitive linguistics meets the corpus. In Brdar, Mario, </text>
+<text top="362" left="118" width="238" height="19" font="10">Gries, Stefan Th. &amp; Fuchs, Milena (eds.). </text>
+<text top="361" left="356" width="232" height="19" font="11"><i>Cognitive Linguistics: Convergence and </i></text>
+<text top="377" left="118" width="59" height="19" font="11"><i>Expansion</i></text>
+<text top="377" left="177" width="408" height="19" font="10">, 257-290. Amsterdam/New York: John Benjamins Publishing Company.</text>
+<text top="395" left="96" width="245" height="19" font="10"> &lt;https://doi.org/10.1075/hcp.32.16ste&gt;</text>
+<text top="413" left="96" width="165" height="19" font="10">Stefanowitsch, Anatol. 2020. </text>
+<text top="412" left="261" width="262" height="19" font="11"><i>Corpus linguistics: A guide to the methodology</i></text>
+<text top="413" left="522" width="4" height="19" font="10">.</text>
+<text top="413" left="526" width="4" height="19" font="12"> </text>
+<text top="413" left="529" width="59" height="19" font="10">Language </text>
+<text top="428" left="118" width="82" height="19" font="10">Science Press.</text>
+<text top="446" left="96" width="493" height="19" font="10">Traugott, Elizabeth C. 2010. Revisiting subjectification and intersubjectification. In </text>
+<text top="462" left="118" width="376" height="19" font="10">Davidse, Kristin, Vandelanotte, Lieven &amp; Cuyckens, Hubert (eds.). </text>
+<text top="462" left="494" width="94" height="19" font="11"><i>Subjectification, </i></text>
+<text top="477" left="118" width="253" height="19" font="11"><i>Intersubjectification and Grammaticalization</i></text>
+<text top="478" left="371" width="4" height="19" font="10">,</text>
+<text top="477" left="375" width="4" height="19" font="11"><i> </i></text>
+<text top="478" left="378" width="210" height="19" font="10">29-70. Berlin/New York: De Gruyter </text>
+<text top="493" left="118" width="49" height="19" font="10">Mouton.</text>
+<text top="511" left="96" width="493" height="19" font="10">Traugott, Elizabeth C. 2012. Pragmatics and language change. In Allan, Keith &amp; </text>
+<text top="527" left="118" width="147" height="19" font="10">Jaszczolt, Kasia (eds.). </text>
+<text top="527" left="266" width="255" height="19" font="11"><i>The Cambridge Handbook of Pragmatics</i></text>
+<text top="527" left="522" width="68" height="19" font="10">, 549-566. </text>
+<text top="543" left="118" width="239" height="19" font="10">Cambridge: Cambridge University Press. </text>
+<text top="560" left="96" width="320" height="19" font="10"> &lt;https://doi.org/10.1017/CBO9781139022453.030&gt;</text>
+<text top="578" left="96" width="302" height="19" font="10">Traugott, Elizabeth C. &amp; Dasher, Richard B. 2002. </text>
+<text top="578" left="398" width="183" height="19" font="11"><i>Regularity in Semantic Change</i></text>
+<text top="578" left="581" width="7" height="19" font="10">. </text>
+<text top="594" left="118" width="239" height="19" font="10">Cambridge: Cambridge University Press. </text>
+<text top="611" left="96" width="295" height="19" font="10"> &lt;https://doi.org/10.1017/CBO9780511486500&gt;</text>
+<text top="629" left="96" width="493" height="19" font="10">Traugott, Elizabeth C. &amp; Köning, Ekkehard. 1991. The Semantics-Pragmatics of </text>
+<text top="645" left="118" width="471" height="19" font="10">Grammaticalization Revisited. Traugott, Elizabeth C. &amp; Heine, Bernd (eds.). </text>
+<text top="660" left="118" width="197" height="19" font="11"><i>Approaches to Grammaticalization</i></text>
+<text top="661" left="315" width="270" height="19" font="10">, Vol. II, 189-218. Amsterdam: John Benjamins.</text>
+<text top="678" left="96" width="327" height="19" font="10">Traugott, Elizabeth C. &amp; Trousdale, Graeme. 2013. </text>
+<text top="678" left="423" width="166" height="19" font="11"><i>Constructionalization and </i></text>
+<text top="694" left="118" width="139" height="19" font="11"><i>Constructional Changes</i></text>
+<text top="694" left="257" width="201" height="19" font="10">. Oxford: Oxford University Press. </text>
+<text top="712" left="96" width="387" height="19" font="10"> &lt;https://doi.org/10.1093/acprof:oso/9780199679898.001.0001&gt;</text>
+</page>
+</pdf2xml>
