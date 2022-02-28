@@ -5,11 +5,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Aufsatzsammlung/PDF/PDF-Sammlung.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Aufsatzsammlung/PDF/PDF-Sammlung.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Aufsatzsammlung/PDF/wpss-02-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Aufsatzsammlung/PDF/wpss-02-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Aufsatzsammlung/XML/PDF-Sammlung.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Aufsatzsammlung/XML/PDF-Sammlung.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Aufsatzsammlung/XML/wpss-02-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Aufsatzsammlung/XML/wpss-02-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/EinzelaufsatzExample1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/PDF/EinzelaufsatzExample1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/EinzelaufsatzExample2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/PDF/EinzelaufsatzExample2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/doner2013-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/PDF/doner2013-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/e03-1001-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/PDF/e03-1001-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/j13-3001-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/PDF/j13-3001-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/j75-2004-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/PDF/j75-2004-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/j76-1002-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/PDF/j76-1002-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/ldd01-12-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/PDF/ldd01-12-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/ldd02-01-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/PDF/ldd02-01-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/ldd02-07-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/PDF/ldd02-07-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/ldd18-00-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/PDF/ldd18-00-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/mathieu.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/PDF/mathieu.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/travis2012-0-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/PDF/travis2012-0-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/PDF/wp-baetscher-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/PDF/wp-baetscher-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/EinzelaufsatzExample1.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/XML/EinzelaufsatzExample1.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/ListExample2.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/XML/ListExample2.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/doner2013-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/XML/doner2013-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/e03-1001-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/XML/e03-1001-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/j13-3001-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/XML/j13-3001-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/j75-2004-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/XML/j75-2004-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/j76-1002-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/XML/j76-1002-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/ldd01-12-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/XML/ldd01-12-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/ldd02-01-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/XML/ldd02-01-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/ldd02-07-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/XML/ldd02-07-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/ldd18-00-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/XML/ldd18-00-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/mathieu.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/XML/mathieu.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/travis2012-0-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/XML/travis2012-0-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Einzelaufsaetze/XML/wp-baetscher-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Einzelaufsaetze/XML/wp-baetscher-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/-for-working-papers-in-scandinavian-syntax-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/PDF/-for-working-papers-in-scandinavian-syntax-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/1132256xv1p65-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/PDF/1132256xv1p65-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/ListExample2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/PDF/ListExample2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/cjol-a2011v10p3-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/PDF/cjol-a2011v10p3-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/hemsida-wpss-88-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/PDF/hemsida-wpss-88-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/j78-2001-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/PDF/j78-2001-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/j83-3010-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/PDF/j83-3010-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/sls1972v2-2-dudas-pdf-sequence-2-isallowed-y.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/PDF/sls1972v2-2-dudas-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/v27-1-09hartkemeyer-pdf-sequence-2-isallowed-y.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/PDF/v27-1-09hartkemeyer-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/v28-1-13hartkemeyer-pdf-sequence-2-isallowed-y.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/PDF/v28-1-13hartkemeyer-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/wpss-88-tidigare-nummer-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/PDF/wpss-88-tidigare-nummer-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/wpss-fo-rord-88-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/PDF/wpss-fo-rord-88-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/wpss87-forord-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/PDF/wpss87-forord-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/wpss87-framsida-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/PDF/wpss87-framsida-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/PDF/wpss87-style-sheet-pdf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/PDF/wpss87-style-sheet-pdf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/XML/-for-working-papers-in-scandinavian-syntax-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/XML/-for-working-papers-in-scandinavian-syntax-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/XML/1132256xv1p65-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/XML/1132256xv1p65-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/XML/Einzelaufsatz2.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/XML/Einzelaufsatz2.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/XML/cjol-a2011v10p3-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/XML/cjol-a2011v10p3-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/XML/hemsida-wpss-88-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/XML/hemsida-wpss-88-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/XML/j78-2001-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/XML/j78-2001-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/XML/j83-3010-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/XML/j83-3010-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/XML/sls1972v2-2-dudas-pdf-sequence-2-isallowed-y.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/XML/sls1972v2-2-dudas-pdf-sequence-2-isallowed-y.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/XML/v27-1-09hartkemeyer-pdf-sequence-2-isallowed-y.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/XML/v27-1-09hartkemeyer-pdf-sequence-2-isallowed-y.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/XML/v28-1-13hartkemeyer-pdf-sequence-2-isallowed-y.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/XML/v28-1-13hartkemeyer-pdf-sequence-2-isallowed-y.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/XML/wpss-88-tidigare-nummer-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/XML/wpss-88-tidigare-nummer-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/XML/wpss-fo-rord-88-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/XML/wpss-fo-rord-88-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/XML/wpss87-forord-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/XML/wpss87-forord-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/XML/wpss87-framsida-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/XML/wpss87-framsida-pdf.xml.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Unbrauchbar/XML/wpss87-style-sheet-pdf.xml.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/samples/Unbrauchbar/XML/wpss87-style-sheet-pdf.xml.tmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tempDir/furuya.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tempDir/furuya.xml.tmp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
