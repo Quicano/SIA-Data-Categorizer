@@ -20,7 +20,7 @@ public class PDFToXML {
         }
     }
 
-    public String convertToXml(File pdfFile, String directory) throws Exception {
+    public String convertToXml(File pdfFile) throws Exception {
         String nameOfPaper = pdfFile.getName().replace(".pdf", "");
         Runtime executionRuntime = Runtime.getRuntime();
         String xmlFilePath = tempDir + "/" + nameOfPaper + ".xml";
@@ -29,7 +29,8 @@ public class PDFToXML {
             String linuxCommand = "pdftohtml -xml -i -c -q -s " + pdfFile.getCanonicalPath() + " " + xmlFilePath;
             pdfToXmlConversion = executionRuntime.exec("pdftohtml -xml -i -c -q -s " + pdfFile.getCanonicalPath() + " " + xmlFilePath);
         } else {//Windows Process. Ubuntu Virtual Machine needs to be installed
-            String windowsCommand = "wsl \n pdftohtml -xml -i -c -q -s " + pdfFile.getCanonicalPath() + " " + xmlFilePath;
+            String wslPath = WSLPath.convertWindowsPath(pdfFile.getCanonicalPath());
+            String windowsCommand = "wsl \n pdftohtml -xml -i -c -q -s " + wslPath + " " + xmlFilePath;
             System.out.println(windowsCommand);
             pdfToXmlConversion = executionRuntime.exec(windowsCommand);
         }
@@ -78,7 +79,7 @@ public class PDFToXML {
                 outputList.add(f);
             }
             if(f.getName().endsWith(".pdf")){
-                String xmlPath = converter.convertToXml(f, directory);
+                String xmlPath = converter.convertToXml(f);
                 outputList.add(new File(xmlPath));
             }
         }

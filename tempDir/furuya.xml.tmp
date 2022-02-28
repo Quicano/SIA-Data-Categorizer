@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
-
 <pdf2xml producer="poppler" version="0.86.1">
 <page number="1" position="absolute" top="0" left="0" height="1263" width="892">
 	<fontspec id="0" size="18" family="TimesNewRomanPSMT" color="#000000"/>
@@ -452,7 +450,7 @@
 <text top="827" left="191" width="578" height="16" font="0">structural relation where two DPs are in appositive relation while differing with </text>
 <text top="848" left="191" width="326" height="16" font="0">respect to the source of person agreement.     </text>
 <text top="869" left="245" width="539" height="16" font="0">     However, the appositive analysis raises problems.  As Collins and </text>
-<text top="889" left="191" width="584" height="16" font="0">Postal 2012 point out, “this reporter” with the proximal demonstrative cannot be </text>
+<text top="889" left="191" width="584" height="16" font="0">Postal 2012 point out, “this reporter�? with the proximal demonstrative cannot be </text>
 <text top="910" left="191" width="161" height="16" font="0">used as an appositive. </text>
 <text top="931" left="245" width="35" height="16" font="0">(26) </text>
 <text top="931" left="280" width="312" height="16" font="2"><i>I, *this reporter, will not reveal my sources</i></text>
@@ -586,7 +584,7 @@
 <text top="452" left="191" width="231" height="16" font="0">function like the definite article </text>
 <text top="452" left="423" width="22" height="16" font="2"><i>the</i></text>
 <text top="452" left="445" width="270" height="16" font="0"> in (31), and proposes that “so-called </text>
-<text top="473" left="191" width="381" height="16" font="0">pronouns” are determiners (see also Pesetsky 1978). </text>
+<text top="473" left="191" width="381" height="16" font="0">pronouns�? are determiners (see also Pesetsky 1978). </text>
 <text top="494" left="245" width="462" height="16" font="0">(31) a. [Us linguists] want to understand the riddle of language. </text>
 <text top="514" left="259" width="456" height="16" font="0">    b [You troops] will embark but the other troops will remain. </text>
 <text top="535" left="259" width="539" height="16" font="0">    c. [Them linguists] are subversive. (Déchaine &amp; Wiltschko 2002: 422)   </text>
@@ -1345,13 +1343,13 @@
 <text top="655" left="191" width="95" height="14" font="3">and comments. </text>
 <text top="682" left="191" width="5" height="16" font="0"> </text>
 <text top="712" left="191" width="70" height="14" font="3">References </text>
-<text top="738" left="191" width="373" height="14" font="3">Campbell, Richard. 1996. “Specificity operators in spec DP.” </text>
+<text top="738" left="191" width="373" height="14" font="3">Campbell, Richard. 1996. “Specificity operators in spec DP.�? </text>
 <text top="738" left="564" width="113" height="14" font="13"><i>Studia Linguistica.</i></text>
 <text top="738" left="677" width="83" height="14" font="3"> 30:161–188. </text>
 <text top="764" left="191" width="236" height="14" font="3">Collins, Chris, and Paul Postal. 2012.   </text>
 <text top="764" left="431" width="59" height="14" font="13"><i>Imposters</i></text>
 <text top="764" left="490" width="160" height="14" font="3">. Cambridge: MIT Press.   </text>
-<text top="790" left="191" width="578" height="14" font="3">Chomsky, Norm. 2007.    “Approaching UG from below.”    In: U. Sauerland and H.M. Gärtner </text>
+<text top="790" left="191" width="578" height="14" font="3">Chomsky, Norm. 2007.    “Approaching UG from below.�?    In: U. Sauerland and H.M. Gärtner </text>
 <text top="816" left="191" width="41" height="14" font="3">(eds.), </text>
 <text top="816" left="233" width="227" height="14" font="13"><i>Interfaces + Recursion = Language?,</i></text>
 <text top="816" left="460" width="297" height="14" font="3"> pp. 1-29. Berlin/New York: Mouton de Gruyter. </text>
@@ -1359,20 +1357,20 @@
 <text top="841" left="596" width="177" height="14" font="13"><i>Ken Hale : A life in language</i></text>
 <text top="841" left="773" width="7" height="14" font="3">. </text>
 <text top="867" left="191" width="255" height="14" font="3">(pp. 1-52.) Cambridge, Mass.: MIT Press. </text>
-<text top="893" left="191" width="476" height="14" font="3">Déchaine Rose-Marie &amp; Wiltschko, Martina. 2002. “Decomposing pronouns.” </text>
+<text top="893" left="191" width="476" height="14" font="3">Déchaine Rose-Marie &amp; Wiltschko, Martina. 2002. “Decomposing pronouns.�? </text>
 <text top="893" left="667" width="108" height="14" font="13"><i>Linguistic Inquiry</i></text>
 <text top="893" left="775" width="4" height="14" font="3"> </text>
 <text top="919" left="191" width="83" height="14" font="3">33: 409–422. </text>
-<text top="945" left="191" width="339" height="14" font="3">Dikken, Marcel den. 1998. “Predicate inversion in DP.” </text>
+<text top="945" left="191" width="339" height="14" font="3">Dikken, Marcel den. 1998. “Predicate inversion in DP.�? </text>
 <text top="945" left="531" width="246" height="14" font="13"><i>Possessors, predicates and movement in </i></text>
 <text top="971" left="191" width="42" height="14" font="13"><i>the DP</i></text>
 <text top="971" left="234" width="497" height="14" font="3"> eds. Artemis Alexiadou &amp; Chris Wilder, 177-214. Amsterdam: John Benjamins.   </text>
-<text top="996" left="191" width="436" height="14" font="3">Holmberg, Anders. 2005. “Is there a little pro? Evidence from Finnish.” </text>
+<text top="996" left="191" width="436" height="14" font="3">Holmberg, Anders. 2005. “Is there a little pro? Evidence from Finnish.�? </text>
 <text top="996" left="627" width="108" height="14" font="13"><i>Linguistic Inquiry</i></text>
 <text top="996" left="735" width="27" height="14" font="3"> 36: </text>
 <text top="1022" left="191" width="57" height="14" font="3">533-564. </text>
 <text top="1048" left="191" width="598" height="14" font="3">Frampton, John. &amp; Gutmann, S. 2006. “How sentences grow in the mind: Agreement and selection </text>
-<text top="1074" left="191" width="216" height="14" font="3">in an efficient minimalist syntax.”   </text>
+<text top="1074" left="191" width="216" height="14" font="3">in an efficient minimalist syntax.�?   </text>
 <text top="1074" left="411" width="116" height="14" font="13"><i>Agreement Systems</i></text>
 <text top="1074" left="527" width="235" height="14" font="3">, ed. C. Boeckx, 121-157. Amsterdam: </text>
 <text top="1100" left="191" width="111" height="14" font="3">John Benjamins.   </text>
@@ -1383,31 +1381,31 @@
 </page>
 <page number="16" position="absolute" top="0" left="0" height="1263" width="892">
 <text top="1182" left="769" width="23" height="16" font="0">16 </text>
-<text top="110" left="191" width="221" height="14" font="3">Furuya, Kaori. 2004. “Us linguists.” </text>
+<text top="110" left="191" width="221" height="14" font="3">Furuya, Kaori. 2004. “Us linguists.�? </text>
 <text top="110" left="413" width="365" height="14" font="13"><i>Proceedings of the Workshop on Atlantic Formal Linguistics</i></text>
 <text top="110" left="778" width="4" height="14" font="3"> </text>
 <text top="136" left="191" width="72" height="14" font="3">1:227–242. </text>
 <text top="162" left="191" width="569" height="14" font="3">Noguchi, Tohru. 1997: Two types of pronouns and variable binding. Language, 73, 770-797.   </text>
-<text top="187" left="191" width="424" height="14" font="3">Pesetsky, David. 1978. “Category switching and so-called pronoun.”   </text>
+<text top="187" left="191" width="424" height="14" font="3">Pesetsky, David. 1978. “Category switching and so-called pronoun.�?   </text>
 <text top="187" left="619" width="162" height="14" font="13"><i>Chicago Linguistic Society</i></text>
 <text top="187" left="781" width="4" height="14" font="3"> </text>
 <text top="213" left="191" width="80" height="14" font="3">14, 350-360. </text>
-<text top="239" left="191" width="577" height="14" font="3">Pollard, Carl, and Ivan, Sag. A. 1992. “Anaphors in English and the Scope of Binding Theory.” </text>
+<text top="239" left="191" width="577" height="14" font="3">Pollard, Carl, and Ivan, Sag. A. 1992. “Anaphors in English and the Scope of Binding Theory.�? </text>
 <text top="265" left="191" width="108" height="14" font="13"><i>Linguistic Inquiry</i></text>
 <text top="265" left="299" width="94" height="14" font="3"> 23, 261—303. </text>
-<text top="291" left="191" width="360" height="14" font="3">Postal, Paul.    1969.    “On so-called pronouns in English.” </text>
+<text top="291" left="191" width="360" height="14" font="3">Postal, Paul.    1969.    “On so-called pronouns in English.�? </text>
 <text top="291" left="551" width="165" height="14" font="13"><i>Modern studies in English, </i></text>
 <text top="291" left="717" width="39" height="14" font="3">eds.  </text>
 <text top="317" left="191" width="475" height="14" font="3">Reibel, D and Schane, S.A. 201-224.    Englewood Clifts, NJ: Prenstice-Hall.   </text>
-<text top="343" left="191" width="363" height="14" font="3">Wang, Arthur. 2009. “Some Notes on Chinese Imposters.”   </text>
+<text top="343" left="191" width="363" height="14" font="3">Wang, Arthur. 2009. “Some Notes on Chinese Imposters.�?   </text>
 <text top="343" left="559" width="216" height="14" font="13"><i>NYU Working Papers in Linguistics</i></text>
 <text top="343" left="774" width="8" height="14" font="3">, </text>
 <text top="368" left="191" width="42" height="14" font="3">vol. 2. </text>
-<text top="394" left="191" width="570" height="14" font="3">Tenny, Carol. L. 2006. “Evidentiality, Experiencers, and the Syntax of sentience in Japanese.” </text>
+<text top="394" left="191" width="570" height="14" font="3">Tenny, Carol. L. 2006. “Evidentiality, Experiencers, and the Syntax of sentience in Japanese.�? </text>
 <text top="420" left="191" width="200" height="14" font="13"><i>Journal of East Asian Linguistics</i></text>
 <text top="420" left="391" width="88" height="14" font="3">, 15: 245-288. </text>
 <text top="446" left="191" width="542" height="14" font="3">Wechsler, Stephen. 2011. “Mixed Agreement, the Person Feature, and the Index/Concord </text>
-<text top="475" left="191" width="330" height="14" font="3">Distinction.” Natural Language and Linguistic Theory,</text>
+<text top="475" left="191" width="330" height="14" font="3">Distinction.�? Natural Language and Linguistic Theory,</text>
 <text top="473" left="521" width="5" height="16" font="0"> </text>
 <text top="475" left="525" width="27" height="14" font="3">1-33</text>
 <text top="473" left="553" width="5" height="16" font="0">.</text>

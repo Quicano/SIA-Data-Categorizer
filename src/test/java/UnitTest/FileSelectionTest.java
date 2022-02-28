@@ -1,13 +1,11 @@
 package UnitTest;
 
-import org.apache.commons.io.FilenameUtils;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import util.PDFToXML;
-
+import util.WSLPath;
 import java.io.File;
-import java.io.IOException;
 
 public class FileSelectionTest {
     private PDFToXML pdfToXML;
@@ -18,21 +16,15 @@ public class FileSelectionTest {
     }
 
     @Test
-    public void inputDirTest() throws Exception {
-        File f = new File("C:/Users/Programmierarbeit/OneDrive/Desktop/Testdaten/Einzelpublikation/furuya.pdf");
-        pdfToXML.convertToXml(f, "C:/Users/Programmierarbeit/OneDrive/Desktop/Testdaten/Einzelpublikation");
-    }
-
-    @Test
     public void pdfToXmlTest() throws Exception {
         File f = new File("src/test/resources/furuya.pdf");
-        pdfToXML.convertToXml(f, "src/test/resources/");
+        pdfToXML.convertToXml(f);
     }
 
     @Test
-    public void pathConversion() throws IOException {
+    public void pathConversion() {
         String windowsFilePath = "C:\\src\\test\\resources\\furuya.pdf";
-        String unixPath = FilenameUtils.separatorsToUnix(windowsFilePath);
-        Assert.assertTrue(unixPath.equals("C:/src/test/resources/furuya.pdf"));
+        String unixPath = WSLPath.convertWindowsPath(windowsFilePath);
+        Assert.assertTrue(unixPath.equals("/mnt/c/src/test/resources/furuya.pdf"));
     }
 }
