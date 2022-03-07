@@ -5,6 +5,7 @@ import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathConstants;
 import javax.xml.xpath.XPathFactory;
 import org.w3c.dom.Document;
+import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import java.io.File;
 import java.io.FileInputStream;
@@ -22,8 +23,28 @@ public class XPathUnit {
             System.out.println(e);
         }
         XPath xPath = XPathFactory.newInstance().newXPath();
-        NodeList nodeList = (NodeList) xPath.compile(expression).evaluate(xmlDocument, XPathConstants.NODESET);
-        return nodeList;
+        NodeList nodeList = null;
+        try{
+            nodeList = (NodeList) xPath.compile(expression).evaluate(xmlDocument, XPathConstants.NODESET);
+        }catch(Exception e){
+            System.out.println(e);
+        }
+        if(nodeList == null){ //Empty Nodelist
+            return new NodeList() {
+                @Override
+                public Node item(int index) {
+                    return null;
+                }
+
+                @Override
+                public int getLength() {
+                    return 0;
+                }
+            };
+        }else{
+
+            return nodeList;
+        }
     }
 
     public int containsWord(File xmlFile, String word) throws Exception {

@@ -1,0 +1,16 @@
+util\ConditionUnit.class
+util\CSVCreator.class
+util\GUI.class
+util\XPathUnit$1.class
+classifier\Classifier.class
+util\XPathUnit.class
+util\GUI$1$1.class
+Main.class
+util\Runner.class
+classifier\Category.class
+util\PDFToXML.class
+util\PropertiesHandler.class
+util\GUI$1.class
+util\WSLPath.class
+util\GUI$2$1.class
+util\GUI$2.class
