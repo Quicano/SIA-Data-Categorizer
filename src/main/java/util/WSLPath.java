@@ -7,6 +7,7 @@ import java.util.Locale;
 public class WSLPath {
 
     public static String convertWindowsPath(String winPath){
+        System.out.println(winPath);
         String s = FilenameUtils.separatorsToUnix(winPath);
         int i = s.indexOf(":/");
         String harddrive = s.substring(0,i);

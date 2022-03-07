@@ -1,7 +1,9 @@
 import util.GUI;
 
+import org.apache.commons.lang3.SystemUtils;
 import java.io.File;
 import java.io.IOException;
+import com.opencsv.bean.util.OpencsvUtils;
 
 public class Main {
 
@@ -11,7 +13,8 @@ public class Main {
     }
 
     public static void main(String[] args) throws Exception {
-        File properties = new File("src/main/resources/config.properties");
+        System.out.println(OpencsvUtils.class);
+        File properties = new File("../config.properties");
         if (properties.exists()){
             properties.delete();
         }

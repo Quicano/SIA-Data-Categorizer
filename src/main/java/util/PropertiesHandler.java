@@ -10,15 +10,15 @@ public class PropertiesHandler {
         if(value != null){
             properties.setProperty(keyword, value);
         }
-        String s = new File("config.properties").getCanonicalPath();
-        File config = new File(s);
+        String path = new File("../config.properties").getCanonicalPath();
+        File config = new File(path);
         FileOutputStream fileOut = new FileOutputStream(config, true);
         properties.store(fileOut, "Config");
     }
 
     public static String getValue(String keyword) {
         String s = null;
-        try (InputStream input = new FileInputStream("config.properties")) {
+        try (InputStream input = new FileInputStream("../config.properties")) {
             Properties properties = new Properties();
             properties.load(input);
             s = properties.getProperty(keyword);
