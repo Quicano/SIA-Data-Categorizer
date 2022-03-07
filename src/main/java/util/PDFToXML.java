@@ -13,7 +13,7 @@ public class PDFToXML {
     private static Logger LOG = Logger.getLogger(PDFToXML.class.getName());
 
     public PDFToXML(){
-        tempDir = "tempDir";
+        tempDir = "../tempDir";
         File directory = new File(tempDir);
         if(!directory.exists()){
             directory.mkdir();
@@ -31,7 +31,6 @@ public class PDFToXML {
         } else {//Windows Process. Ubuntu Virtual Machine needs to be installed
             String wslPath = WSLPath.convertWindowsPath(pdfFile.getCanonicalPath());
             String windowsCommand = "wsl \n pdftohtml -xml -i -c -q -s " + wslPath + " " + xmlFilePath;
-            System.out.println(windowsCommand);
             pdfToXmlConversion = executionRuntime.exec(windowsCommand);
         }
         try {

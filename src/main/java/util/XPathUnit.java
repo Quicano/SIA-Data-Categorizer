@@ -15,7 +15,12 @@ public class XPathUnit {
         FileInputStream fileIS = new FileInputStream(xmlFile);
         DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder builder = builderFactory.newDocumentBuilder();
-        Document xmlDocument = builder.parse(fileIS);
+        Document xmlDocument = null;
+        try{
+            xmlDocument = builder.parse(fileIS);
+        }catch (Exception e){
+            System.out.println(e);
+        }
         XPath xPath = XPathFactory.newInstance().newXPath();
         NodeList nodeList = (NodeList) xPath.compile(expression).evaluate(xmlDocument, XPathConstants.NODESET);
         return nodeList;

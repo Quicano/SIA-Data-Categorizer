@@ -11,6 +11,7 @@ public class Runner {
 
     public static void startCategorization() throws Exception {
         String filepath = PropertiesHandler.getValue("filepath");
+        System.out.println(filepath);
         List<File> xmlFiles = PDFToXML.returnXMLFiles(filepath);
         List<String[]> csvData = CSVCreator.initializeCsvList();
 
