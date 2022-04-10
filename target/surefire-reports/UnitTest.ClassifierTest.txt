@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: UnitTest.ClassifierTest
 -------------------------------------------------------------------------------
+<<<<<<< Updated upstream
 Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.544 sec
+=======
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.417 sec
+>>>>>>> Stashed changes

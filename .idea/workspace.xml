@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/-for-working-papers-in-scandinavian-syntax-pdf.pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/16956885v8p189-pdf.pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/cjol-a2011v10p3-pdf.pdf" afterDir="false" />
@@ -208,6 +209,11 @@
       <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$2$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$2.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/util/GUI.class" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classifier/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classifier/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/CSVCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/CSVCreator.class" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

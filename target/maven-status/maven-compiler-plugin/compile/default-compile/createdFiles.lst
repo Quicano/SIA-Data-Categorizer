@@ -1,7 +1,10 @@
 util\ConditionUnit.class
 util\CSVCreator.class
 util\GUI.class
+<<<<<<< Updated upstream
 util\XPathUnit$1.class
+=======
+>>>>>>> Stashed changes
 classifier\Classifier.class
 util\XPathUnit.class
 util\GUI$1$1.class
