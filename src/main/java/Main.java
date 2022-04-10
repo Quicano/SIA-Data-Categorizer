@@ -1,13 +1,12 @@
-import util.GUI;
+import util.GraphicalUserInterface;
 
-import org.apache.commons.lang3.SystemUtils;
 import java.io.File;
 import java.io.IOException;
 import com.opencsv.bean.util.OpencsvUtils;
 
 public class Main {
 
-    public static void run(GUI gui) throws IOException {
+    public static void run(GraphicalUserInterface gui) throws IOException {
         gui.chooseFile();
         gui.addKeywordList();
     }
@@ -18,7 +17,7 @@ public class Main {
         if (properties.exists()){
             properties.delete();
         }
-        GUI gui = new GUI();
+        GraphicalUserInterface gui = new GraphicalUserInterface();
         run(gui);
     }
 }

@@ -5,10 +5,209 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08371b5e-d2cc-4eb4-9850-2c855f8e5bfe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/-for-working-papers-in-scandinavian-syntax-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/16956885v8p189-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/cjol-a2011v10p3-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/glow-newsletter-fall2015-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j00-2017-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j00-4011-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j01-4011-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j02-1006-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j02-1007-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j78-3044-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j80-2005-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j81-4013-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j82-1005-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j83-1003-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j83-3010-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j85-2007-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j85-4003-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j85-4005-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j86-2003-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j86-2005-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j86-2010-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j89-3004-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j91-2012-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j99-1006-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j99-3007-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j99-3009-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/j99-4012-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/ldd01-01-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/ldd02-01-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/ldd18-00-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/newsletterf07-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/newsletters11-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/newsletters13-complete-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/sls1972v2-2-dudas-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/travis2012-0-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/v27-1-09hartkemeyer-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/v28-1-13hartkemeyer-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/wpss-88-tidigare-nummer-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/wpss-fo-rord-88-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/wpss87-forord-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Andere/wpss87-style-sheet-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/1132256xv1p129-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/1132256xv1p235-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/1132256xv1p65-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/1132256xv3n2p45-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/1132256xv4n2p329-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/1132256xv6p95-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/1132256xv7p107-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/cai-2016-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/cjol-a2013v12p7-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/cjol-a2020nespp5-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/doner2013-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/e03-1001-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/e09-2001-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/fel-2018-05-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/furuya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/j02-4004-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/j08-4001-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/j13-1005-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/j13-3001-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/j15-1011-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/j16-3006-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/j16-4002-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/j76-1002-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/ldd01-05-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/ldd01-12-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/ldd02-07-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/li.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/lls-chapter-07-sutton-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/lls-chapter-12-breen-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/mathieu.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/moskal_2012.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/podgornik-2013-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/sabar.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/sls2009-05cramer-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/sls2009-07iorio-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/taillard.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/wp-baetscher-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/yuan2013-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Einzelpublikation/zheng-fahim.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Sammelpublikation/16956885v7p1-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Sammelpublikation/cjol-a2011v10p1-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Sammelpublikation/cjol-a2012v11p1-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Sammelpublikation/fel-2018-00-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Sammelpublikation/hemsida-wpss-88-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Sammelpublikation/j01-4015-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Sammelpublikation/j75-4029-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Sammelpublikation/j81-3000-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Sammelpublikation/j82-1000-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Sammelpublikation/j85-1011-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Sammelpublikation/j86-2000-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Sammelpublikation/j88-4000-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Sammelpublikation/j90-1000-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Sammelpublikation/uwwpl-vol27-2008-pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Sammelpublikation/wpss-02-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Testdaten/Sammelpublikation/wpss87-framsida-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/-for-working-papers-in-scandinavian-syntax-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/16956885v8p189-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/cjol-a2011v10p3-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/glow-newsletter-fall2015-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j00-2017-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j00-4011-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j01-4011-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j02-1006-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j02-1007-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j78-3044-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j80-2005-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j81-4013-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j82-1005-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j83-1003-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j83-3010-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j85-2007-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j85-4003-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j85-4005-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j86-2003-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j86-2005-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j86-2010-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j89-3004-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j91-2012-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j99-1006-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j99-3007-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j99-3009-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/j99-4012-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/ldd01-01-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/ldd02-01-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/ldd18-00-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/newsletterf07-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/newsletters11-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/newsletters13-complete-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/sls1972v2-2-dudas-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/travis2012-0-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/v27-1-09hartkemeyer-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/v28-1-13hartkemeyer-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/wpss-88-tidigare-nummer-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/wpss-fo-rord-88-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/wpss87-forord-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Andere/wpss87-style-sheet-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/1132256xv1p129-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/1132256xv1p235-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/1132256xv1p65-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/1132256xv3n2p45-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/1132256xv4n2p329-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/1132256xv6p95-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/1132256xv7p107-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/cai-2016-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/cjol-a2013v12p7-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/cjol-a2020nespp5-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/doner2013-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/e03-1001-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/e09-2001-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/fel-2018-05-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/furuya.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/j02-4004-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/j08-4001-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/j13-1005-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/j13-3001-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/j15-1011-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/j16-3006-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/j16-4002-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/j76-1002-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/ldd01-05-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/ldd01-12-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/ldd02-07-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/li.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/lls-chapter-07-sutton-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/lls-chapter-12-breen-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/mathieu.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/moskal_2012.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/podgornik-2013-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/sabar.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/sls2009-05cramer-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/sls2009-07iorio-pdf-sequence-2-isallowed-y.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/taillard.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/wp-baetscher-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/yuan2013-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Einzelpublikation/zheng-fahim.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Sammelpublikation/16956885v7p1-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Sammelpublikation/cjol-a2011v10p1-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Sammelpublikation/cjol-a2012v11p1-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Sammelpublikation/fel-2018-00-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Sammelpublikation/hemsida-wpss-88-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Sammelpublikation/j01-4015-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Sammelpublikation/j75-4029-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Sammelpublikation/j81-3000-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Sammelpublikation/j82-1000-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Sammelpublikation/j85-1011-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Sammelpublikation/j86-2000-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Sammelpublikation/j88-4000-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Sammelpublikation/j90-1000-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Sammelpublikation/uwwpl-vol27-2008-pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Sammelpublikation/wpss-02-pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestDataset/Sammelpublikation/wpss87-framsida-pdf.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/XPathUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/XPathUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/GraphicalUserInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/GUI.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +246,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/samples/Testdaten" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -55,11 +254,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\samples\Testdaten" />
+      <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\src\main\resources\TestDataset" />
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\src\test\resources" />
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\InputData" />
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\Data" />
-      <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Unbrauchbar\XML" />
-      <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\TestData\Aufsatzsammlung\XML" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Programmierarbeit\IdeaProjects\SIA-Data-Categorizer\src\main\resources" />
